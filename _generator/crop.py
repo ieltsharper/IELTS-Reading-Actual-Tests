@@ -5,7 +5,7 @@ from PIL import Image
 
 page, x0, y0, x1, y1, name = int(sys.argv[1]), *map(float, sys.argv[2:6]), sys.argv[6]
 slug = sys.argv[7] if len(sys.argv) > 7 else 'vol-1'
-im = Image.open('D:/HarperSites/_scratch/vol1/png/p%03d.png' % page).convert('RGB')
+im = Image.open('D:/HarperSites/_scratch/%s/png/p%03d.png' % (slug.replace('-', ''), page)).convert('RGB')
 w, h = im.size
 crop = im.crop((int(x0 * w), int(y0 * h), int(x1 * w), int(y1 * h)))
 out = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'assets', 'img', slug)

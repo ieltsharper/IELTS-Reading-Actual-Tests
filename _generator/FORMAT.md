@@ -79,3 +79,35 @@ any; report suspected extra forms instead.
 ## Done means
 
 `build_data.py` and `check_data.py` pass for your test, and every page picture of your test was compared with your text.
+
+## Vol 2 ("IELTS READING Recent Actual tests Vol 2.pdf", photographed book, image only, 7 tests)
+
+Same rules and format as above, with these differences:
+
+- Page pictures: `D:/HarperSites/_scratch/vol2/png/pNNN.png`; OCR drafts: `D:/HarperSites/_scratch/vol2/ocr/pNNN.txt`
+  (`ocr_clean.py D:/HarperSites/_scratch/vol2/ocr FIRST LAST`). The pages are photographs: shadows, curved text, so the OCR is
+  poorer than Vol 1; trust the picture.
+- Page map (PDF pages): Test 1 = 15-30, Test 2 = 31-42, Test 3 = 43-54, Test 4 = 55-67, Test 5 = 68-79, Test 6 = 80-90,
+  Test 7 = 91-102. Answer keys: pp 190-196 (Test 1 = 190 ... Test 7 = 196), read from the picture.
+- Pages 103-189 are a Chinese "真题解析" analysis of the same tests: ignore them entirely. Do not type Chinese.
+- Files go in `src/vol2/test-N.json`. Build: `python -X utf8 -I _generator/build_data.py src/vol2 data/vol-2.json "Recent Actual Tests – Vol 2" vol-2`
+  (the main session builds; you only need `check_data.py` on your own test: it takes `data/vol-2.json` after a build, so first
+  run build_data into a scratch file: `... build_data.py <dir containing only your test file> /tmp/vol2-tN.json "x" vol-2`).
+- Crops: `crop.py PAGE x0 y0 x1 y1 NAME vol-2` (the last argument is needed).
+
+## Volumes 3-6 (same pipeline; scratch pictures and OCR drafts per volume)
+
+Pictures `D:/HarperSites/_scratch/volN/png/pNNN.png` (N = 3..6, width 1654 px), OCR drafts `.../volN/ocr/pNNN.txt`
+(`ocr_clean.py D:/HarperSites/_scratch/volN/ocr FIRST LAST`). Files go in `src/volN/test-T.json`; crops: `crop.py PAGE x0 y0 x1 y1 tT-NAME vol-N`.
+Pages other than the ones listed are a Chinese analysis, covers or blank: ignore them. All are image-only PDFs; trust the picture.
+
+| Volume | PDF pages per test | Answer keys (PDF pages) |
+|---|---|---|
+| Vol 3 | T1 22-33, T2 34-46, T3 47-58, T4 59-70, T5 71-82, T6 83-95 | 260 = T1 ... 265 = T6 |
+| Vol 4 | T1 2-15, T2 16-29, T3 30-44, T4 45-59, T5 60-74, T6 75-89 | 90 = T1 ... 95 = T6 |
+| Vol 5 | T1 3-17, T2 18-33, T3 34-47, T4 48-61, T5 62-78, T6 79-94 | 285 = T1 ... 290 = T6 |
+| Vol 6 | T1 2-14, T2 15-30, T3 31-44, T4 45-58, T5 59-73, T6 74-88 | 89 = T1 ... 94 = T6 |
+
+(Boundaries come from the OCR: if the first or last page of a test is slightly off, follow the pictures; key pages may hold
+one test or two: check the 'Test N' headings in the picture.) Some key pages may print passage-1/2/3 columns in a different
+order from the page text: map every answer by its printed question number.
