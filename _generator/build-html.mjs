@@ -170,10 +170,10 @@ function groupHtml(g, p, qs) {
     h += `<fieldset class="q mcq multi" id="item-${id}" data-choose="${g.choose}">
   <legend><span class="qn">${esc(g.label)}</span> <span class="stem">${runsHtml(g.stem)}</span></legend>
   <div class="choices">${g.options.map((o, i) => `<label class="choice"><input type="checkbox" name="${id}" value="${o.key}" data-q="${id}"${i === 0 ? ` id="${id}"` : ''}><span><span class="opt-key">${o.key}</span> ${runsHtml(o.runs)}</span></label>`).join('')}</div>
-  <p class="hint" id="hint-${id}">Choose ${g.choose}. Each correct letter scores one mark. <span class="mark" id="mark-${id}" aria-hidden="true"></span></p>
+  <p class="hint" id="hint-${id}">Choose ${g.choose}. ${g.numbers.length === 1 && g.choose > 1 ? 'All letters right scores one mark.' : 'Each correct letter scores one mark.'} <span class="mark" id="mark-${id}" aria-hidden="true"></span></p>
   ${feedback(id, g.key, '', true)}
 </fieldset>`;
-    qs.push({ id, ns: g.numbers, kind: 'multi', accept: g.key.accept, choose: g.choose });
+    qs.push({ id, ns: g.numbers, kind: 'multi', accept: g.key.accept, choose: g.choose, ...(g.numbers.length === 1 && g.choose > 1 ? { whole: true } : {}) });
   } else if (g.type === 'match' || g.type === 'grid' || g.type === 'headings') {
     const letters = g.options ? g.options.list.map((o) => o.key) : g.letters;
     h += '<div class="match-list">';

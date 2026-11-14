@@ -90,7 +90,7 @@
   }
   function answeredCount(q) {
     var v = valueOf(q);
-    if (q.kind === 'multi') return Math.min(v.length, q.choose);
+    if (q.kind === 'multi') return q.whole ? (v.length >= q.choose ? 1 : 0) : Math.min(v.length, q.choose);
     if (q.kind === 'pair')
       return v.every(function (x) {
         return String(x).trim();
@@ -471,6 +471,8 @@
       var right = v.filter(function (x) {
         return q.accept.indexOf(x) >= 0;
       }).length;
+      // 'whole': the book gives one question number to a choose-N group, so it is one mark, all letters right.
+      if (q.whole) return { points: right === q.choose && v.length === q.choose ? 1 : 0, value: v };
       return { points: Math.min(right, q.choose), value: v };
     }
     if (q.kind === 'pair') {
@@ -500,11 +502,11 @@
       Array.prototype.forEach.call(inputs(q), function (e) {
         if (e.checked) e.closest('.choice').classList.add(q.accept.indexOf(e.value) >= 0 ? 'right' : 'wrong');
       });
-      var all = r.points === q.choose;
+      var all = r.points === (q.whole ? 1 : q.choose);
       it.classList.add(all ? 'is-correct' : 'is-wrong');
-      line.textContent = (all ? '✓ ' : '✗ ') + r.points + ' of ' + q.choose + ' correct' + (r.value.length ? '. Your answer: ' + r.value.join(', ') : '. Not answered');
+      line.textContent = (all ? '✓ ' : '✗ ') + (q.whole ? (all ? 'Correct' : 'Not correct') : r.points + ' of ' + q.choose + ' correct') + (r.value.length ? '. Your answer: ' + r.value.join(', ') : '. Not answered');
       line.className = 'fb-result ' + (all ? 'ok' : 'bad');
-      $('mark-' + q.id).textContent = (all ? '✓ ' : '✗ ') + r.points + '/' + q.choose;
+      $('mark-' + q.id).textContent = q.whole ? (all ? '✓' : '✗') : (all ? '✓ ' : '✗ ') + r.points + '/' + q.choose;
       q.ns.forEach(function (n, i) {
         $('nav-' + n).classList.add(i < r.points ? 'ok' : 'bad');
       });
