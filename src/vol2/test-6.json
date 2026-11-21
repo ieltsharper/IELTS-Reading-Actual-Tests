@@ -7,8 +7,8 @@
       "standfirst": "MIT’s humanoid robots showcase both human creativity and contemporary pessimism.",
       "paragraphs": [
         "Humanoid robots were once the stuff of political and science fiction. Today, scientists working in Japan and the USA have been turning fiction into a physical reality.",
-        {"l": "A", "t": "During July 2003, the Museum of Science in Cambridge, Massachusetts exhibited what Honda calls ‘the world’s most advanced humanoid robot’, ASIMO (the Advanced Step in Innovative Mobility). Honda’s brainchild is on tour in North America and delighting audiences wherever it goes. After 17 years in the making, ASIMO stands at four feet tall, weighs around 115 pounds and looks like a child in an astronaut’s suit. Though it is difficult to see ASIMO’s face at a distance, on closer inspection it has a smile and two large ‘eyes’ that conceal cameras. The robot cannot work autonomously — its actions are ‘remote controlled’ by scientists through the computer in its backpack. Yet watching ASMIO perform at a show in Massachusetts it seemed uncannily human. The audience cheered as ASIMO walked forwards and backwards, side to side and up and downstairs. It can even dance to the Hawaiian Hula."},
-        {"l": "B", "t": "While the Japanese have made huge strides in solving some of the engineering problems of human kinetics and bipedal movements, for the past 10 years scientists at MIT’s former Artificial Intelligence (AI) lab (recently renamed the Computer Science and Artificial Intelligence Laboratory, CSAIL) have been making robots that can behave like humans and interact with humans. One of MIT’s robots, Kismet, is an anthropomorphic head and has two eyes (complete with eyelids), ears, a mouth, and eyebrows. It has several facial expressions, including happy, sad, frightened and disgusted. Human interlocutors are able to read some of the robot’s facial expressions, and often change their behaviour towards the machine as a result - for example, playing with it when it appears ‘sad’. Kismet is now in MIT’s museum, but the ideas developed here continue to be explored in new robots."},
+        {"l": "A", "t": "During July 2003, the Museum of Science in Cambridge, Massachusetts exhibited what Honda calls ‘the world’s most advanced humanoid robot’, ASIMO (the Advanced Step in Innovative Mobility). Honda’s brainchild is on tour in North America and delighting audiences wherever it goes. After 17 years in the making, ASIMO stands at four feet tall, weighs around 115 pounds and looks like a child in an astronaut’s suit. Though it is difficult to see ASIMO’s face at a distance, on closer inspection it has a smile and two large ‘eyes’ that conceal cameras. The robot cannot work autonomously — its actions are ‘remote controlled’ by scientists through the computer in its backpack. Yet watching ASIMO perform at a show in Massachusetts it seemed uncannily human. The audience cheered as ASIMO walked forwards and backwards, side to side and up and downstairs. It can even dance to the Hawaiian Hula."},
+        {"l": "B", "t": "While the Japanese have made huge strides in solving some of the engineering problems of human kinetics and bipedal movements, for the past 10 years scientists at MIT’s former Artificial Intelligence (AI) lab (recently renamed the Computer Science and Artificial Intelligence Laboratory, CSAIL) have been making robots that can behave like humans and interact with humans. One of MIT’s robots, Kismet, is an anthropomorphic head and has two eyes (complete with eyelids), ears, a mouth, and eyebrows. It has several facial expressions, including happy, sad, frightened and disgusted. Human interlocutors are able to read some of the robot’s facial expressions, and often change their behaviour towards the machine as a result – for example, playing with it when it appears ‘sad’. Kismet is now in MIT’s museum, but the ideas developed here continue to be explored in new robots."},
         {"l": "C", "t": "Cog (short for Cognition) is another pioneering project from MIT’s former AI lab. Cog has a head, eyes, two arms, hands and a torso — and its proportions were originally measured from the body of a researcher in the lab. The work on Cog has been used to test theories of embodiment and developmental robotics, particularly getting a robot to develop intelligence by responding to its environment via sensors, and to learn through these types of interactions. This approach to AI was thought up and developed by a team of students and researchers led by the head of MIT’s former AI lab, Rodney Brooks (now head of CSAIL), and represented a completely new development."},
         {"l": "D", "t": "This work at MIT is getting furthest down the road to creating human-like and interactive robots. Some scientists argue that ASIMO is a great engineering feat but not an intelligent machine — because it is unable to interact autonomously with unpredictabilities in its environment in meaningful ways, and learn from experience. Robots like Cog and Kismet and new robots at MIT’s CSAIL and media lab, however, are beginning to do this."},
         {"l": "E", "t": "These are exciting developments. Creating a machine that can walk, make gestures and learn from its environment is an amazing achievement. And watch this space: these achievements are likely rapidly to be improved upon. Humanoid robots could have a plethora of uses in society, helping to free people from everyday tasks. In Japan, for example, there is an aim to create robots that can do the tasks similar to an average human, and also act in more sophisticated situations as firefighters, astronauts or medical assistants to the elderly in the workplace and in homes — partly in order to counterbalance the effects of an ageing population."},
@@ -26,10 +26,10 @@
           "letters": ["A", "B", "C", "D", "E", "F", "G"],
           "items": {
             "1": "The different uses of robots in society",
-            "2": "How robot is used in the artistic work",
+            "2": "How robots are used in artistic work",
             "3": "A robot that was modelled on an adult",
             "4": "A comparison between two different types of robots",
-            "5": "A criticism of the negative effects of humanoid robots on the society",
+            "5": "A criticism of the negative effects of humanoid robots on society",
             "6": "A reference to the first use of the word “robot”",
             "7": "People feel humanity may be replaced by robots"
           },
@@ -75,7 +75,7 @@
           ],
           "limit": {"words": 2, "number": false},
           "content": [
-            "Fighting Californian wildfires is still not an easy task because the fires the firefighters now face [[14]] in more unpredictable manner in addition to the raging heat and faster speed than ever. Megafires, as they are called, are often [[15]] bigger than average forest fire. The reasons for this include [[16]] below the average and the extended [[17]] due to climate change. And according to experts, the government policy has also contributed to this by accidentally making the underbrush the [[18]] for megafires."
+            "Fighting Californian wildfires is still not an easy task because the fires the firefighters now face [[14]] in a more unpredictable manner in addition to the raging heat and faster speed than ever. Megafires, as they are called, are often [[15]] bigger than the average forest fire. The reasons for this include [[16]] below the average and the extended [[17]] due to climate change. And according to experts, the government policy has also contributed to this by accidentally making the underbrush the [[18]] for megafires."
           ],
           "answers": {"14": "spread", "15": "10 times", "16": "rainfall", "17": "fire seasons", "18": "fuel"}
         },
@@ -107,7 +107,7 @@
             "24": {
               "stem": "Why does the author mention Governor Schwarzenegger, California National Guard, Pentagon and the California Department of Corrections and Rehabilitation?",
               "options": {
-                "A": "To show the active involvement of the Schwarzenegger’s administration",
+                "A": "To show the active involvement of Schwarzenegger’s administration",
                 "B": "To illustrate the cross-state and cross-jurisdiction cooperation in firefighting",
                 "C": "To demonstrate how the military is more effective at fighting fire than others",
                 "D": "To give an example of how resources should be mobilised to fight fires"
@@ -162,7 +162,7 @@
             "**NOT GIVEN**\tif there is no information on this"
           ],
           "items": {
-            "27": "Paton came up with the idea of making water in desert by pure accident.",
+            "27": "Paton came up with the idea of making water in the desert by pure accident.",
             "28": "The bus Paton rode in had poor ventilation because of broken fans.",
             "29": "Paton woke up from sleep to discover that his towel was wet.",
             "30": "Paton started his greenhouse project immediately after meeting up with his friend.",
@@ -173,7 +173,7 @@
         {
           "type": "gap", "range": [32, 36],
           "intro": [
-            "Complete the diagramy below using **NO MORE THAN TWO WORDS** from the passage.",
+            "Complete the diagram below using **NO MORE THAN TWO WORDS** from the passage.",
             "Write your answers in boxes 32-36 on your answer sheet."
           ],
           "limit": {"words": 2, "number": false},
@@ -196,7 +196,7 @@
           ],
           "limit": {"words": 2, "number": false},
           "content": [
-            "The greenhouse Paton built is installed with [[37]] to keep the air flowing if the wind stands still, and it is expected in the future to rely on electricity provided solely by [[38]]. Despite the high construction costs compared to desalination plant, the plants grown in Paton’s greenhouse need much less water, and if produced in large quantities the [[39]] could be reduced remarkably. In addition to all these advantages, it is also [[40]], because it is clean and pollution free."
+            "The greenhouse Paton built is installed with [[37]] to keep the air flowing if the wind stands still, and it is expected in the future to rely on electricity provided solely by [[38]]. Despite the high construction costs compared to a desalination plant, the plants grown in Paton’s greenhouse need much less water, and if produced in large quantities the [[39]] could be reduced remarkably. In addition to all these advantages, it is also [[40]], because it is clean and pollution free."
           ],
           "answers": {"37": "fans", "38": "solar panels", "39": "costs", "40": "environmentally friendly"}
         }
