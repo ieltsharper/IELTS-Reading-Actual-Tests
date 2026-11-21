@@ -1,0 +1,1826 @@
+{
+ "topic": "Original Practice Tests – Set 1",
+ "slug": "practice-1",
+ "numberLabel": "Passage",
+ "groups": [
+  "Test 1"
+ ],
+ "topicNotes": null,
+ "sources": [],
+ "passages": [
+  {
+   "slug": "passage-t1-p1-the-return-of-the-beaver",
+   "order": 1,
+   "number": 1,
+   "label": "Test 1 · Passage 1",
+   "group": "Test 1",
+   "head": [],
+   "title": [
+    {
+     "t": "The Return of the Beaver",
+     "b": true
+    }
+   ],
+   "standfirst": null,
+   "body": [
+    {
+     "letter": "A",
+     "runs": [
+      {
+       "t": "Few animals rearrange the land around them as thoroughly as the beaver. There are two living species, the Eurasian beaver and the North American beaver, and both are heavy, slow-moving, semi-aquatic rodents that spend their lives at the edge of fresh water. Only the capybara of South America is a larger rodent. For most of the twentieth century the beaver was, in Europe at least, a curiosity. Trapped for centuries, it clung on in a few isolated populations along remote rivers, and in Britain it had been absent for some four hundred years. Today the animal is back across much of its former range, and with it has come a long argument about what a river is for."
+      }
+     ]
+    },
+    {
+     "letter": "B",
+     "runs": [
+      {
+       "t": "A beaver is built for a life divided between water and wood. Its hind feet are webbed for swimming. The broad, flattened tail, covered in scales, works as a rudder and as a prop when the animal sits back to gnaw; slapped hard on the surface, it also warns the rest of the family that a predator is near. The coat has two layers: long outer hairs and, beneath them, a dense underfur that traps air and keeps the skin dry. Underwater, a transparent membrane slides across each eye like a pair of goggles, and the nostrils and ears close. Most useful of all, the lips meet behind the front teeth, so a beaver can cut and carry wood while submerged without taking in water. Those front teeth, or incisors, never stop growing, and because the enamel on their outer face is strengthened with iron they are both unusually hard and distinctly orange."
+      }
+     ]
+    },
+    {
+     "letter": "C",
+     "runs": [
+      {
+       "t": "Not every beaver builds a dam. Where a river is already deep and steady, a family will simply dig a burrow into the bank. Dams are a response to shallow water, and the trigger seems to be sound: a beaver that hears running water will pile branches, stones and mud against the noise until it stops. The pond that forms behind the dam has one essential function, which is to stay deep enough that it does not freeze to the bottom in winter. In the middle of it the family builds a lodge of sticks plastered with mud, with sleeping chambers above the waterline and every entrance below it, so that no fox or wolf can walk in. Through the autumn the animals push cut branches into the mud near the lodge, building a larder that can be reached from underneath the ice. A colony is usually a single pair with their young of the last two seasons."
+      }
+     ]
+    },
+    {
+     "letter": "D",
+     "runs": [
+      {
+       "t": "The consequences for the valley are out of all proportion to the size of the animal. Water held behind a dam spreads sideways instead of rushing downstream, and as it slows it drops the silt it was carrying. The water table rises, so the surrounding ground stays damp late into a dry summer. Trees standing in the new pond die and remain upright for years, and this standing dead wood is used by woodpeckers, by beetles and by the birds that hunt them. The shallow margins fill with frogs, dragonflies and young fish. In time a single stream can become a staircase of ponds, pools and side channels. When a colony moves on and the dam finally fails, the pond drains and its deep bed of silt is colonised by grasses and flowers, producing the open, damp clearing that North American naturalists call a beaver meadow."
+      }
+     ]
+    },
+    {
+     "letter": "E",
+     "runs": [
+      {
+       "t": "It was fur that nearly ended all this. Beaver underfur can be matted into an excellent felt, and for two centuries the hats made from that felt were the uniform of respectable Europe. The animal was also hunted for castoreum, a pungent secretion from glands near the tail, which was burned as incense and sold by apothecaries as a remedy for headache and fever. Trapping alone might not have been fatal, but it was combined with the steady drainage of marshes for farmland and the removal of dams and fallen timber to make rivers passable for boats and mills. By the start of the twentieth century the Eurasian beaver survived only in scattered pockets in France, Germany, Norway and the east of the continent."
+      }
+     ]
+    },
+    {
+     "letter": "F",
+     "runs": [
+      {
+       "t": "Recovery, when it came, was rapid, and it has not been painless. Beavers do not distinguish between a willow and an orchard, and a dam placed in the wrong ditch will flood a field of barley or block the culvert under a road. Much of the practical work of the last thirty years has therefore been about living alongside a rodent rather than merely releasing one. Valuable trees can be wrapped in wire mesh or painted with a gritty mixture that is unpleasant to gnaw. A pipe laid through a dam, with its inlet set well upstream of the structure, drains the pond quietly to a chosen level without alerting the builders, who hear nothing and so repair nothing. Where such measures fail, licences allow dams to be removed. The wider case for tolerance is an economic one: a chain of beaver ponds holds back water in a flood, releases it in a drought, and filters out the soil and fertiliser that would otherwise end up in the reservoir downstream. Whether that service is worth the barley is now a question for policy rather than for natural history."
+      }
+     ]
+    }
+   ],
+   "footnotes": [],
+   "groups": [
+    {
+     "type": "tfng",
+     "title": "Questions 1–6",
+     "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Do the following statements agree with the information given in Reading Passage 1?"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "In boxes 1-6 on your answer sheet write"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "TRUE",
+         "b": true
+        },
+        {
+         "t": "\tif the statement agrees with the information"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "FALSE",
+         "b": true
+        },
+        {
+         "t": "\tif the statement contradicts the information"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "NOT GIVEN",
+         "b": true
+        },
+        {
+         "t": "\tif there is no information on this"
+        }
+       ]
+      }
+     ],
+     "choices": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "questions": [
+      {
+       "n": 1,
+       "stem": [
+        {
+         "t": "The beaver is the largest rodent in the world."
+        }
+       ]
+      },
+      {
+       "n": 2,
+       "stem": [
+        {
+         "t": "A beaver is able to gnaw wood while it is underwater."
+        }
+       ]
+      },
+      {
+       "n": 3,
+       "stem": [
+        {
+         "t": "Beavers can stay submerged for longer than any other rodent."
+        }
+       ]
+      },
+      {
+       "n": 4,
+       "stem": [
+        {
+         "t": "Beavers living on a deep, stable river may not build a dam at all."
+        }
+       ]
+      },
+      {
+       "n": 5,
+       "stem": [
+        {
+         "t": "A beaver pond normally freezes all the way to the bottom in winter."
+        }
+       ]
+      },
+      {
+       "n": 6,
+       "stem": [
+        {
+         "t": "Beaver numbers in Europe have now overtaken those in North America."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "title": "Questions 7–10",
+     "numbers": [
+      7,
+      8,
+      9,
+      10
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Complete the sentences below."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose "
+        },
+        {
+         "t": "NO MORE THAN TWO WORDS",
+         "b": true
+        },
+        {
+         "t": " from the passage for each answer."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write your answers in boxes 7-10 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "content": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "A beaver strikes the water with its tail in order to signal that a "
+        },
+        {
+         "gap": 7
+        },
+        {
+         "t": " has been seen."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "The orange colour of a beaver’s incisors is due to the "
+        },
+        {
+         "gap": 8
+        },
+        {
+         "t": " contained in their enamel."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "The entrances to a beaver’s lodge are placed under the water so that animals such as the "
+        },
+        {
+         "gap": 9
+        },
+        {
+         "t": " cannot get in."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Beavers store branches in the mud close to the lodge so that they have food available beneath the "
+        },
+        {
+         "gap": 10
+        },
+        {
+         "t": "."
+        }
+       ]
+      }
+     ],
+     "limit": {
+      "words": 2,
+      "number": false,
+      "text": "TWO WORDS"
+     }
+    },
+    {
+     "type": "short",
+     "title": "Questions 11–13",
+     "numbers": [
+      11,
+      12,
+      13
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Answer the questions below."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose "
+        },
+        {
+         "t": "NO MORE THAN THREE WORDS",
+         "b": true
+        },
+        {
+         "t": " from the passage for each answer."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write your answers in boxes 11-13 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "stem": [
+        {
+         "t": "What were made from beaver fur and worn throughout Europe for two hundred years?"
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "stem": [
+        {
+         "t": "What name is given to the damp clearing left behind when a beaver pond drains and is colonised by plants?"
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "stem": [
+        {
+         "t": "What can be wrapped around trees that landowners wish to protect from beavers?"
+        }
+       ]
+      }
+     ],
+     "limit": {
+      "words": 3,
+      "number": false,
+      "text": "THREE WORDS"
+     }
+    }
+   ],
+   "key": {
+    "1": {
+     "answer": "FALSE",
+     "accept": [
+      "FALSE"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "2": {
+     "answer": "TRUE",
+     "accept": [
+      "TRUE"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "3": {
+     "answer": "NOT GIVEN",
+     "accept": [
+      "NOT GIVEN"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "4": {
+     "answer": "TRUE",
+     "accept": [
+      "TRUE"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "5": {
+     "answer": "FALSE",
+     "accept": [
+      "FALSE"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "6": {
+     "answer": "NOT GIVEN",
+     "accept": [
+      "NOT GIVEN"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "7": {
+     "answer": "predator",
+     "accept": [
+      "predator"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "8": {
+     "answer": "iron",
+     "accept": [
+      "iron"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "9": {
+     "answer": "fox",
+     "accept": [
+      "fox"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "10": {
+     "answer": "ice",
+     "accept": [
+      "ice"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "11": {
+     "answer": "hats",
+     "accept": [
+      "hats"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "12": {
+     "answer": "beaver meadow",
+     "accept": [
+      "beaver meadow"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "13": {
+     "answer": "wire mesh",
+     "accept": [
+      "wire mesh"
+     ],
+     "explanation": [],
+     "evidence": null
+    }
+   },
+   "strategy": [],
+   "reading": []
+  },
+  {
+   "slug": "passage-t1-p2-setting-the-clocks",
+   "order": 2,
+   "number": 2,
+   "label": "Test 1 · Passage 2",
+   "group": "Test 1",
+   "head": [],
+   "title": [
+    {
+     "t": "Setting the Clocks",
+     "b": true
+    }
+   ],
+   "standfirst": {
+    "runs": [
+     {
+      "t": "How the railway and the telegraph persuaded the world to abandon its own local hour."
+     }
+    ]
+   },
+   "body": [
+    {
+     "letter": "A",
+     "runs": [
+      {
+       "t": "For almost all of recorded history, time was a local matter. Noon was the moment at which the sun stood highest over a particular town, and since the sun reaches different places at different moments, every town kept an hour of its own. Bristol was roughly ten minutes behind London; a traveller moving west across England was, in effect, moving slowly backwards through the morning. Nobody was inconvenienced by this. A journey by coach took so long, and was so uncertain, that a discrepancy of a few minutes between one church clock and the next was invisible. Appointments were made for the morning or the afternoon rather than for the half-hour, and the working day was measured by daylight and by the bell."
+      }
+     ]
+    },
+    {
+     "letter": "B",
+     "runs": [
+      {
+       "t": "The railway destroyed that comfortable vagueness within a generation. A train could cross the distance between two towns faster than the difference between their clocks, which produced timetables that appeared to describe arrivals before departures. More seriously, much early track was single, with trains passing one another at agreed places and agreed moments; if the two drivers were working to clocks set in different towns, the agreement was worthless. Passengers missed connections, and inspectors investigating collisions found that they could not establish the order in which events had happened. Speed had turned a harmless irregularity into a hazard, and the companies, rather than any government, were the first to act on it."
+      }
+     ]
+    },
+    {
+     "letter": "C",
+     "runs": [
+      {
+       "t": "What made a shared hour practical was not the railway but the electric telegraph, which carried a signal from one end of a country to the other in a moment. Time could now be sent as well as kept. The Royal Observatory at Greenwich had long dropped a large ball down a mast at one o’clock each afternoon so that ships in the river could check their chronometers before sailing, but a time ball can only be seen from a few miles away. Once observatories were wired to the telegraph network they could distribute a signal daily to stations, post offices and jewellers along the line, and the jewellers in turn corrected the watches of the town. An accurate hour had become something that could be transmitted, bought and sold."
+      }
+     ]
+    },
+    {
+     "letter": "D",
+     "runs": [
+      {
+       "t": "Through the 1840s the British railway companies adopted a single standard, Greenwich time, across their networks, and by the middle of the century most public clocks in the country followed them. The change was not universally welcomed. To set a clock by an observatory two hundred miles away was to accept that a distant institution now defined when a local day began and ended, and some towns kept both hours going at once, with a second minute hand painted on the dial of the town clock. There was also a legal muddle, because the law still recognised local time: a document signed, a licence expiring or a poll closing at a stated hour could fall on either side of a deadline depending on which clock was consulted. Parliament did not confirm Greenwich time as the legal time of Great Britain until 1880, forty years after the railways had settled the matter in practice."
+      }
+     ]
+    },
+    {
+     "letter": "E",
+     "runs": [
+      {
+       "t": "North America faced the same problem on a far larger scale. Its railroads ran on dozens of different company times, and a large interchange station might display half a dozen clocks, one for each line using the platforms. In 1883 the railroads themselves agreed to divide the continent into a small number of broad belts, within each of which every clock would show the same hour, with a jump of exactly sixty minutes at each boundary. Again the industry moved first: the change was introduced by private agreement, and the government of the United States did not give the arrangement the force of law for another thirty-five years."
+      }
+     ]
+    },
+    {
+     "letter": "F",
+     "runs": [
+      {
+       "t": "A continent could organise itself, but a world could not do so without agreeing where to begin counting. Charts and almanacs measured longitude from a variety of starting lines, and a system of hourly zones is meaningless unless everyone uses the same one. The Canadian railway engineer Sandford Fleming argued through the 1870s and 1880s for a single global scheme of standard hours reckoned from one meridian. At a conference held in Washington in 1884, delegates from a large number of countries recommended that the meridian passing through Greenwich should be adopted as the common zero, a decision that owed less to astronomy than to the fact that most of the world’s shipping already carried British charts. The recommendation bound nobody, and adoption took decades; several countries kept their own meridian for years afterwards, and a few regions chose offsets of half an hour rather than a whole one, as some still do."
+      }
+     ]
+    },
+    {
+     "letter": "G",
+     "runs": [
+      {
+       "t": "The result was a quiet revolution in everyday discipline. Once an authoritative hour was available to everyone, it could be used to govern not only trains but shifts, school lessons, market openings and the working day itself, and lateness became a measurable offence rather than a matter of opinion. The modern descendants of the time ball are the signals that synchronise computer networks and satellites, accurate now to fractions of a second, but the principle is unchanged: somewhere a clock is defined as correct, and everybody else agrees to follow it. It is worth remembering that the hour shown on a phone is not a fact about the sun. It is an administrative convenience, invented for the convenience of traffic, and the sun over most towns is no longer overhead at noon."
+      }
+     ]
+    }
+   ],
+   "footnotes": [],
+   "groups": [
+    {
+     "type": "headings",
+     "title": "Questions 14–20",
+     "numbers": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Reading Passage 2 has seven paragraphs A-G."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose the correct heading for each paragraph from the list of headings below."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write the correct number i-x in boxes 14-20 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "options": {
+      "title": [
+       [
+        {
+         "t": "List of Headings",
+         "b": true
+        }
+       ]
+      ],
+      "list": [
+       {
+        "key": "i",
+        "runs": [
+         {
+          "t": "The invention that allowed an hour to travel"
+         }
+        ]
+       },
+       {
+        "key": "ii",
+        "runs": [
+         {
+          "t": "The first printed railway timetables"
+         }
+        ]
+       },
+       {
+        "key": "iii",
+        "runs": [
+         {
+          "t": "An industry that would not wait for governments"
+         }
+        ]
+       },
+       {
+        "key": "iv",
+        "runs": [
+         {
+          "t": "A time when small differences did not matter"
+         }
+        ]
+       },
+       {
+        "key": "v",
+        "runs": [
+         {
+          "t": "The decline of the astronomical observatory"
+         }
+        ]
+       },
+       {
+        "key": "vi",
+        "runs": [
+         {
+          "t": "Deciding where the counting should start"
+         }
+        ]
+       },
+       {
+        "key": "vii",
+        "runs": [
+         {
+          "t": "Objections to an hour imposed from elsewhere"
+         }
+        ]
+       },
+       {
+        "key": "viii",
+        "runs": [
+         {
+          "t": "A shared hour and the habits it created"
+         }
+        ]
+       },
+       {
+        "key": "ix",
+        "runs": [
+         {
+          "t": "A nuisance turned into a danger"
+         }
+        ]
+       },
+       {
+        "key": "x",
+        "runs": [
+         {
+          "t": "The return to locally kept time"
+         }
+        ]
+       }
+      ]
+     },
+     "optionsAfter": false,
+     "questions": [
+      {
+       "n": 14,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "A",
+         "b": true
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "B",
+         "b": true
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "C",
+         "b": true
+        }
+       ]
+      },
+      {
+       "n": 17,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "D",
+         "b": true
+        }
+       ]
+      },
+      {
+       "n": 18,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "E",
+         "b": true
+        }
+       ]
+      },
+      {
+       "n": 19,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "F",
+         "b": true
+        }
+       ]
+      },
+      {
+       "n": 20,
+       "stem": [
+        {
+         "t": "Paragraph "
+        },
+        {
+         "t": "G",
+         "b": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "title": "Questions 21–23",
+     "numbers": [
+      21,
+      22,
+      23
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Complete the table below."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose "
+        },
+        {
+         "t": "ONE WORD ONLY",
+         "b": true
+        },
+        {
+         "t": " from the passage for each answer."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write your answers in boxes 21-23 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "content": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "Place"
+            }
+           ]
+          }
+         ],
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "How the hour was distributed"
+            }
+           ]
+          }
+         ]
+        ],
+        [
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "Greenwich, before the telegraph"
+            }
+           ]
+          }
+         ],
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "A ball was dropped from a mast at one o’clock so that the crews of "
+            },
+            {
+             "gap": 21
+            },
+            {
+             "t": " could check their instruments."
+            }
+           ]
+          }
+         ]
+        ],
+        [
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "British towns, after the telegraph"
+            }
+           ]
+          }
+         ],
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "Observatories sent a daily signal along the wires, and "
+            },
+            {
+             "gap": 22
+            },
+            {
+             "t": " used it to correct the watches of their customers."
+            }
+           ]
+          }
+         ]
+        ],
+        [
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "North American stations, before 1883"
+            }
+           ]
+          }
+         ],
+         [
+          {
+           "type": "p",
+           "runs": [
+            {
+             "t": "A large station might show several "
+            },
+            {
+             "gap": 23
+            },
+            {
+             "t": ", one for each railroad using it."
+            }
+           ]
+          }
+         ]
+        ]
+       ]
+      }
+     ],
+     "limit": {
+      "words": 1,
+      "number": false,
+      "text": "ONE WORD"
+     }
+    },
+    {
+     "type": "bank",
+     "title": "Questions 24–26",
+     "numbers": [
+      24,
+      25,
+      26
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Complete the summary below."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose "
+        },
+        {
+         "t": "THREE",
+         "b": true
+        },
+        {
+         "t": " words from the box and write the correct letter "
+        },
+        {
+         "t": "A-F",
+         "b": true
+        },
+        {
+         "t": " in boxes 24-26 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "content": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Standard time was not imposed from above. In Britain and in North America the railway companies fixed on a common hour long before any "
+        },
+        {
+         "gap": 24
+        },
+        {
+         "t": " recognised it, and Parliament confirmed Greenwich time only in 1880. Agreement between countries was harder, because hourly zones require a single agreed "
+        },
+        {
+         "gap": 25
+        },
+        {
+         "t": ". The conference of 1884 chose Greenwich, largely because British charts were already so widely used, but its decision had no "
+        },
+        {
+         "gap": 26
+        },
+        {
+         "t": " effect and many states changed over only slowly."
+        }
+       ]
+      }
+     ],
+     "options": {
+      "title": null,
+      "list": [
+       {
+        "key": "A",
+        "runs": [
+         {
+          "t": "meridian"
+         }
+        ]
+       },
+       {
+        "key": "B",
+        "runs": [
+         {
+          "t": "legislature"
+         }
+        ]
+       },
+       {
+        "key": "C",
+        "runs": [
+         {
+          "t": "binding"
+         }
+        ]
+       },
+       {
+        "key": "D",
+        "runs": [
+         {
+          "t": "observatory"
+         }
+        ]
+       },
+       {
+        "key": "E",
+        "runs": [
+         {
+          "t": "commercial"
+         }
+        ]
+       },
+       {
+        "key": "F",
+        "runs": [
+         {
+          "t": "timetable"
+         }
+        ]
+       }
+      ]
+     },
+     "optionsAfter": false
+    }
+   ],
+   "key": {
+    "14": {
+     "answer": "iv",
+     "accept": [
+      "iv"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "15": {
+     "answer": "ix",
+     "accept": [
+      "ix"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "16": {
+     "answer": "i",
+     "accept": [
+      "i"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "17": {
+     "answer": "vii",
+     "accept": [
+      "vii"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "18": {
+     "answer": "iii",
+     "accept": [
+      "iii"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "19": {
+     "answer": "vi",
+     "accept": [
+      "vi"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "20": {
+     "answer": "viii",
+     "accept": [
+      "viii"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "21": {
+     "answer": "ships",
+     "accept": [
+      "ships"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "22": {
+     "answer": "jewellers",
+     "accept": [
+      "jewellers"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "23": {
+     "answer": "clocks",
+     "accept": [
+      "clocks"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "24": {
+     "answer": "B",
+     "accept": [
+      "B"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "25": {
+     "answer": "A",
+     "accept": [
+      "A"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "26": {
+     "answer": "C",
+     "accept": [
+      "C"
+     ],
+     "explanation": [],
+     "evidence": null
+    }
+   },
+   "strategy": [],
+   "reading": []
+  },
+  {
+   "slug": "passage-t1-p3-does-the-language-we-speak-shape-the-way-we-think",
+   "order": 3,
+   "number": 3,
+   "label": "Test 1 · Passage 3",
+   "group": "Test 1",
+   "head": [],
+   "title": [
+    {
+     "t": "Does the Language We Speak Shape the Way We Think?",
+     "b": true
+    }
+   ],
+   "standfirst": null,
+   "body": [
+    {
+     "letter": "A",
+     "runs": [
+      {
+       "t": "The idea that a language quietly organises the minds of the people who speak it is one of the most attractive propositions in the human sciences, and one of the most frequently abused. In its strong form, associated with the American linguists Edward Sapir and Benjamin Lee Whorf, it holds that the categories of a language determine the categories of thought, so that speakers of very different languages inhabit, in some meaningful sense, different worlds. In its weak form it claims only that the distinctions a language obliges its speakers to make will, through sheer repetition, become the distinctions they attend to most readily. The strong version was largely abandoned by the middle of the twentieth century. The weak version, after thirty years of more careful experiment, is in better health, and it is worth being clear about why the first failed and what exactly the second has established."
+      }
+     ]
+    },
+    {
+     "letter": "B",
+     "runs": [
+      {
+       "t": "The strong claim collapsed partly on the evidence and partly on logic. Whorf’s best-known argument, that one North American language lacked the means to express time as Europeans understood it, rested on an analysis that later specialists in that language rejected. A second favourite illustration, the supposed abundance of words for snow in Arctic languages, turned out to depend entirely on how one decides to count words in a language that builds long words out of small parts; by the same method English has indefinitely many words for anything. The logical difficulty is more serious. If the limits of a language really were the limits of thought, no speaker could ever acquire an idea that the language did not already encode, and the history of every technical vocabulary shows that they do. A language that lacks a single word for an idea can always reach it with a phrase, which is why translation is laborious rather than impossible."
+      }
+     ]
+    },
+    {
+     "letter": "C",
+     "runs": [
+      {
+       "t": "What revived the field was a shift from grand claims about world views to small claims that could be tested. The most convincing results concern space. Most European languages describe the position of objects relative to the body: the cup is to my left, the church is in front of me. A number of languages, including some spoken in northern Australia and in southern Mexico, do not offer this option for most purposes and require instead a fixed, geographic frame: the cup is to the north of the plate, whichever way the speaker happens to be facing. Speakers of such languages perform a remarkable feat of continuous reckoning, remaining correctly oriented indoors, in unfamiliar towns and after being turned around, because nothing they say about position can be formulated without it. Asked to arrange a sequence of pictures in order, they tend to lay them out along a fixed compass line rather than from their own left to their own right. Here a grammatical obligation plainly trains an everyday skill, and the writer regards this as the strongest evidence in the whole debate."
+      }
+     ]
+    },
+    {
+     "letter": "D",
+     "runs": [
+      {
+       "t": "Colour has produced a subtler result. Languages carve the spectrum differently, and some treat lighter and darker blue as two basic colours rather than as shades of one. Speakers of those languages are measurably quicker to tell the two blues apart than speakers of languages that use a single term. That looks like perception shaped by vocabulary, until the experiment is repeated while the participants are made to hold a string of words in memory, an arrangement that occupies the language system and leaves the eyes alone. The advantage then disappears. The natural reading is not that these speakers see different colours but that, in a task requiring a rapid decision, they silently recruit a verbal label that other speakers do not have available. Language is behaving less like a lens through which the world is perceived and more like a tool picked up when it happens to be useful."
+      }
+     ]
+    },
+    {
+     "letter": "E",
+     "runs": [
+      {
+       "t": "Grammatical gender has been a more troublesome case. Many languages assign nouns to classes marked on articles and adjectives, and a well-publicised line of research reported that speakers describe the same object with different adjectives depending on the gender its name carries in their language, choosing words such as "
+      },
+      {
+       "t": "sturdy",
+       "i": true
+      },
+      {
+       "t": " where the noun is masculine and "
+      },
+      {
+       "t": "elegant",
+       "i": true
+      },
+      {
+       "t": " where it is feminine. The effects, where they appear, are small, several attempts to reproduce them have failed, and critics have pointed out that such studies have often been conducted with bilingual participants responding in English, so that whatever is measured may belong to the act of translation rather than to the original language. The honest summary is that the question remains open."
+      }
+     ]
+    },
+    {
+     "letter": "F",
+     "runs": [
+      {
+       "t": "Claims made outside the laboratory deserve more scepticism still. It has been argued, on the basis of statistics covering many countries, that speakers of languages which oblige them to mark the future tense grammatically save less money and take worse care of their health, on the grounds that such grammar makes the future feel remote. The correlation is real, but a language is not an isolated variable: the nations grouped together by this feature also share histories, religions, institutions and climates, any of which might explain the difference. Worse, languages are related by descent, so a sample of hundreds of languages may contain only a handful of genuinely independent cases, and a statistical test that treats each language as a separate observation will report a confidence it has not earned. Correlations of this kind are a prompt for investigation, not a finding."
+      }
+     ]
+    },
+    {
+     "letter": "G",
+     "runs": [
+      {
+       "t": "What survives, then, is a modest and rather interesting conclusion. Speaking a language requires a speaker to attend, constantly and automatically, to whatever that language forces them to specify, and this habit of attention leaves traces in memory, in classification and in the direction of a casual glance. It does not install a different reality. The effects are real, they are measurable, and they are small, which is precisely why they are so regularly misreported: a result about reaction times becomes, by the time it reaches a newspaper, a claim that some people cannot perceive the colour blue. Readers would be wise to treat any headline announcing that a language makes its speakers unable to grasp something as a translation error of its own."
+      }
+     ]
+    }
+   ],
+   "footnotes": [],
+   "groups": [
+    {
+     "type": "grid",
+     "title": "Questions 27–31",
+     "numbers": [
+      27,
+      28,
+      29,
+      30,
+      31
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Reading Passage 3 has seven paragraphs A-G."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Which paragraph contains the following information?"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write the correct letter A-G in boxes 27-31 on your answer sheet."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "NB",
+         "b": true
+        },
+        {
+         "t": " You may use any letter more than once."
+        }
+       ]
+      }
+     ],
+     "letters": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "questions": [
+      {
+       "n": 27,
+       "stem": [
+        {
+         "t": "a logical reason why the strongest form of the claim cannot be correct"
+        }
+       ]
+      },
+      {
+       "n": 28,
+       "stem": [
+        {
+         "t": "a warning about the way research of this kind is presented to the public"
+        }
+       ]
+      },
+      {
+       "n": 29,
+       "stem": [
+        {
+         "t": "an effect that vanishes when speakers are prevented from using words to themselves"
+        }
+       ]
+      },
+      {
+       "n": 30,
+       "stem": [
+        {
+         "t": "a description of people who stay correctly oriented in unfamiliar surroundings"
+        }
+       ]
+      },
+      {
+       "n": 31,
+       "stem": [
+        {
+         "t": "a reference to results that other researchers have not managed to obtain again"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ynng",
+     "title": "Questions 32–36",
+     "numbers": [
+      32,
+      33,
+      34,
+      35,
+      36
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Do the following statements agree with the claims of the writer in Reading Passage 3?"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "In boxes 32-36 on your answer sheet write"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "YES",
+         "b": true
+        },
+        {
+         "t": "\tif the statement agrees with the claims of the writer"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "NO",
+         "b": true
+        },
+        {
+         "t": "\tif the statement contradicts the claims of the writer"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "NOT GIVEN",
+         "b": true
+        },
+        {
+         "t": "\tif it is impossible to say what the writer thinks about this"
+        }
+       ]
+      }
+     ],
+     "choices": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "questions": [
+      {
+       "n": 32,
+       "stem": [
+        {
+         "t": "The strong version of the hypothesis has now been shown to be correct."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "stem": [
+        {
+         "t": "The number of words a language has for a thing is a dependable measure of how much its speakers notice it."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "stem": [
+        {
+         "t": "Research on spatial description provides the best support for a link between grammar and habits of mind."
+        }
+       ]
+      },
+      {
+       "n": 35,
+       "stem": [
+        {
+         "t": "Experiments on colour are easier to design than experiments on space."
+        }
+       ]
+      },
+      {
+       "n": 36,
+       "stem": [
+        {
+         "t": "The fact that languages are historically related weakens statistical comparisons between large numbers of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "mcq",
+     "title": "Questions 37–38",
+     "numbers": [
+      37,
+      38
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose the correct letter "
+        },
+        {
+         "t": "A",
+         "b": true
+        },
+        {
+         "t": ", "
+        },
+        {
+         "t": "B",
+         "b": true
+        },
+        {
+         "t": ", "
+        },
+        {
+         "t": "C",
+         "b": true
+        },
+        {
+         "t": " or "
+        },
+        {
+         "t": "D",
+         "b": true
+        },
+        {
+         "t": "."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write your answers in boxes 37-38 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "n": 37,
+       "stem": [
+        {
+         "t": "What point does the writer make about translation in paragraph B?"
+        }
+       ],
+       "options": [
+        {
+         "key": "A",
+         "runs": [
+          {
+           "t": "Technical vocabulary is the hardest kind of language to translate."
+          }
+         ]
+        },
+        {
+         "key": "B",
+         "runs": [
+          {
+           "t": "An idea for which a language has no single word can still be expressed in it."
+          }
+         ]
+        },
+        {
+         "key": "C",
+         "runs": [
+          {
+           "t": "Translators tend to add ideas that the original language does not contain."
+          }
+         ]
+        },
+        {
+         "key": "D",
+         "runs": [
+          {
+           "t": "Languages with long words are more difficult to translate than others."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "n": 38,
+       "stem": [
+        {
+         "t": "In paragraph D, the writer uses the memory task to argue that"
+        }
+       ],
+       "options": [
+        {
+         "key": "A",
+         "runs": [
+          {
+           "t": "speakers of different languages genuinely see colours differently."
+          }
+         ]
+        },
+        {
+         "key": "B",
+         "runs": [
+          {
+           "t": "the original colour experiments were carried out carelessly."
+          }
+         ]
+        },
+        {
+         "key": "C",
+         "runs": [
+          {
+           "t": "vocabulary assists a decision rather than altering perception."
+          }
+         ]
+        },
+        {
+         "key": "D",
+         "runs": [
+          {
+           "t": "colour terms are learned later than words for position."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "multi",
+     "title": "Questions 39–40",
+     "numbers": [
+      39,
+      40
+     ],
+     "intro": [
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Choose "
+        },
+        {
+         "t": "TWO",
+         "b": true
+        },
+        {
+         "t": " letters "
+        },
+        {
+         "t": "A-E",
+         "b": true
+        },
+        {
+         "t": "."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "runs": [
+        {
+         "t": "Write your answers in boxes 39-40 on your answer sheet."
+        }
+       ]
+      }
+     ],
+     "label": "39-40",
+     "stem": [
+      {
+       "t": "Which "
+      },
+      {
+       "t": "TWO",
+       "b": true
+      },
+      {
+       "t": " objections does the writer raise to the claim that future-tense grammar affects how much people save?"
+      }
+     ],
+     "choose": 2,
+     "options": [
+      {
+       "key": "A",
+       "runs": [
+        {
+         "t": "The countries concerned differ in many ways besides their languages."
+        }
+       ]
+      },
+      {
+       "key": "B",
+       "runs": [
+        {
+         "t": "The financial figures used in the comparison are inaccurate."
+        }
+       ]
+      },
+      {
+       "key": "C",
+       "runs": [
+        {
+         "t": "Languages descended from a common ancestor are not independent cases."
+        }
+       ]
+      },
+      {
+       "key": "D",
+       "runs": [
+        {
+         "t": "The effect has only ever been observed in laboratory conditions."
+        }
+       ]
+      },
+      {
+       "key": "E",
+       "runs": [
+        {
+         "t": "The speakers involved were never asked about their own intentions."
+        }
+       ]
+      }
+     ],
+     "key": {
+      "answer": "A, C",
+      "accept": [
+       "A",
+       "C"
+      ],
+      "explanation": [],
+      "evidence": null
+     }
+    }
+   ],
+   "key": {
+    "27": {
+     "answer": "B",
+     "accept": [
+      "B"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "28": {
+     "answer": "G",
+     "accept": [
+      "G"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "29": {
+     "answer": "D",
+     "accept": [
+      "D"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "30": {
+     "answer": "C",
+     "accept": [
+      "C"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "31": {
+     "answer": "E",
+     "accept": [
+      "E"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "32": {
+     "answer": "NO",
+     "accept": [
+      "NO"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "33": {
+     "answer": "NO",
+     "accept": [
+      "NO"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "34": {
+     "answer": "YES",
+     "accept": [
+      "YES"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "35": {
+     "answer": "NOT GIVEN",
+     "accept": [
+      "NOT GIVEN"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "36": {
+     "answer": "YES",
+     "accept": [
+      "YES"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "37": {
+     "answer": "B",
+     "accept": [
+      "B"
+     ],
+     "explanation": [],
+     "evidence": null
+    },
+    "38": {
+     "answer": "C",
+     "accept": [
+      "C"
+     ],
+     "explanation": [],
+     "evidence": null
+    }
+   },
+   "strategy": [],
+   "reading": []
+  }
+ ]
+}

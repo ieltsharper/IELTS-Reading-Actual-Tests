@@ -317,9 +317,9 @@ ${items}
 }
 
 function rootPage(topics) {
-  const items = topics
-    .map((t) => `<li><a href="${t.slug}/index.html"><span><span class="item-title">${esc(t.topic)}</span><span class="item-note">${t.passages.length} passages, ${t.passages.reduce((s, p) => s + countOf(p), 0)} questions</span></span></a></li>`)
-    .join('\n');
+  const row = (t) => `<li><a href="${t.slug}/index.html"><span><span class="item-title">${esc(t.topic)}</span><span class="item-note">${t.passages.length} passages, ${t.passages.reduce((s, p) => s + countOf(p), 0)} questions</span></span></a></li>`;
+  const books = topics.filter((t) => !t.slug.startsWith('practice')).map(row).join('\n');
+  const practice = topics.filter((t) => t.slug.startsWith('practice')).map(row).join('\n');
   // Vol 7 lives in the Reading passages compilation (18 passages in 6 tests); it is only linked from here.
   const vol7 = `<li><a href="https://ieltsharper.github.io/IELTS-Reading-Passages-Compilation/recent-actual-test-7/index.html"><span><span class="item-title">Recent Actual Test Vol 7</span><span class="item-note">18 passages in 6 tests, 240 questions</span></span></a></li>`;
   return page({
@@ -329,8 +329,9 @@ function rootPage(topics) {
 <h1>${SITE}</h1>
 <p class="summary">IELTS Academic Reading: actual test papers, three passages per test, with the answer key.</p>
 <ul class="menu-list">
-${items}
+${books}
 ${vol7}
+${practice}
 </ul>
 </main>`,
   });
@@ -342,7 +343,7 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.a
     .readdirSync(path.join(root, 'data'))
     .filter((f) => f.endsWith('.json'))
     .map((f) => JSON.parse(fs.readFileSync(path.join(root, 'data', f), 'utf8')))
-    .sort((a, b) => a.topic.localeCompare(b.topic));
+    .sort((a, b) => (a.slug.startsWith('practice') - b.slug.startsWith('practice')) || a.topic.localeCompare(b.topic));
   for (const t of topics) {
     const dir = path.join(root, t.slug);
     fs.mkdirSync(dir, { recursive: true });
