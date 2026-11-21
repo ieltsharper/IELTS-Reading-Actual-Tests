@@ -320,6 +320,8 @@ function rootPage(topics) {
   const items = topics
     .map((t) => `<li><a href="${t.slug}/index.html"><span><span class="item-title">${esc(t.topic)}</span><span class="item-note">${t.passages.length} passages, ${t.passages.reduce((s, p) => s + countOf(p), 0)} questions</span></span></a></li>`)
     .join('\n');
+  // Vol 7 lives in the Reading passages compilation (18 passages in 6 tests); it is only linked from here.
+  const vol7 = `<li><a href="https://ieltsharper.github.io/IELTS-Reading-Passages-Compilation/recent-actual-test-7/index.html"><span><span class="item-title">Recent Actual Test Vol 7</span><span class="item-note">18 passages in 6 tests, 240 questions</span></span></a></li>`;
   return page({
     title: SITE,
     depth: 0,
@@ -328,6 +330,7 @@ function rootPage(topics) {
 <p class="summary">IELTS Academic Reading: actual test papers, three passages per test, with the answer key.</p>
 <ul class="menu-list">
 ${items}
+${vol7}
 </ul>
 </main>`,
   });
