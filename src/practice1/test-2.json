@@ -1,0 +1,252 @@
+{
+  "test": 2,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Reef and Its Gardeners",
+      "paragraphs": [
+        {"l": "A", "t": "A coral reef looks like rock, and in a sense it is, but it is rock made by animals. The builder is the coral polyp, a small, soft-bodied creature that is little more than a column of tissue crowned with a ring of stinging tentacles. Polyps are relatives of the sea anemones and the jellyfish, and like them they catch food by stinging it. What makes the reef-building corals different is a chemical habit: they take calcium and carbonate from the surrounding seawater and lay them down as limestone underneath themselves, so that each animal sits in a small stony cup of its own making. A polyp divides to produce another polyp, which does the same, and the result is a colony of thousands of genetically identical individuals sharing a single skeleton. Successive generations build on the skeletons of those that came before, and a reef is simply that accumulation, continued for thousands of years. The process is slow. The fastest branching corals add a few centimetres in a year, and the massive, boulder-shaped species far less than that, which is why damage done in an afternoon can take a century to repair."},
+        {"l": "B", "t": "The polyp does not work alone. Inside the tissues of every reef-building coral there live enormous numbers of single-celled algae. They are sheltered there, and they are supplied with the waste products of their host, which to a plant are valuable nutrients. In return they photosynthesise, and they pass a large share of the sugars they make to the coral around them. For a coral growing in clear, sunlit water, this internal garden provides most of the energy it needs; the tentacles, which are put out mainly at night to catch drifting plankton, supply the remainder. The algae also account for the appearance of the reef. Coral tissue is itself almost colourless, and the browns, golds and greens of a healthy colony are the colours of the crop it carries. The partnership is what allows corals to grow fast enough to build a structure that the sea is constantly trying to pull down."},
+        {"l": "C", "t": "It also explains where reefs can and cannot grow. Because the algae need light, reef-building corals are confined to shallow water, and because they need warmth they are found mostly in a broad belt either side of the equator. They require a firm foundation to settle on, and clear water, since suspended sediment both shuts out the light and settles on the polyps, which must then spend energy cleaning themselves. These conditions are met in the open tropical ocean, and the open tropical ocean is one of the least productive environments on earth, so poor in dissolved nutrients that it is often described as a marine desert. The reef sits in the middle of this desert and supports a quantity of life that is out of all proportion to its surroundings: a small fraction of one per cent of the sea floor shelters something approaching a quarter of all marine species. The explanation lies in the partnership. Nutrients that elsewhere would sink into deep water are passed back and forth within the reef instead of being lost, and very little is wasted."},
+        {"l": "D", "t": "That dependence has a cost. When a coral is placed under stress it expels the algae from its tissues, sometimes within a few days. Since the tissue is transparent and the algae are gone, what the eye now sees is the white limestone skeleton beneath, and the colony is said to have bleached. A bleached coral has not died. It has lost the greater part of its food supply, and it is starving. If the stress passes quickly, algae recolonise the tissue over the following weeks or months and the colony regains both its colour and its growth, although it may not reproduce that year. If the stress continues, the coral starves, and the skeleton is soon colonised by seaweeds and worn away by the many organisms that bore into it."},
+        {"l": "E", "t": "A number of things can cause bleaching. Very low tides that leave corals exposed to the air will do it, as will sudden floods of fresh water after heavy rain, a heavy load of sediment washed off the land, certain pollutants, and even an unusual cold spell. By far the most important cause, however, is water that is unusually warm for that place and that season. Corals live close to their upper limit for much of the year, and a rise of only a degree or two above the normal summer maximum, held for several weeks, is enough to break the partnership. The distinction matters, because the local causes affect a bay or a stretch of shore, while abnormally warm water can settle over an entire sea for a whole summer and bleach reefs across thousands of kilometres at once."},
+        {"l": "F", "t": "When a reef dies, the loss is structural as well as biological. The limestone remains, but nothing is adding to it, and the agents of destruction do not pause: boring sponges and molluscs weaken it from within, grazing fish and urchins scrape at it from without, and storms break up what is left. Within a few years an intricate landscape of branches, overhangs and crevices has been reduced to rubble and a low pavement. The animals that depended on those hiding places go with them, and the fisheries that support many coastal communities decline. Reefs also provide coastal protection, absorbing much of the energy of waves before it reaches the shore, and a flattened reef absorbs far less, so that beaches erode and low-lying land floods more readily than it did. Tourism, which in some countries is a significant part of the national income, suffers in its turn."},
+        {"l": "G", "t": "None of this makes the situation hopeless, and a good deal can be done locally. Reducing the sewage, fertiliser and soil that run off the land removes one source of stress and gives a reef a better chance of recovering from another. Protecting the fish that graze on seaweed matters more than it sounds, because after a coral dies the contest for the bare space is between young corals and fast-growing algae, and where grazers have been fished out the algae win. Restoration adds to this: fragments of coral are grown in underwater nurseries on frames suspended above the sea bed, and are later planted on damaged reefs, while researchers are working with colonies that have survived repeated heat and attempting to breed from them. Such work is valuable, but nobody involved in it claims more than that it buys time. A reef can be defended against pollution, against overfishing and against careless anchoring by the people who live beside it; it cannot be defended by them against the temperature of the ocean."}
+      ],
+      "groups": [
+        {
+          "type": "headings", "range": [1, 7],
+          "intro": [
+            "Reading Passage 1 has seven paragraphs A-G.",
+            "Choose the correct heading for each paragraph from the list of headings below.",
+            "Write the correct number i-x in boxes 1-7 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Headings**"],
+            "list": {
+              "i": "A partnership that feeds the builders",
+              "ii": "The trade in coral ornaments",
+              "iii": "What pushes a coral beyond its limits",
+              "iv": "Measures that help, and the limit of their help",
+              "v": "The animals that make the rock",
+              "vi": "Corals of the cold deep sea",
+              "vii": "Wealth in the middle of a poor ocean",
+              "viii": "Why a loss of colour is not yet a death",
+              "ix": "Reefs as a source of new medicines",
+              "x": "What follows once the structure goes"
+            }
+          },
+          "items": {"1": "Paragraph **A**", "2": "Paragraph **B**", "3": "Paragraph **C**", "4": "Paragraph **D**", "5": "Paragraph **E**", "6": "Paragraph **F**", "7": "Paragraph **G**"},
+          "answers": {"1": "v", "2": "i", "3": "vii", "4": "viii", "5": "iii", "6": "x", "7": "iv"}
+        },
+        {
+          "type": "bank", "range": [8, 11],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **FOUR** words from the box and write the correct letter **A-G** in boxes 8-11 on your answer sheet."
+          ],
+          "content": [
+            "A coral that comes under stress drives out the [[8]] that normally live within its tissues. The tissue itself is transparent, so the white [[9]] underneath becomes visible, and the colony is described as bleached. The cause is most often a spell of unusually high sea [[10]] lasting for several weeks. A bleached colony is not dead, and if ordinary conditions return soon enough it can [[11]] completely."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "sediment",
+              "B": "skeleton",
+              "C": "plankton",
+              "D": "algae",
+              "E": "recover",
+              "F": "temperature",
+              "G": "spread"
+            }
+          },
+          "answers": {"8": "D", "9": "B", "10": "F", "11": "E"}
+        },
+        {
+          "type": "short", "range": [12, 13],
+          "intro": [
+            "Answer the questions below.",
+            "Choose **NO MORE THAN THREE WORDS** from the passage for each answer.",
+            "Write your answers in boxes 12-13 on your answer sheet."
+          ],
+          "limit": {"words": 3, "number": false},
+          "items": {
+            "12": "What benefit do reefs give to the shore by taking in the energy of waves?",
+            "13": "Where are pieces of coral raised before being planted out on damaged reefs?"
+          },
+          "answers": {"12": "coastal protection", "13": "underwater nurseries"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Two Wheels",
+      "standfirst": "The bicycle took eighty years to arrive at a shape it has barely altered since.",
+      "paragraphs": [
+        "There is nothing in a bicycle that could not, in principle, have been made in the ancient world, and yet the machine is barely two hundred years old. The delay is usually explained by metal. A bicycle depends on parts that are light, accurately round and accurately matched — bearings, a chain, thin tubes, wire spokes under tension — and such parts only became cheap once industry could roll, draw and cut steel in quantity. The history of the bicycle is therefore less a story of a single inventor than a story of a series of workshops solving one problem at a time, each solution creating the next difficulty.",
+        "The ancestor of all of them appeared in Germany in 1817, when Karl von Drais built a wooden running machine: two wheels in line, a padded saddle on a beam between them, and a front wheel that could be steered. It had no pedals, and the rider propelled it by pushing against the ground with the feet, in long strides, lifting them when the machine ran downhill. It looks today like a toy, but it settled the question on which everything later depended, which is that a two-wheeled vehicle does not fall over while it is moving and can be balanced by steering. For two or three seasons it was fashionable in London and Paris. Then the fashion passed, not least because riders took to the pavements, where they frightened pedestrians and were promptly banned, and the roads of the day were too rough and too muddy to be enjoyable.",
+        "The next step waited half a century. In Paris in the 1860s a workshop fitted cranks and pedals directly to the axle of the front wheel, so that the rider could drive the machine without touching the ground. The result was called a velocipede, and in English, with feeling, the boneshaker. Its wheels were wooden with iron tyres, its frame had no springing to speak of, and the streets were cobbled; the name was earned. All the same it was the first bicycle to be manufactured in large numbers, it was exported across Europe and to America, and it produced the first racing clubs and the first road races. It also exposed a problem. Because the pedals turned the wheel directly, one turn of the rider's legs carried the machine forward by exactly the circumference of that wheel, and no faster.",
+        "The answer was to make the wheel enormous. Through the 1870s the driven front wheel grew until it was as large as the rider's legs could straddle, while the trailing wheel shrank to little more than a stabiliser, producing the high bicycle, later nicknamed the penny-farthing. These machines were a real advance in engineering. Their wheels were built on the modern principle, with thin wire spokes carrying the load in tension rather than thick wooden ones carrying it in compression, and they ran on solid rubber tyres, so the high bicycle was both faster and lighter than anything before it. It was also alarming. The rider sat almost directly above the axle of a wheel five feet across, with his weight high and well forward, and if that wheel struck a stone or a rut the machine stopped and he did not, but was pitched over the handlebars head first. Falls of this kind were common enough to have a name of their own. The high bicycle remained, inevitably, a machine for athletic young men with money.",
+        "What replaced it was the safety bicycle, which took shape in English workshops in the 1880s and reached its familiar form in Starley's Rover of 1885. Its central idea was indirect drive: a chain running from a pedalled sprocket to a smaller sprocket on the rear wheel, so that one turn of the pedals produced more than one turn of the wheel. Gearing had separated speed from wheel size. The wheels could now be equal, and modest, the rider could sit low between them with his feet within reach of the ground, and the frame settled into the familiar arrangement of triangles that gives the greatest stiffness for the least weight. The last piece arrived in 1888 with the pneumatic tyre, a tube of air inside a rubber casing, which made riding far more comfortable on rough surfaces and, to everyone's surprise, faster as well, because a tyre that absorbs a bump wastes less of the rider's effort than a rigid one that is thrown into the air by it. The idea had in fact been patented decades earlier and forgotten.",
+        "The 1890s were the result: a boom in which bicycles were bought in millions, and then, as the new machines passed into second-hand hands, a change in who could travel. A working man could reach employment ten miles from his village. A woman could leave her own street unaccompanied, which is why the bicycle appears so often in the arguments of the period about what women might wear and where they might go; the heavy skirts of the day were impossible on a machine, and the dress reformers made the point loudly. The industry mattered too. Firms that had learned to make ball bearings, light steel tubing, chains and wheels in quantity were precisely the firms that went on to build motor cars and, in more than one famous case, aircraft. Cyclists had meanwhile organised themselves and begun to campaign for smoother road surfaces, well before the motorist existed to benefit from them.",
+        "After about 1910 the bicycle lost its glamour in the wealthier countries and became, for fifty years, the transport of those who could not yet afford a car, while in much of the rest of the world it simply remained the way people got about. Its recent revival in European cities has less to do with nostalgia than with arithmetic: measured as energy spent per person per kilometre, a cyclist is the most efficient traveller on earth, more efficient than any machine and than any walking or swimming animal. It is a curious kind of success. Almost everything else built in 1890 has been superseded, but the bicycle in a modern shop is recognisably the safety bicycle, improved in its materials and barely altered in its plan."
+      ],
+      "groups": [
+        {
+          "type": "tfng", "range": [14, 19],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 2?",
+            "In boxes 14-19 on your answer sheet write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "14": "The running machine of 1817 was moved along by the rider's feet on the ground.",
+            "15": "Riders of the running machine were permitted to use the pavements.",
+            "16": "The velocipede was the first bicycle to be produced in large quantities.",
+            "17": "High bicycles cost more to buy than the velocipedes they replaced.",
+            "18": "The diameter of a high bicycle's driven wheel was limited by the length of the rider's legs.",
+            "19": "Campaigns for better road surfaces began only once motor cars were in use."
+          },
+          "answers": {"14": "True", "15": "False", "16": "True", "17": "Not Given", "18": "True", "19": "False"}
+        },
+        {
+          "type": "match", "range": [20, 23],
+          "intro": [
+            "Look at the following statements and the list of machines below.",
+            "Match each statement with the correct machine, **A-D**.",
+            "Write the correct letter **A-D** in boxes 20-23 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Machines**"],
+            "list": {
+              "A": "the running machine",
+              "B": "the velocipede",
+              "C": "the high bicycle",
+              "D": "the safety bicycle"
+            }
+          },
+          "items": {
+            "20": "Its rider was liable to be thrown forward over the handlebars.",
+            "21": "It had pedals attached to the front wheel and wheels made of wood.",
+            "22": "It carried no pedals of any kind.",
+            "23": "It allowed a rider to go fast without a wheel of unusual size."
+          },
+          "answers": {"20": "C", "21": "B", "22": "A", "23": "D"}
+        },
+        {
+          "type": "gap", "range": [24, 26],
+          "intro": [
+            "Complete the table below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 24-26 on your answer sheet."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"table": [
+              ["Development", "What it achieved"],
+              ["Wire spokes and solid rubber tyres", "The high bicycle was faster and [[24]] than any earlier machine."],
+              ["A [[25]] running back to a smaller sprocket", "Speed was separated from the size of the wheel."],
+              ["The pneumatic tyre", "Riding became much more [[26]] on rough surfaces, and quicker too."]
+            ]}
+          ],
+          "answers": {"24": "lighter", "25": "chain", "26": "comfortable"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Room to Breathe: Green Space and the Health of Cities",
+      "paragraphs": [
+        {"l": "A", "t": "That parks are good for us has become one of those propositions that nobody in urban policy troubles to argue for any more. It appears in planning documents, in the prospectuses of property developers and in the speeches of mayors, generally in a form broad enough to be unfalsifiable. The proposition is, in the main, true; what is rarely acknowledged is that it covers several quite different claims, supported by evidence of very unequal quality, and that the differences between them have consequences for how a city spends a limited budget. A claim that trees reduce the temperature of a street in a heatwave is of a different order from a claim that a park improves the mental health of the people who live near it, and both differ from a claim that planting one will make a neighbourhood more equal."},
+        {"l": "B", "t": "The starting point is a very large body of population research, gathered in many countries, which consistently finds that people living in greener neighbourhoods report better mental health, show lower levels of stress hormones and suffer less cardiovascular disease than people living in less green ones, and that these differences survive statistical adjustment for income and education. The consistency is impressive. The difficulty is that almost all of this work is observational, and observational data cannot establish which way the causation runs. Greener districts tend also to be quieter, cleaner and less crowded, and no adjustment captures every one of those advantages. There is a further and more awkward possibility, which is that people who are already inclined to walk, to garden and to spend time outdoors may be more likely to choose a green neighbourhood in the first place, so that part of the correlation reflects who moves there rather than what living there does to them."},
+        {"l": "C", "t": "This is why a handful of studies with stronger designs carry weight out of proportion to their number. Several research teams have followed the same individuals through a change of address, comparing their reported wellbeing before and after a move to a greener area, and have found an improvement that is still present some years later, together with a corresponding decline among those moving the other way. A second approach has been to treat the greening of derelict land as an experiment: vacant plots in a city are cleared, planted and fenced, while similar plots nearby are left untouched, and the surrounding streets are then compared. Neither method is a clinical trial, but both remove the most obvious objection to the population studies, since the people are the same people, and both point in the same direction as the weaker evidence."},
+        {"l": "D", "t": "How a patch of grass and trees produces such effects is a separate question, and the candidate explanations are neither mutually exclusive nor equally well supported. The first is physical activity: green space is held to encourage walking and play. The evidence here is more mixed than one might expect, since much of the activity recorded is done by people who would have exercised somewhere in any case. The second is straightforwardly physical. Vegetation intercepts particles, muffles traffic noise, and shades and cools the ground beneath it, and in a heatwave the difference of a few degrees between a shaded street and a bare one is a matter of survival for the old and the ill; of all the mechanisms proposed, this is the best established. A third is social: a shared and pleasant outdoor space brings neighbours into casual contact, and casual contact is the raw material of the loose acquaintance that protects people against isolation. The fourth is psychological. Concentrated attention of the kind that city streets and screens demand is tiring, whereas a natural scene holds the attention without effort and so allows the tired faculty to recover; the experimental support for this is modest in size but has proved durable. The practical lesson is that these benefits can be separated. A strip of planting along a motorway that nobody can enter delivers the cooling and the filtering and nothing else."},
+        {"l": "E", "t": "It follows that the measure by which provision is almost always reported — the total area of green space per thousand residents — is close to useless. Area says nothing about whether the space is reachable, usable or used. Distance is the first and harshest filter: the proportion of residents who visit a park regularly falls away sharply once it is further than a few minutes' walk from the door, so that a dozen small squares will be used where one great lawn on the edge of the district will not. After distance come the things that determine whether a visit is repeated: whether the place is well maintained rather than neglected, whether it feels safe, particularly to women and to the elderly, and whether it offers shade, seating and drinking water. Variety of planting appears to matter as well; the available work suggests that a mixture of trees, shrubs and rough grass does more for wellbeing, as it does for wildlife, than the same area of mown turf. None of these qualities appears in a hectare count, and a city that manages its parks by that number will build the wrong ones."},
+        {"l": "F", "t": "There is also the question of who gets them. Green space is distributed across almost every city in the same pattern: least of it in the poorest and most densely built districts, which are also the hottest, the noisiest and the most exposed to traffic fumes, and whose residents have the least opportunity to leave the city at weekends. Those with most to gain have least to use. The obvious remedy, which is to plant where provision is worst, runs into a difficulty that was not anticipated when the first such programmes began. A neighbourhood made more attractive becomes more expensive; rents and prices rise around a new park, and some of the households the improvement was intended to serve are in time displaced by households who can pay more, a process that has been given the sardonic name of green gentrification. The answer to this is certainly not to withhold trees from poor streets. It is that a greening programme not accompanied by protection for the tenants living there will, in the end, deliver its benefits to somebody else."},
+        {"l": "G", "t": "What, then, is an honest summary? Access to green space appears to produce a small improvement in the health and the contentment of a great many people, at a cost that is low and an effect that lasts for as long as the space is maintained. That profile — modest benefit, very wide reach, durable, cheap — is precisely the profile of the public health measures that have historically done the most good, and it is also, unfortunately, the profile that is easiest to oversell. When a park is presented as a substitute for mental health provision, or when street trees are offered as a serious answer to a city's carbon emissions, the claim goes well beyond anything the research will bear, and each such claim makes the defensible ones easier to dismiss. The useful conclusion is an unglamorous one. A park is not an ornament added when the building is finished, nor a cure for the failures of everything else. It is infrastructure, and like the drains and the lighting it should be planned where people actually live, budgeted for, and maintained in the years after the ribbon has been cut."}
+      ],
+      "groups": [
+        {
+          "type": "grid", "range": [27, 31],
+          "intro": [
+            "Reading Passage 3 has seven paragraphs A-G.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter A-G in boxes 27-31 on your answer sheet.",
+            "**NB** You may use any letter more than once."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G"],
+          "items": {
+            "27": "a suggestion that the habits people already have may influence where they choose to live",
+            "28": "a comparison between green space and other measures that have improved public health",
+            "29": "research in which the same people were studied before and after a change of address",
+            "30": "a criticism of the figure by which cities usually report what they provide",
+            "31": "an unintended effect of improving a poor neighbourhood"
+          },
+          "answers": {"27": "B", "28": "G", "29": "C", "30": "E", "31": "F"}
+        },
+        {
+          "type": "ynng", "range": [32, 35],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 32-35 on your answer sheet write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "32": "The association between greener neighbourhoods and better health disappears once income is taken into account.",
+            "33": "Studies that follow people through a change of address are more convincing than comparisons between different neighbourhoods.",
+            "34": "The amount of green space per thousand residents is a satisfactory guide to how much good it does them.",
+            "35": "Private gardens offer their owners the same advantages as a public park."
+          },
+          "answers": {"32": "No", "33": "Yes", "34": "No", "35": "Not Given"}
+        },
+        {
+          "type": "mcq", "range": [36, 37],
+          "intro": [
+            "Choose the correct letter **A**, **B**, **C** or **D**.",
+            "Write your answers in boxes 36-37 on your answer sheet."
+          ],
+          "items": {
+            "36": {
+              "stem": "What is the writer's main point about the four mechanisms described in paragraph D?",
+              "options": {
+                "A": "They are supported by evidence of differing strength, and a given space may deliver only some of them.",
+                "B": "Only one of them has ever been demonstrated in a real city.",
+                "C": "They all depend ultimately on the amount of exercise people take.",
+                "D": "Researchers disagree about which of them should be investigated first."
+              }
+            },
+            "37": {
+              "stem": "In paragraph E, what does the writer say about the distance between homes and a park?",
+              "options": {
+                "A": "It affects older residents more than younger ones.",
+                "B": "Regular use falls steeply once the park is more than a short walk away.",
+                "C": "It matters less than the total area the park occupies.",
+                "D": "It is the only factor that determines whether a park is visited."
+              }
+            }
+          },
+          "answers": {"36": "A", "37": "B"}
+        },
+        {
+          "type": "multi", "range": [38, 40], "choose": 3,
+          "intro": ["Choose **THREE** letters **A-G**.", "Write your answers in boxes 38-40 on your answer sheet."],
+          "stem": "Which **THREE** qualities of a park does the writer say affect whether people return to it?",
+          "options": {
+            "A": "a sense of safety",
+            "B": "free admission",
+            "C": "shade and places to sit",
+            "D": "lighting after dark",
+            "E": "good upkeep",
+            "F": "parking for cars",
+            "G": "a position near a railway station"
+          },
+          "answer": "A, C, E"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "test": 4,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Dance of the Honeybee",
+      "standfirst": "How a colony of insects tells its members where to find the next meal.",
+      "paragraphs": [
+        "A honeybee colony may contain tens of thousands of workers, and in the course of a summer day it has to find and exploit patches of flowers that are scattered over many square kilometres of countryside and that may come into bloom and fade within a week. No individual bee can survey such an area, and there is nobody in the hive to issue orders. What the colony has instead is a system of communication in which a forager that has found something worth collecting is able to tell her nestmates where it is. The system was worked out in the first half of the twentieth century by the Austrian zoologist Karl von Frisch, whose patient experiments with marked bees and dishes of sugar water eventually earned him a share of a Nobel Prize.",
+        "A forager that has returned from a rewarding patch does not settle down quietly. She climbs on to the vertical face of a comb, pushes into the crowd of workers there and begins to dance. If the flowers are close to the hive, the dance is a simple one: the bee runs in a tight circle, reverses, circles again, and goes on reversing for several seconds or more. This round dance says nothing about direction. It announces only that something worth having lies somewhere in the immediate neighbourhood, and the bees that follow it leave the hive and search in all directions around it. They are not, however, searching blindly, because the scent of the flowers she has visited still clings to her body, and a sample of the nectar itself is passed from her mouth to theirs.",
+        "When the food is further off, the forager performs a quite different movement, the waggle dance. She runs forward in a straight line, shaking her abdomen rapidly from side to side and producing a buzzing vibration as she goes, then loops back to her starting point, to one side on one circuit and to the other side on the next, so that her path traces a flattened figure of eight. The straight portion, known as the waggle run, carries the message, and two of its features matter. The first is its angle. The comb hangs vertically in the dark, so the bee uses gravity in place of the sky: a run made straight up the comb means that the food lies in the direction of the sun, while a run thirty degrees to the left of vertical means that the food lies thirty degrees to the left of the sun. The second feature is duration. The longer the waggle run lasts, the further the forager has flown, so that distance is expressed as time rather than as length. A single dance may repeat the run dozens of times, and since it is performed in the darkness of the hive the bees that follow cannot see it at all; they press close behind the dancer, touch her with their antennae and pick up the vibrations she sends through the comb.",
+        "A direction given relative to the sun has an obvious weakness, which is that the sun moves. Foragers solve this by keeping track of the passage of time, and a dancer who is detained inside the hive will slowly alter the angle of her run, as though following a sun she cannot see. Cloud is a smaller problem than it appears. A patch of blue sky is enough, because a bee can detect the pattern of polarised light that the sky produces, and that pattern reveals where the sun must be.",
+        "The dance reports more than a position. The richer the source — the sweeter the nectar, the easier the flowers are to work, the shorter the flight — the more vigorous and the more persistent the dance, while a mediocre find produces a brief dance or none at all. Since the number of recruits that leave depends on how long and how energetically the dancer performs, the number of foragers visiting a site rises quickly while it remains productive and falls away when it does not. No bee compares the patches available to the colony, and none needs to.",
+        "For many years this account was not universally accepted. A number of researchers argued that recruits in fact found the food by smell, following the odour of the flowers and of the foraging bees themselves, and that the dance, however elegant, told them nothing they could use. The objection was a fair one, since in ordinary circumstances the two explanations predict much the same behaviour. Two kinds of experiment eventually settled the question. In the first, a mechanical model of a bee was made to perform waggle runs inside a hive, and recruits flew out to the place the model had indicated, although no bee had ever been there. In the second, individual recruits were fitted with tiny transponders and tracked by radar as they left the hive; they flew the course that the dance had specified, and then began to search when they reached the end of it.",
+        "Other signals are exchanged on the same crowded dance floor. A forager who comes back loaded with nectar and cannot quickly find a house bee to take it from her will perform a tremble dance, walking slowly about with her legs shaking, and the effect of this is to recruit more workers to the business of receiving and storing nectar rather than to the flowers. There is also a short vibrating pulse, delivered by one bee butting its head against a dancer, which makes the dancer break off; it is given by bees that have met with danger at the site being advertised, and it damps down recruitment to a dangerous place. The same waggle dance is used for a quite different purpose when a colony divides and swarms. Scouts go out to look for a cavity in which the swarm can live, and each returns to dance on the surface of the clustered bees for the site she has found, the persistence of her dance reflecting how good she judges it to be. Scouts are drawn away to inspect the sites that rivals are advertising, and dancing for the poorer cavities gradually ceases, until almost every dancer is advertising the same address and the swarm flies to it."
+      ],
+      "groups": [
+        {
+          "type": "match", "range": [1, 5],
+          "intro": [
+            "Complete each sentence with the correct ending, **A-H**, below.",
+            "Write the correct letter **A-H** in boxes 1-5 on your answer sheet."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "how far the forager has flown.",
+              "B": "in which direction the food lies in relation to the sun.",
+              "C": "there is nobody free to take her nectar from her.",
+              "D": "it can detect polarised light in a patch of blue sky.",
+              "E": "how sweet the nectar at the source is.",
+              "F": "food is to be found somewhere nearby.",
+              "G": "it keeps track of the passing of time.",
+              "H": "a predator has been met with at the flowers."
+            },
+            "after": true
+          },
+          "items": {
+            "1": "The round dance tells the bees that follow it that",
+            "2": "The angle of the waggle run on the comb shows",
+            "3": "The time that a waggle run lasts indicates",
+            "4": "A bee can work out where the sun is on a cloudy day because",
+            "5": "A forager performs a tremble dance when"
+          },
+          "answers": {"1": "F", "2": "B", "3": "A", "4": "D", "5": "C"}
+        },
+        {
+          "type": "gap", "range": [6, 9],
+          "intro": [
+            "Complete the flow-chart below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 6-9 on your answer sheet."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"center": "**How a recruit is sent to a patch of flowers**"},
+            "A forager finds a productive patch of flowers and returns to the hive.",
+            "↓",
+            "Because the dance takes place in the [[6]] of the hive, the bees following her cannot see it, and press close behind her instead.",
+            "↓",
+            "They learn the direction and the distance of the patch, and they also pick up the [[7]] of the flowers she has visited, which still clings to her.",
+            "↓",
+            "A recruit flies the course the dance has specified, and begins to [[8]] when she reaches the end of it.",
+            "↓",
+            "While the patch remains worth visiting, further dances are performed, so that the number of [[9]] at the site rises."
+          ],
+          "answers": {"6": "darkness", "7": "scent", "8": "search", "9": "foragers"}
+        },
+        {
+          "type": "tfng", "range": [10, 13],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "In boxes 10-13 on your answer sheet write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "10": "A bee may perform the waggle run many times in the course of one dance.",
+            "11": "A bee dances more energetically for a source of nectar of better quality.",
+            "12": "Young bees have to be taught the meaning of the dance by older workers.",
+            "13": "Scouts searching for a new home use a different dance from the one foragers use."
+          },
+          "answers": {"10": "True", "11": "True", "12": "Not Given", "13": "False"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "A Promise on a Piece of Paper",
+      "paragraphs": [
+        {"l": "A", "t": "For most of history, money was a thing of value in itself: a silver coin was worth what the silver in it was worth. Such money has one great disadvantage: it is heavy. A merchant who wished to buy goods at the other end of a kingdom had either to carry a chest of coin along roads where robbery was a serious risk, or to find some way of making a payment without moving metal at all. Paper money began as an answer to that practical difficulty, and only later became a currency in its own right. The crucial step was a change in what the object in the hand actually was. A coin is wealth; a note is a claim on wealth, a promise made by somebody else, and the whole history of paper money is the history of how far such promises can be trusted."},
+        {"l": "B", "t": "The first such promises on paper that we know of were issued in Tang dynasty China, more than a thousand years ago. Traders bringing goods to the capital were reluctant to carry the proceeds home in copper coin, and arrangements grew up under which the coin was deposited with an agent in one city and a certificate issued which could be presented for coin in another. The documents were nicknamed flying cash, and they were not money in the full sense: they were not intended to circulate, and each one was a record of a particular deposit made by a particular person. What they did show was that a piece of paper could do the work of a cart-load of metal."},
+        {"l": "C", "t": "Notes that genuinely passed from hand to hand appeared a little later, in the province of Sichuan, and the reason they appeared there is instructive. Copper was scarce in the region and the local coinage was made of iron, which is worth far less by weight. The result was a currency so bulky that a household buying a roll of cloth might have to move a load of metal heavier than the cloth itself. Merchant houses in the provincial capital began to accept deposits of coin and to issue printed receipts for them, and because everyone knew the houses that issued them these receipts were soon being handed on in payment rather than taken back for metal. In the early eleventh century the authorities, troubled by the failure of some of these private issuers, suppressed them and took the business over, printing notes themselves which were valid within a defined region and for a fixed period and which were supported by a reserve of coin. This is generally regarded as the first paper currency issued by a government anywhere."},
+        {"l": "D", "t": "Under the Mongol emperors of the Yuan dynasty, paper money reached its medieval height. Notes printed on paper made from mulberry bark were issued across an empire that stretched far beyond China proper, and they were declared the only lawful means of payment: a merchant who refused to accept them was liable to severe punishment, and gold and silver were to be handed in to the treasury in exchange for paper. Travellers from Europe, where every payment still meant counting out metal, found the arrangement astonishing, and the Venetian Marco Polo devoted an admiring chapter of his account of his travels to the emperor who, as he saw it, turned bark into treasure."},
+        {"l": "E", "t": "The weakness of the system was not technical but political. A government that can print its own money is a government that can meet a deficit without raising taxes, and successive Chinese dynasties did exactly that. Each new issue reduced the value of the notes already in circulation; prices rose, confidence fell, and people who could do so hoarded metal. By the fifteenth century the notes of the Ming dynasty had lost almost all their purchasing power, and the state eventually gave up the attempt. For several centuries afterwards China conducted its large transactions in silver, weighed out and assessed for purity at each payment — a cumbersome method, but one that no official could inflate with a printing block. The episode established the lesson that every later issuer has had to learn: paper money costs almost nothing to make, and that is precisely its danger."},
+        {"l": "F", "t": "Europe arrived at the same institution by a different route. Merchants there had long used bills of exchange, written instructions by which a debt incurred in one city could be settled by a correspondent in another, and these too allowed trade to be financed without shipping coin. The decisive development came in seventeenth-century London, where goldsmiths, who possessed strong rooms, took in coin for safe keeping and gave depositors written receipts promising to return it on demand. Such receipts began to circulate, and the goldsmiths noticed that only a small proportion of the coin they held was ever called for at any one time, so that they could safely lend out more in receipts than they actually held in metal. Sweden, where the main coinage consisted of copper plates of extraordinary weight, was the first European country to issue true banknotes, in the seventeenth century; the bank that issued them printed more than it could redeem and failed within a few years. The Bank of England, founded in 1694 in order to lend money to a government at war, issued notes that promised to pay the bearer on demand, and that formula survives, long after the promise itself has changed its meaning."},
+        {"l": "G", "t": "Over the following two centuries the right to issue notes was gradually concentrated in a single institution in each country, and the promise they carried was tied to a fixed quantity of gold. That tie proved to be a fair-weather arrangement. Convertibility was suspended in wartime, restored with difficulty, suspended again, and finally abandoned altogether in the early 1970s. What a modern note promises is therefore nothing more definite than itself. Its value rests on the restraint of the institution that issues it and on the fact that the state will accept it in payment of taxes and the courts will recognise it in settlement of debts. Cash is now in retreat, as payments move to entries transferred between accounts, but the principle being transferred is the one that was invented, lost and invented again over a thousand years."}
+      ],
+      "groups": [
+        {
+          "type": "grid", "range": [14, 18],
+          "intro": [
+            "Reading Passage 2 has seven paragraphs **A-G**.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter **A-G** in boxes 14-18 on your answer sheet."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G"],
+          "items": {
+            "14": "a currency that people were not permitted by law to turn down",
+            "15": "the discovery that only part of the metal held needed to be kept available",
+            "16": "an explanation of why notes first circulated in one particular province",
+            "17": "a long period during which a country managed without paper money",
+            "18": "the first paper promises of this kind that are known to have been issued"
+          },
+          "answers": {"14": "D", "15": "F", "16": "C", "17": "E", "18": "B"}
+        },
+        {
+          "type": "bank", "range": [19, 23],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **FIVE** words from the box and write the correct letter **A-H** in boxes 19-23 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Paper money in China**"},
+            "In Sichuan the local coinage was made of [[19]], a metal of low value for its weight, and paying for ordinary goods meant moving a heavy load. Merchant houses issued receipts for coin deposited with them, and these began to circulate; in the eleventh century the state put a stop to private issues and became the only [[20]] of notes. Under the Mongol rulers paper money was extended across the whole empire, and a merchant who [[21]] to take it in payment risked a severe penalty. The flaw in such a system is that a government short of money can print more, and repeated over-issue brought [[22]] and a collapse of confidence. China then abandoned paper altogether and settled its larger accounts in [[23]] for several hundred years."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "refused",
+              "B": "silver",
+              "C": "iron",
+              "D": "issuer",
+              "E": "inflation",
+              "F": "copper",
+              "G": "borrower",
+              "H": "agreed"
+            }
+          },
+          "answers": {"19": "C", "20": "D", "21": "A", "22": "E", "23": "B"}
+        },
+        {
+          "type": "short", "range": [24, 26],
+          "intro": [
+            "Answer the questions below.",
+            "Choose **NO MORE THAN THREE WORDS** from the passage for each answer.",
+            "Write your answers in boxes 24-26 on your answer sheet."
+          ],
+          "limit": {"words": 3, "number": false},
+          "items": {
+            "24": "What was the paper of Yuan dynasty notes made from?",
+            "25": "What did European merchants use to settle a debt incurred in another city?",
+            "26": "Which European country issued true banknotes before any other?"
+          },
+          "answers": {"24": "mulberry bark", "25": "bills of exchange", "26": "Sweden"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Two Languages in the Classroom",
+      "paragraphs": [
+        "In every country that receives migrants, and in a great many that do not, children arrive at school speaking a language other than the one the school teaches in. What a school should do about this is among the most bitterly contested questions in education. Two intuitions pull in opposite directions. The first is that a child who needs to learn a language should hear and use as much of it as possible, and that time spent on anything else is time wasted. The second is that a child learns most readily through a language already understood, and that a school which ignores what a child brings is throwing away the only foundation available. Much of the heat in the argument comes from the fact that the phrase bilingual education is applied to arrangements whose aims have almost nothing in common.",
+        "It is worth separating them. In a transitional programme, the home language is used as a temporary bridge: children are taught the curriculum partly in it while they acquire the language of the school, and are moved into ordinary classes after two or three years, once they are judged able to cope with the language of instruction. The aim is competence in the majority language, and the home language is a means to that end. A maintenance programme, by contrast, goes on using the home language throughout, on the grounds that literacy in it is worth having for its own sake. A dual-language programme is different again: two groups of children, speakers of each of the two languages, are taught together, each group learning the other's language, with the intention that all of them leave school able to use both. Finally there is structured immersion, in which everything is taught in the majority language, but in a simplified and carefully supported form, the home language being used only occasionally, to explain something a child has not understood. The label on a programme therefore tells an observer very little about what happens inside it.",
+        "The case for teaching through the home language rests on a straightforward observation about transfer. A child who has learned to read in one language does not have to learn to read all over again in another. The understanding of what print is for, and the habit of predicting what a sentence will say, are not tied to a particular vocabulary. Subject knowledge behaves in the same way. Fractions learned in one language do not have to be learned again in another; only the words for them do. There is a further point about how long it takes to be ready to learn in a new language. Children pick up conversational fluency quickly, often within a year or two, and a child who chats easily in the playground is widely assumed to be ready for the rest of the timetable. The language of textbooks and examinations, however — abstract, dense, full of constructions nobody uses in speech — takes a good deal longer to master, and a pupil who is treated as fluent before reaching that point may sit through years of lessons understanding only a fraction of them.",
+        "The case against is equally serious. The simplest version of it concerns time: hours spent learning in the home language are hours not spent in the language the child will be examined in and will work in, and in a crowded timetable something has to give. Critics also point to the risk that children remain in separate classes long after they could manage in the mainstream, in a track which, being separate, attracts lower expectations. Then there are the practical obstacles. A single city school may contain children speaking dozens of languages, and no school can staff a programme for each. Even where one language dominates, teachers who are fluent and literate in it, trained in the curriculum and qualified to teach are often simply not available, and suitable books and materials may not exist. It is also a mistake to assume that migrant parents all want the home language in school. Many, anxious that their children should get on, ask for immersion and regard anything else as a distraction.",
+        "What does the research show? Less than either side claims, and for reasons that are built into the problem. Children are not allocated to programmes at random: families choose, and schools select, so that the pupils in one kind of programme may differ from those in another before any teaching has taken place. Programmes bearing the same name vary enormously in how they are staffed and run, and outcomes are measured at different ages and by different instruments. Reviews that pool the available studies tend to report a modest advantage for programmes that make substantial use of the home language, an advantage that is clearer on long-term measures than on tests taken soon after a programme begins. But the advantage is smaller than its advocates suggest, and the difference between a well-run and a badly run version of the same model is usually larger than the difference between one model and another.",
+        "One body of evidence deserves particular care, because it is so often misused. The French immersion programmes developed in Canada, in which English-speaking children are taught largely in French, have been studied for decades and are by any measure a success: the pupils become competent in French without falling behind in English or in other subjects. This is regularly cited as proof that immersion works and that teaching through the home language is unnecessary. The inference is unsound. Those children were learning an additional language while their first language remained the dominant and prestigious one in the society around them, supported by their families, the media and the law, and participation was voluntary. Adding a second language to a secure first language is a quite different undertaking from replacing a home language with the language of a majority that often regards the first as a handicap, and results from the one case cannot simply be carried across to the other.",
+        "It is worth noticing how such questions are actually decided. In one American state, voters passed a measure in the late 1990s that largely prohibited teaching in languages other than English in public schools, and nearly twenty years later voters in the same state reversed much of that restriction. The evidence available on the two occasions was not greatly different; the mood of the electorate was. Debates about language in school are rarely only about attainment: they are also about national belonging and about who is expected to adapt to whom, and such questions are not settled by test scores.",
+        "The useful question is therefore not which model wins, but under what conditions a given approach works: for how long the home language should carry part of the teaching, what training the teachers need, and how to judge the point at which a child is genuinely ready to learn in the new language. Almost everyone now agrees that a child's home language is an asset rather than an obstacle. What remains in dispute is how much of a school's limited time and money should be spent protecting it — a question about priorities, which no experiment can answer on its own."
+      ],
+      "groups": [
+        {
+          "type": "ynng", "range": [27, 32],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 27-32 on your answer sheet write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "27": "The term 'bilingual education' is used for arrangements with very different purposes.",
+            "28": "Reading skills developed in one language are of little use when a child learns to read another.",
+            "29": "Children need about as long to master the language of textbooks as to become fluent in conversation.",
+            "30": "Schools that wish to teach in their pupils' home languages often cannot find appropriately qualified staff.",
+            "31": "Parents should be given the final decision about which kind of programme their child attends.",
+            "32": "The Canadian results can reasonably be applied to children whose home language is a minority one."
+          },
+          "answers": {"27": "Yes", "28": "No", "29": "No", "30": "Yes", "31": "Not Given", "32": "No"}
+        },
+        {
+          "type": "match", "range": [33, 36],
+          "intro": [
+            "Look at the following statements and the list of approaches below.",
+            "Match each statement with the correct approach, **A-D**.",
+            "Write the correct letter **A-D** in boxes 33-36 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Approaches**"],
+            "list": {
+              "A": "a transitional programme",
+              "B": "a maintenance programme",
+              "C": "a dual-language programme",
+              "D": "structured immersion"
+            },
+            "after": true
+          },
+          "items": {
+            "33": "Children are moved into ordinary classes once they are thought able to manage the language of the school.",
+            "34": "The home language is employed only now and then, to clear up a difficulty.",
+            "35": "Speakers of the two languages are taught in the same class and each group acquires the other's language.",
+            "36": "The home language continues to be used throughout, because literacy in it is held to be valuable in itself."
+          },
+          "answers": {"33": "A", "34": "D", "35": "C", "36": "B"}
+        },
+        {
+          "type": "mcq", "range": [37, 38],
+          "intro": [
+            "Choose the correct letter **A**, **B**, **C** or **D**.",
+            "Write your answers in boxes 37-38 on your answer sheet."
+          ],
+          "items": {
+            "37": {
+              "stem": "What conclusion does the writer draw from reviews of the research?",
+              "options": {
+                "A": "Teaching through the home language has no measurable effect of any kind.",
+                "B": "How well a programme is run matters more than which model it follows.",
+                "C": "Tests taken soon after a programme begins give the most reliable picture.",
+                "D": "The advantages reported by supporters of bilingual programmes are imaginary."
+              }
+            },
+            "38": {
+              "stem": "The writer refers to the two votes in an American state in order to show that",
+              "options": {
+                "A": "public opinion on language in schools is remarkably stable.",
+                "B": "restricting teaching in other languages improved pupils' results.",
+                "C": "policy in this field is driven by more than educational evidence.",
+                "D": "voters are better informed about schooling than they once were."
+              }
+            }
+          },
+          "answers": {"37": "B", "38": "C"}
+        },
+        {
+          "type": "multi", "range": [39, 40], "choose": 2,
+          "intro": ["Choose **TWO** letters **A-E**.", "Write your answers in boxes 39-40 on your answer sheet."],
+          "stem": "Which **TWO** difficulties in interpreting studies of these programmes does the writer mention?",
+          "options": {
+            "A": "Children are not placed in the different programmes by chance.",
+            "B": "Researchers seldom publish results that are unfavourable to their own position.",
+            "C": "Programmes that go by the same name may be run in very different ways.",
+            "D": "The tests are usually written in the children's home language.",
+            "E": "Almost all of the studies have been carried out in a single country."
+          },
+          "answer": "A, C"
+        }
+      ]
+    }
+  ]
+}

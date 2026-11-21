@@ -1,0 +1,266 @@
+{
+  "test": 3,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Sleep of Animals",
+      "standfirst": "Nothing that has been examined closely turns out to be entirely awake.",
+      "paragraphs": [
+        "Sleep is awkward to define and easy to recognise. Rather than argue about what is happening inside the head, researchers use a short list of behavioural signs. A sleeping animal takes up a posture, and usually a place, that is typical of its species. It becomes much less responsive to the world around it, so that a sound or a movement which would ordinarily produce a reaction produces none. The state can be ended by a strong enough disturbance, which is what separates sleep from a coma or from anaesthesia. And if the animal is kept awake, it afterwards sleeps longer or more deeply than usual, an effect known as rebound. Measured against this list, sleep has been found not only in mammals and birds but in fish, in insects such as the fruit fly, and even in the jellyfish, which has no brain at all.",
+        "In mammals and birds, electrical recording divides sleep into two conditions so different that it is slightly misleading to give them a single name. In slow-wave sleep the cells of the cortex fire together in long, synchronised bursts, so that the brain produces large, slow waves; breathing and heart rate are steady and the body can move. In the second state, called rapid eye movement or REM sleep after the darting of the eyes beneath the closed lids, the pattern of brain activity is almost indistinguishable from waking, while the muscles of the body lose their tone so completely that the animal is briefly paralysed. It is from REM sleep that a disturbed sleeper wakes with the clearest sense of having dreamed.",
+        "The arrangement raises an obvious problem for an animal that must keep working while it sleeps. A dolphin is an air-breathing mammal in water, and it cannot afford to stop swimming or to stop rising to the surface. Dolphins meet this difficulty by sleeping with one half of the brain at a time: slow waves appear in one hemisphere while the other stays awake, and the eye on the opposite side of the body is closed while its partner remains open. After a period the two halves change over. Several birds can do the same. Where a row of ducks rests together on the ground, the birds at either end of the row tend to sleep with their outer eye open and the matching half of the brain awake, while those in the middle, screened by their neighbours, close both eyes.",
+        "A few birds appear to sleep while flying. Recorders small enough to be carried by a large seabird have captured the slow waves of sleep in frigatebirds during long crossings of open ocean, mostly in one hemisphere at a time and mostly while the bird was circling upwards on a rising current of warm air rather than flapping. The totals were small, a matter of minutes a day against many hours on land, which suggests that a bird in the air sleeps as little as it can manage. Swifts are thought to do something similar, since individuals of some species stay airborne for months on end between breeding seasons and cannot be sleeping on a branch.",
+        "Animals that are hunted face a different difficulty: a body that takes a long time to get up is a body that is easily caught. A horse can doze on its feet because an arrangement of tendons and ligaments in its legs locks the joints and holds its weight with almost no effort from the muscles. That trick will not serve for REM sleep, in which muscle tone is lost, so a horse must lie down for a short period each day if it is to have any REM sleep at all. Horses kept in a place where they never feel safe enough to lie down eventually begin to collapse from the lack of it.",
+        "How much sleep an animal needs varies enormously. A brown bat may spend the greater part of the twenty-four hours asleep. An elephant, recorded in the wild with a device fitted to its trunk, sleeps only about two hours a day, and will go without sleep altogether for a night or more while travelling. The sloth was long presented as the champion sleeper on the strength of measurements made in zoos; when sloths were fitted with recorders and followed in the forest, they proved to sleep several hours less than their captive relatives, a result that has made researchers cautious about every figure gathered in captivity. Across species the broad pattern is that small animals with fast metabolisms sleep more than large ones, and that predators sleep more than the animals they prey on, although the exceptions are numerous.",
+        "Why any of it happens is still argued over, and the arguments are not exclusive. The oldest proposal is that sleep saves energy, by shutting an animal down during the hours when it could not feed or hunt efficiently in any case. A second is that sleep is a form of safety, keeping an animal still and hidden when being active would expose it. A third concerns maintenance: fluid moves more freely through the narrow spaces of the brain during slow-wave sleep than during waking, which may help to carry away the waste products of the day. A fourth concerns learning. When an animal has spent a day finding its way through a maze, the patterns of activity recorded while it learned the route are replayed during the sleep that follows, and the connections involved are reinforced, so that memories formed during the day survive better than they otherwise would.",
+        "Whatever the purpose, it is plainly not optional. Rats prevented from sleeping for long enough lose control of their body temperature, eat more and more while losing weight, and die within a few weeks. Hibernation, incidentally, is not a long sleep and should not be confused with one: the body is cold, the brain is largely inactive, and animals rousing from it sleep heavily for days, exactly as though the weeks of cold had left them short of sleep."
+      ],
+      "groups": [
+        {
+          "type": "match", "range": [1, 5],
+          "intro": [
+            "Look at the following statements (Questions 1-5) and the list of animals below.",
+            "Match each statement with the correct animal, **A-F**.",
+            "Write the correct letter **A-F** in boxes 1-5 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Animals**"],
+            "list": {
+              "A": "the dolphin",
+              "B": "the frigatebird",
+              "C": "the horse",
+              "D": "the elephant",
+              "E": "the sloth",
+              "F": "the brown bat"
+            }
+          },
+          "items": {
+            "1": "It was found to sleep considerably less in the wild than it does in captivity.",
+            "2": "It shuts one eye at a time so that it can go on coming up for air.",
+            "3": "Structures in its legs allow it to rest with almost no muscular effort.",
+            "4": "It has been recorded sleeping while it was in the air.",
+            "5": "It will sometimes stay awake all night while it is on the move."
+          },
+          "answers": {"1": "E", "2": "A", "3": "C", "4": "B", "5": "D"}
+        },
+        {
+          "type": "gap", "range": [6, 10],
+          "intro": [
+            "Complete the notes below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 6-10 on your answer sheet."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"h": "Recognising sleep"},
+            "• the animal reacts far less to what is going on around it",
+            "• the state can be brought to an end by a disturbance, unlike a [[6]]",
+            "• after being kept awake, the animal sleeps more than usual",
+            {"h": "The two states"},
+            "• slow-wave sleep: the brain produces large, slow [[7]]",
+            "• REM sleep: brain activity resembles waking, but the muscles lose their [[8]]",
+            {"h": "Suggested purposes"},
+            "• saving [[9]] during the hours when feeding would be inefficient",
+            "• keeping the animal still and hidden",
+            "• carrying waste away from the brain",
+            "• reinforcing the [[10]] formed earlier in the day"
+          ],
+          "answers": {"6": "coma", "7": "waves", "8": "tone", "9": "energy", "10": "memories"}
+        },
+        {
+          "type": "multi", "range": [11, 13], "choose": 3,
+          "intro": ["Choose **THREE** letters **A-G**.", "Write your answers in boxes 11-13 on your answer sheet."],
+          "stem": "Which **THREE** of the following does the passage say happen while an animal is asleep?",
+          "options": {
+            "A": "Fluid passes more easily through the brain.",
+            "B": "The muscles of the body lose their tone for a period.",
+            "C": "Body temperature falls below that of the surroundings.",
+            "D": "Patterns of activity from the waking hours are repeated.",
+            "E": "Both halves of the brain are always inactive at once.",
+            "F": "The eyes stay open throughout.",
+            "G": "The animal stops breathing for short intervals."
+          },
+          "answer": "A, B, D"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The Making of a Cathedral",
+      "paragraphs": [
+        {"l": "A", "t": "A great medieval cathedral was the largest and most expensive object its region would ever produce, and almost nobody who began one lived to see it finished. Work went forward in campaigns rather than at a steady pace: a bishop raised money, a few bays went up, the money ran out, and the site stood quiet until a new benefactor, a fresh wave of gifts or the arrival of pilgrims at a shrine made it possible to start again. Decades, and sometimes centuries, separated the first stone from the last. Because of this, the east end of the church, containing the high altar, was generally completed first and walled off, so that services could be held there while the nave beyond was still a building site. It also explains why so many cathedrals change style as the eye travels westwards."},
+        {"l": "B", "t": "The buildings that we call Gothic were made possible by three devices used together. The pointed arch carries its load more steeply downwards than a round one, and, more usefully still, arches of different widths can be made to rise to the same height, which allows a vault to be built over a bay that is not square. The rib vault concentrates the weight of a ceiling onto a framework of stone ribs, which deliver it to a few points rather than spreading it along the whole wall. The flying buttress then carries the outward thrust from those points across the open air to a heavy pier standing clear of the building. Once the thrust has somewhere else to go, the wall between the piers is no longer holding the roof up. It can be opened, and the result is the cathedral as a cage of stone filled with glass."},
+        {"l": "C", "t": "Directing all this was the master mason, a craftsman who had worked his way up with a chisel and who combined the roles later divided between architect, engineer and site manager. He worked from a lodge, a timber building against the wall of the church where the masons cut stone, kept their tools and ate. Drawings on parchment were rare, small and costly, and the serious design work was done at full size. Many lodges had a tracing floor, a wide surface of soft plaster on which the outline of a window, an arch or a moulding could be set out at its true dimensions with a compass and a straight edge, scraped away and drawn again. From these full-size outlines the masons cut thin templates in wood, and every block was worked until it matched its template. The method was geometrical rather than arithmetical: proportions were generated by construction, by squares and circles drawn from one another, at a time when written calculation was laborious and few on site could do it."},
+        {"l": "D", "t": "The material itself had to be found, shaped and moved. Where a good bed of stone lay near the site the builders quarried it there; otherwise it came from far off, and the first rule of transport was that stone should be roughly shaped at the quarry, so that less weight had to be carried. Wherever a river or the sea offered a route the stone went by water, since a single barge could take what would have needed dozens of carts over bad roads. At the site each block was finished by hand, and a mason would cut a small mark of his own into the stones he had dressed so that his output could be counted and paid for; these marks can still be read on the inner faces of many walls. Cathedrals also consumed timber on an enormous scale, and a large site kept its own smiths busy doing little but sharpening chisels."},
+        {"l": "E", "t": "Raising the stone was a problem of its own. An arch cannot stand until its last stone is in place, so each one was built over a wooden framework, called centring, which held the blocks in position until the mortar had set and could then be struck away and used again. Scaffolding rose with the walls, its horizontal poles resting in square holes deliberately left in the masonry, some of which were never filled in. For lifting, the great machine was a crane driven by a large wooden wheel, inside which one or two men walked as though climbing an endless staircase, turning a drum that wound the rope. The crane was mounted on the walls themselves and moved upwards as they grew. To grip the block, masons cut a tapering slot in its upper face and fitted into it an iron device known as a lewis, whose wedge-shaped pieces were pulled tight by the weight of the stone, so that the heavier the load, the firmer the hold."},
+        {"l": "F", "t": "The pace of the work was set, in the end, by mortar. Medieval mortar was made from lime, and lime mortar hardens slowly, drawing in air over months rather than curing in hours. A wall that rose too quickly could squeeze and spread the soft joints beneath it, and frost reaching mortar that had not yet set would destroy it altogether. Masons therefore worked through the warmer months only, and at the end of the season the tops of unfinished walls were capped with straw, dung or turf to keep the frost out until spring. The need to let one stage settle before loading it with the next is one reason why a cathedral could not have been built quickly even if the money had never run short."},
+        {"l": "G", "t": "Not everything stood. The builders were working beyond any tested experience, and the limit was found at Beauvais in northern France, where the choir was raised higher than any before it and part of its vault came down a few years after completion. It was rebuilt with the supports doubled, and the church was never finished as planned. Elsewhere the warnings were quieter: cracks appeared, piers leaned, and later masons added flying buttresses to buildings that had been designed without them. What the sites did not use was the army of pious volunteers of popular imagination. Processions of townspeople dragging carts of stone did occur, and were remembered because they were unusual; the walls were built by paid men, by quarriers, masons, carpenters, smiths, glaziers and plumbers who moved from one great project to the next, and the chief difficulty for any bishop was less a shortage of faith than a shortage of cash."}
+      ],
+      "groups": [
+        {
+          "type": "grid", "range": [14, 18],
+          "intro": [
+            "Reading Passage 2 has seven paragraphs **A-G**.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter **A-G** in boxes 14-18 on your answer sheet.",
+            "**NB** You may use any letter more than once."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G"],
+          "items": {
+            "14": "a reason why one part of the church was normally completed before the rest",
+            "15": "an explanation of how blocks were held securely while being raised",
+            "16": "a description of shapes being worked out at their true size",
+            "17": "reference to a weather condition that could ruin work already done",
+            "18": "an example of a building whose design went beyond what was safe"
+          },
+          "answers": {"14": "A", "15": "E", "16": "C", "17": "F", "18": "G"}
+        },
+        {
+          "type": "gap", "range": [19, 22],
+          "intro": [
+            "Complete the flow-chart below.",
+            "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+            "Write your answers in boxes 19-22 on your answer sheet."
+          ],
+          "limit": {"words": 2, "number": false},
+          "content": [
+            {"center": "**FROM THE QUARRY TO THE WALL**"},
+            "The stone is given its rough shape at the quarry, so that less [[19]] has to be carried.",
+            "↓",
+            "Where a route exists, the stone travels by [[20]], because one barge can take the load of many carts.",
+            "↓",
+            "At the site a mason finishes the block and cuts his own [[21]] into it, so that his work can be counted.",
+            "↓",
+            "A crane driven by a wooden [[22]], in which men walk, lifts the block up the growing wall.",
+            "↓",
+            "The block is bedded in lime mortar and left to harden slowly."
+          ],
+          "answers": {"19": "weight", "20": "water", "21": "mark", "22": "wheel"}
+        },
+        {
+          "type": "tfng", "range": [23, 26],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 2?",
+            "In boxes 23-26 on your answer sheet write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "23": "Building work on a cathedral normally continued at a constant rate until it was complete.",
+            "24": "The master mason was paid more than any other worker on the site.",
+            "25": "The walls of cathedrals were put up by craftsmen who received wages for their work.",
+            "26": "Designs were usually drawn out on parchment before building began."
+          },
+          "answers": {"23": "False", "24": "Not Given", "25": "True", "26": "False"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Who Decides What the Machines Will Do?",
+      "paragraphs": [
+        {"l": "A", "t": "Arguments about machines and work follow a script so familiar that both parts can be recited in advance. One side announces that a new technology is about to make human labour unnecessary. The other replies, patiently, that this has been said at every stage of industrial history and has never come true: mechanisation destroyed particular occupations, but it also made goods cheaper, created demand that had not existed, and brought into being whole categories of work that nobody had been able to imagine. The quantity of work in a society is not a fixed lump to be divided up, and anyone who assumes that it is will reach gloomy conclusions by arithmetic alone. All of this is correct, and it is also beside the point, because it is an answer to a question that very few people are actually asking. The serious worry has never been that a day will arrive on which there is no work left to do. It is a worry about who loses, at what moment in their life, and on what terms."},
+        {"l": "B", "t": "The machine-breakers of the early industrial period have become a byword for futile resistance to progress, which is unfair to them and unhelpful to us. They were not ignorant of machinery; many were highly skilled men whose trade had taken years to learn and could be acquired in weeks once a machine did the difficult part. Within their own working lives the value of that skill collapsed, and the wages that had supported a household fell to a level that would not. It is true that their grandchildren found employment in industries which could not have existed without the machines their grandfathers attacked. But a recovery that takes two generations is not a recovery for the generation that pays for it, and a benefit distributed across a whole society is no answer to a cost concentrated on a few thousand households in a single valley. Averages conceal precisely the thing that is at issue."},
+        {"l": "C", "t": "Is the present wave genuinely unlike the earlier ones? Something can be said for the claim. Previous machines took over physical operations and, later, arithmetic; the systems now spreading operate on language, images and judgement, which widens the range of tasks exposed and means that the people affected include many who assumed their work was protected by education. Yet confidence about the pace of the change is not warranted by the record. Tasks that were declared to be months away have remained stubbornly undone for a decade, while others that were thought to be safely human gave way almost without warning. The honest position is that the direction of travel is reasonably clear and the speed of it is not, and arrangements built on a particular date are likely to fail. What follows is not paralysis but a preference for measures that work whether the change arrives in five years or in fifty."},
+        {"l": "D", "t": "The most important question is the one that is least often framed as a question at all, which is where the gains go. When a process is automated, the value that used to be paid out in wages does not vanish; it is redistributed. It may go to the owners of the equipment as profit, to customers in the form of lower prices, or to the workers who remain, whose output per hour has risen. Which of these happens is not determined by the machine. It depends on how concentrated the industry is, on the bargaining strength of employees, on how the proceeds are taxed, on who owns the equipment, and on whether people displaced from one occupation can get the training that would let them enter another. Technology fixes what is possible; institutions decide the shares. A complaint about automation is therefore almost always a complaint about an arrangement, and arrangements, unlike physics, are open to amendment."},
+        {"l": "E", "t": "If the loss were only a loss of income, the remedy would be straightforward, and the various proposals for paying people an income whether or not they are employed would settle the matter. The evidence from the study of unemployment suggests that it would not. People who lose work report the disappearance of things that money does not restore: a shape to the day, a reason to leave the house, contact with people who are not family, a position that can be named when strangers ask, and the sense of being depended upon by somebody. Their health and their contentment decline further than the fall in their income can explain, and those who find new work of a similar kind recover in a way that those who merely receive money do not. A payment addresses the part of the loss that is easiest to measure and the smallest part of what is actually gone."},
+        {"l": "F", "t": "None of which should be turned into a defence of work as such, and here the argument often goes astray. A great deal of employment is monotonous, physically damaging or humiliating, and it is noticeable that the warmest tributes to the dignity of labour are composed by people whose own working days are varied, autonomous and comfortable. A machine that takes over the lifting in a warehouse, the inspection of a sewer or the handling of dangerous chemicals removes a genuine harm from somebody's life, and it is not progress to keep such jobs in existence on the grounds that they are jobs. The reasonable aim is fewer bad jobs rather than more of them, which means that the objection cannot be to automation in general. It must be to the particular way in which the costs and the benefits are currently allocated."},
+        {"l": "G", "t": "Put the strands together and the ethical question comes into focus. It is not whether machines should do work that people now do; much of that transfer is desirable and all of it is coming. It is who decides which tasks are handed over, at what speed, which people are expected to absorb the disruption, and who collects what is saved. Those decisions are made by companies choosing what to invest in, by governments choosing what to tax, subsidise and teach, and occasionally by organised employees choosing what to accept. They are choices, and they could be made differently. The one response that is certainly wrong is to speak of automation as though it were the weather: something that happens to a society, about which the only sensible attitude is to carry an umbrella."}
+      ],
+      "groups": [
+        {
+          "type": "ynng", "range": [27, 32],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 27-32 on your answer sheet write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "27": "Earlier periods of mechanisation did not leave societies with a permanent shortage of work.",
+            "28": "The workers who destroyed early industrial machinery failed to understand what it did.",
+            "29": "The speed at which the current technology will spread can be forecast dependably.",
+            "30": "Automation in the present century will destroy more jobs than it creates.",
+            "31": "Decisions about taxation and ownership influence how the gains from automation are shared out.",
+            "32": "There are kinds of work which it would be better for machines to take over."
+          },
+          "answers": {"27": "Yes", "28": "No", "29": "No", "30": "Not Given", "31": "Yes", "32": "Yes"}
+        },
+        {
+          "type": "match", "range": [33, 36],
+          "intro": [
+            "Complete each sentence with the correct ending, **A-F**, below.",
+            "Write the correct letter **A-F** in boxes 33-36 on your answer sheet."
+          ],
+          "options": {
+            "title": null,
+            "after": true,
+            "list": {
+              "A": "the harm done by the loss of work is not mainly financial.",
+              "B": "it is a reply to a question that hardly anyone is putting.",
+              "C": "the cost of a change can fall on one generation while the benefit reaches another.",
+              "D": "who chooses what is automated and who pays for the disruption.",
+              "E": "machines will in time be able to perform every kind of human task.",
+              "F": "industries should be prevented from introducing equipment too quickly."
+            }
+          },
+          "items": {
+            "33": "The writer’s objection to the standard reassurance about employment is that",
+            "34": "The example of the early machine-breakers is used to show that",
+            "35": "The writer doubts that an income paid to everybody would be sufficient because",
+            "36": "In the writer’s view, the question that really needs answering is"
+          },
+          "answers": {"33": "B", "34": "C", "35": "A", "36": "D"}
+        },
+        {
+          "type": "mcq", "range": [37, 40],
+          "intro": [
+            "Choose the correct letter **A**, **B**, **C** or **D**.",
+            "Write your answers in boxes 37-40 on your answer sheet."
+          ],
+          "items": {
+            "37": {
+              "stem": "What does the writer say in paragraph B about the grandchildren of the machine-breakers?",
+              "options": {
+                "A": "They worked in industries that the new machines had made possible.",
+                "B": "They were employed on worse terms than their grandfathers had been.",
+                "C": "They inherited skills that machinery could not reproduce.",
+                "D": "They left the valleys in which their families had lived."
+              }
+            },
+            "38": {
+              "stem": "What conclusion does the writer reach in paragraph C about predictions?",
+              "options": {
+                "A": "Specialists now agree about which tasks will be taken over first.",
+                "B": "Earlier forecasts were almost always too cautious.",
+                "C": "The course of the change is clearer than its timing.",
+                "D": "Attempts to predict the change should be given up."
+              }
+            },
+            "39": {
+              "stem": "In paragraph F the writer points out that",
+              "options": {
+                "A": "automation has so far been confined to unpleasant occupations.",
+                "B": "those who write admiringly about work tend to have agreeable jobs themselves.",
+                "C": "dangerous work ought to be rewarded with higher pay.",
+                "D": "most employees find their work more satisfying than they will say."
+              }
+            },
+            "40": {
+              "stem": "Which of the following best expresses the writer’s main argument?",
+              "options": {
+                "A": "Machines should be kept out of work that people are still able to do.",
+                "B": "The effects of automation follow from decisions rather than from the technology.",
+                "C": "Paying people an income regardless of employment is the remedy that is needed.",
+                "D": "The present wave of automation is no different in kind from earlier ones."
+              }
+            }
+          },
+          "answers": {"37": "A", "38": "C", "39": "B", "40": "B"}
+        }
+      ]
+    }
+  ]
+}

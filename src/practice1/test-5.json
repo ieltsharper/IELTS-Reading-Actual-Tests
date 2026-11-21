@@ -1,0 +1,263 @@
+{
+  "test": 5,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Volcanoes and the Climate",
+      "standfirst": "Why the same eruption can cool the world for a year and warm it for a hundred thousand.",
+      "paragraphs": [
+        {"l": "A", "t": "A large volcanic eruption is one of the very few natural events capable of altering the temperature of the whole planet within a few months, and it is also one of the most frequently misunderstood. In the weeks after a spectacular eruption the question usually asked is whether the volcano will warm the world or cool it, as though the answer had to be one or the other. An eruption does both, but on two timescales so far apart that they almost never compete. Over a year or two a big eruption cools the surface, by placing material high in the atmosphere where it intercepts sunlight before it can arrive. Over hundreds of thousands of years volcanism warms the surface, by adding to the air a gas that the planet has no rapid means of removing. Confusing the two is the commonest error in popular accounts of the subject."},
+        {"l": "B", "t": "What leaves a volcano is a mixture of solid fragments and gas. The solids range from blocks the size of a car to the fine shattered glass that is loosely called ash. Almost all of this material is heavy enough to fall back to the ground within hours or days, and even the finest ash is normally out of the air within a few weeks; it can ruin a harvest or bury a town, but it has little to do with global temperature. The gases are a different matter. Most of what a volcano exhales is water vapour, followed by carbon dioxide, with much smaller quantities of sulphur dioxide and other compounds. It is the sulphur dioxide, a minor component by weight, that does nearly all the work. Once in the atmosphere it reacts with water to form enormous numbers of microscopic droplets of sulphuric acid. Each droplet is far too small to see, but collectively they form a thin haze that scatters a fraction of the incoming sunlight back towards space, so that slightly less of it reaches the ground."},
+        {"l": "C", "t": "Whether that haze matters depends almost entirely on how high the eruption column rises. The lower atmosphere, in which our weather takes place, is constantly stirred and constantly wet, and anything suspended in it is washed out by rainfall within a matter of weeks. Above it lies the stratosphere, a calm, dry, layered region in which there is no rain to clean the air. An eruption violent enough to drive its plume through the boundary between the two delivers its sulphur into a place where the droplets can remain for a year or more, drifting slowly away from the latitude at which they were injected. Latitude therefore matters as well. Because the high-altitude circulation carries material away from the equator towards both poles, an eruption in the tropics can spread its haze over both hemispheres, while one at high latitudes tends to affect mainly the hemisphere in which it occurred. A modest eruption in Iceland and a modest eruption in Indonesia are not equivalent events."},
+        {"l": "D", "t": "The clearest demonstrations come from the historical record. The eruption of Tambora in Indonesia in 1815 was followed by a summer so cold and wet in Europe and eastern North America that crops failed, grain prices rose steeply and 1816 became known as the year without a summer. Much later, and far better measured, the eruption of Mount Pinatubo in the Philippines in 1991 lowered the average temperature of the global surface by roughly half a degree Celsius over the following year, before the haze thinned and temperatures recovered. Half a degree sounds trivial. It is in fact comparable in size to a good deal of the warming accumulated over the twentieth century, which is a useful reminder of how little it takes to change a planetary average, and of how short-lived such a change can be when the cause is removed."},
+        {"l": "E", "t": "Eruptions that no one recorded in writing can still be dated, because the atmosphere files its own accounts. Snow falling on Greenland and Antarctica is buried, compressed and preserved, and a core drilled through the resulting ice contains a layer for every year. Sulphuric acid from a stratospheric haze is deposited with the snow, so a large eruption leaves a distinct chemical signal in both polar ice sheets if it occurred in the tropics, and in only one if it did not. A second archive grows in forests. A tree adds a ring each season, and a cold, short growing season produces a ring that is unusually narrow, or one damaged by frost before the wood has hardened. When a chemical layer in the ice and a run of poor rings in the trees point to the same year, the case for a major eruption is strong, and historians can go back to the written sources to look for the famines that often followed."},
+        {"l": "F", "t": "The long story is the opposite of the short one. Carbon dioxide is a very weak contributor to the immediate effect of an eruption, because the quantity released even by a great explosion is small set against the amount already in the air. But carbon dioxide is not rained out. It accumulates, and over geological time the slow, unspectacular release of the gas from volcanic systems is one of the principal reasons that the planet has stayed habitable rather than freezing permanently. Episodes in the deep past in which enormous volumes of lava reached the surface over tens of thousands of years are associated with intervals of pronounced warmth, and with some of the severest crises in the history of life. It is worth stating plainly, however, that the modern figure for volcanic emissions is dwarfed by the output of industry and transport: human activity now releases far more carbon dioxide in a year than the world's volcanoes do, and the comparison is not close."},
+        {"l": "G", "t": "The cooling effect has nevertheless attracted interest as a model for deliberate intervention. If a haze of sulphate droplets in the stratosphere can lower the temperature of the planet by half a degree, the argument runs, then a haze maintained artificially could offset part of the warming produced by greenhouse gases, and at a cost that is small beside the cost of reducing emissions. The objections are substantial. A haze that is not renewed disappears within a few years, so any such scheme would have to be continued indefinitely, and abandoning it suddenly would release the suppressed warming all at once. Reflecting sunlight does nothing about the carbon dioxide itself, which would continue to acidify the oceans. The effects on rainfall would not be distributed evenly, and a measure that cooled one region might dry another, with no mechanism in existence for deciding who should be compensated. Volcanoes demonstrate that the mechanism works. They say nothing about whether it could be governed."}
+      ],
+      "groups": [
+        {
+          "type": "grid", "range": [1, 5],
+          "intro": [
+            "Reading Passage 1 has seven paragraphs A-G.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter A-G in boxes 1-5 on your answer sheet."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G"],
+          "items": {
+            "1": "a comparison between the amount of a gas produced by volcanoes and by human activity",
+            "2": "two effects of eruptions that operate in opposite directions",
+            "3": "an explanation of why some material stays in the air far longer than the rest",
+            "4": "reasons for doubting a proposed technical solution to warming",
+            "5": "a description of natural records that allow undocumented eruptions to be dated"
+          },
+          "answers": {"1": "F", "2": "A", "3": "C", "4": "G", "5": "E"}
+        },
+        {
+          "type": "bank", "range": [6, 9],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **FOUR** words from the box and write the correct letter **A-G** in boxes 6-9 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**How an eruption cools the surface**"},
+            "Most of the solid material thrown out by a volcano, including the fine fragments known as [[6]], is heavy enough to return to the ground quickly and has no effect on global temperature. The gas that matters is [[7]], which is converted in the air into countless tiny droplets of acid. These droplets scatter part of the incoming sunlight back towards space. How long they survive depends on the height of the eruption column: in the lower atmosphere they are removed within weeks by [[8]], but a plume that reaches the [[9]] can keep them aloft for a year or more."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "rainfall",
+              "B": "ash",
+              "C": "carbon dioxide",
+              "D": "stratosphere",
+              "E": "sulphur dioxide",
+              "F": "wind",
+              "G": "water vapour"
+            }
+          },
+          "answers": {"6": "B", "7": "E", "8": "A", "9": "D"}
+        },
+        {
+          "type": "tfng", "range": [10, 13],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "In boxes 10-13 on your answer sheet write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "10": "An eruption at a high latitude affects both hemispheres to the same extent as one in the tropics.",
+            "11": "The eruption of 1815 was followed by the failure of crops in Europe.",
+            "12": "The ice sheet of Greenland preserves volcanic acid better than the ice sheet of Antarctica.",
+            "13": "Volcanoes currently release more carbon dioxide each year than industry and transport do."
+          },
+          "answers": {"10": "False", "11": "True", "12": "Not Given", "13": "False"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The Age of the Lighthouse",
+      "paragraphs": [
+        {"l": "A", "t": "A coastline is not a line but a problem. Approached from the sea at night, a low shore is invisible, a headland looks like an island, and the reef that will open a ship's hull lies a mile from anything that can be seen at all. A light placed on the shore solves two difficulties at once. It warns that a danger is near, and, if the mariner knows which light he is looking at, it also tells him where he is, which is the harder and more valuable service of the two. For most of recorded history there was no reliable way of fixing a position out of sight of land, so the sight of a known light after a long passage was the moment at which guesswork ended. Societies that depended on sea trade therefore found ways of paying for lights, usually by charging a due on every cargo landed, long before they would pay for roads of comparable usefulness."},
+        {"l": "B", "t": "The earliest towers were simply high places on which a fire could be kept burning. The most celebrated of them, the Pharos of Alexandria, was raised in the third century BC, was counted among the seven wonders of the ancient world, and stood for well over a thousand years before earthquakes brought it down. The Romans built lesser towers at the mouths of their harbours, including one that still survives within the walls of Dover Castle in England. In medieval Europe the work often fell to religious houses, and a chapel on a cliff with a lamp in its window might be maintained by monks who were also paid to pray for sailors. The fuel was wood and, later and more usually, coal, burned in an open iron basket at the top of the tower. Such a fire was genuinely bright, but it consumed an enormous weight of fuel, every ton of which had to be carried up by hand, and it burned worst in precisely the conditions in which it was most needed, since rain drowned it and a gale either blew it out or smothered it in its own smoke."},
+        {"l": "C", "t": "The hardest lights to establish were those on rocks that the sea covered at high water, and the long argument over one of them, the Eddystone reef off Plymouth, became the school in which the problem was solved. The first tower there, an elaborate wooden structure finished in 1698, was swept away in a great storm five years later, taking its builder with it. The second, completed in 1709 and built largely of wood on a stone base, lasted almost fifty years before it burned down. The third was the decisive one. Finished in 1759, it was built of stone throughout, and its designer solved the problem of a structure that the waves would try to lift rather than merely push: each block was dovetailed into its neighbours and into the course below, so that the tower behaved as a single mass, and it was bedded in a lime that would set under water instead of a mortar that would wash away. Its profile, broad at the base and curving inwards as it rose, was deliberately modelled on the trunk of an oak, a shape chosen because a tree survives the wind that fells a wall. Every wave-swept tower built since has followed the same principles."},
+        {"l": "D", "t": "Solving the building left the light itself, which until the end of the eighteenth century was poor. The improvement came from two directions. The first was a new oil lamp with a hollow circular wick and a glass chimney, which drew air through the middle of the flame as well as around it and so burned far more steadily and brightly than a wick in a dish. The second was optical. A flame radiates in every direction, and a light at sea needs almost all of that radiation sent outwards in a narrow horizontal band. Curved metal reflectors placed behind the lamp achieved part of this, but they absorbed a good deal of the light they handled. The answer, introduced in the 1820s, was a lens assembled from concentric rings of glass, each ring ground to the angle required to bend the light passing through it into the beam. Because the thickness of a conventional lens had been replaced by a series of thin steps, the new apparatus was lighter, cheaper and far less absorbent than a solid lens of the same power would have been, and it increased the range of a light out of all recognition. The lamps beneath it changed repeatedly over the following century, from vegetable and mineral oils to vaporised paraffin, gas and finally electricity, but the lens did not need to change at all."},
+        {"l": "E", "t": "A powerful light raised a new difficulty: on a coast with many lights, a brilliant one is useless if the mariner cannot tell which it is. Each station was therefore given its own pattern of flashes and intervals of darkness, and these patterns were printed in the lists of lights that every navigator carried, so that a sailor could identify a station by counting with his watch. Producing the pattern meant turning the whole lens assembly around the lamp at a precise speed. Early arrangements ran on rollers and wore out quickly; the elegant solution was to float the entire rotating structure, which might weigh several tonnes, in a shallow bath of mercury, where it could be set moving with the pressure of one hand. The motive power was clockwork, wound up by the keeper at intervals through the night, with a weight descending slowly down the centre of the tower exactly as in a longcase clock."},
+        {"l": "F", "t": "All of this required keepers, usually three at an isolated station so that two were always available and no man was ever alone with a body if one of them died. Their work was unromantic. They trimmed wicks, polished glass, wound the clockwork, kept a written log and painted whatever was within reach, and in bad weather they waited, sometimes for weeks beyond the date on which a relief was due. Automation ended the profession in the course of the twentieth century. Once lamps could be changed by a mechanism, failures reported by radio and the whole installation supervised from an office on shore, there was no case for keeping men on a rock, and the last keepers were withdrawn from most national services before the century ended. Satellite navigation has since removed the second of the lighthouse's two functions altogether, and a modern ship knows its position to within a few metres without looking out of the window. Lights are nevertheless still maintained, because electronics fail and the rocks do not move, and the towers themselves have acquired a new value as monuments to a period when the only way to make a coast safe was to put a man on it with a lamp."}
+      ],
+      "groups": [
+        {
+          "type": "headings", "range": [14, 19],
+          "intro": [
+            "Reading Passage 2 has six paragraphs A-F.",
+            "Choose the correct heading for each paragraph from the list of headings below.",
+            "Write the correct number i-ix in boxes 14-19 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Headings**"],
+            "list": {
+              "i": "A light that could be told apart from its neighbours",
+              "ii": "Competition between rival national authorities",
+              "iii": "Building where the sea closes over the site",
+              "iv": "Fires on towers: the first thousand years",
+              "v": "Why a coast has to be marked at all",
+              "vi": "Better flames and a better way of aiming them",
+              "vii": "The end of an occupation",
+              "viii": "The rising cost of maintaining old towers",
+              "ix": "Lighthouses as a subject for painters"
+            }
+          },
+          "items": {"14": "Paragraph **A**", "15": "Paragraph **B**", "16": "Paragraph **C**", "17": "Paragraph **D**", "18": "Paragraph **E**", "19": "Paragraph **F**"},
+          "answers": {"14": "v", "15": "iv", "16": "iii", "17": "vi", "18": "i", "19": "vii"}
+        },
+        {
+          "type": "gap", "range": [20, 23],
+          "intro": [
+            "Complete the table below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 20-23 on your answer sheet."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"center": "**The towers on the Eddystone reef**"},
+            {"table": [
+              ["Tower", "What is known about it"],
+              ["Finished 1698", "It was carried away in a [[20]] five years after it was completed."],
+              ["Finished 1709", "It was made mainly of [[21]] and survived for nearly fifty years before fire destroyed it."],
+              ["Finished 1759", "The stone blocks were [[22]] into one another so that the tower acted as one mass."],
+              ["", "Its outline copied that of an [[23]], because such a tree withstands wind that destroys a wall."]
+            ]}
+          ],
+          "answers": {"20": "storm", "21": "wood", "22": "dovetailed", "23": "oak"}
+        },
+        {
+          "type": "short", "range": [24, 26],
+          "intro": [
+            "Answer the questions below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 24-26 on your answer sheet."
+          ],
+          "limit": {"words": 1, "number": false},
+          "items": {
+            "24": "Which fuel was usually burned in the open iron baskets on early towers?",
+            "25": "What kind of mechanism turned the lens around the lamp?",
+            "26": "What substance was the rotating apparatus floated in?"
+          },
+          "answers": {"24": "coal", "25": "clockwork", "26": "mercury"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The Myth of the Multitasker",
+      "paragraphs": [
+        {"l": "A", "t": "Few words have been absorbed into everyday speech as quickly, or as carelessly, as multitasking. It was borrowed from computing, where it describes a processor that gives short turns to several programs in succession, and it was then applied to people as though it described something they could get better at by trying. Job advertisements request it. Students claim it as a skill. The claim is usually made with some pride, and it is almost always a description of a habit rather than an ability. The borrowed word is in fact an unusually accurate one, provided it is understood in its original sense: the machine is not doing two things at once either. It is taking turns, very fast, and the costs of taking turns are the subject of this article."},
+        {"l": "B", "t": "The architecture of attention makes genuine simultaneity impossible for a narrow but important class of tasks. A great deal of what a person does in a day is automatic, in the technical sense that it has been practised until it no longer requires any decision: walking, chewing, following a familiar road. Automatic activities make almost no demand on the central machinery that selects and controls behaviour, and they can therefore be combined with a demanding task without harm, which is why a conversation and a well-known drive can run alongside each other quite comfortably. What cannot be combined are two tasks that both require that central machinery, because it deals with one thing at a time. Reading a sentence and composing a different one, listening to an argument and drafting a reply, are activities that must queue. The strong impression of doing both at once is produced by switching rapidly between them, and the impression is convincing because the switching is not itself something we can observe."},
+        {"l": "C", "t": "Switching is not free. Laboratory work on the point is straightforward and remarkably consistent: when people alternate between two tasks, each of which they can perform quickly on its own, they are slower and make more errors than when they complete one and then the other. Part of the loss is mechanical reconfiguration, the mental equivalent of changing tools. A larger part appears to be residue. Attention does not detach cleanly, and for some seconds after a switch a portion of it remains occupied with the task just abandoned, degrading the task now in hand. This is why an interruption costs more than the time it takes. The real expense is not the two minutes spent answering the question but the effort of rebuilding afterwards the state the interrupted work required: the half-formed plan, the three figures held in mind, the sense of where the argument was going. Work that has to be reassembled from the beginning several times in an afternoon may never reach the depth it needed."},
+        {"l": "D", "t": "One might expect that people who do this constantly would at least have grown efficient at it. The evidence points the other way, and it is among the more robust findings in the field. When volunteers are sorted by how much media multitasking they report in daily life, those at the heavy end perform worse, not better, on tasks that require irrelevant information to be ignored, worse on tasks requiring an item to be held in memory while something else is attended to, and, awkwardly, worse at switching between tasks. They are also markedly more confident of their performance. Whether heavy multitasking erodes the ability to filter, or whether people who filter poorly are drawn to environments that keep interrupting them, is not settled by this kind of comparison and should not be asserted. What can be said is that the self-assessment is unreliable, and that an activity which feels productive while it is being performed is weak evidence that it is."},
+        {"l": "E", "t": "A fair account must register the counter-arguments. Not every combination is costly, and the automatic category is larger than the sceptics sometimes allow; the objection is to specific pairings, not to doing more than one thing in an hour. Nor is a familiar drive dangerous merely because the driver is talking, for as long as the driving stays routine. The difficulty arrives at the moment it stops being routine, when the lorry ahead brakes without warning and the resources that the unexpected event requires are already committed elsewhere. There is also a persistent claim that a very small proportion of people suffer no measurable penalty at all from dividing attention. Such claims deserve interest, but they deserve caution too: a tiny minority identified by a test is exactly the sort of result that shrinks when the test is repeated, and in any case almost everyone who believes they belong to this group has been shown, by the paragraph above, to be an unreliable judge of the matter."},
+        {"l": "F", "t": "Where the discussion goes wrong is in treating the whole question as one of personal discipline. Modern working environments are built to interrupt. Messages arrive with a sound and a moving banner, both designed by people whose purpose was to make the message impossible to ignore. Open-plan offices put every conversation within earshot. An expectation has grown up, in many organisations, that a message should be answered within minutes, so that the worker who concentrates is the worker who appears unresponsive. It is worth adding that the figures circulated about all this should be handled sceptically: the striking numbers quoted for the hours or the billions lost to interruption every year are repeated far more confidently than their original basis justifies, and a weak statistic is a poor foundation for a sound argument. The argument does not need it. Self-interruption deserves mention as well, since studies of people at work find that a large share of switches are initiated by the worker rather than by anyone else, and a habit of reaching for a device during any dull moment is not something an employer can switch off."},
+        {"l": "G", "t": "The practical advice that follows is unglamorous and tolerably well supported: protect blocks of time in which notification is impossible rather than merely discouraged, gather similar small tasks and do them together, and expect the first minutes of any resumed work to be unproductive, because they will be. But advice directed at individuals cannot carry the whole weight. If attention is a limited resource, an organisation that fragments it has made a design decision, in the same way that it makes a decision about lighting or about the height of a desk, and it is odd that the first is so rarely examined while the second is regulated. The useful conclusion is not that people should try harder to do several things at once. It is that the heaviest costs of divided attention arise from the way environments are arranged, and that they can be reduced by arranging them differently."}
+      ],
+      "groups": [
+        {
+          "type": "match", "range": [27, 31],
+          "intro": [
+            "Complete each sentence with the correct ending, **A-H**, below.",
+            "Write the correct letter **A-H** in boxes 27-31 on your answer sheet."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "is produced by moving rapidly between them.",
+              "B": "tend to overestimate how well they are doing it.",
+              "C": "arise from the way working environments are arranged.",
+              "D": "can be combined with a demanding task without harm.",
+              "E": "is greater than the duration of the interruption itself.",
+              "F": "has been measured precisely in financial terms.",
+              "G": "disappears once a person has had enough practice.",
+              "H": "is more common among younger workers than older ones."
+            },
+            "after": false
+          },
+          "items": {
+            "27": "Activities that have been practised until they need no decisions",
+            "28": "The sense that two demanding tasks are being carried out simultaneously",
+            "29": "People who report the greatest amount of multitasking in daily life",
+            "30": "The time lost when a piece of work is interrupted",
+            "31": "According to the writer, the largest costs of divided attention"
+          },
+          "answers": {"27": "D", "28": "A", "29": "B", "30": "E", "31": "C"}
+        },
+        {
+          "type": "ynng", "range": [32, 35],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 32-35 on your answer sheet write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "32": "The word 'multitasking' is a poor description of what a computer does.",
+            "33": "Holding a conversation while driving on a familiar road is dangerous in itself.",
+            "34": "Reports that a few individuals divide their attention without any penalty should be treated carefully.",
+            "35": "Organisations that restrict internal messaging have seen their output improve."
+          },
+          "answers": {"32": "No", "33": "No", "34": "Yes", "35": "Not Given"}
+        },
+        {
+          "type": "mcq", "range": [36, 38],
+          "intro": [
+            "Choose the correct letter **A**, **B**, **C** or **D**.",
+            "Write your answers in boxes 36-38 on your answer sheet."
+          ],
+          "items": {
+            "36": {
+              "stem": "In paragraph C, what does the writer identify as the principal cost of being interrupted?",
+              "options": {
+                "A": "the minutes spent dealing with whoever interrupted",
+                "B": "the work of restoring the mental state the task required",
+                "C": "the irritation that repeated interruptions produce",
+                "D": "the number of errors made during the interruption itself"
+              }
+            },
+            "37": {
+              "stem": "What does the writer say about the published figures for the cost of interruption at work?",
+              "options": {
+                "A": "They are stated with more confidence than their basis allows.",
+                "B": "They are now too old to be of any use.",
+                "C": "They apply only to particular kinds of office.",
+                "D": "They are essential to the case he is making."
+              }
+            },
+            "38": {
+              "stem": "What is the writer's main purpose in the final paragraph?",
+              "options": {
+                "A": "to recommend that individuals practise concentrating for longer",
+                "B": "to show that advice about attention is usually mistaken",
+                "C": "to argue that divided attention is a matter of design rather than of character",
+                "D": "to compare the regulation of offices in different countries"
+              }
+            }
+          },
+          "answers": {"36": "B", "37": "A", "38": "C"}
+        },
+        {
+          "type": "multi", "range": [39, 40], "choose": 2,
+          "intro": ["Choose **TWO** letters **A-E**.", "Write your answers in boxes 39-40 on your answer sheet."],
+          "stem": "Which **TWO** consequences of switching between two demanding tasks does the writer describe?",
+          "options": {
+            "A": "Mistakes become more frequent.",
+            "B": "The second task is performed more accurately than the first.",
+            "C": "Some attention remains with the task that has just been left.",
+            "D": "The person becomes aware of how much time has been lost.",
+            "E": "Both tasks are remembered better afterwards."
+          },
+          "answer": "A, C"
+        }
+      ]
+    }
+  ]
+}

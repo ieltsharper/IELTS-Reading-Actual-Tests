@@ -1,0 +1,270 @@
+{
+  "test": 6,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Unseen Journey of the Eel",
+      "paragraphs": [
+        "For as long as people have fished the rivers of Europe they have caught eels, and for most of that time nobody could say where an eel came from. Fishermen took them from ponds, ditches and estuaries, and found that the animals they cut open contained no eggs and no recognisable reproductive organs at all. Eels seemed to appear in waters that had no connection with any other, including isolated pools, and they could be seen on wet nights crossing damp grass from one ditch to the next. Aristotle, who examined the question as carefully as anyone in the ancient world, concluded that eels were not born but formed spontaneously out of mud. Variations on that idea survived for centuries, and the puzzle of the eel’s origin was still unsolved when biology had explained the life cycle of almost every other European fish.",
+        "The answer, when it came, was assembled from the sea rather than from the river. Early in the twentieth century the Danish scientist Johannes Schmidt began a long series of Atlantic voyages, towing fine nets at depth and collecting the small, leaf-shaped larvae that were by then known to be young eels. His method was simple in principle: wherever he sailed, he measured the larvae he caught, reasoning that the smallest ones must be the newest and so would be found nearest to the place where they had hatched. Year after year the catches led him west and south, and the tiniest specimens of all came from the Sargasso Sea, a warm, still region of the western Atlantic bounded not by coasts but by circling currents. Schmidt concluded that the European eel spawns there and nowhere else. A century later this remains the accepted account, although no adult European eel has ever been observed spawning in the wild, and the eggs themselves have never been collected from the open ocean.",
+        "The creature that hatches is so unlike an eel that it was described as a separate species before anyone realised what it was. A leptocephalus is flattened from side to side, shaped like a willow leaf and almost perfectly transparent, with a body of jelly-like tissue and a thread of gut. It is a feeble swimmer, and for the crossing of the Atlantic it is carried rather than carrying itself, riding the broad drift of warm water that runs north-east towards Europe. The journey takes a year or more, and the larva feeds on fine organic material suspended in the surface water rather than hunting prey.",
+        "Arrival at the edge of the continental shelf triggers the first of several transformations. The leaf-shaped larva shrinks, thickens and becomes a glass eel: a transparent miniature of the adult, still without pigment, so clear that the spine can be seen through the flesh. Glass eels gather in estuaries in winter and spring, and use the rising tide to carry themselves inland, holding position near the bottom while the water falls. As they take on colour they are known as elvers, and they begin to push upstream, climbing wet stone and weed around obstacles that would stop most fish.",
+        "There follows the long, obscure middle of the eel’s life. In rivers, lakes, marshes and estuaries the animal becomes a yellow eel, so called for the dull olive and brass of its flanks, and it may remain in this stage for anything from a few years to several decades, hunting at night, lying under stones by day and growing very slowly in cold water. One of the stranger features of the species belongs to this period. An eel’s sex is not fixed when the egg is fertilised; it is settled much later, and appears to depend on the conditions in which the young animal grows, with crowded waters producing a different balance of males and females from sparsely populated ones.",
+        "At last something prompts the eel to leave. Over a few months its body is rebuilt for a journey it will make only once. The eyes enlarge greatly and their pigments shift towards the blue of deep water; the pectoral fins broaden; the back darkens and the flanks turn a metallic silver that makes the animal hard to see from above or below. The gut degenerates and the eel stops feeding altogether, so that the entire crossing must be paid for out of stored fat. These silver eels drop downstream on dark, rainy autumn nights and disappear into the Atlantic, and almost nothing is known of what happens next, beyond the fact that they are thought to die after spawning.",
+        "The European eel is now in serious trouble. The number of glass eels reaching European estuaries each spring is a small fraction of what was recorded a few decades ago, and the species is classed as critically endangered. No single cause explains the decline. Weirs, sluices, dams and hydroelectric turbines stand between the sea and much of the habitat the eel once used, blocking young eels on the way up and killing silver eels on the way down. A parasitic worm that lodges in the swim bladder, brought to Europe with eels imported from East Asia, is now widespread and may leave infected animals unable to complete a long swim at depth. Pollution leaves chemical residues in the fat the eel depends on for its final journey. Glass eels are fished intensively, in part because eel farming has never managed to breed the animal through every stage of its life and so remains dependent on young eels caught in the wild. Shifts in the ocean currents that deliver the larvae may matter as much as any of these, and are the hardest of all to manage. An animal that was once so common that it was given to the poor is now the subject of urgent conservation effort across a continent."
+      ],
+      "groups": [
+        {
+          "type": "gap", "range": [1, 4],
+          "intro": [
+            "Complete the flow-chart below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 1-4 on your answer sheet."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"center": "**The life cycle of the European eel**"},
+            "Eggs are laid in the Sargasso Sea.",
+            "↓",
+            "The larva, called a [[1]], drifts across the Atlantic on the warm current.",
+            "↓",
+            "On reaching the continental shelf it becomes a glass eel, which is still without [[2]].",
+            "↓",
+            "After gaining colour, the young eel (now an elver) moves upstream.",
+            "↓",
+            "It lives for years or decades as a [[3]] eel, feeding at night.",
+            "↓",
+            "Its body is rebuilt for the return journey: the [[4]] breaks down and the animal stops eating.",
+            "↓",
+            "The silver eel leaves the river in autumn and swims out into the Atlantic."
+          ],
+          "answers": {"1": "leptocephalus", "2": "pigment", "3": "yellow", "4": "gut"}
+        },
+        {
+          "type": "tfng", "range": [5, 9],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "In boxes 5-9 on your answer sheet write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "5": "Schmidt worked out where eels breed by recording the size of the larvae he caught in different places.",
+            "6": "European eels have been seen laying their eggs in the Sargasso Sea.",
+            "7": "The larvae swim strongly against the current for most of their journey to Europe.",
+            "8": "The return journey to the Sargasso Sea takes longer than the drift towards Europe.",
+            "9": "Whether an eel becomes male or female is decided at the moment the egg is fertilised."
+          },
+          "answers": {"5": "True", "6": "False", "7": "False", "8": "Not Given", "9": "False"}
+        },
+        {
+          "type": "match", "range": [10, 13],
+          "intro": [
+            "Complete each sentence with the correct ending, **A-G**, below.",
+            "Write the correct letter **A-G** in boxes 10-13 on your answer sheet."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "obstacles that stop young eels going up and kill adults coming down.",
+              "B": "the result of warmer water in the Sargasso Sea.",
+              "C": "preparations for a long swim in deep, open water.",
+              "D": "responsible for the disappearance of most lakes and marshes.",
+              "E": "brought to Europe with eels imported from East Asia.",
+              "F": "able to breed the animal through every stage of its life.",
+              "G": "dependent on young eels caught in the wild."
+            },
+            "after": true
+          },
+          "items": {
+            "10": "The enlarged eyes and broader fins of a silver eel are",
+            "11": "The worm that infests the swim bladders of many European eels was",
+            "12": "Weirs, dams and hydroelectric turbines are",
+            "13": "Eel farms are"
+          },
+          "answers": {"10": "C", "11": "E", "12": "A", "13": "G"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Drawing the World",
+      "standfirst": "Every map is an argument about what matters, and the history of map-making is a history of changing purposes.",
+      "paragraphs": [
+        "A map is not a picture of the world. It is a flat, reduced and selective statement about the world, and each of those three words conceals a problem that map-makers have spent several thousand years trying to solve. Flatness requires a method for representing a curved surface on a sheet. Reduction requires a consistent scale. Selection requires somebody to decide what is worth drawing, and that decision has always depended less on the land itself than on what the map was for.",
+        "The oldest surviving attempt at a map of the whole world is a small Babylonian clay tablet. It shows the known lands as a disc, with Babylon near the middle and a ring of water, labelled as a bitter river, drawn around the outside. Beyond that ring the tablet places regions described in writing rather than drawn to any scale. The object is not a guide to travel; it is a statement about the shape of creation and about where its centre lies, and in that respect it set a pattern that would be followed for a very long time.",
+        "Greek scholarship introduced measurement. Having accepted that the earth was a sphere, Greek geographers set about estimating its size, and the best known of these attempts used the difference between the shadows cast at noon on the same day in two Egyptian cities a known distance apart. The result was remarkably close to the modern figure. The tradition reached its height in Alexandria in the second century AD with Ptolemy, whose *Geography* was less a map than a set of instructions for making one. It listed thousands of places as pairs of numbers, a latitude and a longitude, so that a map could be reconstructed from the text alone by anyone who understood the system, and it discussed how the curved surface might be laid out on a flat page. Ptolemy also made the earth considerably too small, an error that was still being repeated more than a thousand years later and that encouraged navigators to believe Asia lay within an easy westward sail.",
+        "Ptolemy’s work was preserved and extended in the Arabic-speaking world while it was largely unknown in western Europe. Scholars there corrected his coordinates where travellers’ reports allowed; the most celebrated of their own surveys was compiled in twelfth-century Sicily for a Norman king, combining the accounts of merchants and pilgrims into a map and an accompanying description of the inhabited world. Its orientation, with south at the top, is a useful reminder that north is a convention and not a fact.",
+        "In medieval Europe the dominant form was the mappa mundi, which organised the world around a sacred centre rather than around a journey. East was placed at the top, Jerusalem at the middle, and the space between was filled with cities, rivers, scenes from scripture and the strange peoples and beasts that were believed to live at the edges of the earth. Such maps are often described as inaccurate, but accuracy of position was not what they were attempting. They were summaries of knowledge and belief, meant to be read and contemplated, and a traveller would no more have used one to find a road than a modern reader would navigate by a diagram of the solar system.",
+        "Practical navigation produced a quite different object. From the thirteenth century onwards, Mediterranean sailors used portolan charts, whose coastlines were built up from the accumulated records of voyages and are startlingly close to their true shapes. These charts show almost nothing of the interior, but they are covered by a web of straight lines radiating from compass roses placed around the sheet, allowing a navigator with a compass to lay off a course between two ports. Here, for the first time, the map was a working instrument, and its makers were tradesmen serving shipowners rather than scholars serving princes.",
+        "Ocean voyaging made the problem of flatness urgent. On a globe, a course steered at a constant compass bearing is a curve, and on an ordinary chart it cannot be drawn as a straight line. The projection published by Gerardus Mercator in the sixteenth century solved this by stretching the spacing of the parallels towards the poles by exactly the amount needed to make such a course appear straight. The price was a severe distortion of area: on a Mercator map the lands of the far north and south swell enormously, so that Greenland rivals Africa, which is in truth many times larger. The projection is therefore excellent for the single purpose for which it was designed and misleading for almost every other, which is the ordinary condition of maps.",
+        "Position at sea remained half-solved. Latitude could be found readily enough by measuring the sun or a star above the horizon, but longitude requires comparing local time with the time at a chosen reference meridian, and no clock would keep time through months of damp, rolling weather. The eventual answer, in the eighteenth century, was a marine timekeeper built to run accurately at sea. On land the same century saw governments begin systematic national surveys based on triangulation, in which a single baseline is measured on the ground with great care and a chain of triangles is then extended across the country from it by observing angles alone. These surveys were slow and costly, and they were paid for by states with military interests rather than by the sellers of maps.",
+        "Photography from the air, and later from orbit, changed the gathering of information rather than its purpose. A modern mapping agency works from imagery that is refreshed continually, and the position of any point can be fixed by satellite to within a few centimetres. Yet the final questions are the ones the Babylonian scribe faced: what to include, what to leave out, what to place at the centre and whose names to use. A digital map chooses on the user’s behalf, quietly and invisibly, and is no less a selection for being made of data."
+      ],
+      "groups": [
+        {
+          "type": "match", "range": [14, 18],
+          "intro": [
+            "Look at the following statements and the list of maps and map types below.",
+            "Match each statement with the correct map or map type, **A-F**.",
+            "Write the correct letter **A-F** in boxes 14-18 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Maps and Map Types**"],
+            "list": {
+              "A": "the Babylonian clay tablet",
+              "B": "Ptolemy’s *Geography*",
+              "C": "the medieval mappa mundi",
+              "D": "the portolan chart",
+              "E": "the Mercator projection",
+              "F": "the national triangulation survey"
+            },
+            "after": false
+          },
+          "items": {
+            "14": "It was constructed so that a course steered at a constant compass bearing could be drawn as a straight line.",
+            "15": "It gave places as pairs of numbers, so that the map could be rebuilt from the written text.",
+            "16": "It showed the known lands as a disc encircled by water.",
+            "17": "Its coastlines were assembled from what sailors had recorded on earlier voyages.",
+            "18": "It was arranged around a holy centre and was intended for reflection rather than travel."
+          },
+          "answers": {"14": "E", "15": "B", "16": "A", "17": "D", "18": "C"}
+        },
+        {
+          "type": "bank", "range": [19, 23],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **FIVE** words from the box and write the correct letter **A-H** in boxes 19-23 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Fixing position**"},
+            "Before the eighteenth century a navigator could establish [[19]] without great difficulty by taking a sight of the sun or a star, but there was no equally straightforward method for longitude, which depends on comparing local time with the time at an agreed [[20]]. The answer was finally a clock that would keep good time on a rolling ship. On land, national mapping came to rest instead on [[21]], a method in which a chain of triangles is carried across the country from one carefully measured [[22]]. Work of this kind was slow and expensive, and it was generally financed by states with [[23]] purposes in mind."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "commercial",
+              "B": "projection",
+              "C": "latitude",
+              "D": "triangulation",
+              "E": "meridian",
+              "F": "altitude",
+              "G": "baseline",
+              "H": "military"
+            }
+          },
+          "answers": {"19": "C", "20": "E", "21": "D", "22": "G", "23": "H"}
+        },
+        {
+          "type": "mcq", "range": [24, 26],
+          "intro": [
+            "Choose the correct letter **A**, **B**, **C** or **D**.",
+            "Write your answers in boxes 24-26 on your answer sheet."
+          ],
+          "items": {
+            "24": {
+              "stem": "The writer refers to Ptolemy’s estimate of the size of the earth in order to show that",
+              "options": {
+                "A": "a mistake in a respected work may be repeated for many centuries.",
+                "B": "Greek geographers were less careful than Babylonian ones.",
+                "C": "Ptolemy had no reliable reports from travellers.",
+                "D": "longitude has always been harder to measure than latitude."
+              }
+            },
+            "25": {
+              "stem": "What does the writer say about the criticism that medieval mappae mundi were inaccurate?",
+              "options": {
+                "A": "It is unfair because the maps were copied from older originals.",
+                "B": "It judges the maps by an aim they did not have.",
+                "C": "It applies only to the areas furthest from Europe.",
+                "D": "It has been disproved by comparison with portolan charts."
+              }
+            },
+            "26": {
+              "stem": "In the final paragraph, the writer argues that modern mapping",
+              "options": {
+                "A": "has made national surveys unnecessary.",
+                "B": "is accurate enough to need no further improvement.",
+                "C": "still rests on choices about what to show.",
+                "D": "has returned to the concerns of early religious maps."
+              }
+            }
+          },
+          "answers": {"24": "A", "25": "B", "26": "C"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Building for a Warmer World",
+      "paragraphs": [
+        {"l": "A", "t": "Of all the things human beings make, buildings are among the longest-lived and the most demanding. They consume a large share of the energy used in the world, both in keeping their occupants warm, cool and lit and in the manufacture of the materials from which they are assembled. What makes this more than an engineering problem is the timescale. A car is replaced within a decade or two; an office block may still be standing in a hundred years, and decisions taken on a drawing board in a single afternoon — how deep the building is, which way its windows face, how its structure is framed — will govern its energy consumption for the whole of that life. Sustainable design is therefore less a style than an attempt to take seriously the fact that such choices cannot easily be revisited."},
+        {"l": "B", "t": "It is worth remembering that for most of history builders had no choice but to pay attention to climate, because they had no machinery with which to overcome it. In hot, dry regions the answer was mass: walls of stone or mud brick thick enough to absorb the heat of the day and release it slowly through the cold night, small openings, pale surfaces, and rooms arranged around a shaded courtyard. Some towns added tall shafts that caught the prevailing wind and drew it down into the rooms below. In hot, wet regions, where the nights bring little relief and mass is useless, the opposite logic applied: light construction, floors raised off the damp ground, wide overhanging eaves, and walls designed to let air pass straight through. These were not quaint local manners but solutions tested over many generations, and they were largely abandoned once cheap electricity and mechanical air-conditioning made it possible to put up a sealed glass tower in Stockholm and an almost identical one in Singapore and keep both at the same temperature by force."},
+        {"l": "C", "t": "Much of what is now called sustainable design is the recovery of that older intelligence, expressed in modern terms. Orientation comes first: in a cool climate the long face of a building is usually turned towards the midday sun to gather warmth, and in a hot one away from it. Shading is then sized to the geometry of the sun, since a horizontal projection that excludes high summer sunlight will admit the low winter sun beneath it. A building shallow enough in plan can be lit by daylight and ventilated by opening windows on opposite sides, or by allowing warm air to escape through a tall space and draw cooler air in behind it. None of these measures involves expensive technology, and all of them cost very little if they are settled while the plan is still being drawn. Once the frame is up, almost none of them can be added without rebuilding."},
+        {"l": "D", "t": "Northern Europe has pursued a different and more technical strategy, in which the building is treated as a vessel that must not leak. The envelope is wrapped in a continuous layer of insulation, junctions are detailed to avoid the paths through which heat escapes at corners and around openings, the glazing is triple, and the structure is sealed so thoroughly that its airtightness is tested before completion. A house built in this way may need almost no heating even in a hard winter. The approach has two consequences that its enthusiasts have sometimes been slow to admit. A building that admits no air by accident must be given air deliberately, so mechanical ventilation, with a device that recovers heat from the outgoing stream, becomes a necessity rather than a luxury. More seriously, a vessel designed to retain heat retains it in July as well as in January, and as summers grow hotter such buildings can become uncomfortable or even dangerous unless they are properly shaded and can be flushed with cool air at night."},
+        {"l": "E", "t": "As the energy used in running buildings falls, attention has shifted to the energy and emissions locked up in their construction. Cement is the difficulty. Making it requires heating limestone to a high temperature, and the chemical reaction that follows releases carbon dioxide from the rock itself, quite apart from whatever fuel is burned to provide the heat, so that concrete carries a heavy cost before a building is even occupied. Several responses are being pursued: replacing part of the cement with industrial by-products, designing structures that use less material, reclaiming steel sections from demolition for reuse, and building in timber, which holds carbon absorbed while the tree was growing. The most effective response of all is the least glamorous. Keeping an existing building and improving it avoids nearly all of these emissions, and a structure that is demolished and replaced by an efficient new one may take many decades to repay, in saved running energy, the carbon spent on its own construction."},
+        {"l": "F", "t": "A further and uncomfortable discovery is that buildings designed to be efficient frequently are not. Where consumption has been measured after occupation, it has often turned out to be substantially higher than the figures produced during design. The reasons are mundane: insulation installed with gaps, ventilation systems left in the wrong mode because nobody explained them to the caretaker, controls that occupants override because they are confusing, and modelling assumptions about hours of use that bear little relation to the event. Certification schemes have not always helped, because most of them award credit for features specified on paper rather than for consumption recorded in use, and a building can therefore collect an impressive rating and still perform poorly. The remedies are unexciting: commissioning the systems properly, explaining them to the people who will operate them, and publishing measured consumption year after year."},
+        {"l": "G", "t": "Finally, the frame of the question is widening. A house that uses little energy but stands where every journey must be made by car may be responsible for more emissions than a less efficient flat in a place where daily life can be managed on foot, so location and density belong in the calculation. So does adaptability. Buildings that survive for centuries usually do so because generous floor heights and simple plans allow them to become something else when their first purpose expires, while a structure tailored precisely to one tenant tends to be demolished when that tenant leaves. The conclusion is that sustainability in building is less a matter of the devices fixed to a roof than of unexciting decisions about where to build, what to build it from, how to shape it and whether it can be changed."}
+      ],
+      "groups": [
+        {
+          "type": "headings", "range": [27, 33],
+          "intro": [
+            "Reading Passage 3 has seven paragraphs **A-G**.",
+            "Choose the correct heading for each paragraph from the list of headings below.",
+            "Write the correct number **i-x** in boxes 27-33 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Headings**"],
+            "list": {
+              "i": "Lessons from building before machines",
+              "ii": "The high cost of heating in the north",
+              "iii": "Choices that have to be made early",
+              "iv": "A promise that measurement does not support",
+              "v": "Why materials now matter more",
+              "vi": "A sealed box and what it brings with it",
+              "vii": "The decline of the building trades",
+              "viii": "Why these particular objects deserve attention",
+              "ix": "Looking past the individual building",
+              "x": "An argument for natural materials alone"
+            }
+          },
+          "items": {"27": "Paragraph **A**", "28": "Paragraph **B**", "29": "Paragraph **C**", "30": "Paragraph **D**", "31": "Paragraph **E**", "32": "Paragraph **F**", "33": "Paragraph **G**"},
+          "answers": {"27": "viii", "28": "i", "29": "iii", "30": "vi", "31": "v", "32": "iv", "33": "ix"}
+        },
+        {
+          "type": "ynng", "range": [34, 38],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 34-38 on your answer sheet write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "34": "Traditional builders responded to their climates because they had no means of overcoming them.",
+            "35": "Mechanical cooling made it possible to put up very similar buildings in quite different climates.",
+            "36": "Measures such as orientation and shading are cheaper to introduce once a building is finished.",
+            "37": "Timber is a suitable structural material for buildings of any height.",
+            "38": "Replacing an inefficient building with a new one is usually the quickest way to reduce its emissions."
+          },
+          "answers": {"34": "Yes", "35": "Yes", "36": "No", "37": "Not Given", "38": "No"}
+        },
+        {
+          "type": "multi", "range": [39, 40], "choose": 2,
+          "intro": ["Choose **TWO** letters **A-E**.", "Write your answers in boxes 39-40 on your answer sheet."],
+          "stem": "Which **TWO** consequences of the airtight, heavily insulated approach does the writer identify in paragraph **D**?",
+          "options": {
+            "A": "Air must be supplied to the building by mechanical means.",
+            "B": "The insulation loses much of its value within a few years.",
+            "C": "Such buildings may become too hot in summer.",
+            "D": "The windows cannot be made large enough to give good daylight.",
+            "E": "The structure is unusually difficult to take down at the end of its life."
+          },
+          "answer": "A, C"
+        }
+      ]
+    }
+  ]
+}
