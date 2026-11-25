@@ -1,0 +1,101 @@
+{
+  "step1": "Tiêu đề \"Assessing the Risk\" và sapo (áp dụng đúng precautionary principle thì sẽ không sai) cho thấy đây là bài nghị luận bảo vệ \"nguyên tắc phòng ngừa\" trước các nhà khoa học chê nó. Mạch bài: cuộc tranh luận và khảo sát 40 nhà khoa học → tác giả phản bác (nguyên tắc này có tính cost-effectiveness) → ví dụ kháng sinh và các phát minh khác → Section 2: quyền lựa chọn của người tiêu dùng, cây trồng biến đổi gen (GM) → kết luận: người dân mất lòng tin vào khoa học là có lý. Q27–32 nằm ở Section 1 (đoạn 2–8), Q33–39 nằm ở Section 2 (đoạn 10–12), Q40 hỏi chủ đề nên chốt sau khi đọc xong.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "True / False / Not Given", "Có (từ khóa), theo thứ tự bài", "title of the debate, field of medicine, survey message, riskier, antibiotics, other inventions"],
+    ["33–39", "Summary completion (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài, chỉ nằm ở Section 2", "take into consideration, excitement, future population, yield, cost, business and political gain"],
+    ["40", "Multiple choice: chủ đề chính", "Không, phải đọc xong cả bài", "main theme"]
+  ],
+  "typesNote": "Hai nhóm đầu bám sát thứ tự bài nên đọc một lượt là chốt được; riêng câu 40 hỏi ý toàn bài nên để lại sau khi đọc đoạn cuối.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Tiêu đề phần: Section 1 (phần phản bác khảo sát của 40 nhà khoa học).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Cuộc tranh luận ở Royal Institution, do tạp chí mạng Spiked tổ chức, hỏi vì sao xã hội ám ảnh với rủi ro và kêu gọi cách tiếp cận \"lý trí hơn\".",
+      "answers": [
+        { "q": 27, "ans": "TRUE", "quote": "As a title for a supposedly unprejudiced debate on scientific progress", "how": "\"not unbiased\" = thiên lệch ↔ \"supposedly unprejudiced\" + \"did not bode well\": tác giả nói cái tên chỉ là \"được cho là\" khách quan và đã là điềm xấu, tức thực chất thiên lệch → TRUE." },
+        { "q": 28, "ans": "NOT GIVEN", "how": "Bài chỉ nói \"the event brought together scientists from across the world\" — nêu nơi họ đến, không nêu chuyên ngành. Bẫy: phần sau có nhiều ví dụ y khoa (kháng sinh, vắc xin) khiến ta tưởng tất cả đều là bác sĩ." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Trước tranh luận có khảo sát 40 nhà khoa học: nếu nguyên tắc phòng ngừa từng thắng thế thì sẽ không có kháng sinh, máy bay, bánh xe...; thông điệp là \"không rủi ro thì không có thành quả\".",
+      "answers": [
+        { "q": 29, "ans": "FALSE", "quote": "In short, their message was: no risk, no gain", "how": "Câu hỏi nói thông điệp là \"people shouldn't take risks\"; bài nói ngược lại — không chấp nhận rủi ro thì không có tiến bộ, tức họ cổ vũ chấp nhận rủi ro → FALSE." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Tác giả phản bác: nguyên tắc phòng ngừa tinh tế hơn thế, nó gắn với hiệu quả chi phí — vẫn chấp nhận rủi ro, chỉ bỏ những rủi ro không đem lại lợi ích rõ ràng.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Mọi công nghệ trong danh sách đều rủi ro lúc mới ra đời, nhưng tất cả đều sẽ được \"bật đèn xanh\" vì chúng hứa hẹn lợi ích to lớn.",
+      "answers": [
+        { "q": 30, "ans": "NOT GIVEN", "how": "Bài nói các công nghệ đó \"were innately risky at their inception, as all technologies are\" — tức mọi công nghệ đều rủi ro, chứ không hề so sánh rằng chúng rủi ro HƠN các công nghệ khác. Bẫy so sánh: câu hỏi thêm cấp so sánh mà bài không có." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Ví dụ kháng sinh: khi penicillin được tìm ra những năm 1920, vi khuẩn đang tàn phá thế giới, trẻ em chết vì bạch hầu và ho gà.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Penicillin thành thuốc dùng được trong Thế chiến II, khi dịch bệnh dọa giết nhiều người hơn bom; rủi ro khi đó rõ ràng đáng chấp nhận.",
+      "answers": [
+        { "q": 31, "ans": "TRUE", "quote": "Of course the risks, such as they could be perceived, were worth taking", "how": "\"worth taking the risks to invent antibiotics\" ↔ gần như trùng chữ \"the risks... were worth taking\", đặt ngay sau \"Of course antibiotics were a priority\" → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Với các phát minh khác trong danh sách (bóng đèn, truyền máu, chụp CAT, dao, vắc xin sởi) cũng vậy: nếu áp dụng đúng nguyên tắc phòng ngừa thì tất cả đều được thông qua.",
+      "answers": [
+        { "q": 32, "ans": "TRUE", "quote": "If the precautionary principle had been applied properly, all these creations would have passed muster, because all offered incomparable advantages compared to the risks perceived at the time", "how": "\"All the other inventions on the list were also judged by the precautionary principle\" ↔ tác giả đem đúng nguyên tắc ấy ra xét tất cả các phát minh còn lại và kết luận chúng đều đạt → TRUE. Xương sống câu: \"all these creations would have passed muster\"; mệnh đề điều kiện \"If... applied properly\" nêu điều kiện, mệnh đề \"because all offered incomparable advantages\" nêu lý do." }
+      ],
+      "note": "Đừng để chữ \"would have prevented all of them, they tell us\" đánh lừa: đó là lời của nhóm 40 nhà khoa học, còn \"But this is just plain wrong\" mới là quan điểm tác giả."
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Tiêu đề phần: Section 2 (bàn về quyền lựa chọn và cây trồng biến đổi gen).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Ngoài thống kê còn một yếu tố nữa: quyền lựa chọn của người tiêu dùng — trượt tuyết nguy hiểm hơn cà chua biến đổi gen nhưng người ta tự chọn trượt tuyết và thấy phấn khích.",
+      "answers": [
+        { "q": 33, "ans": "consumer’s choice", "quote": "the consumer's right to choose should be considered alongside considerations of risk and benefit", "how": "\"should also take into consideration the ___\" ↔ \"A crucial issue is consumer choice\" / \"the consumer's right to choose\" → điền \"consumer's choice\"." },
+        { "q": 34, "ans": "risk and benefit", "quote": "alongside considerations of risk and benefit", "how": "\"along with the usual consideration of ___\" ↔ \"alongside considerations of risk and benefit\" (chép nguyên cụm, ba từ)." },
+        { "q": 35, "ans": "skiing", "quote": "skiing, I am told, is exhilarating", "how": "\"enjoy ___ for the excitement it provides\" ↔ \"exhilarating\" = phấn khích; bài còn nói \"people who ski choose to do so\" nên vừa khớp rủi ro vừa khớp tự nguyện." }
+      ]
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Khác mọi thứ trong danh sách, cây trồng GM có lợi ích không rõ ràng: người ủng hộ bảo không có GM thì không nuôi nổi dân số, nhưng lúa mì và gạo mới quan trọng và GM chỉ làm sản xuất rẻ hơn để sinh lời.",
+      "answers": [
+        { "q": 36, "ans": "GM crops", "quote": "Promoters of GM crops believe that the future population of the world cannot be fed without them", "how": "\"experts believe the future population desperately needs ___\" ↔ \"the future population of the world cannot be fed without them\"; \"undefined risks\" ↔ \"Some of the risks can at least be defined\" cùng chỗ." },
+        { "q": 37, "ans": "wheat and rice", "quote": "The crops that really matter are wheat and rice, and there is no GM research in the pipeline that will seriously affect the yield of either", "how": "\"not been directed towards increasing the yield of ___\" ↔ \"no GM research... that will seriously affect the yield of either\", \"either\" thay cho wheat and rice." },
+        { "q": 38, "ans": "production", "quote": "GM is used to make production cheaper and hence more profitable", "how": "\"to reduce the cost of ___ and to bring more profit out of it\" ↔ \"make production cheaper and hence more profitable\" — hai vế khớp theo đúng thứ tự." }
+      ],
+      "note": "Nhớ phân biệt lời người ủng hộ GM (\"Promoters... believe\") với phán xét của tác giả (\"That is untrue\"). Câu 36 chỉ hỏi họ tin gì nên vẫn điền GM crops."
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Kết luận: nguyên tắc phòng ngừa là lá chắn quan trọng; việc nhà khoa học xuyên tạc nó vì mục đích thương mại và chính trị khiến dân chúng mất lòng tin, và sự nghi ngờ đó là hoàn toàn chính đáng.",
+      "answers": [
+        { "q": 39, "ans": "mistrust", "quote": "People at large continue to mistrust science and the high technologies it produces", "how": "\"has often led people to ___ science for they believe scientists are not to be trusted\" ↔ \"continue to mistrust science... partly because they doubt the wisdom of scientists\"; chỗ trống đứng sau \"to\" nên cần động từ nguyên thể." },
+        { "q": 40, "ans": "A", "quote": "these doubts are fully justified", "how": "Câu cuối khẳng định nghi ngờ của công chúng là chính đáng ↔ A \"People have the right to doubt science\". B sai vì đó là lập luận của nhóm 40 nhà khoa học mà tác giả bác bỏ; C chỉ là một chi tiết, không phải chủ đề; D trái hẳn với đoạn 4 (có rủi ro mà không có lợi ích rõ thì đừng làm)." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài này là bài tranh luận: luôn hỏi \"ai nói câu này?\". Nhiều bẫy TRUE/FALSE đến từ việc nhầm lời nhóm 40 nhà khoa học với quan điểm tác giả.",
+    "Hai câu NOT GIVEN (28, 30) đều do câu hỏi thêm thông tin mà bài không nói: chuyên ngành của nhà khoa học, và cấp so sánh \"riskier than other technologies\".",
+    "Phần điền từ 33–39 nằm gọn trong Section 2 và theo đúng thứ tự: consumer's choice → risk and benefit → skiing → GM crops → wheat and rice → production → mistrust."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "step1": "Tiêu đề \"The Fruit Book\" cùng sapo cho biết: nhà dân tộc thực vật học Patricia Shanley biến kết quả nghiên cứu thành một cuốn sách tranh giúp người nghèo Amazon biết giữ cây nào, bán cây nào. Đoán mạch bài: giới thiệu cuốn sách và lời nói đầu của bộ trưởng → khởi nguồn từ lời cầu cứu của công đoàn → câu hỏi về bán quả rừng hay bán gỗ → quá trình thu thập dữ liệu → tác động của cháy rừng và khai thác gỗ → loài cây nào đáng giữ → kết luận và cuốn sách. Q27–32 (matching information) chỉ chốt được sau khi đọc xong từng đoạn; Q33–40 (tóm tắt) đi theo thứ tự nửa sau bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Matching information (đoạn A–I)", "Không – phải đọc xong đoạn mới gán", "initial data collection, government official, foreword, community asked, starting point, two factors, why successful"],
+    ["33–40", "Summary completion (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "forest fire, consume less, game hunted under, fruit yield, subsistence, research focuses on, purpose of the book"]
+  ],
+  "typesNote": "Q33–40 bám sát trật tự đoạn E → I nên vừa đọc vừa điền; Q27–32 phải tóm ý chính mỗi đoạn trong một câu rồi đối chiếu với sáu mô tả, chốt ngay khi khớp.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Giới thiệu cuốn \"fruit book\": bản thứ hai ra đời theo yêu cầu của các chính trị gia miền tây Amazonia, pha trộn khoa học và tri thức bản địa về 35 loài cây, được đón nhận đến mức bộ trưởng môi trường Brazil viết lời nói đầu.",
+      "answers": [
+        { "q": 28, "ans": "A", "quote": "no less a dignitary than Brazil's environment minister, Marina Silva, has written the foreword. \"There is nothing else like the Shanley book,\" says Adalberto Veríssimo", "how": "\"Why a government official also contributes to the book\" ↔ bộ trưởng viết lời nói đầu vì sách độc nhất vô nhị, \"gives science back to the poor\". Chỉ đoạn A nhắc tới quan chức chính phủ." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Mọi chuyện bắt đầu mười năm trước bằng lời cầu cứu của Công đoàn Nông dân Paragominas: họ lo các công ty gỗ sẽ tới gõ cửa người caboclos vốn biệt lập và mù chữ, không biết giá trị thật của rừng mình.",
+      "answers": [
+        { "q": 30, "ans": "B", "quote": "Shanley's work on the book began a decade ago, with a plea for help from the Rural Workers' Union of Paragominas", "how": "\"Reference to the starting point of her research\" ↔ \"began a decade ago, with a plea for help\": mốc khởi đầu. Bẫy: đoạn C cũng nói về mong muốn của công đoàn, nhưng điểm XUẤT PHÁT (lời cầu cứu) nằm ở B." }
+      ],
+      "note": "Phân biệt B và C: B = khởi đầu/bối cảnh nguy cơ bị mua rẻ; C = nội dung câu hỏi nghiên cứu mà cộng đồng đặt ra."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Công đoàn muốn biết thu hoạch quả rừng có hiệu quả kinh tế không: khi đó phong trào sản phẩm rừng phi gỗ (NTFPs) đang được cổ vũ, và một bài trên Nature 1989 tính rằng tiền bán quả có thể vượt xa tiền bán gỗ một lần.",
+      "answers": [
+        { "q": 29, "ans": "C", "quote": "The union was keen to discover whether it made more sense conserving the forest for subsistence use and the possible sale of fruit, game and medicinal plants, than selling trees for timber", "how": "\"Reasons why the community asked Shanley to conduct the research\" ↔ lý do: họ muốn biết giữ rừng hay bán gỗ thì lợi hơn." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Dù bị một số caboclos nghi ngờ, Shanley được Mangueira cho nghiên cứu rừng của ông; bà xác định ba loài cây quả được ưa chuộng (bacuri, uxi, piquia) và tiến hành sáu năm nghiên cứu thực địa, trong đó 1993–1994 có 30 hộ cân mọi thứ họ lấy từ rừng.",
+      "answers": [
+        { "q": 27, "ans": "D", "quote": "During 1993 and 1994, 30 families weighed everything they used from the forest – game, fruit, fibre, medicinal plants – and documented its source.", "how": "\"A description of Shanley's initial data collection\" ↔ \"six years of field research yielded a mass of data\" và việc 30 hộ cân, ghi chép nguồn gốc: đây là đợt thu thập dữ liệu đầu tiên. Bẫy: đoạn E cũng có khảo sát nhưng là lần sau (1999, 15 hộ)." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Sau ba đợt bán gỗ và trận cháy lớn năm 1997, khảo sát lại năm 1999 cho thấy thay đổi rõ rệt: quả rừng tiêu thụ giảm từ 89 xuống 28 kg/hộ/năm, sợi giảm từ 20 xuống 4 kg, và thịt thú rừng từ vài lần mỗi tháng xuống vài lần mỗi năm.",
+      "answers": [
+        { "q": 31, "ans": "E", "quote": "The fire and logging also changed the nature of the caboclo diet.", "how": "\"Two factors that alter food consumption patterns\" ↔ đúng hai yếu tố \"The fire and logging\" làm đổi khẩu phần." },
+        { "q": 33, "ans": "Fruit", "quote": "Average annual household consumption of forest fruit had fallen from 89 to 28 kilogrammes between 1993 and 1999", "how": "Danh sách thứ dân làng dùng ít đi sau cháy rừng, ô thứ ba đã là Game → hai ô còn lại là quả và sợi; ở đây là fruit (89 → 28 kg)." },
+        { "q": 34, "ans": "Fibre", "quote": "Over the same period, fibre use also dropped from around 20 to 4 kilogrammes.", "how": "Thứ thứ hai giảm mạnh là fibre (20 → 4 kg). Hai ô 33–34 có thể đổi chỗ cho nhau vì đáp án chấp nhận cả hai thứ tự." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Mất một số loài cây đặc biệt nghiêm trọng: thợ săn cân thú bắt được dưới từng gốc cây – piquia 5 loài trung bình 232 kg, copaiba 2 loài 63 kg, uxi 4 loài 38 kg – nên bán piquia rẻ cho công ty gỗ là vô lý vì nó vừa cho quả quý vừa hút thú về.",
+      "answers": [
+        { "q": 35, "ans": "uxi", "quote": "and under uxi, four species weighing 38 kilogrammes", "how": "\"the least amount of game hunted under ___\" ↔ so ba con số 232, 63, 38 kg thì uxi thấp nhất. Bẫy: copaiba chỉ có 2 loài (ít loài hơn) nhưng tới 63 kg, câu hỏi hỏi \"amount of game\" = khối lượng." },
+        { "q": 37, "ans": "piquia", "quote": "This showed that selling piquia trees to loggers for a few dollars made little sense", "how": "\"it is more reasonable to keep ___\" ↔ bán piquia là vô lý, tức nên giữ lại piquia; lý do: \"providing a prized fruit, as well as flowers which attract more game than any other species\"." }
+      ],
+      "note": "Đọc kỹ ba cặp số liệu: số LOÀI và KHỐI LƯỢNG khác nhau, câu hỏi chỉ hỏi khối lượng."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Kết quả buộc Shanley nói thật với công đoàn: luận điểm của bài báo trên Nature không áp dụng đại trà được – bán sản phẩm phi gỗ không phải lúc nào cũng hơn bán gỗ, vì chẳng hạn mùa quả của uxi rất thất thường (3.654 quả một năm, năm sau không quả nào).",
+      "answers": [
+        { "q": 36, "ans": "unpredictable", "quote": "Fruiting patterns of trees such as uxi were unpredictable, for example.", "how": "\"its fruit yield is also ___\" ↔ \"Fruiting patterns... were unpredictable\"; con số 3,654 quả rồi năm sau không có quả nào là minh chứng." }
+      ]
+    },
+    {
+      "para": "Đoạn H",
+      "idea": "Không phải vì thế mà cây quả rừng vô dụng: chúng thiết yếu cho sinh kế tự cấp, điều thường bị bỏ qua trong các nghiên cứu NTFP vốn chỉ chú trọng tiềm năng thương mại; thêm nữa vị trí địa lý xa chợ khiến dân Rio Capim khó buôn bán.",
+      "answers": [
+        { "q": 38, "ans": "subsistence", "quote": "they are critical for subsistence, something that is often ignored in much of the current research on NTFPs", "how": "\"can also be used for ___ besides selling them to loggers\" ↔ \"critical for subsistence\"." },
+        { "q": 39, "ans": "commercial potential", "quote": "much of the current research on NTFPs, which tends to focus on their commercial potential", "how": "\"most research usually focuses on the ___ of the trees\" ↔ \"tends to focus on their commercial potential\": khớp cả động từ focus." }
+      ],
+      "note": "Hai chỗ trống 38–39 nằm trong cùng một câu của bài, nối bằng \"something that is often ignored\" – đúng chữ \"ignored\" trong đề."
+    },
+    {
+      "para": "Đoạn I",
+      "idea": "Shanley cùng hai đồng nghiệp viết cuốn sách; chỉ in 3.000 bản nhưng ảnh hưởng lớn vì người ít biết chữ vẫn hiểu được thông tin về sản phẩm rừng phi gỗ nhờ tranh minh họa, mẩu chuyện và bài hát – sách không bảo người ta phải làm gì mà cho họ lựa chọn.",
+      "answers": [
+        { "q": 32, "ans": "I", "quote": "Its success is largely due to the fact that people with poor literacy skills can understand much of the information it contains", "how": "\"Why the book is successful\" ↔ \"Its success is largely due to...\": nêu thẳng nguyên nhân thành công." },
+        { "q": 40, "ans": "NTFPs", "quote": "the information it contains about the non-timber forest products, thanks to its illustrations, anecdotes, stories and songs", "how": "\"To give information about ___\" ↔ \"the information it contains about the non-timber forest products\"; viết tắt NTFPs đã được định nghĩa ở đoạn C nên dùng được." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài có chín đoạn A–I và các mô tả Q27–32 không theo thứ tự, nên sau mỗi đoạn hãy tự nói một câu ý chính rồi mới đối chiếu – tránh phải quay lại đọc lần hai.",
+    "Nhiều đoạn cùng nói về công đoàn và dữ liệu: B = lời cầu cứu (khởi đầu), C = câu hỏi nghiên cứu, D = thu thập dữ liệu lần đầu, E = khảo sát lần hai sau cháy rừng. Phân biệt bằng mốc thời gian 1993–1994 và 1999.",
+    "Phần tóm tắt yêu cầu lấy đúng chữ trong bài: fruit, fibre, uxi, unpredictable, piquia, subsistence, commercial potential, NTFPs – giữ nguyên dạng, đừng tự đổi sang từ đồng nghĩa."
+  ]
+}

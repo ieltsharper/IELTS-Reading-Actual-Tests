@@ -1,0 +1,132 @@
+{
+  "step1": "Tiêu đề ghép một cái tên người với một sản phẩm (\"Mrs. Carlill and the Carbolic Smoke Ball\") nên đoán được bài vừa kể dịch cúm Nga 1889–1892 vừa kể một vụ kiện. Mạch bài: hoàng tử Albert chết vì cúm → bà Carlill mắc cúm dù dùng bóng khói → diễn biến đại dịch → báo chí và nạn nhân nổi tiếng → y học bó tay, thuyết miasma → các đơn thuốc kỳ quặc → thuốc rởm và công ty Carbolic → mô tả quả bóng khói → quảng cáo thưởng 100 bảng → bà mua và mắc bệnh → chồng là luật sư viết thư → kiện và thắng → kháng cáo → phán quyết về hợp đồng đơn phương. Q14–17 TFNG nằm ở nửa đầu (dịch bệnh, vi sinh vật, miasma, đơn thuốc); Q18–21 là sơ đồ quả bóng khói nên nằm gọn một đoạn; Q22–26 ở phần vụ kiện cuối bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–17", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc trọn đoạn mới kết luận", "cities, rural, micro-organisms, miasmas, harmful ingredients"],
+    ["18–21", "Diagram labelling (NO MORE THAN TWO WORDS)", "Có: chỉ nằm ở đoạn mô tả quả bóng khói", "hollow rubber ball, nozzle, gauze, powder, carbolic acid"],
+    ["22–25", "Matching features – tên người (A–F)", "Có: scan tên riêng", "Mrs. Carlill, her husband, Judge Hawkins, Lord Justice Bowen"],
+    ["26", "Multiple choice", "Có: frequently cited today", "cited, principle, contract"]
+  ],
+  "typesNote": "Ba nhóm câu nằm ở ba vùng tách bạch của bài (đại dịch – sản phẩm – vụ kiện), nên cứ đọc tới vùng nào thì chốt gọn nhóm câu của vùng đó rồi đi tiếp.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Ngày 14/1/1892, hoàng tử Albert Victor, người thứ hai trong hàng kế vị ngai vàng Anh, chết vì cúm trong đợt thứ ba và dữ dội nhất của đại dịch cúm Nga.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Ba ngày sau, bà nội trợ Louisa Carlill ở London mắc cúm dù đã hít bóng khói carbolic ba lần mỗi ngày suốt hai tháng theo đúng lời quảng cáo hứa thưởng 100 bảng; bà khỏi bệnh, đòi tiền và trở nên nổi tiếng.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Dịch khởi đầu mùa xuân 1889 từ Nga và cuối năm đó thành đại dịch toàn cầu thực sự, quay lại mỗi năm một đợt trong bốn năm, đợt sau nặng hơn đợt trước.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Cả thành phố tê liệt, London bị nặng nhất: bưu điện, tàu, ngân hàng và cả tòa án ngừng hoạt động; đỉnh dịch 1892 một nghĩa trang London chôn 200 người mỗi ngày, và cảnh tượng tương tự lặp lại khắp châu Âu.",
+      "answers": [
+        { "q": 14, "ans": "NOT GIVEN", "how": "Câu hỏi so sánh thành thị với nông thôn. Bài chỉ nói các thành phố bị tê liệt và London bị nặng nhất, hoàn toàn không nhắc tới vùng nông thôn, nên không có cơ sở so sánh → NOT GIVEN. Bẫy: đọc thấy \"Whole cities came to a standstill\" rất dễ vội chọn TRUE, nhưng phép so sánh mới là điểm mấu chốt." }
+      ],
+      "note": "Dạng câu có cấu trúc \"X rather than Y\" gần như luôn đòi bài phải nói về CẢ hai vế; thiếu một vế là NOT GIVEN."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Số liệu người bệnh và chết rất thiếu, nhưng Paris, Berlin, Vienna đều báo số tử vong tăng vọt; báo chí quan tâm đặc biệt vì lần này cúm giết cả tầng lớp thượng lưu, người giàu có, trẻ và khỏe.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Công chúng đọc báo hằng ngày về các nạn nhân nổi tiếng: cúm càn quét hoàng gia Nga và các cung điện châu Âu, lấy đi Hoàng thái hậu Đức, con trai thứ hai của vua Ý và cả vị vua tương lai của nước Anh.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Dân chúng ngày càng sợ hãi; cách đưa tin thảm thiết của báo chí phơi bày một sự thật: giới y khoa không có câu trả lời, không ai thống nhất được nguyên nhân hay đường lây.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Lúc đó thuyết vi sinh vật gây bệnh đã dần được chấp nhận nhưng chưa ai tìm ra tác nhân gây cúm (phải tới 1933); thiếu mầm bệnh, nhiều người bám vào ý niệm cũ về \"khí độc\" (miasmas) do động đất, hiện tượng điện trên cao hay sao chổi khuấy lên.",
+      "answers": [
+        { "q": 15, "ans": "FALSE", "quote": "the theory that micro-organisms caused disease was gaining ground", "how": "Câu hỏi nói người ta \"didn't know the link between micro-organisms and illnesses\"; bài nói thuyết vi sinh vật gây bệnh đang được chấp nhận rộng rãi → mâu thuẫn, FALSE. Bẫy: cái chưa biết là vi sinh vật nào gây CÚM, chứ không phải mối liên hệ vi sinh vật – bệnh tật nói chung." },
+        { "q": 16, "ans": "TRUE", "quote": "many clung to the old idea of bad airs, or miasmas", "how": "\"used to believe flu was caused by miasmas\" ↔ \"clung to the old idea of bad airs, or miasmas\" trong bối cảnh không tìm ra mầm bệnh cúm → TRUE." }
+      ],
+      "note": "Câu dài cần tách: backbone = \"no one had identified an organism responsible for flu\" (WHO: chưa ai – DOES WHAT: xác định được tác nhân gây cúm); vế mở đầu \"By now, the theory ... was gaining ground\" nêu bối cảnh tương phản (\"but\"), phần trong ngoặc \"(and wouldn't until 1933)\" nói mốc thời gian, còn câu sau mở bằng \"In the absence of a germ\" nêu điều kiện dẫn tới việc quay về thuyết miasma."
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Bác sĩ khuyên ăn uống tốt, tránh tụ tập, thậm chí nhét bông vào mũi; rượu chiếm vị trí nổi bật trong đơn thuốc – champagne, brandy, và bác sĩ Pháp kê rượu nóng khiến 1.200 trong 1.500 người say ở Paris khai là làm theo lời bác sĩ.",
+      "answers": [
+        { "q": 17, "ans": "NOT GIVEN", "how": "Câu hỏi nói đơn thuốc thường chứa thành phần \"harmful\". Bài liệt kê rượu, quinine, salicin, thậm chí heroin, nhưng không ở đâu đánh giá chúng là có hại; người đọc tự suy ra heroin độc hại chứ bài không nói → NOT GIVEN. Bẫy suy diễn ngoài văn bản." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Một số bác sĩ cho thuốc giảm triệu chứng nhưng không gì giống thuốc chữa, nên dân tìm tới nơi khác; các hãng thuốc gia truyền tranh nhau quảng cáo ngày càng quá lố, thành công nhất là Carbolic Smoke Ball Company.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Mô tả sản phẩm: quả bóng cao su rỗng đường kính 5 cm, có vòi bọc vải gạc, bên trong là bột tẩm axit carbolic; người dùng bóp nhẹ sát mũi và hít sâu, công ty bảo như vậy sẽ khử trùng niêm mạc; doanh số từ 300 quả/tháng vọt lên 1.500 vào tháng 1/1891.",
+      "answers": [
+        { "q": 18, "ans": "gauze", "quote": "with a nozzle covered by gauze", "how": "Nhãn trỏ vào lớp phủ ngoài miệng vòi ↔ \"covered by gauze\"; chỉ có một từ chỉ vật liệu bọc: gauze." },
+        { "q": 19, "ans": "nozzle", "quote": "with a nozzle covered by gauze", "how": "Nhãn trỏ vào phần vòi nhô ra của quả bóng ↔ \"nozzle\"." },
+        { "q": 20, "ans": "powder", "quote": "Inside was a powder treated with carbolic acid", "how": "Nhãn trỏ vào thứ nằm bên trong ↔ \"Inside was a powder\"; đáp án là powder, không phải \"carbolic acid\" (đó là chất xử lý bột)." },
+        { "q": 21, "ans": "Rubber ball", "quote": "The carbolic smoke ball was a hollow rubber ball, 5 centimetres across", "how": "Nhãn trỏ vào thân quả bóng ↔ \"a hollow rubber ball\"; hai từ: rubber ball." }
+      ],
+      "note": "Cả bốn nhãn sơ đồ nằm trong hai câu đầu của đoạn này – đọc chậm đúng hai câu đó là xong, đừng tìm ở đoạn quảng cáo phía sau."
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Lợi dụng nỗi hoảng sợ, công ty quảng cáo ngày càng quá đà: mẩu đăng ngày 13/11/1892 trên Pall Mall Gazette hứa chữa khỏi hàng loạt bệnh và thưởng 100 bảng cho ai dùng đúng hướng dẫn mà vẫn mắc cúm, kèm 1.000 bảng ký quỹ ở ngân hàng để chứng tỏ thành ý.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 13",
+      "idea": "Bà Carlill vội mua một quả giá 10 shilling, đọc kỹ hướng dẫn và dùng đều ba lần mỗi ngày cho tới 17 tháng 1 thì đổ bệnh.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 14",
+      "idea": "Ngày 20/1 chồng bà viết thư cho công ty – không may cho họ, ông là luật sư; ông nêu rõ vợ mình đã mua theo quảng cáo, làm đúng từng chữ trong hướng dẫn mà vẫn mắc cúm, có bác sĩ xác nhận.",
+      "answers": [
+        { "q": 23, "ans": "A", "quote": "On 20 January, Louisa’s husband wrote to the Carbolic Smoke Ball Company", "how": "\"Filed a complaint which was never responded to\" ↔ ông viết thư khiếu nại và đoạn sau nói \"There was no reply\" → A. Phân biệt với vợ: người KHỞI KIỆN là bà Carlill." }
+      ]
+    },
+    {
+      "para": "Đoạn 15",
+      "idea": "Công ty không hồi âm, ông chồng kiên trì, công ty chống lại, Louisa khỏi bệnh rồi khởi kiện và tháng Sáu thẩm phán Hawkins xử bà thắng; ông bác lập luận quảng cáo chỉ là lời \"nói phét\" bằng nhận xét rằng quảng cáo nhắm vào người cả tin chứ không nhắm vào người khôn ngoan.",
+      "answers": [
+        { "q": 22, "ans": "C", "quote": "Louisa recovered and sued", "how": "\"Initiated a legal case\" ↔ chính bà Carlill là người đứng ra kiện → C. Bẫy A: lá thư khiếu nại không được hồi âm là việc của chồng bà." },
+        { "q": 24, "ans": "D", "quote": "Judge Hawkins pointed out that adverts were not aimed at the wise and thoughtful, but at the credulous and weak", "how": "\"Described the audience of advertisement\" ↔ ông mô tả đối tượng mà quảng cáo nhắm tới. Bẫy E (\"most advertisements are fraudulent\"): lập luận quảng cáo chỉ là \"puffery\" là của phía công ty, và ông cũng không nói đa số quảng cáo là lừa đảo." }
+      ]
+    },
+    {
+      "para": "Đoạn 16",
+      "idea": "Công ty kháng cáo; tháng Mười Hai ba vị thẩm phán xem xét, và rốt cuộc vụ việc chỉ còn xoay quanh một điểm: quảng cáo đó có phải là hợp đồng mà công ty đã vi phạm hay không, trong khi luật sư của Carbolic lập luận hợp đồng phải có sự thỏa thuận của hai bên.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 17",
+      "idea": "Các thẩm phán kết luận có những lúc hợp đồng chỉ một chiều: quảng cáo là lời chào cụ thể, và việc bà dùng bóng khói đúng hướng dẫn chính là chấp nhận lời chào; chi tiết ký quỹ 1.000 bảng khiến người mua tin công ty nói thật, nên theo Lord Justice Bowen, lời hứa quá lố vẫn ràng buộc người hứa.",
+      "answers": [
+        { "q": 25, "ans": "F", "quote": "if a person chooses to make extravagant promises of this kind ... the extravagance of the promises is no reason in law why he should not be bound by them", "how": "\"Treated advertisement as a type of contract\" ↔ Bowen coi lời hứa trong quảng cáo là ràng buộc về mặt pháp lý, tức xem quảng cáo như hợp đồng → F. Bẫy B (\"Broke the contract\"): bên vi phạm hợp đồng là công ty, không phải vị thẩm phán." }
+      ]
+    },
+    {
+      "para": "Đoạn 18",
+      "idea": "Louisa nhận được 100 bảng, và vụ kiện xác lập nguyên tắc hợp đồng đơn phương, tới nay vẫn thường được viện dẫn.",
+      "answers": [
+        { "q": 26, "ans": "B", "quote": "The case established the principle of the unilateral contract and is frequently cited today", "how": "\"often cited in present-day court trials\" ↔ \"frequently cited today\", và cái được xác lập là nguyên tắc hợp đồng một chiều → B. Loại A và D vì bài không nói vụ kiện chứng minh quảng cáo không đáng tin hay bảo vệ quyền người tiêu dùng; loại C vì tòa không giải thích bản chất hợp đồng nói chung mà chỉ công nhận một dạng hợp đồng đặc biệt." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài rất dài nhưng câu hỏi chỉ bám vào bốn vùng: đoạn 4 và 8–9 (TFNG), đoạn 11 (sơ đồ), đoạn 14–18 (vụ kiện). Các đoạn kể nạn nhân nổi tiếng chỉ là nền, đọc lướt là đủ.",
+    "Với TFNG ở bài này, cả ba câu NOT GIVEN/FALSE đều bẫy ở chi tiết nhỏ: phép so sánh thành thị – nông thôn, \"vi sinh vật nói chung\" khác \"virus cúm\", và \"có hại\" là suy diễn của người đọc.",
+    "Bốn nhân vật ở Q22–25 làm bốn việc khác nhau: vợ kiện, chồng viết thư, Hawkins mô tả đối tượng quảng cáo, Bowen coi quảng cáo là lời hứa ràng buộc. Gán đúng vai là ăn trọn bốn điểm."
+  ]
+}

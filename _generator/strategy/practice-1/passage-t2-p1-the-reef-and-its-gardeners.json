@@ -1,0 +1,74 @@
+{
+  "step1": "Tiêu đề \"The Reef and Its Gardeners\" gợi hai nhân vật: rạn san hô và \"những người làm vườn\" (chính là tảo sống trong mô san hô). Đoán mạch bài: san hô là động vật tạo đá vôi → quan hệ cộng sinh với tảo → điều kiện sống và sự giàu có giữa đại dương nghèo → hiện tượng tẩy trắng → nguyên nhân tẩy trắng → hậu quả khi rạn chết → các biện pháp và giới hạn của chúng. Q1–7 là Matching Headings nên chốt sau mỗi đoạn; Q8–11 (summary chọn từ trong hộp) nằm ở phần tẩy trắng (đoạn D–E); Q12–13 (trả lời ngắn) ở hai đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–7", "Matching Headings (i–x) cho đoạn A–G", "Không – chỉ chốt sau khi đọc xong từng đoạn", "Ý chính của mỗi đoạn, chú ý câu mở và câu kết"],
+    ["8–11", "Summary với hộp từ A–G", "Có, theo thứ tự bài", "comes under stress, drives out, transparent, white ___, unusually high sea ___, not dead"],
+    ["12–13", "Short answer (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "energy of waves, benefit to the shore, pieces of coral raised, planted out"]
+  ],
+  "typesNote": "Headings gắn với từng đoạn nên chốt ngay khi đọc hết đoạn; hai nhóm còn lại chạy theo thứ tự bài từ đoạn D trở đi.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Rạn san hô trông như đá nhưng là đá do động vật tạo ra: polyp lắng đọng đá vôi dưới thân, nhân đôi thành quần thể và các thế hệ chồng lên nhau rất chậm.",
+      "answers": [
+        { "q": 1, "ans": "v", "quote": "A coral reef looks like rock, and in a sense it is, but it is rock made by animals.", "how": "Câu mở đoạn chính là heading: \"rock made by animals\" ↔ v \"The animals that make the rock\". Bẫy: heading vi (san hô biển sâu lạnh) và ii (buôn bán đồ trang trí) không hề có trong bài." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Polyp không làm việc một mình: tảo đơn bào sống trong mô san hô quang hợp và chuyển phần lớn đường cho vật chủ, đồng thời tạo nên màu sắc của rạn.",
+      "answers": [
+        { "q": 2, "ans": "i", "quote": "The polyp does not work alone. ... they pass a large share of the sugars they make to the coral around them.", "how": "Ý chính = quan hệ hợp tác nuôi sống \"thợ xây\" ↔ i \"A partnership that feeds the builders\"; builders = polyp ở đoạn A. Bẫy: đoạn cũng nói về màu sắc, nhưng đó chỉ là hệ quả phụ." }
+      ],
+      "note": "\"Gardeners\" trong tiêu đề chính là đám tảo này; nắm được điều đó thì các câu sau về bleaching rất dễ."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Nhu cầu của tảo quy định nơi rạn mọc được (nước nông, ấm, trong, nền cứng), và vì vùng nhiệt đới nghèo dinh dưỡng nên rạn là ốc đảo sự sống giữa \"sa mạc biển\".",
+      "answers": [
+        { "q": 3, "ans": "vii", "quote": "so poor in dissolved nutrients that it is often described as a marine desert. The reef sits in the middle of this desert and supports a quantity of life that is out of all proportion to its surroundings", "how": "\"wealth in the middle of a poor ocean\" ↔ sự sống dồi dào giữa \"marine desert\" nghèo dinh dưỡng → heading vii. Lưu ý đoạn mở bằng điều kiện sống, nhưng trọng tâm nằm ở nghịch lý giàu/nghèo." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Khi bị căng thẳng, san hô thải tảo ra ngoài và lộ bộ xương đá vôi trắng – gọi là tẩy trắng; san hô chưa chết mà đang đói, có thể hồi phục nếu căng thẳng qua nhanh.",
+      "answers": [
+        { "q": 4, "ans": "viii", "quote": "A bleached coral has not died. It has lost the greater part of its food supply, and it is starving.", "how": "Ý chính = mất màu chưa phải là chết ↔ viii \"Why a loss of colour is not yet a death\"." },
+        { "q": 8, "ans": "D", "quote": "When a coral is placed under stress it expels the algae from its tissues", "how": "\"drives out the ___ that normally live within its tissues\" ↔ \"expels the algae from its tissues\" → D. algae. Bẫy: C. plankton cũng là sinh vật nhỏ nhưng là thức ăn bắt từ bên ngoài, không sống trong mô." },
+        { "q": 9, "ans": "B", "quote": "what the eye now sees is the white limestone skeleton beneath", "how": "\"the white ___ underneath becomes visible\" ↔ \"the white limestone skeleton beneath\" → B. skeleton." },
+        { "q": 11, "ans": "E", "quote": "If the stress passes quickly, algae recolonise the tissue over the following weeks or months and the colony regains both its colour and its growth", "how": "\"if ordinary conditions return soon enough it can ___ completely\" ↔ \"regains both its colour and its growth\" → E. recover. Bẫy: G. spread không khớp vì bài nói lấy lại chứ không nói lan rộng." }
+      ],
+      "note": "Bài có lưu ý nhỏ \"although it may not reproduce that year\": phục hồi không có nghĩa là sinh sản ngay."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Nhiều nguyên nhân gây tẩy trắng (thủy triều thấp, nước ngọt, trầm tích, ô nhiễm, rét), nhưng quan trọng nhất là nước ấm bất thường, và khác biệt là nguyên nhân địa phương chỉ hại một vịnh còn nước ấm hại cả vùng biển.",
+      "answers": [
+        { "q": 5, "ans": "iii", "quote": "Corals live close to their upper limit for much of the year, and a rise of only a degree or two above the normal summer maximum, held for several weeks, is enough to break the partnership.", "how": "Ý chính = điều gì đẩy san hô vượt ngưỡng chịu đựng ↔ iii \"What pushes a coral beyond its limits\" (\"upper limit\" xuất hiện nguyên văn)." },
+        { "q": 10, "ans": "F", "quote": "By far the most important cause, however, is water that is unusually warm for that place and that season.", "how": "\"a spell of unusually high sea ___ lasting for several weeks\" ↔ \"unusually warm ... held for several weeks\" → F. temperature. Bẫy: A. sediment cũng là một nguyên nhân được liệt kê, nhưng câu hỏi hỏi nguyên nhân phổ biến NHẤT và cần một danh từ đi với \"high\"." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Khi rạn chết, cấu trúc cũng mất: đá vôi bị khoan, gặm, bão đánh vỡ thành đống vụn, kéo theo mất nơi trú ẩn, mất nghề cá, mất khả năng chắn sóng và mất du lịch.",
+      "answers": [
+        { "q": 6, "ans": "x", "quote": "Within a few years an intricate landscape of branches, overhangs and crevices has been reduced to rubble and a low pavement.", "how": "Ý chính = những gì xảy ra sau khi cấu trúc rạn biến mất ↔ x \"What follows once the structure goes\"; đoạn mở đầu cũng nói \"the loss is structural as well as biological\"." },
+        { "q": 12, "ans": "coastal protection", "quote": "Reefs also provide coastal protection, absorbing much of the energy of waves before it reaches the shore", "how": "\"benefit ... to the shore by taking in the energy of waves\" ↔ \"absorbing much of the energy of waves\"; lợi ích được gọi tên ngay trước đó là \"coastal protection\" (ba từ trở xuống)." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Tình hình chưa tuyệt vọng: giảm nước thải và đất trôi, bảo vệ cá ăn tảo, nuôi mảnh san hô trong vườn ươm dưới nước rồi trồng lại – nhưng tất cả chỉ \"mua thêm thời gian\" vì không ai chống được nhiệt độ đại dương.",
+      "answers": [
+        { "q": 7, "ans": "iv", "quote": "Such work is valuable, but nobody involved in it claims more than that it buys time.", "how": "Ý chính = các biện pháp có ích nhưng có giới hạn ↔ iv \"Measures that help, and the limit of their help\". Bẫy: heading ix (thuốc mới từ rạn) không có trong bài." },
+        { "q": 13, "ans": "underwater nurseries", "quote": "fragments of coral are grown in underwater nurseries on frames suspended above the sea bed, and are later planted on damaged reefs", "how": "\"Where are pieces of coral raised before being planted out\" ↔ \"fragments of coral are grown in underwater nurseries ... later planted on damaged reefs\"; raised = grown. \"on frames\" chỉ là chi tiết nơi đặt, nơi chốn được hỏi là nurseries." }
+      ]
+    }
+  ],
+  "tips": [
+    "Trong danh sách headings có ba lựa chọn không hề xuất hiện trong bài (ii, vi, ix). Loại chúng sớm để chọn nhanh hơn.",
+    "Nhiều đoạn có hai lớp ý (điều kiện sống + nghịch lý giàu nghèo ở đoạn C; hậu quả + du lịch ở đoạn F): heading luôn khớp với ý bao trùm, không phải chi tiết cuối đoạn.",
+    "Với summary dùng hộp từ, hãy xét từ loại và cụm đi kèm: \"high sea ___\" bắt buộc là một danh từ đo được (temperature), \"it can ___ completely\" bắt buộc là động từ."
+  ]
+}

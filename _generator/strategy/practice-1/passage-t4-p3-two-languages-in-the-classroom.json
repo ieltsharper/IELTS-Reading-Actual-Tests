@@ -1,0 +1,83 @@
+{
+  "step1": "Tiêu đề \"Two Languages in the Classroom\" cho thấy bài bàn về việc trường học nên xử lý thế nào khi học sinh đến lớp với một tiếng mẹ đẻ khác ngôn ngữ giảng dạy. Đoán mạch bài theo lối cân nhắc hai chiều: nêu tranh cãi và hai trực giác trái ngược → phân loại các mô hình chương trình → lập luận ỦNG HỘ dạy bằng tiếng mẹ đẻ → lập luận PHẢN ĐỐI → nghiên cứu nói gì → ví dụ Canada hay bị dùng sai → chính trị/bỏ phiếu → kết luận. Q27–32 (Yes/No/Not Given) và Q33–36 (matching mô hình A–D) chạy gần như theo thứ tự bài; Q33–36 dồn hết vào đoạn phân loại mô hình; Q37 ở đoạn tổng kết nghiên cứu, Q38 ở đoạn về hai cuộc bỏ phiếu.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Yes / No / Not Given (ý của người viết)", "Có (từ khóa), nhưng phải bám quan điểm người viết", "bilingual education, reading skills, textbooks vs conversation, qualified staff, parents decide, Canadian results"],
+    ["33–36", "Matching mô hình (A–D)", "Có – cả bốn mô hình nằm chung một đoạn", "moved into ordinary classes, only now and then, same class, throughout"],
+    ["37–38", "MCQ", "Có – theo từ khóa", "reviews of the research (đoạn E), two votes in an American state (đoạn G)"],
+    ["39–40", "Chọn TWO letters (A–E) – không có đáp án chính thức", "Có – nằm ở đoạn bàn về khó khăn khi diễn giải nghiên cứu", "not placed by chance, same name run differently"]
+  ],
+  "typesNote": "Nhóm 33–36 trông có vẻ khó nhưng thực chất chỉ là đọc kỹ MỘT đoạn định nghĩa: đọc đến đoạn đó là chốt được cả bốn câu. Hai nhóm còn lại theo thứ tự bài nên đọc tới đâu chốt tới đó. Lưu ý: bộ đáp án chính thức cấp cho trang web chỉ có tới câu 38, nên hướng dẫn này không chốt câu 39–40.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Ở mọi nước có di dân, trẻ đến trường nói một ngôn ngữ khác ngôn ngữ giảng dạy; hai trực giác kéo ngược nhau, và phần lớn sự gay gắt đến từ việc cụm từ \"bilingual education\" được dùng cho những mô hình có mục tiêu gần như chẳng giống nhau.",
+      "answers": [
+        { "q": 27, "ans": "YES", "quote": "the phrase bilingual education is applied to arrangements whose aims have almost nothing in common", "how": "\"used for arrangements with very different purposes\" ↔ \"arrangements whose aims have almost nothing in common\"; purposes = aims, \"very different\" = \"almost nothing in common\" → đúng ý người viết → YES." }
+      ],
+      "note": "Hai trực giác ở đoạn 1 chính là bộ khung của cả bài: trực giác 1 = nghe/dùng càng nhiều ngôn ngữ đích càng tốt (dẫn tới immersion), trực giác 2 = trẻ học tốt nhất qua ngôn ngữ đã hiểu (dẫn tới dạy bằng tiếng mẹ đẻ). Giữ sẵn hai nhãn này để phân loại mọi lập luận phía sau."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Đoạn định nghĩa bốn mô hình: transitional (tiếng mẹ đẻ làm cầu nối tạm thời), maintenance (dùng suốt vì bản thân việc biết chữ tiếng mẹ đẻ đã đáng giá), dual-language (hai nhóm học chung, mỗi nhóm học ngôn ngữ của nhóm kia), structured immersion (dạy toàn bộ bằng ngôn ngữ đa số, giản lược và hỗ trợ, chỉ thi thoảng dùng tiếng mẹ đẻ để giải thích).",
+      "answers": [
+        { "q": 33, "ans": "A", "quote": "are moved into ordinary classes after two or three years, once they are judged able to cope with the language of instruction", "how": "\"once they are thought able to manage the language of the school\" ↔ \"once they are judged able to cope with the language of instruction\"; thought = judged, manage = cope with, language of the school = language of instruction. Câu này nằm trong phần tả \"a transitional programme\" → A." },
+        { "q": 34, "ans": "D", "quote": "the home language being used only occasionally, to explain something a child has not understood", "how": "\"only now and then, to clear up a difficulty\" ↔ \"only occasionally, to explain something a child has not understood\". Vế này gắn với \"structured immersion\" → D. Bẫy: A cũng dùng tiếng mẹ đẻ tạm thời, nhưng A dùng để DẠY chương trình, còn D chỉ dùng để gỡ chỗ chưa hiểu." },
+        { "q": 35, "ans": "C", "quote": "two groups of children, speakers of each of the two languages, are taught together, each group learning the other's language", "how": "\"taught in the same class and each group acquires the other's language\" ↔ \"taught together, each group learning the other's language\"; acquire = learn. Đây là \"A dual-language programme\" → C." },
+        { "q": 36, "ans": "B", "quote": "goes on using the home language throughout, on the grounds that literacy in it is worth having for its own sake", "how": "\"continues to be used throughout, because literacy in it is held to be valuable in itself\" ↔ \"goes on using ... throughout, on the grounds that literacy in it is worth having for its own sake\"; \"for its own sake\" = \"in itself\". Đây là \"A maintenance programme\" → B." }
+      ],
+      "note": "Cả bốn câu 33–36 đều nằm trong đoạn này, nên hãy trả lời ngay tại chỗ thay vì đọc tiếp. Mẹo phân biệt nhanh: mục tiêu CUỐI của mô hình là gì – chuyển sang lớp thường (A), giữ tiếng mẹ đẻ lâu dài (B), cả hai nhóm thạo cả hai thứ tiếng (C), chỉ ngôn ngữ đa số (D). Câu chốt \"The label on a programme therefore tells an observer very little about what happens inside it\" cũng củng cố lại ý của câu 27."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Lập luận ủng hộ dựa trên hiện tượng chuyển di (transfer): kỹ năng đọc và kiến thức môn học không phải học lại từ đầu, chỉ cần học từ mới; thêm nữa, trẻ nói trôi chảy trong sân chơi sau một hai năm nhưng ngôn ngữ của sách giáo khoa và đề thi thì lâu hơn nhiều.",
+      "answers": [
+        { "q": 28, "ans": "NO", "quote": "A child who has learned to read in one language does not have to learn to read all over again in another.", "how": "Câu hỏi nói kỹ năng đọc học ở ngôn ngữ này \"of little use\" (ít tác dụng) khi học đọc ngôn ngữ khác; người viết khẳng định ngược lại: không phải học lại từ đầu, vì hiểu biết về chữ in và thói quen đoán trước câu \"are not tied to a particular vocabulary\" → mâu thuẫn → NO." },
+        { "q": 29, "ans": "NO", "quote": "Children pick up conversational fluency quickly, often within a year or two ... takes a good deal longer to master", "how": "Câu hỏi nói hai việc mất THỜI GIAN NGANG NHAU (\"about as long\"); bài nói hội thoại thì nhanh (một hai năm) còn ngôn ngữ sách giáo khoa \"takes a good deal longer\" → mâu thuẫn → NO. Chia câu dài mang đáp án: xương sống là \"The language of textbooks and examinations ... takes a good deal longer to master\"; phần chen giữa hai dấu gạch ngang (\"abstract, dense, full of constructions nobody uses in speech\") chỉ mô tả thêm, còn mệnh đề cuối \"and a pupil who is treated as fluent before reaching that point may sit through years of lessons understanding only a fraction of them\" nói hậu quả." }
+      ],
+      "note": "Đây là cặp câu dễ mất điểm nếu chỉ scan từ khóa \"fluency\": cả hai mốc thời gian nằm trong cùng một đoạn và đối lập nhau, nên phải đọc hết đoạn rồi mới chốt."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Lập luận phản đối cũng nghiêm túc: mất thời gian học bằng ngôn ngữ sẽ không dùng khi thi; nguy cơ bị giữ lại trong lớp riêng với kỳ vọng thấp; các trở ngại thực tế (một trường có hàng chục ngôn ngữ, thiếu giáo viên đủ chuẩn, thiếu sách); và không phải phụ huynh di dân nào cũng muốn tiếng mẹ đẻ ở trường.",
+      "answers": [
+        { "q": 30, "ans": "YES", "quote": "teachers who are fluent and literate in it, trained in the curriculum and qualified to teach are often simply not available", "how": "\"often cannot find appropriately qualified staff\" ↔ \"teachers ... qualified to teach are often simply not available\"; staff = teachers, \"appropriately qualified\" ↔ \"trained in the curriculum and qualified to teach\" → YES." },
+        { "q": 31, "ans": "NOT GIVEN", "how": "Bài CÓ nói về phụ huynh (\"It is also a mistake to assume that migrant parents all want the home language in school\" và nhiều người xin immersion), nhưng chỉ là mô tả mong muốn của họ, không hề nói ai NÊN là người quyết định cuối cùng. Bẫy kinh điển: có từ khóa \"parents\" nên dễ chọn YES; nhưng \"should be given the final decision\" là một khuyến nghị mà người viết không đưa ra → NOT GIVEN. (Ở đoạn 8 người viết còn nói câu hỏi còn lại là về ưu tiên ngân sách, vẫn không nói ai quyết.)" }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Nghiên cứu cho thấy ít hơn những gì hai phe tuyên bố: trẻ không được phân ngẫu nhiên vào chương trình, các chương trình cùng tên lại vận hành rất khác nhau, kết quả đo ở các độ tuổi và công cụ khác nhau; tổng hợp lại chỉ thấy lợi thế khiêm tốn cho việc dùng nhiều tiếng mẹ đẻ, và chạy tốt hay dở còn quan trọng hơn chọn mô hình nào.",
+      "answers": [
+        { "q": 37, "ans": "B", "quote": "the difference between a well-run and a badly run version of the same model is usually larger than the difference between one model and another", "how": "↔ B \"How well a programme is run matters more than which model it follows\": \"well-run vs badly run\" = cách vận hành, \"one model and another\" = mô hình, và \"larger than\" chính là \"matters more\". A sai vì bài nói CÓ \"a modest advantage\"; C sai vì bài nói lợi thế rõ hơn ở các thước đo DÀI HẠN chứ không phải bài kiểm tra ngay sau khi chương trình bắt đầu; D sai vì \"smaller than its advocates suggest\" nghĩa là nhỏ hơn chứ không phải không có (\"imaginary\" = tưởng tượng)." }
+      ],
+      "note": "Đoạn này cũng là nơi nêu các khó khăn khi diễn giải nghiên cứu (trẻ không được phân ngẫu nhiên; chương trình cùng tên vận hành khác nhau) – tức là bằng chứng cho nhóm câu 39–40. Nhưng bộ đáp án chính thức cấp cho trang web dừng ở câu 38, nên câu 39 và 40 không có đáp án chính thức và hướng dẫn này không chốt chúng; hãy tự đối chiếu các khó khăn liệt kê trong đoạn khi tự luyện. Phân biệt mức độ: \"modest advantage\" (có, nhưng nhỏ) khác hẳn \"no effect\"."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Chương trình immersion tiếng Pháp ở Canada thành công thật, nhưng hay bị dùng sai làm bằng chứng rằng immersion luôn hiệu quả: trẻ ở đó THÊM một ngôn ngữ trong khi tiếng mẹ đẻ của chúng vẫn là ngôn ngữ thống trị và có uy tín, lại tham gia tự nguyện – hoàn toàn khác việc THAY tiếng mẹ đẻ thiểu số bằng ngôn ngữ đa số.",
+      "answers": [
+        { "q": 32, "ans": "NO", "quote": "results from the one case cannot simply be carried across to the other", "how": "Câu hỏi nói kết quả Canada \"can reasonably be applied\" cho trẻ có tiếng mẹ đẻ thiểu số; người viết gọi suy luận đó là \"unsound\" và nói thẳng không thể đem kết quả từ trường hợp này áp sang trường hợp kia → mâu thuẫn → NO. Bẫy: bài thừa nhận chương trình Canada \"are by any measure a success\", nên nếu chỉ đọc nửa đoạn sẽ chọn YES; cái người viết bác là PHÉP SUY RỘNG, không phải kết quả." }
+      ],
+      "note": "Nhớ hai điều kiện khiến ca Canada khác biệt: (1) tiếng mẹ đẻ của trẻ vẫn là ngôn ngữ \"dominant and prestigious\", (2) \"participation was voluntary\". Đây là kiểu câu hỏi \"có thể khái quát hóa được không\" rất hay gặp ở Passage 3."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Thực tế các câu hỏi này được quyết bằng lá phiếu: một bang Mỹ cấm dạy bằng ngôn ngữ khác tiếng Anh vào cuối thập niên 1990 rồi gần hai mươi năm sau cử tri đảo ngược phần lớn lệnh cấm, dù bằng chứng không khác mấy – thứ thay đổi là tâm trạng cử tri, vì tranh luận còn là về bản sắc dân tộc và ai phải thích nghi với ai.",
+      "answers": [
+        { "q": 38, "ans": "C", "quote": "The evidence available on the two occasions was not greatly different; the mood of the electorate was.", "how": "Bằng chứng không đổi mà chính sách đổi → thứ chi phối chính sách không chỉ là bằng chứng giáo dục ↔ C \"policy in this field is driven by more than educational evidence\", được củng cố bằng \"Debates about language in school are rarely only about attainment\". A sai ngược hoàn toàn (dư luận ĐẢO CHIỀU, không hề ổn định); B sai vì bài không nói kết quả học sinh tốt lên; D sai vì bài không nói cử tri hiểu biết hơn trước, chỉ nói tâm trạng khác đi." }
+      ],
+      "note": "Câu \"...; the mood of the electorate was.\" là kiểu lược bỏ (ellipsis): phải hiểu đầy đủ là \"the mood of the electorate WAS greatly different\". Đọc lướt rất dễ hiểu ngược thành \"tâm trạng cũng không khác\"."
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Kết luận: câu hỏi hữu ích không phải mô hình nào thắng mà là với điều kiện nào thì một cách làm có hiệu quả; gần như ai cũng đồng ý tiếng mẹ đẻ là một tài sản, cái còn tranh cãi là nên dành bao nhiêu thời gian và tiền bạc hữu hạn để bảo vệ nó – một câu hỏi về ưu tiên mà không thí nghiệm nào trả lời thay được.",
+      "answers": []
+    }
+  ],
+  "tips": [
+    "Nhóm 33–36 là \"quà\" của đề: cả bốn định nghĩa nằm gọn trong một đoạn, nên hãy đọc đoạn đó thật chậm và chốt ngay bốn câu, đừng để dành đến cuối giờ.",
+    "Người viết trình bày cả hai phía nhưng luôn kèm cụm đánh giá riêng (\"The inference is unsound\", \"smaller than its advocates suggest\", \"The useful question is therefore not which model wins\"). Với Yes/No/Not Given, chỉ những cụm này mới là quan điểm người viết; mong muốn của phụ huynh hay lời phe này phe kia thì không.",
+    "Cẩn thận với các câu hỏi gài sẵn một khuyến nghị (\"should be given the final decision\") hoặc một phép khái quát (\"can reasonably be applied\"): có đủ từ khóa trong bài không có nghĩa là người viết đã nói điều đó."
+  ]
+}

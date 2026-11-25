@@ -1,0 +1,73 @@
+{
+  "step1": "Tiêu đề \"The Lost City\" và sapo (nhờ kỹ thuật viễn thám, một thành phố đổ nát ở Thổ Nhĩ Kỳ đang dần lộ diện) cho biết bài kể về khảo cổ ở Kerkenes Dag bằng công nghệ. Mạch bài đoán được: thành phố Pteria và lịch sử ngắn ngủi → vì sao phải dùng công nghệ → chụp ảnh từ khinh khí cầu → kỹ thuật magnetometry → vì sao địa điểm này rất hợp với magnetometry → kỹ thuật resistivity → kết quả và một phát hiện bất ngờ. Q14–17 (paragraph matching) chỉ chốt được khi đọc xong từng đoạn; Q18–25 là summary chạy theo thứ tự bài từ đoạn C đến đoạn F; Q26 hỏi tác dụng chung của viễn thám, nằm ở đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–17", "Matching information (đoạn A–G)", "Không, phải đọc xong đoạn mới gán được", "variety of investigative methods, unexpected find, surveyed from above, why experts are interested"],
+    ["18–25", "Summary completion (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "from a distance, changed direction, line up, fire electrical pulses, conduct electricity, mainly employed during, images generated"],
+    ["26", "Multiple choice: tác dụng của viễn thám", "Một phần: nằm ở đoạn tổng kết cuối bài", "remote sensing, excavate, areas"]
+  ],
+  "typesNote": "Vừa đọc vừa làm hai việc: điền chỗ trống của summary khi gặp từ khóa, và ghi lại một câu ý chính mỗi đoạn để gán Q14–17 ngay tại đoạn đó.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Trên núi Kerkenes Dag là phế tích một thành phố khổng lồ với tường thành 7 km, mà nhiều nhà khảo cổ tin là thành Pteria huyền thoại Herodotus từng mô tả, tồn tại ngắn ngủi rồi bị đốt phá.",
+      "answers": [
+        { "q": 17, "ans": "A", "quote": "Many respected archaeologists believe these are the remains of the fabled city of Pteria", "how": "\"The reason why experts are interested in the site\" ↔ các nhà khảo cổ tin đây là thành Pteria trong sách Herodotus → chính là lý do giới chuyên môn quan tâm, nên đoạn A." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Dr Geoffrey Summers nghiên cứu mười năm; vì khu di tích rộng 271 ha nên khai quật theo cách truyền thống sẽ quá lâu, do đó ông dùng thêm công nghệ hiện đại để lập bản đồ toàn bộ.",
+      "answers": [
+        { "q": 14, "ans": "B", "quote": "it would take far too long to excavate the site using traditional techniques alone. So he decided to use modern technology as well", "how": "\"The reason for the deployment of a variety of investigative methods\" ↔ \"traditional techniques alone\" quá chậm nên dùng thêm \"modern technology as well\" — đúng là lý do phải dùng nhiều phương pháp → đoạn B." }
+      ]
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Năm 1993–1994, Summers chụp ảnh toàn bộ khu di tích bằng bóng bay cầm tay gắn camera rồi bằng khinh khí cầu, sau đó chuyển sang viễn thám để biết cái gì nằm dưới đất.",
+      "answers": [
+        { "q": 16, "ans": "C", "quote": "he rented a hot-air balloon and floated over the site, taking yet more pictures", "how": "\"How the surface of the site was surveyed from above\" ↔ chụp ảnh từ bóng bay và khinh khí cầu → đoạn C." },
+        { "q": 18, "ans": "hot-air balloon", "quote": "Then one afternoon, he rented a hot-air balloon", "how": "\"from the ground and then from a distance in a ___\" ↔ trước là đi bộ cầm bóng bay (từ mặt đất), sau là ngồi khinh khí cầu (từ trên cao) → hot-air balloon. Bẫy: \"hand-held balloon\" mới là cái đầu, không ngồi vào được." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Kỹ thuật thứ nhất là magnetometry: nhiệt lớn làm các hạt sắt trong vật liệu bị định hướng lại vĩnh viễn như kim la bàn theo từ trường Trái Đất lúc đó, máy đo sự khác biệt ấy để dựng ảnh dưới lòng đất.",
+      "answers": [
+        { "q": 19, "ans": "iron particles", "quote": "the iron particles in it can be permanently reoriented", "how": "\"the ___ in buried structures have changed direction as a result of great heat\" ↔ \"If something containing iron oxide was heavily burnt... the iron particles in it can be permanently reoriented\". Bẫy: \"iron oxide\" là chất chứa trong vật, còn thứ đổi hướng là \"iron particles\"." },
+        { "q": 20, "ans": "compass", "quote": "like a compass needle, to align with the Earth's magnetic field", "how": "\"They line up with the surrounding magnetic field just as a ___ would do\" ↔ \"like a compass needle, to align with\": align = line up. Đáp án chấp nhận compass hoặc compass needle." }
+      ],
+      "note": "Câu trích dẫn của Branting rất dài. Xương sống: \"the iron particles can be permanently reoriented to align with the Earth's magnetic field\"; mệnh đề điều kiện \"If something containing iron oxide was heavily burnt\" nêu khi nào xảy ra; cụm so sánh \"like a compass needle\" là chỗ chứa đáp án câu 20."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Kerkenes Dag đặc biệt hợp với magnetometry vì cả thành phố từng cháy dữ dội (đá cát biến thành thủy tinh) và không bao giờ được xây lại, nên chỉ có một lớp duy nhất và ảnh rất rõ.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Kỹ thuật thứ hai là resistivity: bắn xung điện xuống đất qua một que kim loại mảnh, dựa vào độ dẫn điện khác nhau của vật liệu để dựng ảnh tường, bếp lò; nó chậm hơn magnetometry nên chỉ dùng cho vùng cần làm rõ, và làm vào mùa xuân khi đất ẩm.",
+      "answers": [
+        { "q": 21, "ans": "thin metal probe", "quote": "It's done by shooting pulses into the ground through a thin metal probe", "how": "\"uses a ___ to fire electrical pulses into the earth\" ↔ \"shooting pulses into the ground through a thin metal probe\" (fire = shoot)." },
+        { "q": 22, "ans": "mudbrick", "quote": "stone and mudbrick are poor conductors", "how": "\"building materials like ___ and stone do not conduct electricity well\" ↔ \"stone and mudbrick are poor conductors\" (thứ tự đảo lại nên chỗ trống là mudbrick)." },
+        { "q": 23, "ans": "looser damp soil", "quote": "but looser, damp soil conducts very well", "how": "\"while ___ does this much more effectively\" ↔ \"looser, damp soil conducts very well\"; vế \"but\" trong bài đối lập với vật liệu dẫn kém, giống \"while\" trong câu hỏi." },
+        { "q": 24, "ans": "spring season", "quote": "the project has a spring season, when most of the resistivity work is done", "how": "\"mainly employed during the ___, when conditions are more favourable\" ↔ mùa xuân, vì \"It helps a lot if it has rained\" (đất ẩm thì xung điện đi dễ hơn)." },
+        { "q": 25, "ans": "clarify", "quote": "the team is concentrating on areas where they want to clarify pictures from the magnetometry", "how": "\"used to ___ some images generated by the magnetometer\" ↔ \"clarify pictures from the magnetometry\"; chỗ trống sau \"to\" nên là động từ nguyên thể." }
+      ],
+      "note": "Đoạn F chứa tới 5 chỗ trống liên tiếp (21–25) và đúng thứ tự. Đây là đoạn phải đọc chậm nhất bài."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Viễn thám không cho biết tất cả nhưng chỉ ra những khu vực dưới mặt đất đáng chú ý nhất để khai quật truyền thống; khi đào một cổng thành, nhóm sửng sốt thấy tường hoàn toàn bằng đá và cổng cao ít nhất mười mét.",
+      "answers": [
+        { "q": 15, "ans": "G", "quote": "When we started to excavate we were staggered to discover that the walls were made entirely from stone", "how": "\"An example of an unexpected find\" ↔ \"One surprise came when they dug out one of the gates\" và \"we were staggered to discover\" → đoạn G." },
+        { "q": 26, "ans": "B", "quote": "Remote sensing does not reveal everything about Kerkenes Dag, but it shows the most interesting sub-surface areas of the site. The archaeologists can then excavate these using traditional techniques.", "how": "\"pinpoint key areas which would be worth investigating closely\" ↔ \"shows the most interesting sub-surface areas\" → B. A sai vì bài nói viễn thám \"does not reveal everything\", không phát hiện từng vật nhỏ; C sai vì vẫn phải đào bằng kỹ thuật truyền thống; D sai vì resistivity chỉ làm tốt vào mùa xuân, tức không dùng được quanh năm." }
+      ]
+    }
+  ],
+  "tips": [
+    "Khi điền từ, chép đúng chữ trong bài: \"hot-air balloon\", \"thin metal probe\", \"spring season\" — đổi thành \"balloon\" hay \"probe\" đều dễ mất điểm vì thiếu thông tin phân biệt.",
+    "Bài có hai kỹ thuật dễ lẫn: magnetometry (từ trường, hạt sắt, nhanh) ở đoạn D–E và resistivity (xung điện, que kim loại, chậm, mùa xuân) ở đoạn F. Hãy ghi riêng hai cột khi đọc.",
+    "Dạng \"đoạn nào chứa thông tin\" nên gán ngay sau khi đọc xong mỗi đoạn: đoạn A = lý do quan tâm, B = lý do dùng nhiều phương pháp, C = chụp từ trên cao, G = phát hiện bất ngờ."
+  ]
+}

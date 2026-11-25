@@ -1,0 +1,73 @@
+{
+  "step1": "Tiêu đề BIRD MIGRATION: bài khoa học phổ thông về chim di cư. Đoán mạch bài: cấu tạo cơ thể giúp bay xa → vì sao chim di cư → những điều chưa giải thích được → chim non tự tìm đường → cơ chế định hướng (mặt trời, sao, từ trường) → chọn thời điểm bay theo thời tiết → vài ví dụ bay lạc mà vẫn về được. Vì Q14–20 là Matching Headings cho đúng bảy đoạn A–G nên mỗi đoạn chắc chắn có một đáp án; Q21–22 và Q23–26 rải trong các đoạn giữa và cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–20", "Matching Headings (i–x) cho đoạn A–G", "Không – phải đọc xong đoạn mới chọn", "Đọc câu chủ đề và ý lặp lại của từng đoạn"],
+    ["21–22", "Multiple choice – chọn HAI đáp án (A–E)", "Một phần (từ khóa further, night, water, eye-sight)", "fly further, family groups, less water, eye-sight, shorebirds, winds"],
+    ["23–26", "Sentence completion (NO MORE THAN ONE WORD OR NUMBER)", "Có, theo thứ tự", "cuckoos, wintering grounds, directions like a, flying at night, laboratory tests"]
+  ],
+  "typesNote": "Chiến thuật một lượt: đọc hết một đoạn, tóm ý chính bằng một câu rồi chọn heading ngay, đồng thời chốt luôn câu gap/MCQ nào có bằng chứng nằm trong đoạn đó.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Chim có hàng loạt đặc điểm cơ thể đặc biệt (xương rỗng nhẹ, lông, hệ hô hấp, giữ nhiệt, tích mỡ) giúp chúng bay đường dài.",
+      "answers": [
+        { "q": 14, "ans": "iv", "quote": "Birds have many unique design features that enable them to perform such amazing feats of endurance", "how": "Ý chính của đoạn là \"design features\" của cơ thể ↔ heading iv \"Physical characteristics that allow birds to migrate\". Heading vii (research findings) sai vì đoạn không nói về nghiên cứu nào." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Lý do căn bản của di cư là tìm đủ thức ăn trong mùa đông khi nguồn thức ăn khan hiếm.",
+      "answers": [
+        { "q": 15, "ans": "v", "quote": "The fundamental reason that birds migrate is to find adequate food during the winter months when it is in short supply", "how": "\"fundamental reason\" ↔ heading v \"The main reason why birds migrate\". Đoạn có nhắc nhiệt độ lạnh nhưng chỉ để nói chim chịu được nếu còn thức ăn, nên không phải heading về thời tiết (iii)." }
+      ]
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Khó hiểu là nhiều loài bay xa hơn mức cần thiết: én Anh bỏ qua châu Phi xích đạo để xuống tận Cape Province, nhàn Bắc Cực bay vòng 25.000 dặm và lướt qua nhiều vùng sống thích hợp.",
+      "answers": [
+        { "q": 16, "ans": "ii", "quote": "all these individuals overfly other areas of seemingly suitable habitat spanning two hemispheres", "how": "Đoạn xoay quanh việc chim bỏ qua những vùng kiếm ăn gần hơn mà không ai giải thích được ↔ heading ii \"The unexplained rejection of closer feeding ground\". Heading vi (vùng trú đông tốt nhất) sai vì bài nói chính các vùng gần đó cũng đủ tốt; heading ix sai vì không hề so sánh di cư ngắn với dài." }
+      ],
+      "note": "Câu 21–22 (chọn HAI phương án) có một đáp án nằm ngay ở đoạn C: phương án A \"Birds often fly further than they need to\" lặp gần nguyên văn \"many birds journey much further than would be necessary just to find food and good weather\". Phương án B sai vì rất ít chim bố mẹ bay cùng chim non; E sai vì bài không nói chỉ shorebirds chịu được gió; D (mắt tinh hơn người) là bẫy vì bài nói \"superior sensory perception\", tức giác quan nói chung."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Bí ẩn lớn nhất là chim non tìm được vùng trú đông truyền thống mà không ai dạy, điển hình là chim cu gáy bị nuôi nhờ vẫn tự bay tới nơi và quay về tìm bạn đời cùng loài.",
+      "answers": [
+        { "q": 17, "ans": "x", "quote": "One of the greatest mysteries is how young birds know how to find the traditional wintering areas without parental guidance", "how": "\"mysteries\" + \"without parental guidance\" ↔ heading x \"Mysterious migration despite lack of teaching\" (lack of teaching = không được bố mẹ dạy)." },
+        { "q": 23, "ans": "parental guidance", "quote": "how young birds know how to find the traditional wintering areas without parental guidance", "how": "Câu hỏi gần như chép lại cấu trúc của bài: \"find their wintering grounds without ___\" ↔ \"find the traditional wintering areas without parental guidance\"." }
+      ],
+      "note": "Đề ghi NO MORE THAN ONE WORD OR NUMBER nhưng đáp án chính thức là hai từ \"parental guidance\"; đây là lỗi của sách, vẫn theo key. Khi làm bài thật, nếu chỉ được một từ thì viết \"guidance\"."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Các nghiên cứu cho thấy chim định hướng bằng mặt trời, sao và từ trường (tinh thể magnetite trong não), và phần lớn chim nhỏ bay đêm để tránh thú săn, tránh mất nước và tận dụng không khí mát, ít nhiễu động.",
+      "answers": [
+        { "q": 18, "ans": "vii", "quote": "Mounting evidence has confirmed that birds use the positions of the sun and stars to obtain compass directions", "how": "Cả đoạn là bằng chứng và thí nghiệm về cách chim định hướng ↔ heading vii \"Research findings on how birds migrate\"." },
+        { "q": 24, "ans": "compass", "quote": "birds use the positions of the sun and stars to obtain compass directions", "how": "\"tell directions like a ___ by observing the sun and the stars\" ↔ \"obtain compass directions\" từ mặt trời và sao; chỉ một từ nên là \"compass\"." },
+        { "q": 25, "ans": "predators", "quote": "Daytime predators are avoided", "how": "\"avoid contact with ___\" ↔ \"Daytime predators are avoided\" (câu bị động, chủ ngữ chính là đáp án). Viết \"predators\" số nhiều đúng như bài." }
+      ],
+      "note": "Đoạn E rất dài và chứa nhiều đáp án (18, 24, 25). Đây cũng là chỗ ứng với phương án C của nhóm Q21–22 (\"the danger of dehydration ... is reduced\"), nhưng đáp án trên trang không có đáp án cho câu 22 nên bài hướng dẫn không chốt câu đó. Câu khó: \"Such phenomenal powers are the product of computing a number of sophisticated cues, including an inborn map of the night sky and the pull of the earth's magnetic field\" – xương sống: khả năng đó là kết quả của việc xử lý nhiều tín hiệu; phần \"including...\" chỉ liệt kê ví dụ hai tín hiệu đó, không thêm ý mới."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Khởi hành đúng thời điểm là kỹ năng sống còn: chim dự báo thời tiết rất giỏi, nhận được thay đổi áp suất và bay đi hay quay về trước khi thời tiết đổi.",
+      "answers": [
+        { "q": 19, "ans": "i", "quote": "part of the skill in arriving safely is setting off at the right time", "how": "Ý chính là chọn đúng lúc để bay ↔ heading i \"The best moment to migrate\". Heading iii (ảnh hưởng của thời tiết tới lộ trình) sai vì đoạn nói về thời điểm xuất phát, không phải tuyến đường." },
+        { "q": 26, "ans": "visible", "quote": "Often birds react to weather changes before there is any visible sign of them", "how": "\"detect weather without ___ signs\" ↔ \"before there is any visible sign\"; cần tính từ bổ nghĩa cho \"signs\" nên là \"visible\"." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Dù bị mang đi xa hay bị gió tây thổi lạc qua Đại Tây Dương, chim vẫn về được tổ hoặc quay lại Bắc Mỹ mùa xuân sau.",
+      "answers": [
+        { "q": 20, "ans": "viii", "quote": "each autumn a small number of North American birds are blown across the Atlantic by fast-moving westerly tail winds. Not only do they arrive safely in Europe", "how": "Đoạn kể chuyện bị gió cuốn đi mà vẫn di cư thành công ↔ heading viii \"Successful migration despite trouble of wind\". Heading iii lại là bẫy: gió ở đây không định hình lộ trình mà là rắc rối chim vượt qua." }
+      ]
+    }
+  ],
+  "tips": [
+    "Với Matching Headings, hai heading thừa (iii, vi, ix) đều chứa từ khóa quen thuộc (weather, wintering grounds, long-distance) nên chỉ loại được khi dựa vào ý chính cả đoạn, không dựa vào một từ lẻ.",
+    "Câu 21–22 chọn hai phương án: chốt A ở đoạn C, C ở đoạn E; đừng chọn D vì \"superior sensory perception\" là giác quan nói chung chứ không phải thị lực sắc hơn.",
+    "Phần gap 23–26 diễn đạt lại rất sát bài (without parental guidance, compass directions, predators are avoided, visible sign) nên đọc tới đâu điền tới đó, không cần quay lại."
+  ]
+}

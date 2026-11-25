@@ -1,0 +1,69 @@
+{
+  "step1": "Tiêu đề The Age of the Lighthouse cho thấy bài là lịch sử hải đăng theo trình tự thời gian: vì sao cần đèn → tháp lửa cổ → xây tháp trên đá ngầm → cải tiến đèn và thấu kính → ký hiệu nhấp nháy để phân biệt → người gác đèn và tự động hóa. Q14–19 là Matching Headings nên chỉ chốt được sau khi đọc xong từng đoạn. Q20–23 (bảng về Eddystone) chắc chắn nằm gọn trong đoạn C. Q24 (nhiên liệu) ở đoạn B, Q25–26 (cơ cấu quay, chất lỏng nâng) ở đoạn E.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–19", "Matching headings (i–ix) cho đoạn A–F", "Không – phải đọc xong đoạn rồi mới gán", "ý chính mỗi đoạn; đọc lướt 9 heading trước để biết mình đang tìm gì"],
+    ["20–23", "Table completion (ONE WORD ONLY)", "Có – cả bảng nằm ở đoạn về Eddystone", "1698, 1709, 1759, blocks, outline, tree"],
+    ["24–26", "Short answer (ONE WORD ONLY)", "Có", "iron baskets fuel, turned the lens, floated in"]
+  ],
+  "typesNote": "Đọc 9 heading một lượt trước khi vào bài, sau đó mỗi khi kết thúc một đoạn thì gán heading ngay và gạch nó khỏi danh sách; Q20–26 thì cứ gặp từ khóa là điền.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Bờ biển là một mối nguy: đèn trên bờ vừa cảnh báo nguy hiểm vừa (quan trọng hơn) cho biết tàu đang ở đâu, nên các xã hội buôn bán đường biển đã trả tiền cho đèn từ rất sớm.",
+      "answers": [
+        { "q": 14, "ans": "v", "quote": "A light placed on the shore solves two difficulties at once", "how": "Cả đoạn trả lời câu hỏi \"vì sao phải đánh dấu bờ biển\" ↔ heading v \"Why a coast has to be marked at all\". Bẫy viii (chi phí bảo trì): đoạn có nói đến \"paying for lights\" nhưng là lý do kinh tế để dựng đèn, không phải chi phí tăng lên của tháp cũ." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Những tháp sớm nhất chỉ là chỗ cao để đốt lửa: Pharos ở Alexandria, tháp La Mã ở Dover, nhà thờ thời trung cổ; nhiên liệu là củi rồi than, cháy trong giỏ sắt mở và tắt đúng lúc cần nhất.",
+      "answers": [
+        { "q": 15, "ans": "iv", "quote": "The earliest towers were simply high places on which a fire could be kept burning", "how": "Đoạn trải dài từ thế kỷ III TCN đến thời trung cổ, toàn bộ về lửa đốt trên tháp ↔ heading iv \"Fires on towers: the first thousand years\"." },
+        { "q": 24, "ans": "coal", "quote": "The fuel was wood and, later and more usually, coal, burned in an open iron basket at the top of the tower", "how": "Câu hỏi có \"usually\" ↔ \"later and more usually, coal\". Bẫy: wood cũng là nhiên liệu nhưng không phải loại \"usually\"." }
+      ],
+      "note": "Q24 phụ thuộc đúng một chữ \"usually\": đáp án là coal chứ không phải wood."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Khó nhất là tháp trên đá ngầm bị nước ngập, và cuộc vật lộn ở Eddystone đã giải được bài toán: tháp thứ ba (1759) xây toàn bằng đá, các khối mộng vào nhau, vôi đông cứng dưới nước, dáng mô phỏng thân cây sồi.",
+      "answers": [
+        { "q": 16, "ans": "iii", "quote": "The hardest lights to establish were those on rocks that the sea covered at high water", "how": "\"rocks that the sea covered at high water\" ↔ heading iii \"Building where the sea closes over the site\"." },
+        { "q": 20, "ans": "storm", "quote": "an elaborate wooden structure finished in 1698, was swept away in a great storm five years later", "how": "\"carried away in a ___ five years after\" ↔ \"swept away in a great storm five years later\"; một từ duy nhất: storm." },
+        { "q": 21, "ans": "wood", "quote": "completed in 1709 and built largely of wood on a stone base", "how": "\"made mainly of ___\" ↔ \"built largely of wood\". Bẫy stone: đá chỉ là phần nền (\"on a stone base\")." },
+        { "q": 22, "ans": "dovetailed", "quote": "each block was dovetailed into its neighbours and into the course below, so that the tower behaved as a single mass", "how": "\"___ into one another so that the tower acted as one mass\" ↔ \"dovetailed into its neighbours ... behaved as a single mass\"." },
+        { "q": 23, "ans": "oak", "quote": "deliberately modelled on the trunk of an oak, a shape chosen because a tree survives the wind that fells a wall", "how": "\"Its outline copied that of an ___\" ↔ \"modelled on the trunk of an oak\"; \"withstands wind that destroys a wall\" ↔ \"survives the wind that fells a wall\"." }
+      ],
+      "note": "Câu dài mang Q22: xương sống \"each block was dovetailed into its neighbours\" (CÁI GÌ + BỊ LÀM GÌ); mệnh đề \"so that the tower behaved as a single mass\" là kết quả, còn \"and it was bedded in a lime that would set under water\" là một biện pháp thứ hai, đối lập với \"a mortar that would wash away\"."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Sau khi giải xong phần xây dựng là đến bản thân ánh sáng: đèn dầu bấc tròn rỗng với ống khói thủy tinh cháy sáng và ổn định hơn, và thấu kính ghép từ các vòng kính đồng tâm (thập niên 1820) hướng ánh sáng thành chùm ngang.",
+      "answers": [
+        { "q": 17, "ans": "vi", "quote": "The improvement came from two directions", "how": "Hai hướng cải tiến = ngọn lửa tốt hơn (đèn bấc rỗng) + cách hướng ánh sáng tốt hơn (thấu kính vòng) ↔ heading vi \"Better flames and a better way of aiming them\"." }
+      ],
+      "note": "Đoạn D kết bằng ý \"các loại đèn thay đổi liên tục nhưng thấu kính thì không\" – đây là ý phụ, đừng để nó kéo bạn sang heading về chi phí hay công nghệ mới."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Đèn mạnh sinh vấn đề mới: trên bờ biển nhiều đèn, mỗi trạm phải có kiểu nhấp nháy riêng để nhận dạng; muốn vậy phải quay cả cụm thấu kính, nên người ta cho nó nổi trong bể thủy ngân và dùng cơ cấu đồng hồ làm động lực.",
+      "answers": [
+        { "q": 18, "ans": "i", "quote": "a brilliant one is useless if the mariner cannot tell which it is", "how": "Vấn đề trung tâm của đoạn là phân biệt đèn này với đèn kia ↔ heading i \"A light that could be told apart from its neighbours\"." },
+        { "q": 25, "ans": "clockwork", "quote": "The motive power was clockwork, wound up by the keeper at intervals through the night", "how": "\"What kind of mechanism turned the lens\" ↔ \"motive power was clockwork\"; một từ: clockwork." },
+        { "q": 26, "ans": "mercury", "quote": "to float the entire rotating structure, which might weigh several tonnes, in a shallow bath of mercury", "how": "\"floated in\" ↔ \"float ... in a shallow bath of mercury\"; đáp án một từ là mercury, không phải \"bath of mercury\"." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Cần người gác đèn (thường ba người một trạm), công việc đơn điệu; tự động hóa trong thế kỷ XX đã xóa sổ nghề này, và định vị vệ tinh lấy mất chức năng thứ hai của hải đăng, song đèn vẫn được duy trì.",
+      "answers": [
+        { "q": 19, "ans": "vii", "quote": "Automation ended the profession in the course of the twentieth century", "how": "\"ended the profession\" ↔ heading vii \"The end of an occupation\". Bẫy ix (hải đăng làm đề tài hội họa): đoạn chỉ nói tháp trở thành \"monuments\", không nhắc tranh vẽ." }
+      ]
+    }
+  ],
+  "tips": [
+    "Hai heading ii (cạnh tranh giữa các cơ quan quốc gia) và ix (đề tài hội họa) không khớp đoạn nào – bài luôn thừa heading, đừng cố nhét chúng vào.",
+    "Bảng Eddystone đi đúng thứ tự ba tháp 1698 – 1709 – 1759, nên chỉ cần đọc một lượt đoạn C là điền xong Q20–23.",
+    "Với ONE WORD ONLY, chọn đúng danh từ cốt lõi: mercury (không phải \"bath of mercury\"), coal (không phải wood), wood (không phải stone)."
+  ]
+}

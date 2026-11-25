@@ -1,0 +1,85 @@
+{
+  "step1": "Tiêu đề What Is a Dinosaur? cho biết bài là văn bản khoa học mô tả – phân loại: khủng long là gì, khác thằn lằn ra sao và được chia thành những nhóm nào. Đoán trước mạch bài: lớp bò sát và hai superorder → nguồn gốc tiến hoá thời Triassic → khác biệt ở hộp sọ → khác biệt ở xương chậu/chi (dáng đi) → chia thành hai bộ theo xương chậu → các phân bộ của từng bộ kèm ví dụ. Q27–33 là Matching Headings cho đúng 7/8 đoạn (đoạn H đã cho sẵn đáp án mẫu x), Q34–36 là điền từ nằm ở ba đoạn đầu, Q37–40 là nối đặc điểm nằm rải từ đoạn D đến đoạn G.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–33", "Matching Headings (i–xiii) cho đoạn A–G", "Không – phải đọc xong mỗi đoạn mới chốt được", "Đọc ý chính từng đoạn; chỉ dùng heading sau khi gấp đoạn lại"],
+    ["34–36", "Sentence completion (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "two different superorders, Triassic Period, thecodonts, vomers"],
+    ["37–40", "Matching features (A–H)", "Một phần: tên nhóm khủng long trong vế đầu", "lizards, Saurischian and ornithischian, theropods, sauropodomorphs, tails to balance"]
+  ],
+  "typesNote": "Chiến thuật one-shot: đọc từng đoạn một lần, chốt heading của đoạn đó ngay khi vừa đọc xong, đồng thời quét xem có câu 34–40 nào thuộc đoạn này không rồi mới sang đoạn sau, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Khủng long không phải thằn lằn: cả hai đều thuộc lớp Reptilia, nhưng khác biệt về giải phẫu bộ xương khiến chúng bị xếp vào hai superorder riêng (Lepidosauria và Archosauria).",
+      "answers": [
+        { "q": 27, "ans": "vi", "quote": "significant differences in the skeletal anatomy of lizards and dinosaurs have led scientists to place these groups of animals into two different superorders", "how": "Ý chính cả đoạn là tách thằn lằn và khủng long thành hai superorder ↔ heading vi \"Lizards and dinosaurs – two distinct superorders\"." },
+        { "q": 34, "ans": "skeletal anatomy", "quote": "significant differences in the skeletal anatomy of lizards and dinosaurs", "how": "Câu hỏi \"classified into two different superorders because of the difference in their ___\" lặp lại gần như nguyên văn vế \"differences in the skeletal anatomy\" nên chỗ trống là một danh ngữ chỉ đặc điểm cơ thể." }
+      ],
+      "note": "Heading iii \"Dinosaurs – terrible lizards\" là bẫy vì đoạn mở đầu bằng nghĩa tiếng Hy Lạp \"terrible lizard\"; nhưng đó chỉ là câu dẫn, còn ý chính là phủ nhận chuyện khủng long là thằn lằn."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Nguồn gốc tiến hoá: khủng long và cá sấu cùng tiến hoá từ pseudosuchian thecodont cuối kỷ Triassic, còn thằn lằn, rắn và các loại thecodont khác tiến hoá sớm hơn từ eosuchian.",
+      "answers": [
+        { "q": 28, "ans": "xi", "quote": "Palaeontologists believe that both dinosaurs and crocodiles evolved, in the later years of the Triassic Period", "how": "Cả đoạn nói ai tiến hoá từ ai và vào lúc nào ↔ heading xi \"The origins of dinosaurs and lizards\"." },
+        { "q": 35, "ans": "eosuchians", "quote": "different types of thecodont are believed to have evolved earlier in the Triassic Period from reptiles known as eosuchians", "how": "Từ khoá \"In the Triassic Period\" + \"thecodonts\" dẫn thẳng tới câu cuối đoạn; bài viết theo chiều \"evolved from X\", câu hỏi đảo lại thành \"X evolved into thecodonts\" nên đáp án là chủ thể đứng sau \"from\"." }
+      ],
+      "note": "Heading ix \"Lepidosaurs\" là bẫy: đoạn mở đầu bằng \"Classified as lepidosaurs are...\" nhưng phần lớn đoạn nói về nguồn gốc tiến hoá của cả hai nhóm, không chỉ riêng lepidosaurs."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Khác biệt xương quan trọng nằm ở sọ, chậu và chi; riêng sọ khủng long có hai xương dài gọi là vomer mà không loài nào khác có.",
+      "answers": [
+        { "q": 29, "ans": "xiii", "quote": "However, unlike the skulls of any other known animals, the skulls of dinosaurs had two long bones known as vomers", "how": "Trọng tâm đoạn là xương sọ giúp phân biệt khủng long với các archosaur khác ↔ heading xiii." },
+        { "q": 36, "ans": "two long bones", "quote": "the skulls of dinosaurs had two long bones known as vomers", "how": "Chỗ trống đứng sau dấu hai chấm giải thích vomers là gì; bài định nghĩa ngược lại (\"two long bones known as vomers\") nên lấy đúng cụm mô tả, không quá ba từ." }
+      ],
+      "note": "Heading i \"165 million years\" là bẫy vì con số 165 million years xuất hiện ngay trong đoạn, nhưng nó chỉ là một chi tiết phụ trong câu nói về sự đa dạng của sọ."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Mọi khủng long đều chung một \"body plan\": chi sau dựng thẳng dưới thân nhờ cấu tạo chậu – xương đùi – khớp gối, tạo ra dáng đi hoàn chỉnh giúp nhận ra khủng long giữa các loài khác.",
+      "answers": [
+        { "q": 30, "ans": "vii", "quote": "Identification of this plan makes it possible to differentiate dinosaurs from any other types of animal, even other archosaurs", "how": "Câu thứ hai của đoạn chính là heading vii: body plan độc nhất giúp nhận diện khủng long." },
+        { "q": 37, "ans": "B", "quote": "the hind limbs were held vertically beneath the body, rather than sprawling out to the sides like the limbs of a lizard...This unique combination of features gave dinosaurs what is known as a", "how": "Vế đầu \"Dinosaurs differed from lizards because...\" nên phải chọn đặc điểm chỉ khủng long có: dáng đi hoàn chỉnh (fully improved gait) ↔ B \"the former had a 'fully improved gait'\". Phương án E (chi sau xoè sang hai bên) là bẫy đảo chiều: đó là đặc điểm của thằn lằn, không phải khủng long." }
+      ],
+      "note": "Heading ii \"The body plan of archosaurs\" khác một chữ nhưng sai: đoạn nói body plan của dinosaurs, và dùng nó để tách khủng long khỏi các archosaur khác."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Khủng long được chia thành hai bộ Saurischia và Ornithischia dựa trên hướng của xương mu trong đai chậu gồm ba xương mỗi bên.",
+      "answers": [
+        { "q": 31, "ans": "iv", "quote": "dinosaurs are divided into two orders: Saurischia or saurischian dinosaurs, and Ornithischia or ornithischian dinosaurs. This division is made on the basis of their pelvic anatomy", "how": "Nguyên tắc chia nhóm theo giải phẫu xương chậu ↔ heading iv." },
+        { "q": 38, "ans": "G", "quote": "All dinosaurs had a pelvic girdle with each side comprised of three bones: the pubis, ilium and ischium", "how": "Mỗi bên ba xương, hai bên là sáu ↔ G \"both had a pelvic girdle comprising six bones\". Đây là bài toán cộng nhỏ, không có chữ \"six\" trong bài. Phương án A (\"are both divided into two orders\") là bẫy: chỉ Saurischia được chia thành hai phân bộ, còn Ornithischia chia thành ba." }
+      ],
+      "note": "Heading xii \"Bird-hipped dinosaurs\" là bẫy: bird-hipped chỉ là một trong hai kiểu được nêu để minh hoạ tiêu chí phân loại."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Bộ Saurischia lớn hơn và xuất hiện trước, gồm hai phân bộ theropod (ăn thịt, đi hai chân) và sauropodomorph (hai hoặc bốn chân, về sau chủ yếu ăn cỏ).",
+      "answers": [
+        { "q": 32, "ans": "v", "quote": "It is divided into two suborders: Theropoda or theropods, and Sauropodomorpha or sauropodomorphs", "how": "Cả đoạn mô tả hai phân bộ của Saurischia kèm ví dụ ↔ heading v." },
+        { "q": 39, "ans": "H", "quote": "The theropods or...were bipedal, predatory carnivores...Some sauropodomorphs were carnivorous or omnivorous, but later species were typically herbivorous", "how": "Vế đầu \"Unlike theropods, sauropodomorphs...\": theropod luôn ăn thịt, còn sauropodomorph có loài ăn cỏ ↔ H \"did not always eat meat\". Phương án C (không nặng lắm) và F (đi bốn chân) đều bị loại vì Diplodocus rất lớn và sauropodomorph gồm cả loài đi hai chân." }
+      ],
+      "note": "Đoạn này đầy số liệu (12m, 6.4 tonnes, 1.4m, 27m) nhưng không câu nào hỏi số, đừng mất thời gian ghi nhớ."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Bộ Ornithischia toàn loài ăn cỏ, chia thành ba phân bộ; ornithopod chạy bằng hai chân sau và dùng đuôi giữ thăng bằng, còn thyreophoran đi bốn chân với giáp xương trên lưng.",
+      "answers": [
+        { "q": 33, "ans": "viii", "quote": "Ornithischian dinosaurs were bipedal or quadrupedal herbivores", "how": "Câu mở đoạn gói gọn ý chính: nhóm này ăn thực vật ↔ heading viii \"Herbivore dinosaurs\"." },
+        { "q": 40, "ans": "F", "quote": "balancing their body by holding their tails stiffly off the ground behind them...The thyreophorans or...were quadrupeds with rows of protective bony spikes, studs, or plates along their backs and tails", "how": "Vế đầu \"Some dinosaurs used their tails to balance, others...\" hỏi nhóm còn lại làm gì: ornithopod dùng đuôi giữ thăng bằng, thyreophoran là quadruped ↔ F \"walked or ran on four legs rather than two\". Phương án D (chạy bằng chân sau) là bẫy vì đó chính là nhóm dùng đuôi giữ thăng bằng, tức vế đầu chứ không phải \"others\"." }
+      ]
+    },
+    {
+      "para": "Đoạn H",
+      "idea": "Marginocephalian có diềm xương hoặc gờ hẹp phía sau sọ, ví dụ Triceratops với diềm cổ và ba sừng.",
+      "answers": [],
+      "note": "Đoạn H là ví dụ mẫu đề đã cho (x – Frills and shelves). Đọc lướt để xác nhận cách chọn heading theo chi tiết nổi bật của đoạn."
+    }
+  ],
+  "tips": [
+    "Với Matching Headings, heading chứa đúng từ xuất hiện trong đoạn thường là bẫy (iii ở đoạn A, ix ở đoạn B, i ở đoạn C, xii ở đoạn E): phải hỏi \"cả đoạn nói về cái gì\", không phải \"đoạn có chữ gì\".",
+    "Q37 và Q40 đều dựa trên thế đối lập trong bài (khủng long vs thằn lằn, ornithopod vs thyreophoran). Khi vế đầu có chữ \"differed from\" hay \"Unlike\", hãy chọn đặc điểm của chủ thể được nhắc sau cùng, tránh chọn nhầm đặc điểm của nhóm bị so sánh.",
+    "Phần điền từ 34–36 chỉ lấy đúng chữ trong bài và đi theo thứ tự đoạn A–B–C, nên chốt xong ba câu này là có thể quên hẳn chúng khi đọc tiếp."
+  ]
+}

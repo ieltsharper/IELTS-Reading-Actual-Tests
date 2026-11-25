@@ -1,0 +1,74 @@
+{
+  "step1": "Tiêu đề Building for a Warmer World cho thấy bài bàn về thiết kế công trình bền vững khi khí hậu nóng lên. Đoán mạch bài: vì sao công trình đáng quan tâm (tuổi thọ dài) → cách xây truyền thống theo khí hậu → các biện pháp thiết kế phải quyết sớm → cách tiếp cận \"hộp kín\" ở Bắc Âu → năng lượng nằm trong vật liệu (xi măng) → công trình hiệu quả trên giấy nhưng kém thực tế → mở rộng sang vị trí, mật độ, khả năng thay đổi công năng. Q27–33 là Matching Headings nên chỉ chốt sau khi đọc xong từng đoạn; Q34–38 (Yes/No/Not Given) đi theo thứ tự đoạn B → E.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–33", "Matching headings (i–x) cho đoạn A–G", "Không – phải đọc xong đoạn rồi mới gán", "ý chính mỗi đoạn; đọc lướt 10 heading trước khi vào bài"],
+    ["34–38", "Yes / No / Not Given (ý của người viết)", "Có (từ khóa), nhưng phải đọc hết câu", "no means of overcoming, similar buildings different climates, cheaper once finished, timber any height, replacing an inefficient building"]
+  ],
+  "typesNote": "Đọc 10 heading một lượt trước, rồi mỗi khi hết một đoạn thì gán heading và chốt luôn câu Yes/No/Not Given thuộc đoạn đó, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Công trình là thứ bền lâu và ngốn năng lượng nhất con người làm ra; điều khiến vấn đề vượt khỏi kỹ thuật là thang thời gian: quyết định trong một buổi chiều trên bàn vẽ chi phối mức tiêu thụ năng lượng suốt cả trăm năm.",
+      "answers": [
+        { "q": 27, "ans": "viii", "quote": "Of all the things human beings make, buildings are among the longest-lived and the most demanding", "how": "Đoạn A giải thích vì sao riêng công trình đáng được chú ý (sống lâu, tốn năng lượng, khó sửa quyết định) ↔ heading viii \"Why these particular objects deserve attention\". Bẫy iii \"Choices that have to be made early\": đoạn A có nhắc quyết định sớm nhưng chỉ để nêu lý do, còn các biện pháp cụ thể mới là nội dung đoạn C." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Trước khi có máy móc, người xây buộc phải đối thoại với khí hậu: vùng nóng khô dùng tường dày, lỗ nhỏ, sân trong có bóng mát; vùng nóng ẩm dùng kết cấu nhẹ, sàn nâng cao, mái đua rộng – rồi tất cả bị bỏ đi khi có điện rẻ và điều hòa.",
+      "answers": [
+        { "q": 28, "ans": "i", "quote": "for most of history builders had no choice but to pay attention to climate, because they had no machinery with which to overcome it", "how": "Cả đoạn là bài học từ lối xây trước thời máy móc ↔ heading i \"Lessons from building before machines\"." },
+        { "q": 34, "ans": "YES", "quote": "builders had no choice but to pay attention to climate, because they had no machinery with which to overcome it", "how": "\"because they had no means of overcoming them\" ↔ \"because they had no machinery with which to overcome it\"; người viết tự khẳng định → YES." },
+        { "q": 35, "ans": "YES", "quote": "cheap electricity and mechanical air-conditioning made it possible to put up a sealed glass tower in Stockholm and an almost identical one in Singapore", "how": "\"very similar buildings in quite different climates\" ↔ \"an almost identical one\" ở Stockholm và Singapore – hai khí hậu trái ngược → YES." }
+      ],
+      "note": "Người viết gọi các giải pháp truyền thống là \"not quaint local manners but solutions tested over many generations\" – tức ông đánh giá cao chúng. Câu hỏi nào bảo ông coi đó là tập quán địa phương ngộ nghĩnh đều sẽ là NO."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Thiết kế bền vững hiện đại là phục hồi trí khôn cũ: hướng nhà trước tiên, rồi che nắng tính theo hình học mặt trời, mặt bằng đủ mỏng để lấy sáng và thông gió tự nhiên – tất cả gần như miễn phí nếu quyết khi còn đang vẽ, và gần như không thêm được sau khi dựng khung.",
+      "answers": [
+        { "q": 29, "ans": "iii", "quote": "all of them cost very little if they are settled while the plan is still being drawn", "how": "Trọng tâm đoạn là các lựa chọn phải chốt từ sớm ↔ heading iii \"Choices that have to be made early\"." },
+        { "q": 36, "ans": "NO", "quote": "Once the frame is up, almost none of them can be added without rebuilding", "how": "Câu hỏi nói hướng nhà và che nắng RẺ HƠN khi đưa vào sau lúc hoàn công; bài nói ngược hẳn (rẻ khi còn trên bản vẽ, sau khi dựng khung thì phải xây lại) → NO." }
+      ],
+      "note": "Chi tiết \"a horizontal projection that excludes high summer sunlight will admit the low winter sun beneath it\" dễ bị đọc nhầm: tấm che ngang CHẮN nắng hè cao nhưng CHO nắng đông thấp lọt vào dưới – đó là ưu điểm, không phải lỗi."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Bắc Âu theo hướng kỹ thuật: bọc kín công trình như một cái thùng không rò – cách nhiệt liên tục, kính ba lớp, thử độ kín khí; nhưng kéo theo hai hệ quả: phải thông gió cơ khí có thu hồi nhiệt, và cái thùng giữ nhiệt tháng Một cũng giữ nhiệt tháng Bảy.",
+      "answers": [
+        { "q": 30, "ans": "vi", "quote": "the building is treated as a vessel that must not leak", "how": "\"a sealed box and what it brings with it\" ↔ cái thùng kín cộng hai hệ quả kèm theo ở nửa sau đoạn → heading vi. Bẫy ii \"The high cost of heating in the north\": đoạn nói nhà kiểu này gần như KHÔNG cần sưởi, trái ngược." }
+      ],
+      "note": "Q39–40 của đề (chọn hai hệ quả, đáp án A và C) nằm đúng ở đoạn này: \"mechanical ventilation ... becomes a necessity rather than a luxury\" và \"a vessel designed to retain heat retains it in July as well as in January\". Đọc đến đây là chốt luôn."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Khi năng lượng vận hành giảm, sự chú ý chuyển sang năng lượng và phát thải nằm trong vật liệu: xi măng là nút thắt vì phản ứng nung đá vôi tự nó thải CO2; các giải pháp gồm thay một phần xi măng, dùng ít vật liệu, tái dùng thép, xây bằng gỗ – nhưng hiệu quả nhất là giữ lại công trình cũ.",
+      "answers": [
+        { "q": 31, "ans": "v", "quote": "attention has shifted to the energy and emissions locked up in their construction", "how": "Đoạn bàn đúng chủ đề vật liệu và phát thải hàm chứa ↔ heading v \"Why materials now matter more\". Bẫy x \"An argument for natural materials alone\": gỗ chỉ là một trong bốn giải pháp, người viết không bênh riêng vật liệu tự nhiên." },
+        { "q": 38, "ans": "NO", "quote": "a structure that is demolished and replaced by an efficient new one may take many decades to repay, in saved running energy, the carbon spent on its own construction", "how": "Câu hỏi bảo phá đi xây mới là cách NHANH NHẤT để giảm phát thải; bài nói phải mất nhiều thập kỷ mới hoàn vốn carbon, và cách hiệu quả nhất là giữ lại nhà cũ → NO." },
+        { "q": 37, "ans": "NOT GIVEN", "how": "Bài chỉ nói gỗ \"holds carbon absorbed while the tree was growing\"; hoàn toàn không bàn gỗ có phù hợp làm kết cấu cho nhà cao tới đâu → NOT GIVEN. Bẫy: thấy từ timber là vội kết luận, nhưng câu hỏi thêm điều kiện \"of any height\" mà bài không hề đề cập." }
+      ],
+      "note": "Câu dài mang Q38: xương sống \"a structure may take many decades to repay the carbon spent on its own construction\"; mệnh đề \"that is demolished and replaced by an efficient new one\" giới hạn loại công trình, còn \"in saved running energy\" là phương tiện hoàn vốn."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Phát hiện khó chịu: nhà thiết kế để tiết kiệm thường lại không tiết kiệm – đo sau khi đưa vào sử dụng thấy tiêu thụ cao hơn hẳn con số thiết kế, vì cách nhiệt lắp hở, hệ thống để sai chế độ, người dùng vô hiệu hóa điều khiển; các chứng chỉ cũng chấm điểm trên giấy.",
+      "answers": [
+        { "q": 32, "ans": "iv", "quote": "Where consumption has been measured after occupation, it has often turned out to be substantially higher than the figures produced during design", "how": "\"A promise that measurement does not support\" ↔ lời hứa tiết kiệm bị chính số liệu đo được bác bỏ → heading iv." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Khung vấn đề đang mở rộng: một căn nhà ít tốn năng lượng nhưng nằm nơi đi đâu cũng phải lái xe có thể phát thải nhiều hơn một căn hộ kém hiệu quả ở nơi đi bộ được, nên vị trí, mật độ và khả năng chuyển đổi công năng đều phải tính vào.",
+      "answers": [
+        { "q": 33, "ans": "ix", "quote": "so location and density belong in the calculation", "how": "Đoạn vượt ra ngoài phạm vi từng công trình riêng lẻ để nói về vị trí, mật độ, khả năng thích ứng ↔ heading ix \"Looking past the individual building\"." }
+      ]
+    }
+  ],
+  "tips": [
+    "Ba heading thừa (ii chi phí sưởi ở phương bắc, vii sự suy tàn của nghề xây, x chỉ dùng vật liệu tự nhiên) đều là đảo nghĩa hoặc chủ đề không có trong bài. Loại sớm để đỡ phân vân.",
+    "Yes/No/Not Given ở bài này toàn dạng \"đảo chiều\": câu hỏi lật ngược đúng một mệnh đề của bài (rẻ hơn sau khi xây xong, phá đi xây mới là nhanh nhất). Thấy chiều ngược là NO, đừng ngại.",
+    "Q37 là NOT GIVEN điển hình: từ khóa timber có trong bài nhưng điều kiện \"of any height\" thì không. Luôn kiểm tra cả phần giới hạn của câu hỏi, không chỉ danh từ chính."
+  ]
+}

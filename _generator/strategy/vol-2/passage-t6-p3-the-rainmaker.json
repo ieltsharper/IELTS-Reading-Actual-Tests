@@ -1,0 +1,92 @@
+{
+  "step1": "Tiêu đề The Rainmaker (người làm mưa): bài kể chuyện một phát minh. Đoán mạch: ý tưởng nảy ra trên xe buýt ở Morocco → giải thích hiện tượng ngưng tụ → nhà kính nước biển ở Abu Dhabi và giải thưởng → ba bộ phận của thiết kế (tường bìa ướt, mái hai lớp, bộ ngưng tụ) → vận hành tự động → hiệu quả → chi phí và phản biện → tính thân thiện môi trường. Q27–31 (TFNG) bám phần kể chuyện ở đầu bài; Q32–36 điền sơ đồ nên nằm ở các đoạn mô tả cấu tạo (5–6); Q37–40 tóm tắt phần cuối (đoạn 7, 9, 10).",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–31", "True / False / Not Given", "Có, theo thứ tự phần đầu bài", "by accident, bus, fans, towel wet, immediately after meeting friend, own business"],
+    ["32–36", "Diagram labelling (NO MORE THAN TWO WORDS)", "Có – theo dòng chảy không khí trong nhà kính", "roof layers, infrared, hot dry air, moisture, condenser, distilled water"],
+    ["37–40", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự cuối bài", "windless, electricity, construction costs, mass production, clean, pollution"]
+  ],
+  "typesNote": "Đọc một lượt theo dòng chảy của bài: xong phần kể chuyện thì chốt 27–31, xong hai đoạn mô tả cấu tạo thì điền sơ đồ 32–36, xong ba đoạn cuối thì điền 37–40.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Ý tưởng đến tình cờ: trên xe buýt giữa sa mạc Morocco, Paton ngủ với chiếc khăn áp vào cửa kính và tỉnh dậy thấy khăn ướt sũng, khiến ông thắc mắc vì sao.",
+      "answers": [
+        { "q": 27, "ans": "TRUE", "quote": "Sometimes ideas just pop up out of the blue. Or in Charlie Paton's case, out of the rain", "how": "\"by pure accident\" ↔ \"pop up out of the blue\" (bất chợt, không dự tính); cả câu chuyện xe buýt xác nhận ý tưởng đến ngẫu nhiên → TRUE." },
+        { "q": 28, "ans": "NOT GIVEN", "how": "Bài chỉ nói xe đầy người nóng và ướt, cửa kính mờ hơi nước; hoàn toàn không nhắc quạt hỏng hay hệ thống thông gió. Bẫy: từ \"fans\" có xuất hiện ở đoạn 7 nhưng là quạt trong nhà kính, không liên quan xe buýt." },
+        { "q": 29, "ans": "TRUE", "quote": "I went to sleep with a towel against the glass. When I woke, the thing was soaking wet", "how": "\"woke up from sleep to discover that his towel was wet\" lặp gần nguyên văn \"When I woke, the thing was soaking wet\" (the thing = chiếc khăn) → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Bạn ông, nhà vật lý Philip Davies, giải thích đó là hiện tượng ngưng tụ; tò mò, Paton (vốn là kỹ sư ánh sáng) bắt đầu tự dựng thiết bị, làm các bình chưng mặt trời và nghĩ tới việc tạo nước tưới cây giữa sa mạc.",
+      "answers": [],
+      "note": "Đoạn này là chỗ bẫy của câu 30: ông bắt tay vào thí nghiệm nhỏ (solar stills), chứ dự án nhà kính thì mãi về sau mới thành hình."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Một thập kỷ sau, giấc mơ thành nhà kính khổng lồ trên đảo sa mạc ngoài khơi Abu Dhabi – phiên bản thương mại đầu tiên của \"seawater greenhouse\", làm theo giấy phép từ công ty Light Works của ông, và từng đoạt giải nhất một cuộc thi thiết kế.",
+      "answers": [
+        { "q": 30, "ans": "FALSE", "quote": "Today, a decade on, his dream has taken shape as a giant greenhouse on a desert island off Abu Dhabi", "how": "Câu hỏi nói ông khởi động dự án nhà kính ngay sau khi gặp bạn; bài cho thấy phải mất một thập kỷ (\"a decade on\") thì ý tưởng mới thành nhà kính, giữa đó chỉ là thí nghiệm nhỏ → FALSE. Bẫy từ \"immediately\"." },
+        { "q": 31, "ans": "TRUE", "quote": "Local scientists, working with Paton under a licence from his company Light Works", "how": "\"opened his own business in the Persian Gulf\" ↔ nhà kính thương mại đầu tiên nằm ngoài khơi Abu Dhabi \"in the Persian Gulf\", vận hành theo giấy phép của chính công ty ông → theo key là TRUE." }
+      ],
+      "note": "Câu 31 khá rộng tay: bài chỉ nói công ty Light Works cấp phép cho dự án ở vùng Vịnh chứ không nói rõ ông mở doanh nghiệp tại đó. Vẫn chọn TRUE theo đáp án chính thức, và nhớ nguyên tắc: nếu bài có đủ hai mảnh thông tin (công ty của ông + hoạt động thương mại ở vùng Vịnh) thì đáp án nghiêng về TRUE."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Bộ phận thứ nhất: nhà kính quay mặt về phía gió, không khí sa mạc nóng khô thổi qua tường bìa đục lỗ luôn ướt nhờ nước biển bơm lên, nước bốc hơi làm không khí mát và ẩm (ngoài 46 °C thì trong hơn 30 °C, độ ẩm 90%), nhờ đó cây chỉ cần 1 lít nước mỗi mét vuông mỗi ngày thay vì 8 lít.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Bộ phận thứ hai cũng để làm mát: mái hai lớp, lớp ngoài polythene trong suốt, lớp trong phản xạ tia hồng ngoại, nên ánh sáng nhìn thấy lọt xuống cho quang hợp còn nhiệt hồng ngoại bị giữ lại giữa hai lớp mái.",
+      "answers": [
+        { "q": 32, "ans": "Infrared light", "quote": "an inner, coated layer that reflects infrared light", "how": "Trên sơ đồ, mũi tên bị lớp mái trong phản xạ lại chính là tia hồng ngoại; ánh sáng nhìn thấy thì đi xuyên qua xuống cây, nên chỗ trống bị phản xạ phải là \"infrared light\"." }
+      ],
+      "note": "Nhớ cặp đối lập ở đoạn này: visible light – đi xuống cây; infrared – bị giữ giữa hai lớp mái. Sơ đồ hỏi đúng cặp đó."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Bộ phận thứ ba ở cuối nhà kính là khối sản xuất nước: không khí ẩm trộn với khí nóng khô từ giữa hai lớp mái nên hút thêm hơi ẩm khi qua bức tường bìa ướt thứ hai, rồi khí bão hòa gặp bộ ngưng tụ được nước biển làm mát và kết thành những giọt nước cất tinh khiết chảy vào bể tưới.",
+      "answers": [
+        { "q": 33, "ans": "Hot dry air", "quote": "the humid air of the greenhouse mixes with the hot, dry air from between the two layers of the roof", "how": "Mũi tên đi từ khoảng giữa hai lớp mái xuống khối sản xuất nước chính là \"hot, dry air\"; trên sơ đồ viết không dấu phẩy: Hot dry air." },
+        { "q": 34, "ans": "moisture", "quote": "the air can absorb more moisture as it passes through a second moist cardboard wall", "how": "Sau khi trộn, không khí hút thêm \"moisture\" khi qua tường bìa ẩm thứ hai – đây là thứ được thêm vào luồng khí tại bước này." },
+        { "q": 35, "ans": "Condenser", "quote": "the hot saturated air hits a condenser. This is a metal surface kept cool by still more seawater", "how": "Bộ phận bằng kim loại được nước biển làm mát, nơi hơi nước ngưng lại, chính là \"condenser\" – tương đương cửa kính xe buýt ở Morocco." },
+        { "q": 36, "ans": "Pure distilled water", "quote": "Drops of pure distilled water form on the condenser and flow into a tank for irrigating the crops", "how": "Sản phẩm cuối chảy vào bể là \"pure distilled water\"; đây là đầu ra của sơ đồ nên không điền \"seawater\"." }
+      ],
+      "note": "Câu dài: \"This means the air can absorb more moisture as it passes through a second moist cardboard wall\" – xương sống là không khí hút thêm hơi ẩm, mệnh đề \"as it passes through...\" chỉ nói lúc nào. Nhờ đọc theo đúng dòng chảy (tường ướt → mái → tường ướt thứ hai → bộ ngưng tụ → bể nước) mà điền được cả bốn chỗ trống liền nhau."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Nhà kính gần như tự vận hành: cảm biến bật tắt theo mặt trời và điều chỉnh luồng khí, nước biển theo nhiệt độ, độ ẩm, nắng; ngày lặng gió thì quạt giữ cho khí lưu thông, và toàn bộ chạy được bằng một ổ cắm 13 ampe, tương lai có thể dùng pin mặt trời.",
+      "answers": [
+        { "q": 37, "ans": "fans", "quote": "On windless days, fans ensure a constant flow of air through the greenhouse", "how": "\"to keep the air flowing if the wind stands still\" ↔ \"On windless days, fans ensure a constant flow of air\"; \"wind stands still\" ↔ \"windless\"." },
+        { "q": 38, "ans": "solar panels", "quote": "in future we could make it entirely independent of the grid, powered from a few solar panels", "how": "\"in the future to rely on electricity provided solely by ___\" ↔ \"entirely independent of the grid, powered from a few solar panels\"; \"solely\" ↔ \"entirely independent of the grid\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Tổng hiệu quả: nước biển bốc hơi vào khí sa mạc rồi ngưng lại thành nước ngọt, kết hợp khử mặn với điều hòa không khí; làm mát bằng công suất tương đương máy lạnh 500 kW mà chỉ tốn dưới 3 kW điện, mỗi ngày bốc hơi 3000 lít nước biển thành khoảng 800 lít nước ngọt.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Phản biện cho rằng chi phí xây 25 bảng/m² khiến nước đắt gấp đôi nhà máy khử mặn thường, nhưng Paton nói so sánh đó sai lệch: cây chỉ cần một phần tám lượng nước nên chi phí thực chỉ bằng một phần tư, và chi phí sẽ giảm mạnh khi sản xuất hàng loạt.",
+      "answers": [
+        { "q": 39, "ans": "costs", "quote": "costs should plummet when mass production begins", "how": "\"if produced in large quantities the ___ could be reduced remarkably\" ↔ \"costs should plummet when mass production begins\"; \"plummet\" = giảm mạnh." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Hay nhất là nhà kính thân thiện môi trường: có thể bị chê về mỹ quan khi dựng công trình lớn ven biển, nhưng đây là công nghệ sạch, không gây ô nhiễm.",
+      "answers": [
+        { "q": 40, "ans": "environmentally friendly", "quote": "the greenhouses should be environmentally friendly", "how": "\"it is also ___, because it is clean and pollution free\" ↔ \"environmentally friendly\" kèm lời Paton \"it is a clean technology and doesn't produce pollution\"." }
+      ]
+    }
+  ],
+  "tips": [
+    "Phần TFNG đầu bài bẫy bằng các từ chỉ cách thức và thời gian: \"by pure accident\" (đúng), \"broken fans\" (không có), \"immediately\" (sai vì mất một thập kỷ).",
+    "Sơ đồ phải đọc theo đường đi của không khí và nước: tường bìa ướt → mái hai lớp (visible light xuống, infrared giữ lại) → trộn khí nóng khô → tường ướt thứ hai hút thêm moisture → condenser → pure distilled water.",
+    "Bài đầy số liệu đối lập theo cặp (46 °C và hơn 30 °C, 1 lít và 8 lít, 500 kW và 3 kW, 3000 lít và 800 lít): nhớ cặp nào thuộc trong hay ngoài nhà kính để không điền ngược."
+  ]
+}

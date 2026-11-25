@@ -1,0 +1,69 @@
+{
+  "step1": "Tiêu đề \"The Return of the Beaver\" cho thấy bài nói về con hải ly: biến mất rồi quay trở lại. Đoán mạch bài: giới thiệu loài và lịch sử vắng bóng → cấu tạo cơ thể → cách xây đập và nhà → tác động lên thung lũng → vì sao bị săn gần tuyệt chủng → phục hồi và mâu thuẫn với con người. Q1–6 (TRUE/FALSE/NOT GIVEN) bám theo thứ tự bài nên rải từ đoạn 1 đến đoạn cuối; Q7–10 (điền từ) dồn ở phần mô tả cơ thể và đập/nhà (đoạn 2–3); Q11–13 (trả lời ngắn) nằm ở phần lịch sử săn bắt và phần bảo vệ cây (đoạn 4–6).",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–6", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc hết đoạn mới chốt", "largest rodent, gnaw underwater, submerged, deep stable river, freezes to the bottom, Europe vs North America"],
+    ["7–10", "Sentence completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "strikes the water with its tail, orange colour, incisors, entrances, store branches in the mud"],
+    ["11–13", "Short answer (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "made from beaver fur, two hundred years, damp clearing, wrapped around trees"]
+  ],
+  "typesNote": "Cả ba nhóm đều chạy theo thứ tự bài, nên đọc đến đoạn nào là chốt hết câu của đoạn đó rồi đi tiếp, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Giới thiệu hải ly: loài gặm nhấm bán thủy sinh làm thay đổi địa hình, từng gần như biến mất ở châu Âu và nay đã trở lại.",
+      "answers": [
+        { "q": 1, "ans": "FALSE", "quote": "Only the capybara of South America is a larger rodent.", "how": "Câu hỏi nói hải ly là loài gặm nhấm lớn nhất thế giới; bài khẳng định có capybara lớn hơn nên mâu thuẫn → FALSE. Bẫy: bài có \"heavy\" và \"larger rodent\" khiến dễ chọn TRUE nếu đọc lướt." }
+      ],
+      "note": "\"Only X is larger\" = ngoài X ra không con nào lớn hơn, tức hải ly đứng thứ hai. Cấu trúc \"only ... larger\" là dấu hiệu kinh điển của FALSE."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Cơ thể hải ly thích nghi cho đời sống vừa dưới nước vừa trong rừng: đuôi, bộ lông hai lớp, màng mắt, mũi tai đóng được, môi khép sau răng cửa và răng cửa cứng vì có sắt.",
+      "answers": [
+        { "q": 2, "ans": "TRUE", "quote": "the lips meet behind the front teeth, so a beaver can cut and carry wood while submerged without taking in water", "how": "\"gnaw wood while it is underwater\" ↔ \"cut and carry wood while submerged\"; \"gnaw\" = cut (cắn, gặm). Bài nói thẳng là làm được → TRUE." },
+        { "q": 3, "ans": "NOT GIVEN", "how": "Bài mô tả các thích nghi khi lặn (màng mắt, mũi tai đóng) nhưng không hề so sánh thời gian nín thở của hải ly với bất kỳ loài gặm nhấm nào khác. Bẫy: nhiều chi tiết về lặn khiến người đọc tự suy ra \"lâu hơn\", nhưng không có so sánh nào trong bài." },
+        { "q": 7, "ans": "predator", "quote": "slapped hard on the surface, it also warns the rest of the family that a predator is near", "how": "\"strikes the water with its tail\" ↔ \"slapped hard on the surface\"; \"signal that a ___ has been seen\" ↔ \"warns ... that a predator is near\"." },
+        { "q": 8, "ans": "iron", "quote": "because the enamel on their outer face is strengthened with iron they are both unusually hard and distinctly orange", "how": "\"orange colour ... due to the ___ contained in their enamel\" ↔ \"enamel ... strengthened with iron ... distinctly orange\". Câu này dài: xương sống là \"Those front teeth never stop growing\", rồi mệnh đề nguyên nhân \"because the enamel ... is strengthened with iron\" dẫn tới kết quả \"unusually hard and distinctly orange\" – chính chuỗi nhân quả này cho đáp án." }
+      ],
+      "note": "Đoạn 2 có rất nhiều danh từ cơ thể (tail, underfur, membrane, nostrils, incisors). Chỉ lấy đúng từ nằm trong quan hệ mà câu hỏi hỏi."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Hải ly chỉ xây đập khi nước nông và vì nghe tiếng nước chảy; hồ sau đập phải đủ sâu để không đóng băng tới đáy, nhà làm giữa hồ với lối vào dưới nước và kho thức ăn dưới băng.",
+      "answers": [
+        { "q": 4, "ans": "TRUE", "quote": "Not every beaver builds a dam. Where a river is already deep and steady, a family will simply dig a burrow into the bank.", "how": "\"living on a deep, stable river may not build a dam\" ↔ \"Where a river is already deep and steady ... simply dig a burrow\"; \"steady\" = stable → TRUE." },
+        { "q": 5, "ans": "FALSE", "quote": "to stay deep enough that it does not freeze to the bottom in winter", "how": "Câu hỏi nói hồ thường đóng băng tới tận đáy; bài nói mục đích của hồ là KHÔNG đóng băng tới đáy → mâu thuẫn → FALSE. Bẫy: từ \"freeze\", \"bottom\", \"winter\" xuất hiện y hệt, chỉ khác ở \"does not\"." },
+        { "q": 9, "ans": "fox", "quote": "every entrance below it, so that no fox or wolf can walk in", "how": "\"entrances ... placed under the water so that animals such as the ___ cannot get in\" ↔ \"every entrance below it, so that no fox or wolf can walk in\". Chỗ trống chỉ cho một từ nên chọn \"fox\" (từ đứng trước)." },
+        { "q": 10, "ans": "ice", "quote": "building a larder that can be reached from underneath the ice", "how": "\"store branches in the mud close to the lodge so that they have food available beneath the ___\" ↔ \"push cut branches into the mud near the lodge, building a larder ... from underneath the ice\"; larder = kho thức ăn." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Tác động của đập lên cả thung lũng rất lớn: nước lan rộng, lắng phù sa, mực nước ngầm dâng, cây chết đứng nuôi chim và côn trùng, và khi đập vỡ để lại đồng cỏ ẩm gọi là beaver meadow.",
+      "answers": [
+        { "q": 12, "ans": "beaver meadow", "quote": "producing the open, damp clearing that North American naturalists call a beaver meadow", "how": "\"damp clearing when a beaver pond drains and is colonised by plants\" ↔ \"the pond drains and its deep bed of silt is colonised by grasses and flowers, producing the open, damp clearing ... call a beaver meadow\"; từ khóa \"call\" chỉ thẳng tên gọi." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Bộ lông là nguyên nhân khiến hải ly gần tuyệt chủng: lông làm nón phớt, tuyến castoreum làm thuốc, cộng với việc tháo cạn đầm lầy và dỡ đập.",
+      "answers": [
+        { "q": 11, "ans": "hats", "quote": "for two centuries the hats made from that felt were the uniform of respectable Europe", "how": "\"made from beaver fur and worn throughout Europe for two hundred years\" ↔ \"for two centuries the hats ... uniform of respectable Europe\"; two hundred years = two centuries." }
+      ],
+      "note": "Bẫy ở đoạn này là \"castoreum\" và \"felt\": felt chỉ là vật liệu trung gian, thứ \"được mặc/đội\" là hats."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Hải ly phục hồi nhanh nhưng gây xung đột: giải pháp là sống chung – bọc lưới thép quanh cây, đặt ống xả qua đập, cấp phép dỡ đập – và lập luận kinh tế là chuỗi hồ giúp chống lũ, chống hạn, lọc nước.",
+      "answers": [
+        { "q": 6, "ans": "NOT GIVEN", "how": "Bài nói hải ly châu Âu phục hồi nhanh và có thuật ngữ của \"North American naturalists\" ở đoạn 4, nhưng không hề so sánh số lượng hải ly ở châu Âu với ở Bắc Mỹ. Bẫy: hai khu vực đều được nhắc tên nên dễ tưởng có so sánh." },
+        { "q": 13, "ans": "wire mesh", "quote": "Valuable trees can be wrapped in wire mesh or painted with a gritty mixture that is unpleasant to gnaw", "how": "\"wrapped around trees that landowners wish to protect\" ↔ \"Valuable trees can be wrapped in wire mesh\". Lựa chọn thứ hai \"a gritty mixture\" là painted chứ không phải wrapped nên không hợp." }
+      ]
+    }
+  ],
+  "tips": [
+    "Khi câu hỏi và bài dùng gần như cùng từ (freeze, bottom, winter ở Q5), hãy soi phần phủ định hoặc mục đích: khác nhau thường chỉ nằm ở \"does not\" hay \"so that\".",
+    "Với NOT GIVEN, kiểm tra xem bài có thực sự SO SÁNH hay không: Q3 và Q6 đều là so sánh (lâu hơn loài khác, nhiều hơn Bắc Mỹ) mà bài chỉ mô tả một bên.",
+    "Dạng điền từ ở đây chỉ cho 1–2 từ, nên khi bài liệt kê hai thứ (\"no fox or wolf\", \"wire mesh or ... gritty mixture\") phải chọn đúng cái khớp với động từ trong câu hỏi."
+  ]
+}

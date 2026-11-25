@@ -1,0 +1,76 @@
+{
+  "step1": "Tiêu đề Volcanoes and the Climate và sapo \"Why the same eruption can cool the world for a year and warm it for a hundred thousand\" đã nói trước toàn bộ cấu trúc: một vụ phun trào vừa làm mát (ngắn hạn) vừa làm ấm (dài hạn). Đoán mạch bài: mở đầu nêu hai hiệu ứng trái chiều → thứ gì thoát ra khỏi núi lửa → vì sao độ cao cột tro quan trọng → ví dụ lịch sử (Tambora, Pinatubo) → cách xác định niên đại (băng, vòng cây) → câu chuyện dài hạn của CO2 → ý tưởng can thiệp nhân tạo. Q1–5 (matching information) rải khắp bài, Q6–9 (summary bank) dồn ở đoạn B–C, Q10–13 (True/False/Not Given) đi theo thứ tự đoạn C → F.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–5", "Matching information (đoạn A–G)", "Không – phải đọc xong đoạn mới gán được", "comparison human activity, opposite directions, stays in the air longer, doubting a solution, natural records"],
+    ["6–9", "Summary completion từ hộp từ (A–G)", "Có, theo thứ tự bài", "solid material, gas that matters, removed within weeks, plume reaches"],
+    ["10–13", "True / False / Not Given", "Có (từ khóa), nhưng cần đọc hết đoạn", "high latitude, both hemispheres, 1815, crops, Greenland, Antarctica, carbon dioxide each year"]
+  ],
+  "typesNote": "Chỉ Q6–13 là locate trước được bằng từ khóa; Q1–5 là matching information nên cứ đọc xong mỗi đoạn là tự hỏi \"đoạn này nói gì\" rồi gán ngay câu hỏi khớp, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Một vụ phun trào lớn vừa làm mát bề mặt trong một hai năm vừa làm ấm trong hàng trăm nghìn năm; nhầm lẫn hai thang thời gian là lỗi phổ biến nhất.",
+      "answers": [
+        { "q": 2, "ans": "A", "quote": "An eruption does both, but on two timescales so far apart that they almost never compete", "how": "\"two effects ... operate in opposite directions\" ↔ cả đoạn A đối lập \"cools the surface\" (một hai năm) với \"volcanism warms the surface\" (hàng trăm nghìn năm)." }
+      ],
+      "note": "Đoạn F cũng nói về làm ấm, nhưng chỉ đoạn A đặt hai hiệu ứng cạnh nhau để so sánh. Chọn đoạn nêu cả hai chiều."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Vật chất rắn (kể cả tro mịn) rơi xuống nhanh và không ảnh hưởng nhiệt độ toàn cầu; chính sulphur dioxide – thành phần nhỏ về khối lượng – tạo ra các giọt axit sulfuric làm tán xạ ánh nắng.",
+      "answers": [
+        { "q": 6, "ans": "B", "quote": "the fine shattered glass that is loosely called ash", "how": "\"the fine fragments known as ___\" ↔ \"fine shattered glass that is loosely called ash\"; đáp án B. ash." },
+        { "q": 7, "ans": "E", "quote": "It is the sulphur dioxide, a minor component by weight, that does nearly all the work", "how": "\"The gas that matters\" ↔ \"does nearly all the work\". Bẫy: water vapour (G) và carbon dioxide (C) được nêu ngay trước đó là khí nhiều nhất về lượng, nhưng chúng không tạo giọt axit." }
+      ],
+      "note": "Câu \"Most of what a volcano exhales is water vapour, followed by carbon dioxide\" cố tình đặt trước để dụ chọn G hoặc C cho câu 7."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Hiệu ứng phụ thuộc độ cao cột phun: tầng thấp có mưa rửa sạch trong vài tuần, còn tầng bình lưu khô và lặng nên giọt axit tồn tại hơn một năm; vĩ độ cũng quyết định haze lan ra một hay cả hai bán cầu.",
+      "answers": [
+        { "q": 3, "ans": "C", "quote": "An eruption violent enough to drive its plume through the boundary between the two delivers its sulphur into a place where the droplets can remain for a year or more", "how": "\"why some material stays in the air far longer than the rest\" ↔ đoạn C giải thích chính xác cơ chế đó: không có mưa trong stratosphere nên không bị rửa trôi." },
+        { "q": 8, "ans": "A", "quote": "anything suspended in it is washed out by rainfall within a matter of weeks", "how": "\"removed within weeks by ___\" ↔ \"washed out by rainfall within a matter of weeks\"; đáp án A. rainfall. Bẫy wind (F): bài nói tầng thấp \"constantly stirred\" nhưng tác nhân loại bỏ là mưa." },
+        { "q": 9, "ans": "D", "quote": "Above it lies the stratosphere, a calm, dry, layered region in which there is no rain to clean the air", "how": "\"a plume that reaches the ___ can keep them aloft for a year or more\" ↔ stratosphere; đáp án D." },
+        { "q": 10, "ans": "FALSE", "quote": "an eruption in the tropics can spread its haze over both hemispheres, while one at high latitudes tends to affect mainly the hemisphere in which it occurred", "how": "Câu hỏi nói phun trào ở vĩ độ cao ảnh hưởng cả hai bán cầu \"to the same extent\" như ở vùng nhiệt đới; bài nói ngược lại (chỉ chủ yếu một bán cầu) → FALSE, không phải NOT GIVEN vì bài có so sánh trực tiếp hai trường hợp." }
+      ],
+      "note": "Chuỗi câu dài ở Q3: xương sống là \"An eruption (WHO) delivers its sulphur into a place (DOES WHAT)\"; mệnh đề \"violent enough to drive its plume through the boundary\" là điều kiện, còn \"where the droplets can remain for a year or more\" mô tả cái \"place\" đó."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Bằng chứng lịch sử: Tambora 1815 gây mất mùa ở châu Âu và Bắc Mỹ (\"năm không có mùa hè\" 1816), Pinatubo 1991 hạ nhiệt độ toàn cầu khoảng nửa độ C trong một năm.",
+      "answers": [
+        { "q": 11, "ans": "TRUE", "quote": "The eruption of Tambora in Indonesia in 1815 was followed by a summer so cold and wet in Europe and eastern North America that crops failed", "how": "\"the eruption of 1815\" ↔ Tambora 1815; \"failure of crops in Europe\" ↔ \"crops failed\" ở \"Europe and eastern North America\" → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Những vụ phun trào không được ghi chép vẫn xác định được niên đại nhờ hai kho lưu trữ tự nhiên: lớp axit trong lõi băng hai cực và vòng cây hẹp/hỏng vì sương giá.",
+      "answers": [
+        { "q": 5, "ans": "E", "quote": "Eruptions that no one recorded in writing can still be dated, because the atmosphere files its own accounts", "how": "\"natural records that allow undocumented eruptions to be dated\" ↔ ice cores + tree rings; câu mở đoạn gần như dịch nguyên câu hỏi." },
+        { "q": 12, "ans": "NOT GIVEN", "how": "Bài chỉ nói axit để lại dấu ở cả hai dải băng nếu phun trào ở vùng nhiệt đới, và chỉ một dải nếu không; hoàn toàn không so sánh Greenland bảo quản \"tốt hơn\" Antarctica. Bẫy: thấy đủ hai tên riêng là vội chọn TRUE/FALSE." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Câu chuyện dài hạn ngược lại: CO2 không bị mưa rửa nên tích tụ và giữ cho hành tinh ở được, nhưng lượng CO2 núi lửa hiện nay nhỏ hơn hẳn lượng từ công nghiệp và giao thông.",
+      "answers": [
+        { "q": 1, "ans": "F", "quote": "human activity now releases far more carbon dioxide in a year than the world's volcanoes do, and the comparison is not close", "how": "\"a comparison between the amount of a gas produced by volcanoes and by human activity\" ↔ đúng câu kết đoạn F." },
+        { "q": 13, "ans": "FALSE", "quote": "the modern figure for volcanic emissions is dwarfed by the output of industry and transport", "how": "Câu hỏi đảo chiều so sánh (núi lửa thải nhiều hơn công nghiệp); bài khẳng định ngược → FALSE. \"dwarfed by\" = nhỏ hơn rất nhiều." }
+      ],
+      "note": "Q1 và Q13 cùng nằm ở một câu. Đọc đến đây là chốt cả hai, không để dành."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Ý tưởng tạo haze nhân tạo để làm mát hành tinh bị phản đối mạnh: phải duy trì vô thời hạn, không xử lý được axit hóa đại dương, và tác động lên lượng mưa không đồng đều.",
+      "answers": [
+        { "q": 4, "ans": "G", "quote": "The objections are substantial", "how": "\"reasons for doubting a proposed technical solution to warming\" ↔ danh sách phản đối với \"deliberate intervention\" ở đoạn G." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài này được xây quanh một cặp đối lập ngắn hạn/dài hạn: lạnh đi do sulphur dioxide trong vài năm, ấm lên do carbon dioxide qua thời gian địa chất. Nhớ cặp này là trả lời được quá nửa câu hỏi.",
+    "Với summary từ hộp từ, các từ gây nhiễu (water vapour, carbon dioxide, wind) đều có thật trong bài nhưng ở vai trò khác. Hãy kiểm tra chức năng của từ trong câu, không chỉ sự xuất hiện.",
+    "Q12 là mẫu NOT GIVEN điển hình: bài có cả hai danh từ riêng nhưng không có phép so sánh mà câu hỏi đưa ra. Thiếu phép so sánh = NOT GIVEN, không phải FALSE."
+  ]
+}

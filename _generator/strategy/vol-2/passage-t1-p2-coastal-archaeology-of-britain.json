@@ -1,0 +1,84 @@
+{
+  "step1": "Tiêu đề \"Coastal Archaeology of Britain\" báo trước một bài học thuật về khảo cổ học vùng ven biển nước Anh. Đoán mạch bài: vì sao lĩnh vực này được chú ý gần đây → mực nước biển dâng sau kỷ băng hà → loại bằng chứng tìm được (đất liền cũ, thuyền, bến đỗ, nghề cá và muối) → khó khăn trong việc bảo vệ di sản. Q14–16 (MCQ) và Q17–23 (TRUE/FALSE/NOT GIVEN) đều đi theo thứ tự bài, nên Q14 ở đoạn đầu, Q23 ở đoạn cuối; Q24–26 (chọn 3 ý được nhắc tới) chỉ chốt được khi đã đọc xong.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–16", "Multiple choice (A–D)", "Có, theo thứ tự bài", "public interest, evidence of boats, discovered from the air"],
+    ["17–23", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc hết câu mới chốt", "Ice Age, coastline changed, sea water, design of boats, other European countries, mineral, passenger boats"],
+    ["24–26", "Multiple answers – chọn 3 trong A–G", "Không: phải đọc rồi mới loại được", "people close to the sea, boat evidence, human development"]
+  ],
+  "typesNote": "MCQ và TFNG chạy song song theo thứ tự bài nên đọc đến đoạn nào là chốt được câu của đoạn đó; riêng Q24–26 hãy đánh dấu dần từng phương án khi gặp ý tương ứng.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Việc nhận ra sự phong phú của khảo cổ học ven biển Anh là bước phát triển quan trọng gần đây; \"submerged forests\" đã được biết từ thế kỷ 18 nhưng chỉ từ đầu thập niên 1980 mới được nghiên cứu nghiêm túc.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Nguyên nhân của làn sóng quan tâm: nghiên cứu biến đổi khí hậu lan sang tranh luận công chúng, nhất là viễn cảnh nước biển dâng, cùng lúc giới khảo cổ thấy xói mòn đang phá hủy di sản.",
+      "answers": [
+        { "q": 14, "ans": "B", "quote": "scientific research into climate change and its environmental impact spilled over into a much broader public debate as awareness of these issues grew", "how": "\"public interest\" ↔ \"much broader public debate\"; nguyên nhân là nhận thức về biến đổi khí hậu → B. A sai vì bài nói lĩnh vực này phát triển nhờ quan tâm chứ không nói sự phát triển gây ra quan tâm; C là bẫy từ \"submerged forests\" ở đoạn 1 nhưng đó là chuyện từ thế kỷ 18 và chỉ hấp dẫn giới antiquarian; D (nghiên cứu hệ thống) cũng ở đoạn 1 và là kết quả, không phải nguyên nhân của quan tâm công chúng." }
+      ],
+      "note": "Câu 14 hỏi \"in recent years\": chỉ xét đoạn 2, đừng lấy chi tiết thế kỷ 18 ở đoạn 1."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Sau kỷ băng hà, mực nước biển dâng so với đất liền khiến Anh mất những vùng đất rộng lớn nay nằm dưới Biển Bắc và eo biển Manche, nhưng ta biết rất ít về sự thay đổi liên tục của đường bờ biển.",
+      "answers": [
+        { "q": 17, "ans": "TRUE", "quote": "the loss of huge areas of land now under the North Sea and the English Channel", "how": "\"lost much of its land after the Ice Age due to the rising sea level\" ↔ \"the rise in the altitude of sea level ... as the glaciers melted\" + \"loss of huge areas of land\" → TRUE." },
+        { "q": 18, "ans": "FALSE", "quote": "we know little about the constant reconfiguration of the coastline", "how": "Câu hỏi nói đường bờ biển thay đổi \"periodically\" (theo chu kỳ, từng đợt); bài nói đó là sự thay đổi \"constant\" (liên tục) → mâu thuẫn. Bẫy nằm ở một tính từ duy nhất: constant ≠ periodically." }
+      ],
+      "note": "Câu dài \"The encroachment of the sea, the loss of huge areas of land..., and especially the loss of the land bridge..., must have been immensely significant factors\": bộ khung là ba danh ngữ chủ ngữ (biển lấn, mất đất, mất cầu đất) + vị ngữ \"must have been ... significant factors\"; mệnh đề \"which finally made Britain an island\" chỉ bổ nghĩa cho land bridge."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Phần lớn bằng chứng khảo cổ lộ ra ở vùng ven biển vốn là dấu vết sinh sống trên cạn nên không nói được gì về việc thích nghi với biển, nhưng môi trường ven biển giúp bảo quản rất tốt.",
+      "answers": [
+        { "q": 19, "ans": "TRUE", "quote": "its physical environment means that preservation is often excellent", "how": "\"may be well-protected by sea water\" ↔ \"preservation is often excellent\" nhờ môi trường vật lý ven biển, có ví dụ công trình thời đồ đá mới ở the Stumble → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Một số bề mặt đất bị vùi có dấu vết con người khai thác môi trường ven biển, nhưng bằng chứng còn ít được hiểu: chưa thể trả lời cả những câu cơ bản như bao nhiêu phần trăm dân số từng sống gần biển.",
+      "answers": [],
+      "note": "Đoạn này ứng với phương án B của nhóm Q24–26 (\"We are not yet in a position to make even preliminary estimates\" về phần trăm dân số sống gần biển), nhưng đáp án trên trang không có đáp án cho câu 24 nên bài hướng dẫn không chốt câu đó."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Thuyền là bằng chứng nổi bật nhất về việc sử dụng biển nhưng hiểu biết còn ít: thuyền ván khâu thời tiền sử thuộc thiên niên kỷ thứ hai TCN, sau đó có một khoảng trống một nghìn năm không giải thích được.",
+      "answers": [
+        { "q": 15, "ans": "C", "quote": "after this there is a gap in the record of a millennium, which cannot yet be explained, before boats reappear", "how": "\"use of boats had not been recorded for a thousand years\" ↔ \"a gap in the record of a millennium\" → C. A sai vì bài nói ngược lại (\"we still have much to learn about their production and use\"); B sai, phần lớn xác tàu là hậu trung cổ chứ không nói tìm thấy trong cảng; D không hề nói thuyền được dùng đầu tiên để đánh cá." },
+        { "q": 20, "ans": "FALSE", "quote": "Boats were some of the most complex artefacts produced by pre-modern societies", "how": "Câu hỏi nói thiết kế thuyền của người tiền hiện đại \"very simple\"; bài nói đó là một trong những hiện vật phức tạp nhất → FALSE." },
+        { "q": 21, "ans": "NOT GIVEN", "how": "Bài chỉ nhắc Humber estuary và Dover, tức đều ở Anh; không có bất kỳ thông tin nào về việc tìm thấy thuyền tương tự ở các nước châu Âu khác. Bẫy: \"England and France\" ở đoạn 3 là chuyện cầu đất, không liên quan đến thuyền." }
+      ],
+      "note": "Đoạn 6 gánh tới ba câu (15, 20, 21) nên là đoạn phải đọc chậm nhất trong bài. Đây cũng là chỗ ứng với phương án D của nhóm Q24–26 (\"Boatbuilding must have been an extremely important activity around much of our coast, yet we know almost nothing about it.\"), nhưng đáp án trên trang không có đáp án cho câu 25 nên bài hướng dẫn không chốt câu đó."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Thuyền cần nơi cập bến nhưng hiểu biết về cảng, bến nhỏ, cầu tàu còn rời rạc, và các địa điểm này đang bị đe dọa mà hầu như chưa được khảo sát.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Phát hiện quan trọng gần đây là quy mô hoạt động công nghiệp ven biển: nghề cá (có đó cá bằng gỗ phát hiện được qua ảnh chụp từ trên không), làm muối, và khai thác khoáng sản ít được ghi chép.",
+      "answers": [
+        { "q": 16, "ans": "D", "quote": "Elaborate wooden fish weirs, often of considerable extent and responsive to aerial photography in shallow water, have been identified", "how": "\"discovered from the air\" ↔ \"responsive to aerial photography\"; thứ được phát hiện là \"fish weirs\" = cơ sở đánh bắt cá → D (Fisheries). A sai: bài nói về sản xuất muối chứ không phải mỏ muối và không gắn với ảnh hàng không; B, C chỉ được nhắc ở đoạn 7 và không liên quan đến chụp từ trên không." },
+        { "q": 22, "ans": "TRUE", "quote": "mineral resources such as sand, gravel, stone, coal, ironstone, and alum were all exploited. These industries are poorly documented", "how": "\"few documents relating to mineral exploitation\" ↔ \"poorly documented\" → TRUE. Lưu ý câu nói về nghề cá và muối là \"better documented\": phải bắt đúng câu nói về khoáng sản." }
+      ],
+      "note": "Đoạn này có cả \"better documented\" (cá, muối) lẫn \"poorly documented\" (khoáng sản). Đọc nhanh dễ chọn nhầm cho câu 22."
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Việc quản lý di sản ven biển rất phức tạp vì nhiều mối đe dọa từ tự nhiên và con người (tái phát triển đô thị, du lịch, phà lớn hơn) cùng mạng lưới cơ quan chồng chéo, và nước biển dâng là đe dọa lớn nhất.",
+      "answers": [
+        { "q": 23, "ans": "TRUE", "quote": "The larger size of ferries has also caused an increase in the damage caused by their wash to fragile deposits in the intertidal zone.", "how": "\"Large passenger boats\" ↔ \"larger ... ferries\"; \"causing increasing damage to the seashore\" ↔ \"an increase in the damage ... to fragile deposits in the intertidal zone\" → TRUE." }
+      ],
+      "note": "Đoạn này ứng với phương án F của nhóm Q24–26 (\"Human threats include the redevelopment of historic towns and old dockland areas\"), nhưng đáp án trên trang không có đáp án cho câu 26 nên bài hướng dẫn không chốt câu đó."
+    }
+  ],
+  "tips": [
+    "Rất nhiều đáp án TFNG ở bài này xoay quanh một tính từ hoặc trạng từ: constant/periodically (18), most complex/simple (20), poorly/better documented (22). Hãy đọc trọn câu trước khi chốt.",
+    "Bài liên tục dùng mô-típ \"X rất quan trọng nhưng ta biết rất ít\" (\"patchy\", \"little understood\", \"poorly documented\"). Nhận ra mô-típ này là trả lời được câu 15 và định vị nhanh nhóm Q24–26.",
+    "Với Q24–26, đừng đi tìm từng phương án; vừa đọc vừa đánh dấu ý nào đã gặp, cuối bài ba ý còn lại tự lộ ra."
+  ]
+}

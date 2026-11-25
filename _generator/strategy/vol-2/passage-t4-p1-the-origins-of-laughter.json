@@ -1,0 +1,67 @@
+{
+  "step1": "Tiêu đề \"The Origins of Laughter\" và sapo (tinh tinh, khỉ đột, cả chuột cũng cười) cho biết bài bàn nguồn gốc tiếng cười và các nghiên cứu trên động vật. Mạch bài: cười là tín hiệu xã hội (Provine) → nguồn gốc nằm ở trò chơi và tiếng cười của tinh tinh → so sánh phổ âm trẻ sơ sinh với tinh tinh (Zimmerman) → cười có từ bao giờ, bằng chứng ở chuột (Panksepp) → vì sao ta cười: giả thuyết lòng tin (Flamson) → chỉ con người kiểm soát hơi thở nên mới có tiếng cười và lời nói. Q1–6 nối phát hiện với tên bốn nhà nghiên cứu nên locate theo tên; Q7–10 là summary theo thứ tự bài; Q11–13 TRUE/FALSE/NOT GIVEN ở đoạn 1 và đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–6", "Matching features (A Provine, B Zimmerman, C Panksepp, D Flamson)", "Có: scan bốn tên riêng, nhưng không theo thứ tự câu hỏi", "Provine, Zimmerman, Panksepp, Flamson"],
+    ["7–10", "Summary completion từ bảng từ A–K", "Có, theo thứ tự bài", "first developed out of, same ___, long been aware, result from the ___ we feel"],
+    ["11–13", "True / False / Not Given", "Có (từ khóa), theo thứ tự bài", "same sex, breath control, wider range of situations"]
+  ],
+  "typesNote": "Q1–6 bám vào tên riêng nên cứ gặp tên nào là chốt các phát hiện của người đó ngay tại đoạn đó; Q7–10 và Q11–13 đi theo thứ tự bài.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Provine: cười gần như chỉ xảy ra khi có người khác, phần lớn tiếng cười là phản ứng lịch sự với câu nói thường ngày, và cách cười phụ thuộc vào người đang ở cùng.",
+      "answers": [
+        { "q": 6, "ans": "A", "quote": "Laughter evolved as a signal to others - it almost disappears when we are alone", "how": "\"a social activity\" ↔ \"a signal to others\" và \"laughing typically involves groups of people\"; lời của Provine → A." },
+        { "q": 4, "ans": "A", "quote": "most laughter comes as a polite reaction to everyday remarks such as \"see you later\", rather than anything particularly funny", "how": "\"not a response to a humorous situation\" ↔ \"rather than anything particularly funny\"; cũng là phát hiện của Provine → A." },
+        { "q": 11, "ans": "NOT GIVEN", "how": "Bài nói nam cười lâu và to hơn khi ở cùng nam, nhưng nữ thì \"laugh more and at a higher pitch when men are present\" — tức nữ cười nhiều hơn khi có NAM, không phải khi ở cùng nữ. Không có thông tin cho cả hai giới như câu hỏi nói → NOT GIVEN (dễ nhầm thành FALSE, nhưng bài chỉ nói một nửa chứ không phủ định)." }
+      ],
+      "note": "Đoạn 1 cho tới hai đáp án của Provine (câu 4 và 6) dù chúng nằm cách xa nhau trong đề. Đây chính là tinh thần one-shot: chốt theo đoạn, không theo số thứ tự câu."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Provine cho rằng muốn tìm nguồn gốc tiếng cười thì phải nhìn vào trò chơi: trẻ con cười nhiều nhất khi nô đùa, tinh tinh cũng cười khi chơi (pant laugh), nhưng tách khỏi ngữ cảnh thì tiếng đó không giống tiếng cười người.",
+      "answers": [
+        { "q": 7, "ans": "E", "quote": "To find the origins of laughter, Provine believes we need to look at play... the original context is play", "how": "\"laughter first developed out of ___\" ↔ \"the original context is play\" → chọn E (play). Bẫy K (tickling): cù chỉ là tác nhân gây cười được nhắc ở đoạn 3 và 5, không phải nguồn gốc ban đầu." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Zimmerman dùng phổ âm so sánh tiếng cười của trẻ sơ sinh và tinh tinh khi bị cù, thấy chúng theo cùng một khuôn mẫu, nên tiếng cười đã có từ trước khi loài người xuất hiện.",
+      "answers": [
+        { "q": 1, "ans": "B", "quote": "she discovered that chimp and human baby laughter follow broadly the same pattern", "how": "\"Babies and some animals produce laughter which sounds similar\" ↔ \"follow broadly the same pattern\"; người làm là Elke Zimmerman → B." },
+        { "q": 5, "ans": "B", "quote": "Zimmerman believes the closeness of baby laughter to chimp laughter supports the idea that laughter was around long before humans arrived on the scene", "how": "\"Animal laughter evolved before human laughter\" ↔ \"laughter was around long before humans arrived on the scene\" → vẫn là Zimmerman, B. Nhớ \"NB You may use any letter more than once\" nên B xuất hiện hai lần là bình thường." },
+        { "q": 8, "ans": "D", "quote": "does this pant laughter have the same source as our own laughter?", "how": "\"may have the same ___\" ↔ \"the same source\" → chọn D (origins), vì source = nguồn gốc. Bẫy C (pitch): pitch chỉ là công cụ đo (\"sound spectrographs to reveal the pitch\"), không phải thứ giống nhau." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Khó xác định tiếng cười có từ khi nào: khỉ đột và các linh trưởng xa hơn cũng cười, và bằng chứng thuyết phục nhất ngoài linh trưởng là tiếng kêu siêu âm của chuột trong nghiên cứu của Jaak Panksepp.",
+      "answers": [
+        { "q": 2, "ans": "C", "quote": "the most compelling evidence for laughter beyond primates comes from research done by Jaak Panksepp", "how": "\"Primates are not the only animals who produce laughter\" ↔ \"laughter beyond primates\" (chuột) → C." },
+        { "q": 9, "ans": "G", "quote": "More distantly related primates, including gorillas, laugh", "how": "\"Scientists have long been aware that ___ laugh\" ↔ giới khoa học từ lâu đã biết linh trưởng cười (Fossey, Goodall ở đoạn 2 đã nói về tinh tinh) → G (primates). Bẫy F (rats): chuột mới là phát hiện mở rộng về sau, khớp với vế \"more widespread than once thought\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Vì sao ta cười: có giả thuyết gắn kết mẹ con, giả thuyết phản xạ tự vệ, nhưng phổ biến nhất gần đây là cười khi bị cù để hai cá thể thể hiện và kiểm tra lòng tin (Flamson), và ở chuột cũng thấy cười, cù, chơi và tin tưởng gắn với nhau.",
+      "answers": [
+        { "q": 3, "ans": "D", "quote": "laughing is what makes it a reliable signal of trust, according to Tom Flamson", "how": "\"we feel safe and secure with others\" ↔ \"a reliable signal of trust\" → D." },
+        { "q": 10, "ans": "H", "quote": "a way for two individuals to signal and test their trust in one another", "how": "\"laughter may result from the ___ we feel with another person\" ↔ trust → chọn H (confidence, nghĩa là sự tin cậy). Bẫy I (fear) và A (combat): chúng thuộc giả thuyết tự vệ đã bị xếp sau, không phải ý được ủng hộ nhất." },
+        { "q": 13, "ans": "NOT GIVEN", "how": "Bài nói tinh tinh cười khi chơi và khi bị cù, chuột kêu chirp khi chơi và khi bị cù — nhưng không hề so sánh con nào cười trong nhiều tình huống hơn. Lại là bẫy thêm cấp so sánh → NOT GIVEN." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Không bao giờ biết con vật nào cười đầu tiên, nhưng chỉ con người kiểm soát được hơi thở đủ tốt để tạo ra tiếng cười và nhờ đó mới có tiếng nói.",
+      "answers": [
+        { "q": 12, "ans": "TRUE", "quote": "While other animals pant, we alone can control our breath well enough to produce the sound of laughter", "how": "\"Primates lack sufficient breath control\" ↔ \"we alone can control our breath well enough\": chỉ con người làm được, nên linh trưởng thì không → TRUE. Cấu trúc tương phản \"While other animals pant, we alone...\" là chỗ chứa đáp án." }
+      ]
+    }
+  ],
+  "tips": [
+    "Hai câu NOT GIVEN (11, 13) đều do câu hỏi gộp hoặc so sánh thứ bài không nói: \"both men and women\" và \"wider range of situations\". Khi thấy both/more than, hãy kiểm tra bài có đúng cả hai vế không.",
+    "Dạng nối tên người: đọc tới tên nào thì giải quyết hết các phát hiện của người đó ngay, đừng quay lại; một người có thể trả lời nhiều câu (Provine 2 câu, Zimmerman 2 câu).",
+    "Trong bảng từ A–K có nhiều từ \"đúng chủ đề mà sai vị trí\" (tickling, rats, pitch, fear). Hãy chọn theo đúng vai trò ngữ pháp và ý của câu, không theo cảm giác quen thuộc."
+  ]
+}

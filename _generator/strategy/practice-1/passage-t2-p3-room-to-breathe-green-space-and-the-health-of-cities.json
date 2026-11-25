@@ -1,0 +1,74 @@
+{
+  "step1": "Tiêu đề \"Room to Breathe: Green Space and the Health of Cities\" cho thấy bài đánh giá mức độ đáng tin của niềm tin \"công viên tốt cho sức khỏe\". Đoán mạch: nêu rằng khẳng định này gộp nhiều tuyên bố khác nhau → bằng chứng dân số và điểm yếu của nó → vài nghiên cứu thiết kế mạnh hơn → bốn cơ chế giải thích → phê phán cách đo bằng diện tích → vấn đề công bằng và \"green gentrification\" → kết luận trung thực. Q27–31 (Which paragraph) và Q32–35 (Yes/No/Not Given) rải khắp bài; Q36 gắn đoạn D, Q37 gắn đoạn E (đề ghi rõ); Q38–40 nằm trong đoạn E, chỗ liệt kê điều kiện khiến người ta quay lại công viên.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–31", "Matching Information (đoạn A–G)", "Không – chỉ chốt sau khi đọc xong từng đoạn", "habits influence where they live, other public health measures, change of address, the figure cities report, unintended effect"],
+    ["32–35", "Yes / No / Not Given (ý của người viết)", "Có (từ khóa), nhưng phải bám quan điểm người viết", "income taken into account, change of address, per thousand residents, private gardens"],
+    ["36–37", "MCQ (đề chỉ sẵn đoạn D và đoạn E)", "Có – đề nêu rõ đoạn", "four mechanisms (đoạn D), distance between homes and a park (đoạn E)"],
+    ["38–40", "Chọn THREE letters (A–G) – không có đáp án chính thức", "Có – nằm trong đoạn E", "whether a visit is repeated, maintained, feels safe, shade, seating"]
+  ],
+  "typesNote": "Matching Information không theo thứ tự nên phải gán khi vừa đọc xong đoạn, còn các nhóm còn lại gần như theo thứ tự bài. Lưu ý: bộ đáp án chính thức dùng cho trang web chỉ có tới câu 37, nên hướng dẫn này không chốt câu 38–40.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Khẳng định \"công viên tốt cho chúng ta\" đã thành chân lý không ai tranh luận, nhưng nó gộp nhiều tuyên bố rất khác nhau với chất lượng bằng chứng không đồng đều, và điều đó ảnh hưởng tới cách tiêu ngân sách.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Điểm xuất phát là khối nghiên cứu dân số lớn cho thấy người sống ở khu xanh khỏe hơn, nhưng dữ liệu quan sát không xác định được chiều nhân quả và có thể chỉ phản ánh ai chọn tới đó sống.",
+      "answers": [
+        { "q": 27, "ans": "B", "quote": "people who are already inclined to walk, to garden and to spend time outdoors may be more likely to choose a green neighbourhood in the first place", "how": "\"habits people already have may influence where they choose to live\" ↔ \"already inclined to walk, to garden ... more likely to choose a green neighbourhood\" – gần như dịch thẳng." },
+        { "q": 32, "ans": "NO", "quote": "these differences survive statistical adjustment for income and education", "how": "Câu hỏi nói mối liên hệ BIẾN MẤT khi tính đến thu nhập; bài nói nó VẪN TỒN TẠI sau khi hiệu chỉnh thu nhập và học vấn → mâu thuẫn → NO. Bẫy: ngay sau đó bài nêu nhiều điểm yếu khác (tiếng ồn, mật độ) nên dễ tưởng mối liên hệ đã bị bác bỏ." }
+      ],
+      "note": "Câu dài mang câu 32: xương sống là \"a very large body of population research ... consistently finds that people ... report better mental health\"; chuỗi \"show lower levels ... and suffer less ...\" là các vế song song, còn mệnh đề cuối \"and that these differences survive statistical adjustment\" mới là chỗ trả lời."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Một vài nghiên cứu thiết kế mạnh hơn có trọng lượng lớn: theo dõi cùng những người qua một lần chuyển nhà, và biến việc cải tạo đất hoang thành thí nghiệm so sánh với lô đất để nguyên.",
+      "answers": [
+        { "q": 29, "ans": "C", "quote": "Several research teams have followed the same individuals through a change of address, comparing their reported wellbeing before and after a move to a greener area", "how": "\"the same people were studied before and after a change of address\" ↔ nguyên văn \"the same individuals through a change of address ... before and after\"." },
+        { "q": 33, "ans": "YES", "quote": "both remove the most obvious objection to the population studies, since the people are the same people", "how": "\"more convincing than comparisons between different neighbourhoods\" ↔ \"studies with stronger designs carry weight out of proportion to their number\" và lý do \"the people are the same people\" → đúng ý người viết → YES. Bẫy: bài cũng nói \"Neither method is a clinical trial\", nhưng đó là thừa nhận hạn chế, không phủ nhận việc chúng thuyết phục hơn." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Bốn cơ chế giải thích tác dụng (vận động, vật lý như lọc bụi và làm mát, xã hội, tâm lý) không loại trừ nhau và không được chứng minh ngang nhau; quan trọng là các lợi ích này có thể tách rời.",
+      "answers": [
+        { "q": 36, "ans": "A", "quote": "the candidate explanations are neither mutually exclusive nor equally well supported ... The practical lesson is that these benefits can be separated. A strip of planting along a motorway that nobody can enter delivers the cooling and the filtering and nothing else.", "how": "Hai ý chính của đoạn (bằng chứng mạnh yếu khác nhau + một không gian có thể chỉ mang lại vài lợi ích) khớp đúng đáp án A. B sai vì bài nói cơ chế vật lý là \"best established\" chứ không nói chỉ một cơ chế từng được chứng minh; C sai vì bằng chứng về vận động lại là \"more mixed\"; D sai vì bài không nói các nhà nghiên cứu bất đồng về thứ tự ưu tiên." }
+      ],
+      "note": "Chú ý các cụm xếp hạng bằng chứng trong đoạn: \"more mixed than one might expect\" (vận động), \"the best established\" (vật lý), \"modest in size but ... durable\" (tâm lý)."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Thước đo quen dùng – diện tích cây xanh trên một nghìn dân – gần như vô dụng, vì điều quyết định là khoảng cách đi bộ, rồi tới bảo trì, cảm giác an toàn, bóng mát, ghế ngồi, nước uống và sự đa dạng cây trồng.",
+      "answers": [
+        { "q": 30, "ans": "E", "quote": "the measure by which provision is almost always reported — the total area of green space per thousand residents — is close to useless", "how": "\"a criticism of the figure by which cities usually report what they provide\" ↔ \"the measure ... almost always reported ... is close to useless\"." },
+        { "q": 34, "ans": "NO", "quote": "Area says nothing about whether the space is reachable, usable or used.", "how": "Câu hỏi nói diện tích trên nghìn dân là chỉ dẫn \"satisfactory\"; người viết gọi nó là \"close to useless\" → NO." },
+        { "q": 37, "ans": "B", "quote": "the proportion of residents who visit a park regularly falls away sharply once it is further than a few minutes' walk from the door", "how": "↔ B \"Regular use falls steeply once the park is more than a short walk away\" (falls away sharply = falls steeply). A sai vì người già được nhắc ở phần an toàn, không phải khoảng cách; C sai vì bài nói khoảng cách là \"the first and harshest filter\", quan trọng hơn diện tích; D sai vì sau khoảng cách còn nhiều yếu tố khác." }
+      ],
+      "note": "Đoạn E cũng chứa ba yếu tố khiến người ta quay lại công viên (nằm ngay sau cụm báo hiệu \"the things that determine whether a visit is repeated\": bảo trì tốt, cảm giác an toàn, bóng mát và ghế ngồi) – đó là bằng chứng cho nhóm câu 38–40. Nhưng bộ đáp án chính thức cấp cho trang web dừng ở câu 37, nên câu 38, 39 và 40 không có đáp án chính thức và hướng dẫn này không chốt chúng."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Vấn đề phân bố: khu nghèo và chật nhất lại ít cây xanh nhất; trồng cây ở đó làm giá thuê tăng và đẩy chính những hộ cần được giúp đi nơi khác – hiện tượng \"green gentrification\".",
+      "answers": [
+        { "q": 31, "ans": "F", "quote": "rents and prices rise around a new park, and some of the households the improvement was intended to serve are in time displaced by households who can pay more, a process that has been given the sardonic name of green gentrification", "how": "\"an unintended effect of improving a poor neighbourhood\" ↔ \"a difficulty that was not anticipated\" và hệ quả đẩy cư dân nghèo đi." }
+      ],
+      "note": "Người viết nói rõ giải pháp KHÔNG phải là ngừng trồng cây ở khu nghèo, mà là kèm theo bảo vệ người thuê nhà. Câu hỏi nào bảo \"không nên trồng cây ở khu nghèo\" sẽ là NO."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Tổng kết trung thực: lợi ích nhỏ nhưng phổ rộng, rẻ và bền – giống hồ sơ của những biện pháp y tế công cộng hữu hiệu nhất, cũng là loại dễ bị thổi phồng nhất; công viên là hạ tầng, không phải vật trang trí.",
+      "answers": [
+        { "q": 28, "ans": "G", "quote": "That profile — modest benefit, very wide reach, durable, cheap — is precisely the profile of the public health measures that have historically done the most good", "how": "\"a comparison between green space and other measures that have improved public health\" ↔ so sánh \"profile\" của công viên với \"the public health measures that have historically done the most good\"." },
+        { "q": 35, "ans": "NOT GIVEN", "how": "Đọc hết bảy đoạn, bài bàn về công viên và không gian công cộng; từ \"garden\" chỉ xuất hiện như một thói quen cá nhân ở đoạn B, và không chỗ nào so sánh vườn riêng với công viên công cộng → NOT GIVEN." }
+      ]
+    }
+  ],
+  "tips": [
+    "Người viết không bác bỏ lợi ích của công viên mà xếp hạng độ tin cậy của từng khẳng định: hãy bám các cụm đánh giá (\"close to useless\", \"the best established\", \"more mixed\", \"an honest summary\") để trả lời Yes/No.",
+    "Trong dạng chọn nhiều đáp án, các lựa chọn sai thường \"nghe hợp lý\" với đời thực (đèn chiếu sáng, vé vào cửa, chỗ đỗ xe) nhưng không có trong bài; chỉ chấp nhận thứ được viết ra.",
+    "Khi câu hỏi hỏi về một con số hay thước đo (diện tích trên nghìn dân), hãy tìm câu người viết nhận xét về chính thước đo đó, chứ không phải các dữ kiện quanh nó."
+  ]
+}

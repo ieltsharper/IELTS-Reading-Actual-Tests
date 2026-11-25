@@ -1,0 +1,73 @@
+{
+  "step1": "Tiêu đề \"Otters\" cho thấy đây là bài mô tả động vật, thường đi theo trình tự: cơ thể và bộ lông (A) → giác quan và bơi lội (B) → môi trường sống, lãnh thổ, thức ăn (C) → sinh sản (D) → nuôi con (E) → nguyên nhân suy giảm (F) → phục hồi và bảo tồn (G). Q1–9 là Matching Information nên chỉ chốt khi đọc xong từng đoạn; Q10–13 là short answer, nằm rải ở các đoạn đầu (lông, bơi, lãnh thổ, thức ăn).",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–9", "Matching Information (A–G, có thể lặp)", "Không, phải đọc xong đoạn mới gán", "vision underwater, body shape, underdeveloped sense, agriculture, social, baby otters, conflicted opinions, legislative act, heat loss"],
+    ["10–13", "Short answer (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "outer fur, Asian short-clawed, shortest range, occasionally"]
+  ],
+  "typesNote": "Đọc hết một đoạn thì gán ngay các câu 1–9 có bằng chứng trong đoạn đó và chốt luôn short answer tương ứng, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Giới thiệu rái cá: thuộc họ chồn, thân dài chân ngắn phù hợp luồn lách và săn trong hang, đuôi dẹt giúp bơi, bộ lông hai lớp chống nước và giữ ấm nhưng bị nước biển làm hỏng.",
+      "answers": [
+        { "q": 2, "ans": "A", "quote": "Otters have a long thin body and short legs", "how": "\"fit-for-purpose characteristics of body shape\" ↔ thân dài chân ngắn \"ideal for pushing through dense undergrowth or hunting in tunnels\": hình dáng gắn với công dụng." },
+        { "q": 9, "ans": "A", "quote": "under-fur which is dense and fine, equivalent to an otter's thermal underwear", "how": "\"compensate for heat loss\" ↔ lớp lông trong dày mịn như \"thermal underwear\" = giữ nhiệt." },
+        { "q": 10, "ans": "sea water", "quote": "Sea water reduces the waterproofing and insulating qualities of otter fur", "how": "\"outer fur\" ↔ \"guard hairs which form a waterproof outer covering\"; thứ làm hỏng tính chống nước là nước biển. Đáp án cũng chấp nhận \"salt water\"." }
+      ],
+      "note": "Đoạn A chứa cả Q2 và Q9: một đoạn có thể trả lời nhiều câu, nên đừng dừng lại sau khi tìm được một đáp án."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Các giác quan: khứu giác nhạy như chó, mắt nhỏ và cận trên cạn nhưng đổi được độ cong thủy tinh thể để nhìn dưới nước, ria phát hiện cá; cách bơi và màng chân khác nhau giữa các loài.",
+      "answers": [
+        { "q": 1, "ans": "B", "quote": "they do have the ability to modify the shape of the lens in the eye to make it more spherical, and hence overcome the refraction of water", "how": "\"regulate vision underwater\" ↔ thay đổi hình dạng thủy tinh thể để khắc phục khúc xạ của nước." },
+        { "q": 3, "ans": "B", "quote": "Otters have small eyes and are probably short-sighted on land", "how": "\"an underdeveloped sense\" = giác quan kém phát triển ↔ thị giác kém trên cạn. Bẫy: cùng đoạn nói khứu giác rất nhạy, đó là giác quan mạnh chứ không phải yếu." },
+        { "q": 11, "ans": "swimming speed", "quote": "so they don't need the swimming speed", "how": "\"not necessary for Asian short-clawed otters\" ↔ loài này không có màng chân vì săn tôm ở mương và ruộng nên không cần tốc độ bơi." }
+      ]
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Điều kiện môi trường sống và lãnh thổ: cần sông đủ cá, tránh con người, không có rái cá khác; phạm vi của con đực lớn hơn và có thể chồng lấn với hai, ba con cái; thức ăn rất đa dạng.",
+      "answers": [
+        { "q": 5, "ans": "C", "quote": "a male otter may find his range overlaps with two or three females", "how": "\"social characteristics\" ↔ quan hệ lãnh thổ giữa con đực và con cái, cộng với việc chúng nhút nhát, tránh nơi có người và không ở chung với rái cá khác." },
+        { "q": 12, "ans": "coastal otters", "quote": "Coastal otters have a much more abundant food supply and ranges for males and females may be just a few kilometers of coastline", "how": "\"shortest range\" ↔ \"just a few kilometers\", nhỏ hơn hẳn 25km của rái cá sông. Bẫy: con cái sông có phạm vi bằng nửa con đực nhưng vẫn lớn hơn rái cá ven biển, và câu hỏi hỏi \"type of otters\"." },
+        { "q": 13, "ans": "small mammals", "quote": "Small mammals are occasionally taken", "how": "\"occasionally\" khớp nguyên văn; đừng chép \"rabbits\" hay \"moles\" vì đó chỉ là ví dụ của nhóm này." }
+      ],
+      "note": "Câu \"Because male ranges are usually larger, a male otter may find his range overlaps with two or three females\": xương sống là \"a male otter may find his range overlaps with two or three females\", mệnh đề \"Because...\" nêu nguyên nhân (phạm vi con đực lớn hơn)."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Mùa sinh sản phụ thuộc nguồn thức ăn: nơi khắc nghiệt như Thụy Điển thì đẻ vào xuân, ở Shetlands đẻ vào hè; thời gian mang thai 63 ngày.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Rái cá con lớn lên theo mốc tuần: mở mắt lúc 5 tuần, cai sữa 7 tuần, rời tổ 10 tuần, biết bơi sau 3 tháng, tự săn sau 8 tháng và tách mẹ sau 9 tháng.",
+      "answers": [
+        { "q": 6, "ans": "E", "quote": "At five weeks they open their eyes", "how": "\"how baby otters grow\" ↔ chuỗi mốc phát triển của cub: \"At seven weeks they're weaned onto solid food... After three months they finally meet the water and learn to swim\". Đoạn D nói về sinh sản/mang thai chứ không phải quá trình lớn lên, đó là bẫy đoạn kề." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Nguyên nhân rái cá Anh suy giảm: thuốc trừ sâu dùng trong nông nghiệp từ 1955 tích tụ qua chuỗi thức ăn; dù bị loại bỏ dần, số lượng vẫn giảm do mất môi trường sống và tai nạn giao thông.",
+      "answers": [
+        { "q": 4, "ans": "F", "quote": "Pesticides, such as dieldrin and aldrin, were first used in 1955 in agriculture and other industries", "how": "\"why agriculture failed in otter conservation\" ↔ thuốc trừ sâu dùng trong nông nghiệp đi vào sông và chuỗi thức ăn, nồng độ tăng dần đến rái cá." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Số lượng rái cá đang phục hồi khắp nước Anh nhờ luật pháp, bảo tồn và chương trình nhân giống; việc thả rái cá nuôi nhốt vẫn còn gây tranh cãi, nhưng Otter Trust ở Norfolk đã thành công.",
+      "answers": [
+        { "q": 7, "ans": "G", "quote": "Releasing captive-bred otters is seen by many as a last resort", "how": "\"conflicted opinions on how to preserve\" ↔ hai luồng ý kiến: phe cho rằng thả là biện pháp cuối cùng và vô ích, đối lại là \"However, reintroducing animals into a fragmented and fragile population may add just enough impetus\"." },
+        { "q": 8, "ans": "G", "quote": "This is almost entirely due to law and conservation efforts", "how": "\"a legislative act\" ↔ \"law\". Bẫy: đoạn F có mốc \"From 1962 the chemicals were phased out\" nghe như quy định, nhưng bài không gọi đó là luật." }
+      ],
+      "note": "Đoạn G trả lời cả Q7 và Q8; đề đã báo \"You may use any letter more than once\" nên đừng loại G sau khi dùng một lần."
+    }
+  ],
+  "tips": [
+    "Dạng Matching Information không theo thứ tự bài: hãy đọc lướt qua 9 câu hỏi trước, nhớ từ khóa, rồi gán khi đọc đến đoạn tương ứng.",
+    "Một đoạn có thể chứa nhiều đáp án (A có Q2+Q9, B có Q1+Q3, G có Q7+Q8): đọc hết đoạn rồi mới chuyển.",
+    "Short answer lấy đúng chữ trong bài và tối đa hai từ: \"sea water\", \"swimming speed\", \"coastal otters\", \"small mammals\" đều là cụm có sẵn, đừng diễn đạt lại."
+  ]
+}

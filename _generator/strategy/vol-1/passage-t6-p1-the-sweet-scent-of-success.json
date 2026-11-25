@@ -1,0 +1,75 @@
+{
+  "step1": "Tiêu đề \"The Sweet Scent of Success\" cùng sapo \"OzKleen turned lemons into a winning formula\" cho thấy đây là một câu chuyện doanh nghiệp: ý tưởng sáng tạo nói chung → công ty OzKleen được mua lại → chế ra công thức Shower Power → bán lẻ chai nhỏ → vào siêu thị → mở rộng sản xuất → vươn ra nước ngoài. Q1–7 (matching information) rải khắp bảy đoạn A–G; Q8–11 có bốn tên riêng nên scan được; Q12–13 là MCQ về chai 750ml và việc không bán công ty, nằm ở đoạn D và đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–7", "Matching information (đoạn A–G)", "Không – phải đọc xong từng đoạn mới gán được", "family member persuading, all factory staff, creation of the formula, buying the company, international expansion, packaging size, innovative ideas"],
+    ["8–11", "Matching features – tên người (A–E)", "Có: scan tên riêng", "Grant Kearney, Tom Quinn, Peter Quinn, Belinda McDonnell"],
+    ["12–13", "Multiple choice", "Có: 750ml; offers to buy the company", "750ml, sell OzKleen"]
+  ],
+  "typesNote": "Bảy câu matching information ứng với đúng bảy đoạn A–G của bài (A = đoạn 1 ... G = đoạn 7), nên mỗi đoạn chỉ chứa một đáp án – đọc xong đoạn nào gán ngay đoạn đó.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Đổi mới cộng tinh thần khởi nghiệp có thể tạo thành công lớn, nhưng phần lớn ý tưởng không bao giờ ra được thị trường; bài liệt kê hàng loạt ý tưởng đang chào nhà đầu tư và trích Grant Kearney: ý tưởng chỉ thành đổi mới khi được gắn với nguồn lực phù hợp.",
+      "answers": [
+        { "q": 7, "ans": "A", "quote": "new water-saving shower heads, a keyless locking system, ping-pong balls that keep pollution out of rainwater tanks", "how": "\"An example of some innovative ideas\" ↔ danh sách ý tưởng mới mà người sáng chế đang chào mời; chỉ đoạn A có danh sách này." },
+        { "q": 8, "ans": "C", "quote": "An idea only becomes innovation when it is connected to the right resources and capabilities", "how": "\"Thinks innovations need support to succeed\" ↔ ý tưởng cần được nối với nguồn lực và năng lực phù hợp → C. Bẫy E (\"businesses won't succeed without innovations\"): Kearney nói về điều kiện để ý tưởng thành đổi mới, không nói doanh nghiệp thất bại nếu thiếu đổi mới." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Năm 1995 Tom Quinn và John Heron mua lại OzKleen đang khốn đốn với giá 250.000 đô la; nay Shower Power được coi là sản phẩm tẩy rửa nhà tắm bán chạy nhất nước, doanh thu 2003 đạt 11 triệu đô với 70% là xuất khẩu.",
+      "answers": [
+        { "q": 4, "ans": "B", "quote": "Tom Quinn and John Heron bought a struggling cleaning products business, OzKleen, for $250,000", "how": "\"An account of buying the original OzKleen company\" ↔ đúng hành động mua lại công ty năm 1995 → đoạn B." }
+      ],
+      "note": "Đoạn B cũng nhắc thị trường Anh (\"making big inroads on the British market\") nhưng chỉ một câu; phần kể chuyện mở rộng ra nước ngoài thực sự nằm ở đoạn G – đừng vội gán câu 5 ở đây."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Bước ngoặt: họ thuê nhà hóa học công nghiệp, nghiên cứu thị trường cho thấy người dùng cần chất tẩy nhà tắm tốt hơn và thân thiện môi trường hơn; Peter Quinn, 24 tuổi, ghét sản phẩm gốc clo nên theo hướng gốc chanh và được ghi nhận là người tìm ra công thức Shower Power.",
+      "answers": [
+        { "q": 3, "ans": "C", "quote": "He is credited with finding the Shower Power formula", "how": "\"An account of the creation of the formula of Shower Power\" ↔ toàn đoạn kể quá trình thử nguyên liệu họ cam quýt và tìm ra công thức → đoạn C." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Ban đầu Shower Power chỉ bán số lượng lớn, nhưng vì khách ở cửa hàng lẻ khen không ngớt và đi rất xa để mua nên Tom Quinn quyết định đóng chai 750ml; sau đó ông mang nhãn thử tới Woolworths và người mua hàng ở đó ủng hộ, mang về đơn hàng siêu thị đầu tiên trị giá 3.000 đô.",
+      "answers": [
+        { "q": 6, "ans": "D", "quote": "Shower Power was sold only in commercial quantities but Tom Quinn decided to sell it in 750ml bottles after the constant “raves” from customers", "how": "\"The reason for changing the packaging size\" ↔ lý do chuyển từ lượng lớn sang chai 750ml → đoạn D." },
+        { "q": 12, "ans": "B", "quote": "Customers were travelling long distances to buy supplies", "how": "Lý do đổi sang chai 750ml là nhu cầu của khách lẻ ở cửa hàng, nên B \"appealing to individual customers\". Loại D (\"attractive to supermarkets\"): việc đến Woolworths xảy ra SAU đó, không phải nguyên nhân; loại A và C vì bài không nói gì về đóng gói dễ hơn hay thị trường nước ngoài ở thời điểm này." },
+        { "q": 9, "ans": "A", "quote": "“We did a dummy label and went to see Woolworths,” Tom Quinn says", "how": "\"Described his story of selling his products to a chain store\" ↔ chính lời Tom Quinn kể chuyện mang nhãn thử đến siêu thị Woolworths → A." }
+      ],
+      "note": "Hai câu 6 và 12 cùng nằm ở đoạn D và cùng nói về chai 750ml – chốt luôn cả hai, đừng để câu MCQ lại cuối giờ."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Shower Power lên kệ siêu thị Úc năm 1997 và thành sản phẩm số một trong nhóm chỉ sau sáu tháng; cả nhà máy phải xúm vào dán nhãn, đóng chai cho kịp nhu cầu, giai đoạn này dòng tiền rất chật vật theo lời McDonnell.",
+      "answers": [
+        { "q": 2, "ans": "E", "quote": "It was all hands on deck at the factory, labelling and bottling Shower Power to keep up with demand", "how": "\"the co-operation of all factory staff to cope with sales increase\" ↔ thành ngữ \"all hands on deck\" = cả nhà máy xắn tay vào → đoạn E." },
+        { "q": 11, "ans": "B", "quote": "“It was hand-to-mouth, cash flow was very difficult,” she says", "how": "\"Explained there was a shortage of money when sales suddenly increased\" ↔ lời Belinda McDonnell về việc thiếu tiền mặt đúng lúc đơn hàng tăng vọt → B." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Cơ hội lớn tiếp theo đến khi con gái một lãnh đạo Coles Myer dùng thử khi đi nghỉ và thuyết phục cha đưa Shower Power vào siêu thị Coles; dù vậy Peter Quinn e ngại doanh số không bền nên ngại đầu tư, dẫn tới sản xuất thủ công kéo dài và một máy đóng chai mua hớ, sau đó anh tự phát triển máy mới đang xin bằng sáng chế.",
+      "answers": [
+        { "q": 1, "ans": "F", "quote": "the daughter of a Coles Myer executive used the product while on holidays in Queensland and convinced her father that Shower Power should be in Coles supermarkets", "how": "\"one family member persuading another of selling cleaning products\" ↔ con gái thuyết phục cha → đoạn F." },
+        { "q": 10, "ans": "D", "quote": "the company was wary of how long the sales would last and hesitated to spend money on upgrading the manufacturing process", "how": "\"Believes new products like Shower Power may incur risks\" ↔ Peter Quinn dè chừng doanh số không kéo dài nên ngại chi tiền → D. Bẫy: Peter cũng nói \"I love coming up with new ideas\", nghe giống E, nhưng E nói về việc doanh nghiệp thất bại nếu không đổi mới – khác hẳn." }
+      ],
+      "note": "Câu dài cần tách: backbone = \"Peter Quinn says the company was wary of how long the sales would last\" (WHO: công ty – DOES WHAT: lo doanh số không bền); mở đầu nhượng bộ \"Despite the product success\" nêu tương phản, và \"and hesitated to spend money on upgrading\" là hệ quả trực tiếp của nỗi lo đó, rồi \"As a result\" ở câu sau nối tiếp sang chuyện làm thủ công thâu đêm."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "OzKleen làm R&D thoải mái, nay mở rộng ra nước ngoài và phát triển thêm dòng Power: sản phẩm mang tên Bath Power ở Anh nhờ khoản tài trợ xuất khẩu, đã đứng thứ ba ở thị trường Anh và điểm đến tiếp theo là Pháp; có người ngỏ ý mua lại công ty nhưng Tom Quinn hài lòng với hiện trạng.",
+      "answers": [
+        { "q": 5, "ans": "G", "quote": "OzKleen is already number three in the British market, and the next stop is France", "how": "\"The description of Shower Power's international expansion\" ↔ cả đoạn nói việc tung sản phẩm ở Anh và nhắm sang Pháp → đoạn G." },
+        { "q": 13, "ans": "D", "quote": "OzKleen has been approached with offers to buy the company, but Tom Quinn says he is happy with things as they are", "how": "\"he is happy with things as they are\" = muốn giữ nguyên hiện trạng → D. Loại A (có người hỏi mua: \"has been approached with offers\"); loại C vì bài không nhắc gì tới việc thương lượng giá; loại B là bẫy đúng-nhưng-không-phải-lý-do: công ty đúng là đang phát triển thêm sản phẩm, nhưng lý do ông nêu là \"We're having too much fun\"." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bảy đoạn – bảy câu matching information, mỗi đoạn một đáp án: nếu thấy mình gán hai câu vào cùng một đoạn thì gần như chắc chắn có một câu sai.",
+    "Hai cha con cùng họ Quinn rất dễ lẫn: Tom là người đi bán hàng và quyết định đóng chai, Peter là người làm công thức và lo rủi ro. Đọc kỹ tên trước mỗi câu trích dẫn.",
+    "Với MCQ hỏi lý do, hãy tìm đúng mệnh đề nguyên nhân trong bài; những chi tiết đúng nhưng xảy ra sau đó (đơn hàng Woolworths, dòng sản phẩm mới) đều là phương án nhiễu."
+  ]
+}

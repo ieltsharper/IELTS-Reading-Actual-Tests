@@ -1,0 +1,100 @@
+{
+  "step1": "Tiêu đề Optimism and Health cùng sapo nói rõ hai phẩm chất: optimism và resilience, và rằng ta có thể rèn được cả hai. Đoán mạch bài: nghịch lý của lạc quan (Brice Pitt) → lợi ích của lạc quan (công việc, tiền bạc, sức khỏe) → tỉ lệ người lạc quan → chuyển sang resilience (định nghĩa, cách rèn, tuổi thơ khó khăn) → kết. Q14–17 (summary) dồn ở đoạn nói về Yale và Harvard; Q18–22 có tên riêng nên locate được; Q23–26 phải đọc kỹ ý người viết.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–17", "Summary completion (NO MORE THAN THREE WORDS)", "Có, theo thứ tự", "Yale, life length, Harvard, biological basis"],
+    ["18–22", "Matching sentence endings (A–H)", "Có, nhờ tên riêng ở vế đầu", "Brice Pitt, Henley Centre, Adweek, Annual Review of Clinical Psychology, Steven Stack"],
+    ["23–26", "Yes / No / Not Given", "Có từ khóa, nhưng phải đọc hết đoạn mới chốt", "long known, relationships, happy childhoods, open, thick-skinned"]
+  ],
+  "typesNote": "Cả ba dạng đều bám trật tự bài, nên vừa đọc vừa chốt: gặp tên riêng thì xử lý ngay câu 18–22, gặp từ khóa thì xử lý ngay câu 23–26.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Nghịch lý của lạc quan: Brice Pitt nói người lạc quan thiếu thực tế, còn người trầm cảm nhìn đúng sự thật, nhưng lạc quan lại là \"trang bị tiến hóa\" giúp loài người vượt qua nghịch cảnh.",
+      "answers": [
+        { "q": 18, "ans": "C", "quote": "Optimism is a piece of evolutionary equipment that carried us through millennia of setbacks.", "how": "Tên Brice Pitt nằm ngay đoạn 1. Ý ông: lạc quan là công cụ tiến hóa giúp con người đi qua hàng nghìn năm thất bại ↔ ending C \"optimism is advantageous for human evolution\". Bẫy là B \"unrealistic about human evolution\": Pitt có nói optimists \"unrealistic\", nhưng là thiếu thực tế về cuộc sống nói chung, không phải về tiến hóa – B ghép hai mảnh rời nhau." }
+      ],
+      "note": "Xương sống câu trích: \"Optimism is a piece of equipment\" + mệnh đề quan hệ \"that carried us through millennia of setbacks\" nêu tác dụng. Chính mệnh đề quan hệ này mới chứa đáp án."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Lạc quan là một thói quen tự giải thích thất bại (Seligman); khi khó khăn, người lạc quan làm việc, chịu stress và đạt mục tiêu tốt hơn người bi quan.",
+      "answers": [],
+      "note": "Ending H \"having an optimistic outlook is a habit\" khớp với đoạn này nhưng vế đầu tương ứng (Martin Seligman) không có trong Q18–22, nên H là ending thừa. Đừng cố nhét H vào câu khác."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Niềm tin giúp cả về tiền bạc: Chad Wallens (Henley Centre) thấy người thấy mình giàu nhất và nghèo nhất thực ra có gần như cùng số tiền, chỉ khác thái độ.",
+      "answers": [
+        { "q": 19, "ans": "A", "quote": "the people who feel wealthiest, and those who feel poorest, actually have almost the same amount of money at their disposal", "how": "\"Henley Centre\" định vị thẳng đoạn 3. Cùng số tiền mà cảm nhận giàu/nghèo khác nhau → tiền bạc không tự tạo ra hạnh phúc ↔ ending A \"material wealth doesn’t necessarily create happiness\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Người lạc quan khỏe hơn: nghiên cứu Yale (660 người) cho thấy nghĩ tích cực thêm trung bình bảy năm tuổi thọ, còn Harvard (670 nam) thấy họ có chức năng phổi tốt hơn nhờ hệ miễn dịch mạnh hơn.",
+      "answers": [
+        { "q": 14, "ans": "7", "quote": "thinking positively adds an average of seven years to your life", "how": "\"stretch one’s life length by ___ years\" ↔ \"adds an average of seven years to your life\"; chỗ trống đứng trước \"years\" nên chỉ điền con số (7 hoặc seven)." },
+        { "q": 15, "ans": "lung function", "quote": "A Harvard Medical School study of 670 men found that the optimists have significantly better lung function.", "how": "\"another group from Harvard\" ↔ \"A Harvard Medical School study\"; \"optimists have better ___\" chép đúng cụm sau \"significantly better\"." },
+        { "q": 16, "ans": "immune system", "quote": "attitude somehow strengthens the immune system", "how": "\"an optimist outlook boosts one’s ___\" ↔ \"attitude somehow strengthens the immune system\"; boosts = strengthens." },
+        { "q": 17, "ans": "heart patients", "quote": "Preliminary studies on heart patients suggest that, by changing a person’s outlook, you can improve their mortality risk", "how": "\"The study on ___ was cited as evidence\" ↔ \"Preliminary studies on heart patients suggest that...\" – lời Dr. Rosalind Wright dùng để chứng minh cho cơ chế vừa nêu." }
+      ],
+      "note": "Hai con số 660 (Yale, số tình nguyện viên) và 670 (Harvard, số nam giới) rất dễ lẫn với đáp án Q14 (7 năm). Đọc kỹ chỗ trống hỏi gì: \"life length by ___ years\"."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Khảo sát toàn quốc năm 1995 của tạp chí Adweek: khoảng một nửa dân số tự nhận lạc quan, nữ nhỉnh hơn nam (53% so với 48%).",
+      "answers": [
+        { "q": 20, "ans": "E", "quote": "found that about half the population counted themselves as optimists, with women slightly more apt than men (53 per cent versus 48 per cent)", "how": "\"Adweek\" định vị đoạn 5. Điểm riêng của khảo sát này là chênh lệch nam/nữ ↔ ending E \"feelings of optimism vary according to gender\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Lạc quan không miễn nhiễm với khủng hoảng, nhưng nghịch cảnh rèn nên tính cách nếu ta luyện kỹ năng resilience; các doanh nhân thành công đều từng thất bại rồi đứng dậy.",
+      "answers": [],
+      "note": "Ending D \"adversity is the breeding ground of resilience\" rất hợp với đoạn 6, nhưng vế đầu của D là Steven Stack (đoạn 9). Chưa chốt vội ở đây."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Hiệp hội Tâm lý học Mỹ định nghĩa resilience là khả năng thích nghi trước nghịch cảnh, chấn thương hay bi kịch và bật dậy trở lại.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Theo Annual Review of Clinical Psychology (Yale), lạc quan là nét trung tâm để xây dựng resilience; người kiên cường giữ được khiếu hài hước và chấp nhận hoàn cảnh với sự bình thản.",
+      "answers": [
+        { "q": 21, "ans": "G", "quote": "The ability to accept your lot with equanimity also plays an important role, the study adds.", "how": "\"Annual Review of Clinical Psychology\" định vị đoạn 8; \"accept your lot with equanimity ... plays an important role\" ↔ ending G \"evenness of mind under stress is important to building resilience\" (equanimity = evenness of mind). Bẫy là F \"good humour means good flexibility\": đoạn có nói khiếu hài hước giúp giữ thái độ linh hoạt, nhưng ending G mới là ý được nhấn là \"important role\" trong việc xây dựng resilience – đây là câu dễ mất điểm nhất của bộ." }
+      ],
+      "note": "Nếu đã trót chọn F cho Q21 thì các câu còn lại sẽ lệch dây chuyền. Đọc cả hai câu cuối đoạn rồi mới quyết."
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Steven Stack (Journal of Social Psychology): tuổi thơ khó khăn là một trong những cách tốt nhất để có resilience; người có tuổi thơ êm ả dễ gục ngã trước thất bại sau này.",
+      "answers": [
+        { "q": 22, "ans": "D", "quote": "One of the best ways to acquire resilience is through experiencing a difficult childhood", "how": "\"Steven Stack\" định vị đoạn 9; tuổi thơ gian khó sinh ra resilience ↔ ending D \"adversity is the breeding ground of resilience\"." }
+      ],
+      "note": "Câu về người thấp/người cao và tự tử chỉ là ví dụ minh họa, không phải ý chính; đừng để nó kéo sang ending khác."
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Nếu có tuổi thơ hạnh phúc thì vẫn có thể rèn resilience bằng cách chủ động luyện lạc quan: dám mạo hiểm, không sợ thất bại.",
+      "answers": [
+        { "q": 25, "ans": "NO", "quote": "If you are handicapped by having had a happy childhood, then practising proactive optimism can help you to become more resilient.", "how": "Câu hỏi nói người có tuổi thơ hạnh phúc \"won’t be able to practise optimism\"; bài khẳng định ngược lại – họ vẫn có thể luyện lạc quan chủ động. Bẫy nằm ở chữ \"handicapped\" làm người đọc tưởng bài nói họ bất lực, nhưng vế sau là \"can help you\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Người kiên cường tuy \"mặt dày\" nhưng lại cởi mở với người khác hơn mức trung bình; mỉm cười và ấm áp với mọi người cũng giúp ích.",
+      "answers": [
+        { "q": 26, "ans": "YES", "quote": "And despite being thick-skinned, resilient types are also more open than average to other people.", "how": "\"often open, and even thick-skinned\" ↔ \"despite being thick-skinned ... also more open than average\" – cùng hai đặc điểm, cùng khẳng định của người viết nên YES. Chữ \"despite\" chỉ nêu sự tương phản, không phủ định điều nào cả." },
+        { "q": 23, "ans": "NOT GIVEN", "how": "Đọc hết bài không thấy người viết nói lợi ích của lạc quan với sức khỏe \"đã được biết từ lâu\". Đoạn 4 trình bày các nghiên cứu nhưng không nói chúng cũ hay mới; đoạn 5 còn nói \"Few studies have tried to ascertain...\". Bẫy thời gian: có mốc 1995 nhưng đó là khảo sát về tỉ lệ người lạc quan, không phải về sức khỏe." },
+        { "q": 24, "ans": "NOT GIVEN", "how": "Bài có so sánh optimists với pessimists (đoạn 2: công việc, stress, trầm cảm, mục tiêu) và có nói người kiên cường cởi mở hơn (đoạn 11), nhưng chưa bao giờ so sánh quan hệ với người khác giữa optimists và pessimists. Bẫy là ghép đoạn 2 với đoạn 11 – hai nhóm khác nhau (optimists và resilient types)." }
+      ],
+      "note": "Hai câu NOT GIVEN (23, 24) chỉ chốt được khi đã đọc xong toàn bài; đọc đến đoạn 11 là lúc kết luận, không quay lại dò lần nữa."
+    }
+  ],
+  "tips": [
+    "Matching endings: luôn bám tên riêng ở vế đầu để biết đoạn nào, rồi tìm ý được bài nhấn mạnh trong đoạn đó. Ending H và F là mồi nhử vì nội dung có trong bài nhưng không gắn với tên riêng nào trong đề (hoặc không phải ý được nhấn).",
+    "Yes/No/Not Given ở bài này đánh vào thói quen suy diễn: \"đã biết từ lâu\" và \"quan hệ tốt hơn\" nghe hợp lý nhưng bài không hề nói, nên là NOT GIVEN.",
+    "Chú ý các từ nối nhượng bộ (despite, although, but instead of): chúng thường chứa đáp án, và chiều của câu nằm ở vế chính chứ không ở vế nhượng bộ."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "step1": "Tiêu đề \"The bridge that swayed\" và sapo (cầu đi bộ Millennium ở London mở cửa tháng 6/2000 thì lắc lư, bị gọi là \"wobbly bridge\") cho biết bài kể một sự cố kỹ thuật và quá trình tìm nguyên nhân. Đoán trước mạch bài: giới thiệu cây cầu → ngày khánh thành và hiện tượng lắc → nghi ngờ đầu tiên (gió) → lý thuyết mới về cách người đi bộ phản ứng → ý kiến chuyên gia Nhật → chương trình nghiên cứu → các thí nghiệm trong phòng lab và hạn chế của chúng → hai giải pháp. Q14–17 (chọn 4 ý thấy được trong ngày khánh thành) nằm ở đoạn 2–3; Q18–23 là summary theo thứ tự, dồn ở đoạn 3–5; Q24–26 là bảng về các đơn vị thí nghiệm, nằm ở đoạn 6–7.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–17", "Multiple choice (chọn BỐN đáp án A–I)", "Có – khoanh vùng ngày khánh thành", "opening day, sway, balance, hand rails, band, flags"],
+    ["18–23", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "videotape, flags and banners, tests on how people walk, Pat Dallard, Fujino Yozo"],
+    ["24–26", "Table completion (NO MORE THAN THREE WORDS)", "Có – tìm tên đơn vị thí nghiệm", "tests at..., limitations, platform, walking on the spot"]
+  ],
+  "typesNote": "Ba bộ câu hỏi chạy đúng theo thứ tự bài nên chỉ cần đọc một lượt: đoạn 2–3 chốt Q14–17, đoạn 3–5 chốt Q18–23, đoạn 6–7 chốt Q24–26.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Giới thiệu: Millennium Bridge là cây cầu mới đầu tiên bắc qua sông Thames kể từ 1894 và là cầu đầu tiên dành riêng cho người đi bộ, nối khu City với bảo tàng Tate Modern.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Ngày khánh thành 10/6/2000: hơn 1.000 người cùng một ban nhạc đi qua cầu, mặt cầu lập tức lắc ngang mạnh, mọi người phải dừng lại và bám lan can; cầu bị đóng ngày 12/6 để điều tra.",
+      "answers": [],
+      "note": "Đây là đoạn trả lời Q14–17 (chọn bốn ý): cầu lắc ngang (\"it began to sway sideways\"), khó giữ thăng bằng (\"Everyone had to stop walking to retain balance\"), ban nhạc đi qua cầu (\"with a band in front ... when they started to walk across with the band playing\") – và nhịp lắc khác nhau ở từng nhịp cầu thì nằm ở đoạn 3. Loại A (cầu không nhúc nhích theo chiều dọc mà lắc ngang), C (lúc đầu cầu \"still\", chỉ lắc mạnh khi đông người nên không phải suốt buổi lễ), I (cờ không hề đứng yên, trời có gió force 3-4)."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Arup lập tức làm nghiên cứu cấp tốc: băng video cho thấy nhịp giữa lắc khoảng 3 inch mỗi giây còn nhịp nam 2 inch mỗi 1,25 giây; ban đầu nghi gió thổi vào cờ nhưng nhanh chóng loại trừ, rồi các thí nghiệm về người đi trên sàn lắc cho ra lý thuyết mới.",
+      "answers": [
+        { "q": 18, "ans": "wind", "quote": "the engineers first thought that winds might be exerting excessive force on the many large flags and banners", "how": "Ô trống nằm sau \"the forces of\" và trước lý do \"many flags and banners\" ↔ \"winds might be exerting excessive force on the many large flags and banners\". Lưu ý bài nói ngay sau đó rằng gió thực ra không phải nguyên nhân – câu hỏi chỉ hỏi suy đoán ban đầu." },
+        { "q": 19, "ans": "swaying", "quote": "measurements were made in university laboratories of the effects of people walking on swaying platforms", "how": "\"tests ... on how people walk on ___ floors\" ↔ \"people walking on swaying platforms\"; floors là cách diễn đạt khác của platforms." }
+      ],
+      "note": "Số liệu \"3 inches sideways every second\" cho nhịp giữa và \"2 inches every 1.25 seconds\" cho nhịp nam chính là bằng chứng cho phương án H của Q14–17 (nhịp lắc khác nhau ở các phần cầu)."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Lý thuyết mới: người đi bộ phản xạ tự nhiên trước dao động ngang nhỏ – dang chân rộng hơn và vô thức bước theo nhịp lắc, nên càng làm cầu lắc mạnh; khi đủ đông, lực đẩy ngang vượt khả năng hấp thụ của cầu.",
+      "answers": [
+        { "q": 20, "ans": "further apart", "quote": "we tend to compensate and stabilise ourselves by spreading our legs further apart", "how": "\"place their legs ___ to keep balance when the floor is shaking\" ↔ \"stabilise ourselves by spreading our legs further apart\"; keep balance = stabilise." },
+        { "q": 21, "ans": "footsteps", "quote": "It is an unconscious tendency for pedestrians to match their footsteps to the sway", "how": "\"unknowingly adjust their ___ to match the sway\" ↔ \"unconscious tendency ... to match their footsteps to the sway\"; unknowingly = unconscious. Bẫy: đoạn cũng nói \"you change the way you walk\", nhưng ô trống chỉ cho tối đa hai từ và danh từ khớp chính xác là footsteps." }
+      ],
+      "note": "Bài nói rõ hiện tượng này KHÔNG phải cộng hưởng (\"doesn't have to match exactly the natural frequency of the bridge as in resonance\") – đừng chọn từ liên quan đến resonance."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Giáo sư Fujino Yozo (Đại học Tokyo) cho rằng lực ngang do đi, chạy, nhảy gây ra dao động ngang quá mức: người đi bộ khớp bước vào nhịp cầu, càng nhiều người cùng nhịp thì cầu càng lắc, tới mức không đứng vững nổi.",
+      "answers": [
+        { "q": 22, "ans": "horizontal forces", "quote": "the horizontal forces caused by walking, running or jumping could also in turn cause excessive dynamic vibration in the lateral direction", "how": "Ô trống đứng sau \"caused by the ___ of people walking, running and jumping\" ↔ \"the horizontal forces caused by walking, running or jumping\". Đừng viết \"lateral direction\": đó là hướng dao động của cầu, không phải lực do người tạo ra." },
+        { "q": 23, "ans": "upright", "quote": "until people stopped walking altogether, because they could not even keep upright", "how": "\"impossible to stand ___\" ↔ \"could not even keep upright\"; stand = keep." }
+      ],
+      "note": "Câu dài cần chẻ: backbone \"Professor Fujino Yozo ... believes the horizontal forces ... could cause excessive dynamic vibration\" (WHO: Fujino – DOES WHAT: tin rằng lực ngang gây dao động). Mệnh đề \"who studied the earth-resistant Toda Bridge in Japan\" chỉ bổ nghĩa cho tên ông; \"caused by walking, running or jumping\" bổ nghĩa cho horizontal forces. Bỏ hai mệnh đề phụ đi thì câu rất gọn."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Arup – đơn vị thiết kế cầu – mở ngay chương trình nghiên cứu để lượng hóa lực do người đi bộ tạo ra, vì tài liệu sẵn có chỉ mô tả hiện tượng chứ chưa đo được lực; nhiều trường đại học và tổ chức nghiên cứu vào cuộc hỗ trợ.",
+      "answers": [
+        { "q": 24, "ans": "Arup", "quote": "an immediate research program was launched by the bridge's engineering designer Arup", "how": "Bảng có ba dòng, hai dòng dưới đã chắc chắn là Imperial College và University of Southampton (đoạn 7), nên dòng còn lại ứng với các thử nghiệm quy mô lớn do chính Arup làm trên cầu; hạn chế \"not enough data collection\" ↔ \"none of these actually quantifies the force\" / chưa có cách phân tích định lượng." }
+      ],
+      "note": "Đáp án Q24 là chỗ dễ tranh cãi nhất của bài: hạn chế \"không thu đủ dữ liệu\" đọc ra cũng khá giống hạn chế \"Neither test could investigate any influence of other people in a crowd\" ở đoạn 7. Đáp án chính thức là Arup, vẫn dùng đúng đáp án này; cách chắc ăn trong phòng thi là loại trừ hai dòng rõ ràng trước rồi điền tên đơn vị còn lại."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Hai thí nghiệm và hạn chế của chúng: Southampton cho người \"đi tại chỗ\" trên bàn rung, Imperial College dùng sàn dài 7,2 m rung ngang; sàn của Imperial quá ngắn nên chỉ đo được bảy tám bước, còn \"đi tại chỗ\" thì không giống đi thật.",
+      "answers": [
+        { "q": 25, "ans": "Imperial College", "quote": "the Imperial College test platform was so short that only seven or eight steps could be measured at one time", "how": "\"Not long enough\" ↔ \"so short\" (sàn dài 7.2m, quá ngắn) → đơn vị là Imperial College." },
+        { "q": 26, "ans": "University of Southampton", "quote": "The tests at the University of Southampton involved a person walking on the spot on a small shake table ... the \"walking on the spot\" test did not accurately replicate forward walking", "how": "\"Not like the real walking experience\" ↔ \"did not accurately replicate forward walking\"; kiểu thí nghiệm \"walking on the spot\" được gắn với University of Southampton ở câu đầu đoạn." }
+      ],
+      "note": "Hai hạn chế nằm ở câu sau, còn tên trường nằm ở hai câu đầu đoạn: phải nối ngược lại mới điền đúng. Giới hạn ba từ cho phép viết đủ \"University of Southampton\"."
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Kết quả thí nghiệm giúp thiết kế phương án cải tạo: chỉ hai hướng khả thi – tăng độ cứng để đẩy tần số dao động ngang ra khỏi vùng bị kích thích, hoặc tăng giảm chấn để giảm phản ứng cộng hưởng.",
+      "answers": []
+    }
+  ],
+  "tips": [
+    "Với Q14–17, phải phân biệt \"lắc ngang\" (sideways/lateral) với \"lắc dọc\", và nhớ rằng cầu chỉ lắc mạnh khi đông người chứ không lắc suốt buổi lễ – hai bẫy A và C.",
+    "Summary Q18–23 đi đúng thứ tự bài nên nếu thấy mình phải quay lại đoạn trước thì gần như chắc chắn đã điền lệch ô.",
+    "Bảng Q24–26 không xếp theo thứ tự xuất hiện trong bài: tên trường ở đầu đoạn 7, hạn chế ở cuối đoạn 7, nên hãy nối từ hạn chế ngược về tên đơn vị."
+  ]
+}

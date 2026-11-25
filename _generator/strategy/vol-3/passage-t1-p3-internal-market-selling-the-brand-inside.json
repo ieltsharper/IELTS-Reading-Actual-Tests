@@ -1,0 +1,85 @@
+{
+  "step1": "Tiêu đề \"Internal Market: Selling the Brand Inside\" cho biết bài bàn về marketing hướng vào chính nhân viên trong công ty, chứ không chỉ vào khách hàng. Đoán trước mạch bài của một bài báo quản trị: nêu vấn đề (công ty bỏ quên nhân viên) → vì sao quan trọng → thực trạng làm kém → các ví dụ thất bại (bảo hiểm y tế, tổ chức tài chính) → ví dụ thành công (IBM) → ví dụ phản tác dụng (United Airlines) → cách triển khai (quảng cáo nhắm hai đối tượng, Nike kể chuyện) → nguyên tắc giữ lời hứa bên ngoài nhỉnh hơn thực tế bên trong (Ford, British Rail). Q27–32 ghép tên loại công ty với kết cục nên locate được ngay theo tên công ty; Q33–40 là Yes/No/Not Given đi theo thứ tự bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Matching sentence endings (A–E, được dùng lại)", "Có – mỗi câu là một loại công ty", "health insurance company, financial services institution, IBM, United Airlines, Nike, British Rail"],
+    ["33–40", "Yes / No / Not Given", "Có (từ khóa), nhưng phải đọc hết đoạn mới kết luận", "believe in the brand, internal marketing done poorly, consumers unprepared, United, market research, expensive, Nike storytellers, a little ahead"]
+  ],
+  "typesNote": "Bộ 27–32 không theo thứ tự đề bài mà theo thứ tự công ty xuất hiện trong bài, còn 33–40 thì theo đúng thứ tự bài: đọc đến công ty nào thì chốt luôn cả hai loại câu hỏi thuộc đoạn đó.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Đặt vấn đề: nói tới marketing người ta chỉ nghĩ tới khách hàng, nhưng \"thị trường\" thứ hai cũng quan trọng không kém là nhân viên – nhóm thường bị công ty bỏ quên.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Vì sao marketing nội bộ quan trọng: nó tạo kết nối cảm xúc giữa nhân viên với sản phẩm; thiếu nó nhân viên hiểu sai hoặc không tin vào thương hiệu, còn khi tin thì họ làm việc hăng hơn và trung thành hơn.",
+      "answers": [
+        { "q": 33, "ans": "YES", "quote": "when people care about and believe in the brand, they're motivated to work harder and their loyalty to the company increases", "how": "\"A strong conviction in the brand\" ↔ \"care about and believe in the brand\"; \"higher job performance\" ↔ \"motivated to work harder\" → đúng ý người viết, YES." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Thực trạng: ở hầu hết công ty, marketing nội bộ làm rất kém hoặc không làm; lãnh đạo biết phải thông báo chiến lược nhưng ít ai thấy cần thuyết phục nhân viên về sức mạnh thương hiệu.",
+      "answers": [
+        { "q": 34, "ans": "YES", "quote": "in most companies, internal marketing is done poorly, if at all", "how": "\"common for companies to overlook the necessity for internal communication\" ↔ \"in most companies ... done poorly, if at all\" và \"few understand the need to convince employees\" → YES." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Thông điệp đối nội và đối ngoại thường lệch nhau, làm nhân viên nghi ngờ tính chính trực của công ty: công ty bảo hiểm y tế nói ưu tiên bệnh nhân nhưng bảo nhân viên ưu tiên cắt giảm chi phí; định chế tài chính tuyên bố chuyển sang vai trò tư vấn nhưng không bán ý tưởng đó vào trong nên nhân viên vẫn làm như cũ.",
+      "answers": [
+        { "q": 27, "ans": "C", "quote": "advertised that the welfare of patients was the company's number one priority, while employees were told that their main goal was to increase the value of their stock options through cost reductions", "how": "Hai thông điệp trái ngược nhau cho nhân viên và cho công chúng ↔ ending C \"produced conflicting images between its employees and the general public\"." },
+        { "q": 28, "ans": "C", "quote": "told customers that it was making a major shift in focus from being a financial retailer to a financial adviser, but, a year later, research showed that the customer experience with the company had not changed", "how": "Cũng là lệch giữa lời hứa ra bên ngoài và điều nhân viên được truyền đạt bên trong ↔ ending C. Đề đã báo trước \"You can use any letter more than once\" nên việc C xuất hiện hai lần là bình thường – đừng vì sợ trùng mà đổi sang B." }
+      ],
+      "note": "Câu dài cần chẻ ở ví dụ thứ hai: backbone \"one major financial services institution told customers that it was making a major shift in focus\" (WHO – DOES WHAT), rồi mệnh đề tương phản \"but, a year later, research showed that the customer experience ... had not changed\", và câu sau nêu nguyên nhân \"company leaders had not made an effort to sell the change internally, so employees were still churning out transactions\"."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Khớp thông điệp trong – ngoài còn giúp công ty với tới mục tiêu tưởng như ngoài tầm: chiến dịch e-business 1997 của IBM bỏ qua kết quả nghiên cứu, dùng quảng cáo để tập hợp nhân viên quanh ý tưởng Internet, nhờ đó đổi cả cách họ làm việc và khôi phục niềm tin vào IBM.",
+      "answers": [
+        { "q": 29, "ans": "D", "quote": "IBM was also using the campaign to align employees around the idea of the Internet as the future of technology", "how": "\"A computer company\" = IBM; chiến dịch quảng cáo được dùng để truyền cảm hứng và định hướng cho nhân viên ↔ ending D \"successfully used an advertising campaign to inspire employees\"." },
+        { "q": 35, "ans": "NO", "quote": "it chose to ignore research that suggested consumers were unprepared to embrace IBM as a leader in e-business", "how": "Câu hỏi nói người tiêu dùng ĐÃ sẵn sàng xem IBM là người dẫn đầu e-business trước chiến dịch; bài nói nghiên cứu cho thấy họ \"unprepared\" (chưa sẵn sàng) → mâu thuẫn, NO. Bẫy: số liệu \"four times more likely\" ở cuối đoạn là kết quả SAU chiến dịch, không phải trước." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Bỏ quên nhân viên còn có thể tạo ra thông điệp gây bất bình: chiến dịch \"Rising\" của United Airlines thừa nhận dịch vụ kém để chiều khách lại làm nhân viên nản lòng, sự phản đối của họ khiến lời hứa cải thiện không thực hiện được và ba năm sau hãng phải bỏ chiến dịch.",
+      "answers": [
+        { "q": 30, "ans": "A", "quote": "a campaign focusing on customers' distaste for flying was deeply discouraging to the staff", "how": "\"An airline\" = United Airlines; chiến dịch mang tính xin lỗi (thừa nhận dịch vụ kém) làm nhân viên xa lánh ↔ ending A \"alienated its employees by its apologetic branding campaign\"." },
+        { "q": 36, "ans": "NO", "quote": "a fundamental principle of advertising—find and address a customer concern—failed United because it did not consider the internal market", "how": "Câu hỏi quy thất bại cho \"bad advice of an advertisement agency\". Người viết nêu nguyên nhân khác hẳn và rất rõ: vì United không tính đến thị trường nội bộ, thậm chí còn gọi tiền đề của chiến dịch là \"a logical premise ... given the tenor of the times\" → mâu thuẫn, NO." },
+        { "q": 37, "ans": "NOT GIVEN", "how": "Bài nói United rút chiến dịch vì \"employee opposition was undermining its success\", còn cuộc khảo sát (survey) chỉ là lý do KHỞI ĐỘNG chiến dịch năm 1996. Việc hãng bỏ chiến dịch do một nghiên cứu thị trường thì bài không hề nói → NOT GIVEN. Đây là bẫy ghép sai mốc thời gian: cùng một từ \"survey/research\" nhưng gắn với hai thời điểm khác nhau." }
+      ],
+      "note": "Q36 và Q37 rất dễ đảo nhau. Nguyên tắc: nếu bài nêu một nguyên nhân KHÁC cho cùng một sự kiện thì chọn NO; nếu bài chỉ im lặng về mối liên hệ mà câu hỏi dựng lên thì chọn NOT GIVEN."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Cách triển khai phổ biến nhất: làm quảng cáo đối ngoại nhắm cả hai đối tượng, như mẩu quảng cáo tám trang của IBM trên Wall Street Journal – tốn kém nhưng nếu dùng tiết chế thì mạnh nhất, lại cho thấy sự nghiêm túc và minh bạch.",
+      "answers": [
+        { "q": 38, "ans": "NO", "quote": "This is an expensive way to capture attention, but if used sparingly, it is the most powerful form of communication", "how": "Câu hỏi gọi chiến dịch e-business của IBM là \"an expensive mistake\". Người viết công nhận tốn kém nhưng khẳng định đó là cách truyền thông mạnh nhất, và ở đoạn 5 còn nói chiến dịch thành công → không phải sai lầm, NO. Bẫy: chỉ nhìn thấy chữ \"expensive\" rồi chọn YES mà bỏ qua mệnh đề tương phản \"but...\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Không chỉ có quảng cáo: ở Nike, một số lãnh đạo cấp cao kiêm chức \"Corporate Storyteller\", kể những giai thoại kiểu \"just do it\" (chuyện Bill Bowerman đổ cao su vào khuôn bánh waffle) để nuôi tinh thần sáng tạo trong nội bộ.",
+      "answers": [
+        { "q": 31, "ans": "E", "quote": "One tale, for example, recalls how legendary coach and Nike cofounder Bill Bowerman, in an effort to build a better shoe for his team, poured rubber into the family waffle iron", "how": "\"A sport shoe company\" = Nike; công ty khai thác các giai thoại về tinh thần công ty ↔ ending E \"draws on the legends of the company spirit\"." },
+        { "q": 39, "ans": "NOT GIVEN", "how": "Bài chỉ nói \"the company hopes to keep the spirit of innovation ... alive\" – đó là mong muốn của công ty. Không ở đâu nhân viên Nike tự nói rằng họ được truyền cảm hứng nhờ các câu chuyện đó → NOT GIVEN. Bẫy: suy từ mục đích của công ty ra kết quả thật." }
+      ]
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Nguyên tắc cuối: lời hứa ra bên ngoài nên đi trước thực tế bên trong một chút để tạo động lực (Ford với \"Quality Is Job 1\"), nhưng đi trước quá xa thì mất uy tín (British Rail với \"We're Getting There\" bị báo chí phê phán và làm nhân viên nản).",
+      "answers": [
+        { "q": 32, "ans": "B", "quote": "By drawing attention to the gap between the promise and the reality, it prompted destructive press coverage", "how": "\"A railway company\" = British Rail; chiến dịch kéo theo phản ứng tiêu cực của báo chí ↔ ending B \"attracted negative publicity through its advertising campaign\"." },
+        { "q": 40, "ans": "YES", "quote": "companies must also keep external promises a little ahead of internal realities. Such promises provide incentives for employees and give them something to live up to", "how": "\"A slight difference between internal and external promises\" ↔ \"a little ahead of internal realities\"; \"create a sense of purpose\" ↔ \"provide incentives ... give them something to live up to\" → YES. Chú ý chữ \"slight/a little\": nếu khoảng cách quá xa thì bài nói mất uy tín, nên đừng vì vế British Rail mà chọn NO." }
+      ]
+    }
+  ],
+  "tips": [
+    "Mỗi đoạn ví dụ gắn với đúng một công ty, nên Q27–32 chỉ cần đọc tới tên công ty là chốt được; ending C được dùng hai lần, điều này đề đã cho phép.",
+    "Với Yes/No/Not Given, hãy tách \"nguyên nhân bài nêu\" khỏi \"nguyên nhân câu hỏi dựng lên\": bài nêu nguyên nhân khác → NO (Q36), bài im lặng → NOT GIVEN (Q37, Q39).",
+    "Cảnh giác với mệnh đề tương phản \"but / however / while\": Q38 và Q40 đều được quyết định bởi vế sau chữ but chứ không phải vế đầu."
+  ]
+}

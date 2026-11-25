@@ -1,0 +1,97 @@
+{
+  "step1": "Tiêu đề California's Age of Megafires cùng sapo \"Drought, housing expansion, and oversupply of tinder make for bigger, hotter fires\" đã nêu sẵn ba nguyên nhân: hạn hán, mở rộng nhà ở, thừa vật liệu cháy. Đoán mạch bài báo: vì sao khó dập lửa → megafire là gì → nguyên nhân ngắn hạn và dài hạn → ba yếu tố khác → dân số và nhà cửa ở California → tiến bộ về chuẩn bị từ 2003 → thiết bị mới → chỉ huy và phối hợp → lực lượng được huy động → phản ứng của dân → lời một cư dân San Diego. Q14–18 là tóm tắt nên nằm gọn ở đoạn 1–3; Q19–23 ở nửa sau; Q24–26 ở ba đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–18", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "unpredictable manner, bigger than average forest fire, below the average, climate change, underbrush"],
+    ["19–23", "True / False / Not Given", "Có (từ khóa), theo thứ tự bài", "open space, equipment, recruited, other states, 2004 blue-ribbon commission"],
+    ["24–26", "Multiple choice (A–D)", "Có (tên riêng và nhân vật)", "Schwarzenegger, National Guard, Pentagon, locals' feeling, Ross Simmons"]
+  ],
+  "typesNote": "Cả ba nhóm đều chạy theo thứ tự bài, nên một lượt đọc là đủ: tóm tắt ở đầu bài, TFNG ở giữa, MCQ ở cuối.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Dù chuẩn bị tốt hơn bao giờ hết, lính cứu hỏa Nam California vẫn chật vật vì cháy rừng nay nóng hơn, lan nhanh hơn và lan theo cách thất thường hơn trước.",
+      "answers": [
+        { "q": 14, "ans": "spread", "quote": "generally are hotter, move faster, and spread more erratically than in the past", "how": "\"[14] in a more unpredictable manner\" ↔ \"spread more erratically\"; \"erratically\" = thất thường/khó đoán. Bẫy: \"move\" cũng là động từ trong câu nhưng nó đi với \"faster\", đã được nhắc riêng trong tóm tắt." }
+      ]
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Megafire (còn gọi \"siege fires\") là những đám cháy từ 500.000 mẫu trở lên, gấp 10 lần đám cháy rừng trung bình của 20 năm trước.",
+      "answers": [
+        { "q": 15, "ans": "10 times", "quote": "burn 500,000 acres or more — 10 times the size of the average forest fire of 20 years ago", "how": "\"often ___ bigger than the average forest fire\" ↔ \"10 times the size of the average forest fire\". Bẫy số: 500,000 acres là diện tích, 20 years ago là mốc thời gian, chỗ trống cần bội số." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Ngắn hạn: năm nay mưa ít hơn bình thường chín inch; dài hạn: biến đổi khí hậu làm ngày nóng hơn và mùa cháy dài hơn; cộng thêm chính sách dập lửa thật nhanh suốt một thế kỷ của Cục Kiểm lâm, vô tình khiến lớp cây bụi không bị cháy tự nhiên và thành nhiên liệu chính cho megafire.",
+      "answers": [
+        { "q": 16, "ans": "rainfall", "quote": "has had nine inches less rainfall than normal this year", "how": "\"___ below the average\" ↔ \"nine inches less rainfall than normal\"; \"below the average\" ↔ \"less ... than normal\"." },
+        { "q": 17, "ans": "fire seasons", "quote": "climate change across the West is leading to hotter days on average and longer fire seasons", "how": "\"the extended ___ due to climate change\" ↔ \"longer fire seasons\" do biến đổi khí hậu; \"extended\" = kéo dài." },
+        { "q": 18, "ans": "fuel", "quote": "The unintentional consequence was to halt the natural eradication of underbrush, now the primary fuel for megafires", "how": "\"accidentally making the underbrush the ___ for megafires\" ↔ \"unintentional consequence\" + \"the primary fuel for megafires\"; \"accidentally\" ↔ \"unintentional\"." }
+      ],
+      "note": "Câu dài mang đáp án Q18: xương sống \"The trend to more superhot fires has been driven by a century-long policy of the US Forest Service to stop wildfires as quickly as possible\" (WHO = chính sách, DOES WHAT = thúc đẩy xu hướng cháy siêu nóng); câu tiếp theo mới nêu hệ quả ngoài ý muốn là cây bụi không bị dọn sạch. Phải nối hai câu mới thấy \"government policy\" trong tóm tắt."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Ba yếu tố khác: nhiệt độ trung bình miền Tây tăng 1 độ F, mùa cháy dài hơn cuối thập niên 1980 trung bình 78 ngày, và việc xây nhà nhiều hơn trong vùng rừng – mà một giáo sư ví như xây nhà bên sườn núi lửa đang hoạt động.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "California tăng hơn 600.000 dân mỗi năm suốt ít nhất một thập kỷ, nhà ở lấn vào các vùng đó: không gian trống trước đây nay là khu dân cư, chính là nhiên liệu làm lửa cháy dữ hơn.",
+      "answers": [
+        { "q": 19, "ans": "TRUE", "quote": "where population growth has averaged more than 600,000 a year for at least a decade, housing has pushed into such areas. \"What once was open space is now residential homes", "how": "\"Open space has been disappearing in the past 10 years\" ↔ \"for at least a decade\" (10 năm) + \"What once was open space is now residential homes\" → đúng." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Dù vậy, nhiều chuyên gia đánh giá cao tiến bộ về công tác chuẩn bị của California kể từ năm 2003, khi vụ cháy lớn nhất lịch sử bang thiêu 750.000 mẫu, 3.640 ngôi nhà và làm 22 người chết.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Bang đã giữ lời: xe, máy bay, trực thăng mới; các nghiệp đoàn từng kêu ca thiết bị cũ nát nay khen ngợi, vì ngân sách chữa cháy tăng dù nhiều chương trình khác bị cắt mạnh.",
+      "answers": [
+        { "q": 20, "ans": "TRUE", "quote": "State promises to provide newer engines, planes, and helicopters have been fulfilled. Firefighters unions that then complained of dilapidated equipment, old fire engines ... are now praising the state's commitment", "how": "\"equipment ... better than before\" ↔ thiết bị mới đã được cấp, thay cho \"dilapidated equipment, old fire engines\" trước đây → TRUE." },
+        { "q": 21, "ans": "NOT GIVEN", "how": "Bài nói bang mua thiết bị mới, tăng ngân sách, huy động Vệ binh Quốc gia và tù nhân (đoạn 9), nhưng không chỗ nào nói bang tuyển thêm lính cứu hỏa mới. Bẫy: huy động lực lượng sẵn có không phải là tuyển mới." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Ngoài xe mới, bang đầu tư cho hệ thống chỉ huy – điều hành và chiến lược; trước kia các bang, địa phương khác sẵn lòng chi viện nhưng không liên lạc được với nhau, sau khi ủy ban 2004 rà soát lại quy trình thì phản ứng toàn bang chuyên nghiệp và nhanh nhạy hơn nhiều.",
+      "answers": [
+        { "q": 22, "ans": "FALSE", "quote": "we found out that we had the willingness of mutual-aid help from other jurisdictions and states, but we were not able to communicate adequately with them", "how": "Câu hỏi nói trước kia không bang nào muốn giúp; bài nói ngược: họ sẵn lòng giúp (\"willingness of mutual-aid help\"), vấn đề chỉ là liên lạc kém → FALSE." },
+        { "q": 23, "ans": "FALSE", "quote": "After a 2004 blue-ribbon commission examined and revamped those procedures, the statewide response “has become far more professional and responsive,” he says.", "how": "Câu hỏi nói ủy ban 2004 không đạt thành tựu gì; bài nói sau khi ủy ban rà soát, phản ứng toàn bang tốt hơn hẳn → mâu thuẫn, FALSE." }
+      ],
+      "note": "Hai câu 22–23 nằm cùng một đoạn và cùng bị \"lật\" theo kiểu phủ định (no other states wished / did not make any achievements). Gặp câu hỏi có \"no\", \"not any\" thì phần lớn là FALSE."
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Thống đốc Schwarzenegger điều 1.500 vệ binh quốc gia, xin Lầu Năm Góc gửi máy bay C-130 mang 3.000 gallon chất chống cháy, và điều 2.300 tù nhân chữa cháy cùng 170 quản giáo phối hợp với lực lượng bang và địa phương.",
+      "answers": [
+        { "q": 24, "ans": "B", "quote": "to work hand in hand with state and local firefighters", "how": "Tác giả liệt kê Vệ binh Quốc gia, Lầu Năm Góc (quân đội liên bang), Cục Trại giam và lính cứu hỏa bang, địa phương cùng làm việc ↔ phương án B về hợp tác liên bang, liên ngành, nối tiếp ý \"mutual-aid help from other jurisdictions and states\" ở đoạn 8. A sai vì mục đích không phải ca ngợi riêng chính quyền Schwarzenegger (đoạn 7 mới nói chuyện đó); C sai vì bài không so sánh quân đội hiệu quả hơn ai; D sai vì đây là tường thuật việc đã làm, không phải khuyến nghị nên huy động thế nào." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Cả người dân lẫn quan chức đều ghi nhận với lòng biết ơn những cải thiện, dù mất nhà cửa, nhà thờ, cửa hàng, trang trại: tốc độ và sự phối hợp nay hiệu quả hơn các vụ \"siege fire\" trước.",
+      "answers": [
+        { "q": 25, "ans": "A", "quote": "Residents and government officials alike are noting the improvements with gratitude", "how": "\"with gratitude\" = biết ơn, hài lòng ↔ phương án A \"glad\". B, D sai vì không có sự bất mãn hay cay đắng; C sai vì họ rõ ràng có để tâm (\"noting the improvements\")." }
+      ]
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Luật sư Ross Simmons ở San Diego, người phải sơ tán, rất ấn tượng với tiến bộ từ sau vụ cháy 2003: quy chuẩn xây dựng, quy trình sơ tán, công nghệ mới và cuộc gọi tự động lúc 3h30 sáng; theo ông, thiệt hại tài sản vẫn lớn nhưng số người chết sẽ không nhiều như trước.",
+      "answers": [
+        { "q": 26, "ans": "D", "quote": "we will not come close to the loss of life because of what we have ... put in place since then", "how": "\"will not come close to the loss of life\" = số người chết thấp hơn hẳn ↔ phương án D \"People are less likely to die in fires now\". A sai vì cuộc gọi sơ tán lúc 3h30 sáng chỉ kể sự việc, không nói ban ngày khó sơ tán hơn; B ngược (dân đã cải thiện \"building codes\"); C sai vì ông nhấn mạnh mạng sống chứ không nói người ta không tin nổi mức thiệt hại." }
+      ],
+      "note": "Dấu \"...\" trong trích dẫn gốc là của bài báo (lược bớt lời nói), không phải chỗ trống – đừng hiểu nhầm là thiếu thông tin."
+    }
+  ],
+  "tips": [
+    "Bài báo dày số liệu (500,000 acres, 10 times, nine inches, 1 degree F, 78 days, 750,000 acres, 3,640 homes, 600,000, 1,500, 2,300): với summary hãy nhìn từ đứng cạnh chỗ trống để biết cần loại số nào.",
+    "Nhóm TFNG ở đây chủ yếu bẫy bằng câu phủ định tuyệt đối (no other states, did not make any achievements) và bằng việc suy diễn (huy động lực lượng ≠ tuyển mới, câu 21 NOT GIVEN).",
+    "Câu MCQ hỏi \"vì sao tác giả nhắc tới...\" cần ý của cả đoạn, không phải một chi tiết: ở câu 24 điểm chung của mọi cái tên là sự phối hợp nhiều cấp, nhiều bang."
+  ]
+}

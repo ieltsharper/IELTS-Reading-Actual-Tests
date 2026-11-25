@@ -1,0 +1,94 @@
+{
+  "step1": "Tiêu đề \"Placebo Effect — The Power of Nothing\" cho biết bài bàn về hiệu ứng giả dược: một thứ \"không có gì\" mà vẫn có tác dụng. Đoán mạch bài: công thức châm biếm để chế ra một liệu pháp thay thế → vì sao nó vẫn hiệu quả → định nghĩa placebo → thế mạnh của CAM → cơ chế sinh lý và endorphin → thí nghiệm naloxone → các yếu tố kích hoạt (màu sắc, thương hiệu, thái độ bác sĩ) → kết luận về CAM. Q27–32 (nối vế câu) gần như chắc chắn nằm ở ba đoạn đầu vì chủ ngữ toàn là \"alternative practitioners\"; Q33–35 ở các đoạn giữa; Q36–40 (TFNG) ở nửa sau bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Matching sentence endings (A–H)", "Một phần: vế đầu cho biết chủ thể (buổi hẹn, cách mô tả, bác sĩ chính thống)", "appointments, description of treatment, faith, illness, improvements, conventional doctors"],
+    ["33–35", "Multiple choice (A–D)", "Có: đề chỉ rõ đoạn 5, nghiên cứu về đau, Benedetti", "fifth paragraph, pain control, Fabrizio Benedetti, naloxone"],
+    ["36–40", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc trọn câu mới chốt", "fully understand, red pills, brands, chlorpromazine, seldom known"]
+  ],
+  "typesNote": "Vế đầu của Q27–32 đi theo đúng mạch ba đoạn mở bài, còn Q33–40 chạy tuần tự từ đoạn 5 đến đoạn 10, nên cả bài chỉ cần đọc một lượt là chốt đủ.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Tác giả nói đùa đưa ra \"công thức\" chế một liệu pháp thay thế: ấm áp, có tiếp xúc cơ thể, mỗi buổi ít nhất nửa tiếng, bắt bệnh nhân tự trả tiền, mô tả bằng từ ngữ quen thuộc pha chút huyền bí.",
+      "answers": [
+        { "q": 27, "ans": "D", "quote": "each session with your patients should last at least half an hour", "how": "\"Appointments with alternative practitioners\" ↔ \"each session with your patients\"; \"at least half an hour\" ↔ ending D \"ought to last a minimum length of time\"." },
+        { "q": 28, "ans": "A", "quote": "Describe your treatment in familiar words, but embroidered with a hint of mysticism", "how": "\"description of treatment\" ↔ \"Describe your treatment\"; \"familiar words\" ↔ ending A \"should be easy to understand\". Ending C \"should not involve any mysticism\" là bẫy đảo nghĩa: bài khuyên THÊM chút huyền bí chứ không phải tránh." }
+      ],
+      "note": "Giọng văn đoạn 1 là mỉa mai (\"Oh, come off it, you're saying\"). Đừng hiểu nhầm đây là lời khuyên thật; nhưng các chi tiết trong công thức vẫn là dữ kiện để nối câu."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Liệu pháp bịa ra vẫn có thể kiếm sống được, đặc biệt nếu người chữa thực sự tin vào nó: nhiều bệnh tự khỏi, và phần cải thiện còn lại đến từ hiệu ứng giả dược chứ không từ bài thuốc cụ thể nào.",
+      "answers": [
+        { "q": 29, "ans": "G", "quote": "A good living if you are sufficiently convincing or, better still, really believe in your therapy.", "how": "\"who has faith in what he does\" ↔ \"really believe in your therapy\"; \"A good living\" ↔ ending G \"can earn high income\"." },
+        { "q": 30, "ans": "B", "quote": "Many illnesses get better on their own", "how": "\"The illness of patients\" ↔ \"Many illnesses\"; \"get better on their own\" ↔ ending B \"ought to improve by itself\". Ending E (cần chữa đúng lúc) là bẫy vì câu sau có \"at just the right time\", nhưng cụm đó nói về thời điểm thầy lang ra tay để được ghi công, không phải về bản thân căn bệnh." },
+        { "q": 31, "ans": "H", "quote": "Not necessarily because you'd recommended ginseng rather than camomile tea or used this crystal as opposed to that pressure point. Nothing so specific.", "how": "\"Improvements of patients\" ↔ \"Some of the improvement\"; \"Nothing so specific\" ↔ ending H \"do not rely on any specific treatment\"." }
+      ],
+      "note": "Ba đáp án 29, 30, 31 nằm liền nhau trong đoạn này. Mẹo: vế đầu của câu hỏi lặp gần nguyên văn chủ ngữ trong bài (practitioner → you, illness → illnesses, improvement → improvement)."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Placebo là phương pháp không tác động trực tiếp lên cơ thể nhưng vẫn hiệu quả nhờ niềm tin; nó là một phần mạnh mẽ của mọi hình thức chăm sóc y tế, kể cả y học chính thống, dù vai trò đó thường bị bỏ qua và hiểu sai.",
+      "answers": [
+        { "q": 32, "ans": "F", "quote": "the placebo effect is a powerful part of all medical care, orthodox or otherwise, though its role is often neglected and misunderstood", "how": "\"Conventional medical doctors\" ↔ \"all medical care, orthodox or otherwise\"; vai trò bị \"neglected\" ↔ ending F \"should give more recognition\". Ý này cũng đã báo trước ở đoạn 2: y học quy ước \"recognises but remains oddly ambivalent about\" hiệu ứng giả dược." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Thế mạnh lớn của y học bổ sung và thay thế (CAM) là khả năng vận dụng hiệu ứng giả dược; câu hỏi đặt ra là liệu có thể tích hợp CAM vào y học chính thống mà không mất sức mạnh đó không.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Ở mức cơ bản, việc trạng thái tinh thần ảnh hưởng tới sinh lý không có gì lạ: giận dữ làm giãn mạch máu trên mặt, buồn bã kích thích tuyến lệ.",
+      "answers": [
+        { "q": 33, "ans": "A", "quote": "anger opens the superficial blood vessels of the face; sadness pumps the tear glands", "how": "Hai ví dụ cho thấy cảm xúc gây ra thay đổi cơ thể ↔ A \"people's feelings could affect their physical behavior\". B và D là ý của đoạn 6 (chưa rõ cơ chế, ít nghiên cứu) nên sai vị trí; C trái với chính câu mở đoạn \"it should come as no surprise that our state of mind can influence our physiology\"." }
+      ],
+      "note": "Đề đã chỉ đích danh \"the fifth paragraph\": chỉ xét đoạn này, mọi phương án nghe hợp lý nhưng lấy từ đoạn khác đều loại."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Cơ chế của placebo vẫn phần lớn chưa rõ; nghiên cứu ít ỏi tập trung vào kiểm soát cơn đau vì đau là than phiền phổ biến nhất và dễ nghiên cứu thực nghiệm, và sự chú ý hướng về endorphin.",
+      "answers": [
+        { "q": 34, "ans": "D", "quote": "because it's one of the commonest complaints and lends itself to experimental study", "how": "\"patients often experience pain and like to complain about it\" ↔ \"one of the commonest complaints\" → D. A nói ngược (ít nghiên cứu là tình trạng chung, không phải lý do chọn đề tài đau); B và C nói về endorphin, đó là hướng nghiên cứu sau khi đã chọn chủ đề đau chứ không phải lý do chọn." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Benedetti chứng minh hiệu ứng giả dược có thể bị xóa bỏ bằng naloxone: ông gây đau bằng vòng đo huyết áp, thay morphine bằng nước muối vẫn giảm đau, nhưng thêm naloxone thì tác dụng biến mất.",
+      "answers": [
+        { "q": 35, "ans": "C", "quote": "the placebo effect can be abolished by a drug, naloxone, which blocks the effects of endorphins", "how": "\"neutralized by introducing naloxone\" ↔ \"abolished by a drug, naloxone, which blocks the effects of endorphins\" → C. A là bẫy từ morphine (morphine mới là thứ được dùng để kiểm soát đau, endorphin là chất tự nhiên); B trái với đoạn 8 (\"most people can't achieve placebo pain relief simply by willing it\"); D bài không bàn tới thời gian tác dụng." }
+      ],
+      "note": "Câu kể thí nghiệm gồm chuỗi bước nối nhau: gây đau nhiều lần → dùng morphine → ngày cuối lặng lẽ thay bằng nước muối → vẫn hết đau (đó là placebo) → thêm naloxone thì mất tác dụng. Bắt đúng trình tự này là loại được A và B."
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Không ai biết niềm tin kích hoạt endorphin bằng cách nào, nhưng người ta đã biết khá nhiều về cách khơi ra hiệu ứng: viên nhộng đỏ giảm đau tốt hơn, viên xanh an thần tốt hơn, và cả thương hiệu cũng tạo khác biệt.",
+      "answers": [
+        { "q": 36, "ans": "FALSE", "quote": "Though scientists don't know exactly how placebos work", "how": "Câu hỏi nói đã có đủ thông tin để hiểu trọn vẹn hiệu ứng giả dược; bài khẳng định ngược lại (\"still largely unknown\" ở đoạn 6, \"no one knows how belief triggers endorphin release\") → FALSE, không phải NOT GIVEN vì bài nói rõ là chưa hiểu." },
+        { "q": 37, "ans": "NOT GIVEN", "how": "Bài chỉ nói nhà thấp khớp học ở London phát hiện viên nhộng đỏ giảm đau hiệu quả hơn viên xanh, lục, vàng; hoàn toàn không nhắc tới việc rút viên đỏ khỏi thị trường. Bẫy: từ khóa \"red\" và \"London\" khớp nên dễ vội chọn TRUE/FALSE." },
+        { "q": 38, "ans": "TRUE", "quote": "if Aspro or Tylenol are what you like to take for a headache, their chemically identical generic equivalents may be less effective", "how": "\"preference on brands would also have effect on their healing\" ↔ \"Even branding can make a difference\" cộng ví dụ thuốc generic cùng công thức lại kém hiệu quả hơn → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Cách trao thuốc cũng quan trọng: một bác sĩ ở Kansas phân loại đồng nghiệp theo thái độ với chlorpromazine (hào hứng, hoài nghi, chờ xem) và thấy bác sĩ càng nhiệt tình thì thuốc càng hiệu nghiệm.",
+      "answers": [
+        { "q": 39, "ans": "TRUE", "quote": "categorised his colleagues according to whether they were keen on it, openly sceptical of its benefits, or took a \"let's try and see\" attitude", "how": "\"have a range of views of the newly introduced drug\" ↔ ba nhóm thái độ khác nhau, và bài nói rõ chlorpromazine khi đó \"was being introduced\" → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Ấm áp, thân thiện, trấn an chính là sở trường của CAM, nên không có gì lạ khi các thầy thuốc thay thế là những người giỏi huy động hiệu ứng giả dược nhất.",
+      "answers": [
+        { "q": 40, "ans": "FALSE", "quote": "complementary practitioners are generally best at mobilising the placebo effect", "how": "Câu hỏi nói họ \"seldom known\" (hiếm khi được biết đến) vì vận dụng hiệu ứng giả dược; bài nói họ giỏi nhất ở việc đó và điều này \"hardly surprising\" → mâu thuẫn, FALSE. Chi tiết ở đoạn 3 (giới CAM né tránh chữ placebo) không làm câu này thành NOT GIVEN, vì đoạn 10 khẳng định trực tiếp." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bộ Q27–32 dựa vào \"công thức\" mỉa mai ở đoạn 1–2: mỗi vế đầu ứng với một câu mệnh lệnh hoặc một nhận định trong đó, nên đọc kỹ hai đoạn đầu là lấy được năm trên sáu đáp án.",
+    "Phân biệt ba chất dễ lẫn: morphine (thuốc giảm đau dùng trong thí nghiệm), endorphin (chất giảm đau tự nhiên của cơ thể), naloxone (chất chặn endorphin, xóa hiệu ứng giả dược).",
+    "Với TFNG ở bài này, bẫy chính là từ khóa khớp nhưng nội dung lệch (câu 37: đúng người, đúng màu, nhưng bài không nói gì về chuyện thu hồi thuốc). Luôn hỏi: bài có nói chính xác điều câu hỏi nói không?"
+  ]
+}

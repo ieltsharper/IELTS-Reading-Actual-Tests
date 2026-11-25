@@ -1,0 +1,84 @@
+{
+  "step1": "Tiêu đề The Columbian Exchange báo trước bài sử/sinh thái: sự trao đổi cây trồng, vật nuôi và mầm bệnh giữa Cựu thế giới và Tân thế giới sau 1492. Đoán mạch: tách lục địa → hai bên thiếu gì → cây và cỏ dại châu Âu sang Mỹ → gia súc → dịch bệnh giết người bản địa → chiều ngược lại (động vật, cây trồng) → kết luận về môi trường. Q27–34 (matching information) chỉ chốt được sau khi đọc xong từng đoạn; Q35–38 và Q39–40 có từ khóa rõ nên chốt tại chỗ.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–34", "Matching information (đoạn A–H)", "Không, phải đọc xong từng đoạn mới gán", "named after English, population growth, continents, indigenous decline, species lacked, ineffective animals, success of invasion, European animals"],
+    ["35–38", "True / False / Not Given", "Có (từ khóa)", "fences, brutally killed, turkey, crop exchange, population growth"],
+    ["39–40", "Short answer (NO MORE THAN THREE WORDS)", "Có", "American interior, same story, still existing feature"]
+  ],
+  "typesNote": "Matching information không theo thứ tự bài, nên cách duy nhất hợp lý là đọc xong đoạn nào thì gán ngay câu hỏi nào mô tả đúng đoạn đó.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Trôi dạt lục địa tách Cựu và Tân thế giới hàng triệu năm, tạo tiến hóa phân nhánh; sau 1492 con người nối lại mối liên hệ ấy – gọi là Columbian Exchange.",
+      "answers": [
+        { "q": 29, "ans": "A", "quote": "Millions of years ago, continental drift carried the Old World and New World apart, splitting North and South America from Eurasia and Africa.", "how": "\"The formation of new continents explained\" ↔ câu mở đoạn giải thích các lục địa tách ra do continental drift. Chỉ đoạn A nhắc tới chuyện địa chất này." }
+      ],
+      "note": "Câu hỏi 29 dùng chữ \"formation\" còn bài dùng \"splitting\" – nghĩa không trùng khít, nhưng chỉ đoạn A nói về sự hình thành/tách lục địa nên vẫn là A."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Liệt kê những gì mỗi bên chưa có: Cựu thế giới chưa có ngô, khoai; Tân thế giới chưa có ngựa, bò, cừu, dê và chưa có các mầm bệnh của Cựu thế giới.",
+      "answers": [
+        { "q": 31, "ans": "B", "quote": "Old World crops such as wheat, barley, rice, and turnips had not travelled west across the Atlantic, and New World crops such as maize, white potatoes, sweet potatoes, and manioc had not travelled east to Europe", "how": "\"An overall description of the species lacked in the Old World and New World\" ↔ cả đoạn là danh sách hai chiều những loài mà mỗi bên còn thiếu (cây, vật nuôi, mầm bệnh)." }
+      ]
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Người châu Âu mang cây trồng sang, nhưng vô tình mang cả cỏ dại; cỏ dại ngoại lai sống khỏe vì đã quen với gia súc gặm cỏ, còn hệ thực vật bản địa không chịu nổi.",
+      "answers": [
+        { "q": 27, "ans": "C", "quote": "One of these, a plantain (Plantago major), was named “Englishman’s Foot” by the Amerindians of New England and Virginia", "how": "\"an imported species that is named after the English colonists\" ↔ cây plantain bị người bản địa gọi là \"Englishman’s Foot\". Đây là đoạn duy nhất có một tên gọi gắn với người Anh." }
+      ],
+      "note": "Câu dài cuối đoạn có cấu trúc đối lập: xương sống là \"The native flora could not tolerate the stress. The imported weeds could\" + mệnh đề nguyên nhân \"because they had lived with large numbers of grazing animals for thousands of years\" – nguyên nhân nằm ở vế because."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Bò và ngựa được đưa sang đầu những năm 1600 và hợp khí hậu Bắc Mỹ; chúng đi lang thang tự do, hàng rào dựng lên là để ngăn gia súc vào chứ không phải nhốt chúng lại.",
+      "answers": [
+        { "q": 34, "ans": "D", "quote": "Cattle and horses were brought ashore in the early 1600s and found hospitable climate and terrain in North America.", "how": "\"An account of European animals taking roots in the New World\" ↔ bò, ngựa sang Bắc Mỹ và sinh sôi thuận lợi. Đừng nhầm với đoạn F – đoạn F nói chiều ngược lại (động vật Mỹ sang Cựu thế giới)." },
+        { "q": 35, "ans": "FALSE", "quote": "Fences were not for keeping livestock in, but for keeping livestock out.", "how": "Câu hỏi nói hàng rào để \"keep their cattle and horses inside\"; bài khẳng định rõ ngược lại: không phải giữ gia súc ở trong mà để chặn chúng ở ngoài (bảo vệ mùa màng). Cấu trúc \"not ... but ...\" là chỗ quyết định FALSE." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Người bản địa chống cự không hiệu quả; nguyên nhân quyết định không phải người hay cây cối mà là mầm bệnh – đậu mùa quét sạch hết bộ tộc này đến bộ tộc khác.",
+      "answers": [
+        { "q": 30, "ans": "E", "quote": "The crucial factor was not people, plants, or animals, but germs.", "how": "\"The reason why the indigenous population declined\" ↔ cả đoạn giải thích nguyên nhân: germs, cụ thể là smallpox, cùng các con số thiệt hại (Cherokee, Catawbas, Mandans)." },
+        { "q": 36, "ans": "TRUE", "quote": "Indigenous peoples suffered from white brutality, alcoholism, the killing and driving off of game, and the expropriation of farmland", "how": "\"brutally killed by the European colonists\" ↔ \"white brutality\" cùng với việc giết chóc được nêu trong danh sách. Bài có nói điều này xảy ra, chỉ nói thêm rằng nó chưa đủ giải thích mức độ thất bại – \"chưa đủ\" không có nghĩa là \"không xảy ra\", nên vẫn TRUE chứ không phải FALSE." },
+        { "q": 39, "ans": "missionaries and traders", "quote": "The missionaries and the traders who ventured into the American interior told the same appalling story about smallpox and the indigenes.", "how": "\"the same story ... from the American interior\" ↔ \"told the same appalling story\"; chủ ngữ của câu là \"The missionaries and the traders\", bỏ mạo từ để còn ba từ." }
+      ],
+      "note": "Q36 là bẫy \"insufficient to explain\": nhiều bạn đọc thấy bài hạ thấp vai trò của bạo lực rồi chọn FALSE. Câu hỏi chỉ hỏi có xảy ra hay không."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Động vật bản địa châu Mỹ khi sang Cựu thế giới không gây biến đổi gì đáng kể: sóc xám, chuột xạ hương không tạo khác biệt, gà tây không thay được gà và ngỗng.",
+      "answers": [
+        { "q": 32, "ans": "F", "quote": "The export of America’s native animals has not revolutionised Old World agriculture or ecosystems as the introduction of European animals to the New World did.", "how": "\"some animal species being ineffective in affecting the Old World\" ↔ \"has not revolutionised Old World agriculture or ecosystems\" và \"that has not made much of a difference\"." },
+        { "q": 37, "ans": "FALSE", "quote": "turkeys have not displaced chickens and geese, and guinea pigs have proved useful in laboratories, but have not usurped rabbits in the butcher shops", "how": "Câu hỏi nói gà tây \"became popular in the Old World\"; bài nói rõ chúng không thay thế được gà và ngỗng. Bẫy là câu \"Some of America’s domesticated animals are raised in the Old World\" – được nuôi không đồng nghĩa với phổ biến." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Đóng góp lớn nhất của Tân thế giới là cây lương thực (ngô, khoai tây, sắn...), và việc trao đổi cây trồng hai chiều giải thích phần lớn sự bùng nổ dân số toàn cầu ba thế kỷ qua.",
+      "answers": [
+        { "q": 28, "ans": "G", "quote": "Their influence on Old World peoples, like that of wheat and rice on New World peoples, goes far to explain the global population explosion of the past three centuries.", "how": "\"The reason why both the New World and Old World experienced population growth\" ↔ đoạn nêu ảnh hưởng hai chiều (cây Tân thế giới với dân Cựu thế giới, lúa mì và gạo với dân Tân thế giới) dẫn tới bùng nổ dân số toàn cầu." },
+        { "q": 38, "ans": "TRUE", "quote": "The Columbian Exchange has been an indispensable factor in that demographic explosion.", "how": "\"Crop exchange ... played a major role in world population growth\" ↔ \"an indispensable factor in that demographic explosion\"; indispensable = không thể thiếu, tức vai trò lớn." }
+      ],
+      "note": "Xương sống câu chứa Q28: \"Their influence ... goes far to explain the global population explosion\"; cụm chèn \"like that of wheat and rice on New World peoples\" là phần so sánh, chính nó cho thấy chiều ngược lại, nên câu hỏi mới nói \"both\"."
+    },
+    {
+      "para": "Đoạn H",
+      "idea": "Tất cả không phải do hệ sinh thái bên nào ưu việt hơn, mà do tương phản môi trường: người Cựu thế giới mang theo môi trường quen thuộc nên tăng dân, còn người bản địa chưa thích nghi với mầm bệnh nên suy giảm.",
+      "answers": [
+        { "q": 33, "ans": "H", "quote": "All this had nothing to do with superiority or inferiority of biosystems in any absolute sense. It has to do with environmental contrasts.", "how": "\"An overall explanation of the success of the Old World species invasion\" ↔ đoạn kết đưa ra lời giải thích tổng quát: không phải ưu việt mà là tương phản môi trường và khả năng thích nghi." },
+        { "q": 40, "ans": "demographic triumph", "quote": "but the demographic triumph of the invaders, which was the most spectacular feature of the Old World’s invasion of the New, still stands", "how": "\"still existing feature\" ↔ \"still stands\"; \"the most spectacular feature of the Old World’s invasion\" chính là \"the demographic triumph\" (của kẻ xâm lược)." }
+      ],
+      "note": "Câu cuối dài: xương sống là \"the demographic triumph of the invaders ... still stands\", phần \"which was the most spectacular feature...\" chỉ là mệnh đề quan hệ mô tả, và vế đầu \"That decline has reversed in our time\" là ý nhượng bộ trước \"but\"."
+    }
+  ],
+  "tips": [
+    "Matching information (27–34) ở bài này gần như mỗi đoạn một câu, nên sau khi đọc xong một đoạn hãy gán ngay; nếu phân vân giữa D và F thì hỏi: động vật đi theo chiều nào (châu Âu sang Mỹ = D, Mỹ sang châu Âu = F).",
+    "Hai cấu trúc phủ định trong bài quyết định hai câu FALSE: \"not for keeping livestock in, but for keeping livestock out\" (Q35) và \"have not displaced chickens and geese\" (Q37).",
+    "Đừng để các câu đánh giá (\"insufficient to explain\", \"nothing to do with superiority\") làm lệch TFNG: câu hỏi hỏi sự việc có được nêu hay không, chứ không hỏi bài đánh giá nó quan trọng đến đâu."
+  ]
+}

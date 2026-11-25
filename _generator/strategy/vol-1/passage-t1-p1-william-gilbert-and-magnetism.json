@@ -1,0 +1,73 @@
+{
+ "step1": "Tiêu đề William Gilbert and Magnetism cho biết bài là tiểu sử một nhà khoa học kèm phần đóng góp về từ tính. Dạng bài tiểu sử gần như luôn đi theo trình tự: giới thiệu vị trí của ông trong lịch sử khoa học → thời thơ ấu, học hành → sự nghiệp, danh vọng → chuyển hướng nghiên cứu → các phát hiện về từ tính và điện → quan điểm thiên văn → phương pháp nghiên cứu. Q1–7 (Matching Headings) phủ đúng bảy đoạn A–G nên phải chốt ngay khi đọc xong mỗi đoạn; Q8–10 (TRUE/FALSE/NOT GIVEN) nằm ở phần đầu bài (đoạn A–D) vì nói về danh tiếng và nghề y.",
+ "types": [
+  ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+  ["1–7", "Matching Headings (i–x) cho đoạn A–G", "Không – phải đọc xong đoạn mới chốt", "Từ khóa trong các heading: pioneers, early years, chemistry, astronomy, recognition, research method, magnetism"],
+  ["8–10", "True / False / Not Given", "Có, theo thứ tự bài", "less famous, famous as a doctor, employed by the Queen, medical theories"],
+  ["11–13", "Choose THREE letters (A–F)", "Có, theo từ khóa từng phương án", "transmutation of metal, garlic, magnetised, stars distances, wobble, two charges"]
+ ],
+ "typesNote": "Tất cả các nhóm đều chạy theo thứ tự bài, nên chỉ cần đọc một lượt A → G: xong đoạn nào thì chọn heading cho đoạn đó rồi chốt luôn các câu TFNG/multi có bằng chứng trong đoạn ấy.",
+ "walk": [
+  {
+   "para": "Đoạn A",
+   "idea": "Giới thiệu Gilbert (cùng Galileo) như những người mở đường cho khoa học hiện đại, và trước ông người ta hầu như chưa biết gì về điện – từ.",
+   "answers": [
+    { "q": 1, "ans": "v", "quote": "The 16th and 17th centuries saw two great pioneers of modern science: Galileo and Gilbert.", "how": "Câu mở đoạn đã có đúng chữ \"pioneers\" và \"modern science\" ↔ heading v \"Pioneers of the early science\". Heading viii (great works) sai vì đoạn này chưa nhắc tới tác phẩm nào; heading ix (discovery about magnetism) sai vì đoạn chỉ nói người xưa biết gì, chưa nói phát hiện của Gilbert." },
+    { "q": 8, "ans": "TRUE", "quote": "However, he is less well known than he deserves.", "how": "\"less famous than he should be\" ↔ \"less well known than he deserves\"; \"deserves\" = xứng đáng được, khớp với \"should be\". Người viết tự khẳng định nên là TRUE, không phải NOT GIVEN." }
+   ],
+   "note": "Đoạn A đã chứa luôn câu 8 – đừng để dành TFNG tới cuối bài."
+  },
+  {
+   "para": "Đoạn B",
+   "idea": "Xuất thân, ngày sinh, trường học và việc học y ở Cambridge rồi định cư ở London.",
+   "answers": [
+    { "q": 2, "ans": "i", "quote": "Born in an eminent local family in Colchester County in the UK, on May 24, 1544, he went to grammar school, and then studied medicine at St John's College, Cambridge", "how": "Cả đoạn chỉ gồm sinh ra – đi học – đi du lịch, tức giai đoạn đầu đời ↔ heading i \"Early years of Gilbert\". Không chọn vi (recognition) vì chưa có danh vị nào." }
+   ]
+  },
+  {
+   "para": "Đoạn C",
+   "idea": "Ông thành danh trong nghề y: làm chủ tịch Royal Science Society, làm ngự y cho Nữ hoàng, được phong tước, rồi qua đời năm 1603.",
+   "answers": [
+    { "q": 3, "ans": "vi", "quote": "All this culminated in his election as president of the Royal Science Society. He was also appointed personal physician to the Queen (Elizabeth I), and later knighted by the Queen.", "how": "Đoạn liệt kê nhiều vinh dự khác nhau (chủ tịch hội, ngự y, phong tước) nên heading phải bao trùm: vi \"Professional and social recognition\". Heading vii chỉ nói riêng chức chủ tịch – quá hẹp, đây là bẫy kinh điển của Matching Headings." },
+    { "q": 9, "ans": "TRUE", "quote": "He was a very successful and eminent doctor. All this culminated in his election as president of the Royal Science Society. He was also appointed personal physician to the Queen", "how": "Chuỗi logic: ông đã là bác sĩ giỏi và nổi tiếng (eminent doctor) → \"All this culminated in\" (chính nhờ vậy mà dẫn đến) → được bầu làm chủ tịch và sau đó mới được bổ nhiệm làm ngự y. Vì vậy danh tiếng có trước khi phục vụ Nữ hoàng → TRUE." }
+   ],
+   "note": "Heading vii (Becoming the president of the Royal Science Society) được đặt ra chỉ để nhử: nó đúng một chi tiết nhưng không phải ý chính của cả đoạn."
+  },
+  {
+   "para": "Đoạn D",
+   "idea": "Ông bỏ hóa học vì tính thần bí của thuật giả kim, chuyển sang vật lý – từ tính, trong bối cảnh tàu Anh phụ thuộc la bàn mà chưa ai hiểu cơ chế.",
+   "answers": [
+    { "q": 4, "ans": "x", "quote": "Gilbert was first interested in chemistry but later changed his focus due to the large portion of mysticism of alchemy involved", "how": "Chính câu mở đoạn nói \"changed his focus\" ↔ heading x \"His change of focus\". Heading iii \"The development of chemistry\" là bẫy từ khóa: đoạn nhắc chemistry nhưng chỉ để nói ông rời bỏ nó; heading viii (great works) cũng sai dù cuối đoạn có tên sách, vì đó chỉ là một câu phụ." },
+    { "q": 10, "ans": "NOT GIVEN", "how": "Câu hỏi nói ông mất niềm tin vào các lý thuyết y học đương thời. Bài chỉ nói ông mất niềm tin vào hóa học/thuật giả kim (mysticism of alchemy), không hề nói gì về medical theories – bẫy đánh tráo chemistry thành medicine. Không mâu thuẫn, chỉ là không có thông tin → NOT GIVEN." }
+   ]
+  },
+  {
+   "para": "Đoạn E",
+   "idea": "Các phát hiện cốt lõi về từ tính và điện: đặt ra từ \"electric\", bác bỏ mê tín về tỏi, kim loại có thể bị từ hóa, đặt tên hai cực nam – bắc.",
+   "answers": [
+    { "q": 5, "ans": "ix", "quote": "Gilbert's discovery was so important to modern physics. He investigated the nature of magnetism and electricity.", "how": "Toàn đoạn xoay quanh những gì ông tìm ra về từ tính ↔ heading ix \"His discovery about magnetism\"." }
+   ],
+   "note": "Đây cũng là đoạn cho phương án C của nhóm Choose THREE (\"metals can be magnetised\" xuất hiện gần như nguyên văn). Ba phương án sai A (biến kim loại này thành kim loại khác – thuật giả kim ông đã bỏ), B (tỏi khử từ – bài gọi thẳng là superstition) và F (hai loại điện tích – của du Fay người Pháp) đều nằm trong bài nhưng bị phủ định hoặc gán cho người khác."
+  },
+  {
+   "para": "Đoạn F",
+   "idea": "Ông chất vấn thiên văn học truyền thống: tin các ngôi sao không cách đều trái đất, trái đất là một nam châm khổng lồ, và lực từ có thể khiến thiên thể chuyển động.",
+   "answers": [
+    { "q": 6, "ans": "iv", "quote": "He also questioned the traditional astronomical beliefs.", "how": "Câu chủ đề dùng đúng cụm \"questioned the traditional astronomical beliefs\" ↔ heading iv \"Questioning traditional astronomy\"." }
+   ],
+   "note": "Hai phương án còn lại của nhóm Choose THREE nằm ở đây: D (\"stars are not equidistant from the earth\" = sao cách trái đất những khoảng khác nhau) và E (\"the sun and other stars wobble just like the earth does\" cho thấy ông tin trái đất lắc lư quanh trục). Câu dài trong đoạn nên tách: xương sống là \"he believed that stars... have their own earth-like planets orbiting around them\", còn mệnh đề \"which is also why compasses always point north\" chỉ là phần giải thích thêm."
+  },
+  {
+   "para": "Đoạn G",
+   "idea": "Điểm mới của ông là dùng thí nghiệm thay cho suy luận thuần túy, và chính thái độ khoa học đó đặt nền móng cho khoa học hiện đại.",
+   "answers": [
+    { "q": 7, "ans": "ii", "quote": "His research method was revolutionary in that he used experiments rather than pure logic and reasoning like the ancient Greek philosophers did.", "how": "Đoạn nói về cái mới trong cách làm nghiên cứu ↔ heading ii \"What was new about his scientific research method\"." }
+   ]
+  }
+ ],
+ "tips": [
+  "Với Matching Headings trong bài tiểu sử, hãy đọc câu đầu mỗi đoạn trước: ở bài này 5/7 đoạn có câu chủ đề chứa gần nguyên văn heading (pioneers, changed his focus, questioned the traditional astronomical beliefs, research method).",
+  "Cặp heading vi và vii (recognition / president of the Royal Science Society) là cặp rộng – hẹp: luôn chọn heading bao trùm cả đoạn, không chọn heading chỉ đúng một chi tiết.",
+  "TFNG ở bài này đánh vào việc đánh tráo lĩnh vực: ông chán hóa học chứ không chán y học (Q10 NOT GIVEN). Đọc kỹ danh từ chính của câu hỏi trước khi kết luận."
+ ]
+}

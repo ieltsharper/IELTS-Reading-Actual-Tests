@@ -1,0 +1,79 @@
+{
+  "step1": "Sapo đã nói rõ bố cục: bột talc từ mỏ Trimouns đi vào thực phẩm và nông nghiệp – \"from chewing gum to olive oil\". Vậy đoán trước bài có ba khối lớn: kẹo cao su → dầu ô liu → (ứng dụng mới) bảo vệ hoa quả khỏi nắng. Q27–32 phân loại đúng theo ba khối đó; Q33–38 là summary về dầu ô liu nên nằm gọn ở khối giữa; Q39–40 hỏi chi tiết nhỏ ở khối kẹo cao su và khối cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Classification A/B/C (ba lĩnh vực, có thể lặp)", "Một phần: biết trước ba vùng của bài, nhưng phải đọc mới gán được", "foaming, stickiness, boost production, filler, sunburn, increase the size"],
+    ["33–38", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự, chỉ nằm trong phần dầu ô liu", "Spain, 20 years, difficult olives, waste water, environment, oil droplets"],
+    ["39–40", "Short answer (NO MORE THAN TWO WORDS)", "Có: last two stages, target next", "lamination, packing, grape growers"]
+  ],
+  "typesNote": "Vì bài chia theo ba ứng dụng nối tiếp nhau, hãy chốt câu phân loại ngay khi rời mỗi khối: đọc xong phần kẹo cao su là có 28 và 30, xong phần dầu ô liu là có 27, 29, 32 và cả summary.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Giới thiệu mỏ talc khổng lồ Trimouns ở dãy Pyrenees: talc có mặt trong vô số sản phẩm hằng ngày, nhưng tính đa dụng của nó thể hiện rõ nhất ở các thị trường ngách trong thực phẩm và nông nghiệp.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Thị trường kẹo cao su: Luzenac cung cấp khoảng 6.000 tấn talc mỗi năm cho châu Âu từ thập niên 1960; đây là ngách nhỏ nhưng quý vì khách hàng rất ngại đổi nhà cung cấp do chi phí làm lại công thức quá cao.",
+      "answers": [],
+      "note": "Đoạn này đầy số liệu (6.000 tấn, thập niên 1960, 22 năm, 10 năm) nhưng không câu nào hỏi – con số duy nhất cần điền là \"20\" ở phần dầu ô liu. Đừng vội điền số đầu tiên gặp được."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Cách talc được dùng trong kẹo cao su: kẹo có bốn thành phần, quan trọng nhất là gum base, và talc làm chất độn trong gum base (10–35%) vì trơ hóa học; trong nhà máy talc còn được rắc lên viên gum base và chống dính ở khâu cán và đóng gói.",
+      "answers": [
+        { "q": 30, "ans": "A", "quote": "Our talc is used as a filler in the gum base", "how": "\"used as a filler to provide a base\" ↔ đúng cụm \"filler in the gum base\" → lĩnh vực kẹo cao su (A)." },
+        { "q": 28, "ans": "A", "quote": "talc is also used to dust the gum base pellets and to stop the chewing gum sticking during the lamination and packing processes", "how": "\"prevent stickiness\" ↔ \"stop the chewing gum sticking\" → A." },
+        { "q": 39, "ans": "lamination, packing", "quote": "during the lamination and packing processes", "how": "\"the last two stages\" ↔ hai công đoạn cuối được nêu trong nhà máy: lamination và packing. Chỉ lấy danh từ, bỏ chữ \"processes\"." }
+      ],
+      "note": "Câu dài cần tách: backbone = \"Fruit-flavoured chewing gum ... would react with the calcium carbonate\" (WHO: kẹo vị trái cây – DOES WHAT: sẽ phản ứng với canxi cacbonat), mệnh đề \"that the manufacturer might otherwise use as a filler\" giải thích canxi cacbonat là chất độn thay thế; câu kế tiếp mở bằng \"Talc, on the other hand\" nêu tương phản: talc trơ hóa học nên là chất độn lý tưởng."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Chuyển sang dầu ô liu: suốt khoảng 20 năm nay các nhà chế biến ở Tây Ban Nha dùng talc để tăng lượng dầu ép từ ô liu, nhất là với ô liu \"khó\" – loại tạo nhiều bọt khi khuấy vì thừa chất rắn mịn làm nhũ hóa, khiến dầu bị mất theo nước thải và nước thải đổ ra đồng thì lâu phân hủy, hại môi trường.",
+      "answers": [
+        { "q": 33, "ans": "20", "quote": "For the past 20 years or so, olive oil processors in Spain have been taking advantage of talc’s unique characteristics", "how": "\"has been around for ___ years\" ↔ \"For the past 20 years or so\"; đáp án là con số 20." },
+        { "q": 34, "ans": "foam", "quote": "they produce a lot of extra foam during the stirring process, a consequence of an excess of a fine solid", "how": "\"produce a lot of [34] due to the high content of solid matter\" ↔ \"a lot of extra foam ... a consequence of an excess of a fine solid\"; điền danh từ foam." },
+        { "q": 35, "ans": "waste water", "quote": "if the waste water is disposed of directly into local fields", "how": "\"which contains emulsified oil, and if it is directly disposed of\" ↔ chính cụm \"waste water ... disposed of directly\"; hai từ: waste water." },
+        { "q": 36, "ans": "harmful", "quote": "so be harmful to the environment", "how": "\"may be [36] to the environment\" khớp nguyên văn \"harmful to the environment\"." },
+        { "q": 37, "ans": "biodegrade", "quote": "the emulsified oil may take some time to biodegrade", "how": "\"because it cannot [37]\" ↔ dầu nhũ hóa \"may take some time to biodegrade\"; cần động từ nguyên thể sau \"cannot\": biodegrade." }
+      ],
+      "note": "Câu dài cần tách: backbone = \"the emulsified oil may take some time to biodegrade and so be harmful to the environment\" (WHO: dầu đã nhũ hóa – DOES WHAT: lâu phân hủy nên gây hại); mệnh đề điều kiện \"if the waste water is disposed of directly into local fields\" nêu điều kiện, phần chêm \"– often the case in many smaller processing operations –\" chỉ nói điều đó hay xảy ra ở cơ sở nhỏ (đây chính là chi tiết trả lời câu 35)."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Thêm 0,5–2% talc khi khuấy sẽ hút chất nhũ hóa tự nhiên nên tăng lượng dầu thu được, đồng thời cấu trúc phiến dẹt của talc làm giọt dầu to ra, mà vì trơ hóa học nên không ảnh hưởng màu, vị hay thành phần dầu.",
+      "answers": [
+        { "q": 27, "ans": "B", "quote": "it absorbs the natural emulsifier in the olives", "how": "\"prevent foaming\" ↔ hút chất nhũ hóa – thứ gây bọt đã nói ở đoạn 4 → lĩnh vực dầu ô liu (B)." },
+        { "q": 29, "ans": "B", "quote": "boosts the amount of oil you can extract", "how": "\"boost production\" ↔ \"boosts the amount of oil you can extract\" → B." },
+        { "q": 32, "ans": "B", "quote": "talc’s flat, ‘platy’ structure helps increase the size of oil droplets liberated during stirring", "how": "\"help increase the size of the product\" ↔ làm to giọt dầu → B. Bẫy: đoạn 6–8 cũng nói về quả (fruit) nhưng talc ở đó chỉ phủ bề mặt chống nắng, không làm quả to ra." },
+        { "q": 38, "ans": "droplets", "quote": "increase the size of oil droplets liberated during stirring", "how": "\"the size of oil [38] grows\" ↔ \"the size of oil droplets\"; điền droplets." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Ứng dụng mới đang được tìm kiếm: bảo vệ cây ăn quả ở Mỹ, vì quả cũng bị cháy nắng – tới 45% vụ mùa có thể bị ảnh hưởng, và thủ phạm là nhiệt độ bề mặt cao chứ không phải tia cực tím.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Cách làm cũ là phun hóa chất hoặc màn sương liên tục, rất tốn nước và gây úng; ý tưởng của Luzenac là phủ talc lên quả, nhưng phải vượt khó khăn kỹ thuật vì talc kỵ nước, cần loại bột thấm nước, phá được sức căng bề mặt lớp sáp và dễ rửa trôi khi thu hoạch.",
+      "answers": [
+        { "q": 31, "ans": "C", "quote": "So our idea was to coat the fruit with talc to protect it from the sun", "how": "\"prevent sunburn\" ↔ phủ talc để bảo vệ quả khỏi nắng → lĩnh vực bảo vệ cây ăn quả (C)." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Thử nghiệm năm 2003 ở Washington cho thấy sản phẩm giảm nhiệt độ bề mặt táo Granny Smith và giảm cháy nắng tới 60%; Invelop® Maximum SPF nay bán năm thứ hai, khách chính là nhà trồng táo còn mục tiêu tiếp theo là người trồng nho.",
+      "answers": [
+        { "q": 40, "ans": "grape growers", "quote": "Apple growers are the primary target although Hunter believes grape growers represent another sector with long-term potential", "how": "\"intend to target next\" ↔ \"another sector with long-term potential\"; apple growers là mục tiêu HIỆN TẠI (primary target) nên đáp án phải là grape growers. Bẫy: Australia, South America, southern Europe là thị trường nước ngoài, không phải nhóm nông dân." }
+      ]
+    }
+  ],
+  "tips": [
+    "Dạng phân loại A/B/C ở đây không theo thứ tự câu hỏi nhưng theo thứ tự bài: cứ đọc hết một ứng dụng rồi rà lại sáu câu xem câu nào thuộc ứng dụng vừa đọc.",
+    "Nhiều đáp án summary nằm trong CÙNG một câu dài ở đoạn 4 – hãy tách backbone trước (dầu nhũ hóa lâu phân hủy nên gây hại) rồi mới nhặt waste water, harmful, biodegrade.",
+    "Chú ý từ loại mà chỗ trống đòi hỏi: sau \"cannot\" phải là động từ (biodegrade), sau \"may be ... to the environment\" phải là tính từ (harmful); điền sai từ loại là mất điểm dù đúng ý."
+  ]
+}

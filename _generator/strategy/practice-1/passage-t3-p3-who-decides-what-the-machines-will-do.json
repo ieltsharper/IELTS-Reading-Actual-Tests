@@ -1,0 +1,78 @@
+{
+  "step1": "Tiêu đề Who Decides What the Machines Will Do? đã là một câu hỏi, nên đoán ngay rằng bài không bàn \"máy móc có lấy mất việc làm không\" mà bàn \"ai quyết định và ai gánh thiệt\". Mạch bài có thể là: cuộc tranh luận quen thuộc → bài học từ thợ đập máy → đợt công nghệ này có khác không → lợi ích chảy về đâu → mất việc không chỉ là mất tiền → không nên bênh vực mọi công việc → kết luận đạo đức. Q27–32 (YES/NO/NOT GIVEN) và Q37–40 (MCQ) đi theo thứ tự đoạn; Q33–36 (nối vế câu) cũng theo thứ tự, mỗi câu ứng với một đoạn then chốt.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Yes / No / Not Given (quan điểm người viết)", "Có (từ khóa), nhưng phải đọc hết đoạn mới chốt", "permanent shortage of work, failed to understand, speed forecast, more jobs than it creates, taxation and ownership, better for machines"],
+    ["33–36", "Matching sentence endings (A–F)", "Một phần: vế đầu nêu rõ chủ đề từng đoạn", "standard reassurance, early machine-breakers, income paid to everybody, question that really needs answering"],
+    ["37–40", "Multiple choice (A–D), có chỉ rõ đoạn B, C, F", "Có: ba câu đầu ghi sẵn tên đoạn; câu 40 là ý chính toàn bài", "grandchildren, predictions, admiringly about work, main argument"]
+  ],
+  "typesNote": "Vì Q37–39 nói rõ đoạn B, C, F nên đọc xong đoạn nào là chốt ngay câu của đoạn đó, còn Q40 để lại đến khi đọc hết đoạn G.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Cuộc tranh luận về máy móc và việc làm đã thành kịch bản thuộc lòng; người viết cho rằng lập luận \"lịch sử cho thấy việc làm không hề mất đi\" tuy đúng nhưng lạc đề, vì nỗi lo thật sự là ai thiệt, vào lúc nào trong đời, và với điều kiện gì.",
+      "answers": [
+        { "q": 27, "ans": "YES", "quote": "mechanisation destroyed particular occupations, but it also made goods cheaper, created demand that had not existed, and brought into being whole categories of work that nobody had been able to imagine", "how": "\"did not leave societies with a permanent shortage of work\" ↔ cơ giới hóa tạo ra \"whole categories of work\"; người viết còn tự xác nhận \"All of this is correct\" nên đây là quan điểm của ông, YES." },
+        { "q": 33, "ans": "B", "quote": "it is also beside the point, because it is an answer to a question that very few people are actually asking", "how": "Vế đầu \"objection to the standard reassurance about employment\" ↔ lời trấn an quen thuộc ở đầu đoạn; ending B \"a reply to a question that hardly anyone is putting\" ↔ \"an answer to a question that very few people are actually asking\". Bẫy: ending E (máy sẽ làm được mọi việc) là ý của \"one side\", không phải phản bác của người viết." }
+      ],
+      "note": "Chú ý cấu trúc nhượng bộ: \"All of this is correct, and it is also beside the point\" – người viết đồng ý về dữ kiện nhưng bác về mức độ liên quan. Dạng YES/NO hay khai thác đúng chỗ này."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Thợ đập máy thời đầu công nghiệp bị coi là chống tiến bộ một cách vô ích là không công bằng: họ là thợ lành nghề, kỹ năng mất giá ngay trong đời họ, và việc con cháu được hưởng lợi sau hai thế hệ không bù đắp cho thế hệ đã trả giá.",
+      "answers": [
+        { "q": 28, "ans": "NO", "quote": "They were not ignorant of machinery; many were highly skilled men whose trade had taken years to learn", "how": "Câu hỏi nói họ \"failed to understand what it did\"; bài nói thẳng \"not ignorant of machinery\" – mâu thuẫn nên NO. Bẫy: định kiến phổ biến về \"machine-breakers\" đúng là họ ngu dốt, nhưng người viết bác bỏ định kiến đó." },
+        { "q": 34, "ans": "C", "quote": "But a recovery that takes two generations is not a recovery for the generation that pays for it", "how": "Ending C \"the cost of a change can fall on one generation while the benefit reaches another\" ↔ chính câu này; \"their grandchildren found employment\" là bên hưởng lợi, ông bà là bên trả giá." },
+        { "q": 37, "ans": "A", "quote": "their grandchildren found employment in industries which could not have existed without the machines their grandfathers attacked", "how": "Phương án A \"industries that the new machines had made possible\" ↔ \"industries which could not have existed without the machines\". B sai (bài không so sánh điều kiện làm việc của hai thế hệ), C sai (kỹ năng chính là thứ đã mất giá), D sai (bài nhắc \"a single valley\" nhưng không nói ai rời đi)." }
+      ],
+      "note": "Câu cuối \"Averages conceal precisely the thing that is at issue\" tóm cả đoạn: con số trung bình che đi thiệt hại dồn vào một nhóm nhỏ."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Đợt công nghệ hiện nay có điểm mới (chạm tới ngôn ngữ, hình ảnh, phán đoán nên cả người có học cũng bị ảnh hưởng), nhưng không thể tin vào các dự đoán về tốc độ: hướng đi thì rõ, tốc độ thì không.",
+      "answers": [
+        { "q": 29, "ans": "NO", "quote": "Yet confidence about the pace of the change is not warranted by the record", "how": "Câu hỏi nói tốc độ \"can be forecast dependably\"; người viết nói sự tự tin về nhịp độ là không có cơ sở, dẫn chứng việc dự đoán sai cả hai chiều. Mâu thuẫn nên NO." },
+        { "q": 38, "ans": "C", "quote": "The honest position is that the direction of travel is reasonably clear and the speed of it is not", "how": "Phương án C \"The course of the change is clearer than its timing\" ↔ chính câu này. A sai (không nói chuyên gia đồng thuận), B sai (dự đoán sai theo cả hai hướng: có việc chậm hơn, có việc nhanh hơn dự kiến), D sai (\"What follows is not paralysis\" – ông không bảo bỏ dự đoán mà bảo chọn biện pháp không phụ thuộc mốc thời gian)." }
+      ],
+      "note": "Câu \"Tasks that were declared to be months away have remained stubbornly undone ... while others that were thought to be safely human gave way almost without warning\" có hai vế đối nhau bằng \"while\": dự báo sai cả khi quá lạc quan lẫn khi quá yên tâm. Hiểu nhầm một vế là chọn ngay đáp án B của Q38."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Câu hỏi quan trọng nhất là phần giá trị tiết kiệm được chảy về đâu: lợi nhuận, giá rẻ hơn, hay lương của người còn lại – và điều đó do thể chế quyết định chứ không do máy móc.",
+      "answers": [
+        { "q": 31, "ans": "YES", "quote": "It depends on how concentrated the industry is, on the bargaining strength of employees, on how the proceeds are taxed, on who owns the equipment", "how": "\"taxation and ownership\" ↔ \"how the proceeds are taxed\" và \"who owns the equipment\"; đó là danh sách các yếu tố quyết định việc chia phần, đúng với quan điểm \"institutions decide the shares\"." }
+      ],
+      "note": "Câu chốt \"Technology fixes what is possible; institutions decide the shares\" là nền cho đáp án Q40; ghi nhớ ngay."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Nếu mất việc chỉ là mất thu nhập thì trợ cấp phổ quát đã giải quyết xong; nhưng nghiên cứu về thất nghiệp cho thấy người mất việc mất cả nhịp sống, quan hệ, danh phận và cảm giác được người khác cần tới – những thứ tiền không trả lại được.",
+      "answers": [
+        { "q": 35, "ans": "A", "quote": "A payment addresses the part of the loss that is easiest to measure and the smallest part of what is actually gone", "how": "Ending A \"the harm done by the loss of work is not mainly financial\" ↔ tiền chỉ bù phần dễ đo và nhỏ nhất; thêm bằng chứng \"Their health and their contentment decline further than the fall in their income can explain\"." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Không nên vì thế mà bênh vực công việc nói chung: nhiều công việc đơn điệu, hại sức khỏe hoặc hạ nhục, và máy móc thay con người ở kho hàng, cống rãnh hay hóa chất độc là gỡ bỏ một tai hại thật; mục tiêu hợp lý là ít việc tồi hơn.",
+      "answers": [
+        { "q": 32, "ans": "YES", "quote": "A machine that takes over the lifting in a warehouse, the inspection of a sewer or the handling of dangerous chemicals removes a genuine harm from somebody's life, and it is not progress to keep such jobs in existence on the grounds that they are jobs", "how": "\"kinds of work which it would be better for machines to take over\" ↔ đúng ba ví dụ này, kèm \"The reasonable aim is fewer bad jobs\". Người viết tự khẳng định nên YES." },
+        { "q": 39, "ans": "B", "quote": "it is noticeable that the warmest tributes to the dignity of labour are composed by people whose own working days are varied, autonomous and comfortable", "how": "Phương án B \"those who write admiringly about work tend to have agreeable jobs themselves\" ↔ \"the warmest tributes ... are composed by people whose own working days are varied, autonomous and comfortable\". A sai (bài không nói tự động hóa tới nay chỉ nhắm vào việc khó chịu), C và D hoàn toàn không có trong bài." }
+      ],
+      "note": "Câu cuối đoạn chuyển hướng: \"the objection cannot be to automation in general. It must be to the particular way in which the costs and the benefits are currently allocated\" – đây là bước dẫn tới Q40."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Kết luận: vấn đề đạo đức không phải máy có nên làm thay người hay không, mà là ai quyết định việc nào được giao đi, với tốc độ nào, ai phải gánh xáo trộn và ai thu phần tiết kiệm được – đó là những lựa chọn, không phải thời tiết.",
+      "answers": [
+        { "q": 36, "ans": "D", "quote": "It is who decides which tasks are handed over, at what speed, which people are expected to absorb the disruption, and who collects what is saved", "how": "Ending D \"who chooses what is automated and who pays for the disruption\" ↔ chính câu này. Bẫy: ending F (ngăn doanh nghiệp đưa thiết bị vào quá nhanh) là một giải pháp cụ thể mà người viết không hề đề xuất." },
+        { "q": 40, "ans": "B", "quote": "They are choices, and they could be made differently. The one response that is certainly wrong is to speak of automation as though it were the weather", "how": "Phương án B \"The effects of automation follow from decisions rather than from the technology\" ↔ \"They are choices\" cộng với \"Technology fixes what is possible; institutions decide the shares\" ở đoạn D. A sai (đoạn F phản đối việc giữ lại việc tồi), C sai (đoạn E bác trợ cấp phổ quát là đủ), D sai (đoạn C thừa nhận đợt này có điểm khác)." },
+        { "q": 30, "ans": "NOT GIVEN", "how": "Đọc hết bảy đoạn vẫn không thấy người viết nói số việc làm bị hủy nhiều hay ít hơn số việc làm được tạo ra trong thế kỷ này: đoạn C còn nói ông từ chối đoán tốc độ, đoạn A nói lượng việc làm không phải một khối cố định. Bẫy: đoạn A có nói cơ giới hóa \"destroyed particular occupations\" nhưng đó là quá khứ và không có phép so sánh số lượng." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài này người viết luôn nhượng bộ rồi mới phản bác (\"All of this is correct, and it is also beside the point\"; \"It is true that ... But\"). Hãy đọc đến vế sau \"but / yet\" mới chốt YES/NO, vì vế trước thường là quan điểm của phe kia.",
+    "Mọi đáp án đúng của Q33–36 và Q40 đều quy về một ý: công nghệ quyết định cái khả thi, còn thể chế quyết định ai được ai mất. Phương án nào đưa ra một giải pháp cụ thể (cấm, trợ cấp, chặn tốc độ) đều là bẫy.",
+    "Q30 là NOT GIVEN điển hình: câu hỏi hỏi một con số so sánh mà người viết cố tình không đưa ra. Khi câu hỏi yêu cầu \"nhiều hơn / ít hơn\" mà bài chỉ bàn ai được ai mất, hãy nghĩ ngay tới NOT GIVEN."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "step1": "Tiêu đề \"A New Ice Age\" báo trước bài nói về khả năng một kỷ băng hà nhỏ quay lại. Đoán mạch bài: mở đầu bằng tranh vẽ sông băng ngày xưa → bằng chứng cho đợt lạnh mới → hậu quả kinh tế và sinh thái → vì sao người nghèo khổ nhất → nghịch lý ấm lên gây lạnh (nước ngọt ở Bắc Đại Tây Dương) → cơ chế Gulf Stream và thermohaline. Q14–17 (MCQ) rải theo thứ tự đầu bài; Q18–22 (ghép tên người) locate được ngay bằng tên riêng; Q23–26 (sơ đồ) chắc chắn nằm ở hai đoạn cuối nói về cơ chế dòng hải lưu.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–17", "Multiple choice (A–D)", "Có, theo thứ tự bài", "paintings in the first paragraph, scientists believe possible, the poor survive, Europe warmer than North America"],
+    ["18–22", "Matching features – tên người (A–D)", "Có: Curry, Joyce, Dickson, National Academy of Sciences", "not prepared, catastrophic, not as cold as it used to be, global warming, conference"],
+    ["23–26", "Flow chart completion (NO MORE THAN THREE WORDS)", "Có, ở phần cơ chế cuối bài", "thermohaline circulation, denser, sinks, deep-water current, fresh water"]
+  ],
+  "typesNote": "Cả ba dạng đều chạy theo thứ tự bài, nên chỉ cần đọc một lượt và chốt tại chỗ; Q18–22 nhận diện bằng tên riêng nên gần như chốt ngay khi tên xuất hiện.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Nhà khoa học khí hậu William Curry ngắm bức tranh Washington vượt sông Delaware năm 1776 và nhận xét cảnh sông đóng băng như thế nay không còn xảy ra nữa.",
+      "answers": [
+        { "q": 14, "ans": "B", "quote": "I can tell you, this kind of thing just doesn't happen anymore.", "how": "Tranh vẽ cảnh 1776 đối lập với hiện tại → tác giả dùng tranh để minh họa khí hậu đã đổi khác trong hai thế kỷ qua. Loại A (tương lai) vì tương lai chỉ được nói từ đoạn 2 trở đi; loại D (chuyện quân sự) vì đó chỉ là nội dung bức tranh, không phải dụng ý; loại C là bẫy \"đúng chi tiết\": sông không còn đóng băng chỉ là một ví dụ của sự thay đổi, dụng ý rộng hơn." },
+        { "q": 20, "ans": "A", "quote": "The place in this painting is 30 minutes away by car. I can tell you, this kind of thing just doesn't happen anymore.", "how": "\"The world is not as cold as it used to be\" ↔ lời Curry rằng cảnh băng giá ấy không còn xảy ra → A (William Curry)." }
+      ],
+      "note": "Q14 và Q20 cùng nằm ở đoạn 1 dù thuộc hai nhóm câu khác nhau – đây đúng tinh thần one-shot: đọc xong đoạn là chốt hết."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Cảnh băng giá kiểu tranh Brueghel (giai đoạn 1300–1850, tiểu băng hà) có thể trở lại: ngày càng nhiều nhà khoa học tin một đợt lạnh kéo dài sắp tới, làm nhiệt độ trung bình giảm 5 độ F ở Mỹ và 10 độ ở Đông Bắc Mỹ, Bắc Âu, Bắc Á.",
+      "answers": [
+        { "q": 15, "ans": "A", "quote": "the next cooling trend could drop average temperatures 5 degrees Fahrenheit over much of the United States and 10 degrees in the Northeast, northern Europe, and northern Asia", "how": "Các vùng được liệt kê đều thuộc Bắc bán cầu → A. Loại B và C vì bài nói rõ \"no one is predicting a brutal ice sheet like the one that covered the Northern Hemisphere... about 12,000 years ago\" – lần này KHÔNG lạnh bằng và KHÔNG phủ băng toàn bộ. Loại D: \"look more like Lapland\" là mô tả tranh Brueghel về quá khứ châu Âu, không phải dự báo." }
+      ],
+      "note": "Bẫy số liệu 12,000 years ago: xuất hiện trong câu phủ định, nên mọi phương án dựa vào nó đều sai."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Terrence Joyce (Woods Hole) cảnh báo chuyện này có thể xảy ra trong 10 năm, mất hàng trăm năm mới đảo ngược, và ông lo người Mỹ chưa coi đây là mối đe dọa thật.",
+      "answers": [
+        { "q": 18, "ans": "B", "quote": "he is alarmed that Americans have yet to take the threat seriously", "how": "\"Most Americans are not prepared for the next ice age\" ↔ \"have yet to take the threat seriously\"; chủ ngữ \"he\" là Terrence Joyce → B." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Giảm 5–10 độ sẽ gây hậu quả kinh tế và sinh thái nặng nề: báo cáo 2002 của National Academy of Sciences ước tính thiệt hại nông nghiệp 100–250 tỷ USD cùng tổn thất sinh thái khôn lường.",
+      "answers": [
+        { "q": 19, "ans": "D", "quote": "such quick, persistent chilling could have devastating consequences. A 2002 report titled \"Abrupt Climate Change: Inevitable Surprises\", produced by the National Academy of Sciences", "how": "\"The result of abrupt climate change is catastrophic\" ↔ \"devastating consequences\" trong báo cáo của National Academy of Sciences → D. Bẫy: Joyce cũng nói về nguy cơ, nhưng nhận định về mức độ thảm họa (tiền bạc, tuyệt chủng loài) là của báo cáo." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Lý do hậu quả lớn: biến đổi nhanh gây xáo trộn hơn nhiều so với biến đổi chậm, ví như nước sông chỉ gây họa khi vượt qua bờ – nhiều quá trình sinh học đổi trạng thái ở các ngưỡng nhất định.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Thay đổi chính trị khiến người nghèo khó sống sót hơn: trước kia cả bộ lạc dời xuống phía nam, nay biên giới đã đóng nên mất lưới an toàn là di cư.",
+      "answers": [
+        { "q": 16, "ans": "D", "quote": "During previous cooling periods, whole tribes simply picked up and moved south, but that option doesn't work in the modern, tense world of closed borders.", "how": "Xương sống: tribes moved south (quá khứ) ↔ mệnh đề tương phản \"but that option doesn't work... of closed borders\" (hiện tại) → di cư không còn khả thi vì biên giới đóng = D. Loại A: việc không còn bộ lạc không phải lý do bài đưa ra; loại B: bài nói thay đổi chính trị SO VỚI kỷ băng hà trước, không nói chính trị đổi quá nhanh; loại C đảo ngược logic – họ vốn \"live off the land\", biến đổi khí hậu không khiến họ sống nhờ đất." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Nghịch lý: trái đất đang ấm lên nhưng chính sự ấm lên có thể gây ra tiểu băng hà, vì 30 năm qua Bắc Đại Tây Dương xuất hiện lượng nước ngọt khổng lồ, nghi do băng Bắc Cực tan vì CO2.",
+      "answers": [
+        { "q": 21, "ans": "B", "quote": "Indeed it is, says Joyce. In his cluttered office... he explains how such warming could actually be the surprising culprit of the next mini-ice age.", "how": "\"Global warming is closely connected to the ice age\" ↔ Joyce giải thích sự ấm lên là \"culprit\" của kỷ băng hà nhỏ → B." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Xu hướng nước ngọt là tin lớn trong giới hải dương học: Bob Dickson đã lên tiếng cảnh báo tại một hội nghị ở Honolulu về mức giảm độ mặn và nhiệt độ ở biển Labrador.",
+      "answers": [
+        { "q": 22, "ans": "C", "quote": "Bob Dickson, a British oceanographer who sounded an alarm at a February conference in Honolulu, has termed the drop in salinity and temperature in the Labrador Sea", "how": "\"Alerted people to the change of ocean water in a conference\" ↔ \"sounded an alarm at a February conference\" về độ mặn/nhiệt độ nước biển → C." }
+      ]
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Cơ chế: Gulf Stream mang nhiệt từ vùng nhiệt đới lên phía bắc rồi nhả nhiệt vào không khí, gió Bắc Đại Tây Dương thổi về hướng đông nên nhiệt bay sang châu Âu – vì thế mùa đông châu Âu ấm hơn Bắc Mỹ cùng vĩ độ tới 36 độ F.",
+      "answers": [
+        { "q": 17, "ans": "A", "quote": "As it flows northward, the stream surrenders heat to the air. Because the prevailing North Atlantic winds blow eastward, a lot of the heat wafts to Europe.", "how": "Chuỗi nhân quả: dòng nhiệt đới nhả nhiệt → gió thổi hướng đông → nhiệt sang châu Âu = A. Loại B: Boston và Rome gần như cùng vĩ độ, nên vĩ độ không phải nguyên nhân; loại C sai thì – Gulf Stream vẫn đang nhả nhiệt, việc ngừng mới chỉ là nguy cơ; loại D đúng nhưng không trả lời \"vì sao châu Âu ấm hơn\" – đó chỉ là lộ trình của dòng chảy, thiếu mắt xích gió." }
+      ],
+      "note": "Phương án D là bẫy \"đúng dữ kiện, sai câu hỏi\": câu hỏi cần nguyên nhân châu Âu ấm, mà mắt xích quyết định là hướng gió."
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Sau khi nhả nhiệt, nước lạnh hơn trở nên đặc hơn và chìm xuống (thermohaline circulation), tạo động cơ cho dòng sâu Great Ocean Conveyor; nhưng nước ngọt tăng làm nước nhẹ hơn, khó chìm, nằm trên mặt như một tấm chăn nhiệt, khiến Gulf Stream chậm lại hoặc ngừng hẳn.",
+      "answers": [
+        { "q": 23, "ans": "heat", "quote": "Having given up its heat to the air, the now-cooler water becomes denser and sinks into the North Atlantic", "how": "Ô \"Less ___\" nằm giữa \"Tropical warm water\" và bước nước chìm ↔ nước đã nhả nhiệt nên còn ít nhiệt hơn → heat." },
+        { "q": 24, "ans": "denser", "quote": "the now-cooler water becomes denser and sinks", "how": "\"Water becomes ___ and sinks\" khớp nguyên văn \"becomes denser and sinks\"; giữ nguyên dạng so sánh denser." },
+        { "q": 25, "ans": "Great Ocean Conveyor", "quote": "the main engine powering a deep-water current called the Great Ocean Conveyor", "how": "\"Deep ocean current called ___\" ↔ \"a deep-water current called the Great Ocean Conveyor\"; đúng ba từ như giới hạn cho phép." },
+        { "q": 26, "ans": "fresh water", "quote": "But as the North Atlantic fills with fresh water, it grows less dense", "how": "Ô \"Increase in ___\" nối với \"Less dense, hard to sink\" ↔ nước ngọt tăng làm nước bớt đặc → fresh water. Bẫy: đừng viết \"melting Arctic ice\" (đó là nguồn gốc, không phải thứ tăng lên trong Bắc Đại Tây Dương)." }
+      ],
+      "note": "Sơ đồ chạy theo đúng trật tự câu trong đoạn 10, nên đọc tuần tự là điền được cả bốn ô."
+    }
+  ],
+  "tips": [
+    "Nhóm ghép tên người trải đều từ đoạn 1 đến đoạn 8 theo đúng thứ tự xuất hiện: Curry (1) → Joyce (3) → NAS (4) → Joyce (7) → Dickson (8); thấy tên là dừng lại chốt.",
+    "Nhiều phương án MCQ sai theo kiểu \"đúng từ, sai vai trò\": 12,000 years ago và Lapland nằm trong câu phủ định hoặc nói về quá khứ; Gulf Stream chảy lên bắc là sự thật nhưng không phải nguyên nhân châu Âu ấm.",
+    "Phần sơ đồ chỉ cần nắm chuỗi: nhả nhiệt → đặc hơn → chìm → dòng sâu; nước ngọt tăng thì mạch này đứt. Trả lời bằng đúng từ trong bài, giữ nguyên dạng (denser, fresh water)."
+  ]
+}

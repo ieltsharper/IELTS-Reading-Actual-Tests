@@ -1,0 +1,85 @@
+{
+  "step1": "Tiêu đề Drawing the World và sapo \"Every map is an argument about what matters\" cho biết bài là lịch sử bản đồ theo mục đích sử dụng. Đoán mạch bài: bản đồ là gì (phẳng – thu nhỏ – chọn lọc) → bảng đất sét Babylon → người Hy Lạp và Ptolemy → thế giới Ả Rập → mappa mundi thời trung cổ → hải đồ portolan → phép chiếu Mercator → xác định vĩ độ/kinh độ và tam giác đạc → ảnh hàng không và vệ tinh. Q14–18 (nối với loại bản đồ) rải khắp bài nhưng mỗi loại có một đoạn riêng. Q19–23 (summary từ hộp từ) nằm trọn ở đoạn về định vị. Q24–26 (trắc nghiệm) ở đoạn Ptolemy, đoạn mappa mundi và đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–18", "Matching features (A–F: các loại bản đồ)", "Có – mỗi loại bản đồ có đoạn riêng, nhận ra ngay khi đọc tới", "constant compass bearing, pairs of numbers, disc encircled by water, coastlines from voyages, holy centre"],
+    ["19–23", "Summary completion từ hộp từ (A–H)", "Có, theo thứ tự bài", "sight of the sun or a star, agreed ___, chain of triangles, measured ___, financed by states"],
+    ["24–26", "Multiple choice (A–D)", "Có – đề nêu rõ Ptolemy, mappae mundi và đoạn cuối", "estimate of the size of the earth, inaccurate, final paragraph"]
+  ],
+  "typesNote": "Bài đi theo trình tự thời gian và mỗi loại bản đồ chiếm một đoạn, nên cứ đọc xong một đoạn là gán được ngay câu hỏi matching của loại bản đồ đó.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Bản đồ không phải bức tranh về thế giới mà là một phát biểu phẳng, thu nhỏ và chọn lọc; việc chọn vẽ gì luôn phụ thuộc vào mục đích của bản đồ.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Bản đồ thế giới cổ nhất còn lại là bảng đất sét Babylon: vẽ các vùng đất đã biết thành một cái đĩa, Babylon ở giữa, vòng nước đắng bao quanh – một phát biểu về hình dạng của tạo hóa chứ không phải để đi đường.",
+      "answers": [
+        { "q": 16, "ans": "A", "quote": "It shows the known lands as a disc, with Babylon near the middle and a ring of water, labelled as a bitter river, drawn around the outside", "how": "\"disc encircled by water\" ↔ \"the known lands as a disc ... a ring of water ... drawn around the outside\" → loại A, bảng đất sét Babylon." }
+      ]
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Học thuật Hy Lạp đưa phép đo vào: ước lượng kích thước Trái Đất bằng bóng nắng ở hai thành phố Ai Cập, và đỉnh cao là Ptolemy với Geography – một bộ chỉ dẫn gồm hàng nghìn cặp tọa độ; nhưng ông ước tính Trái Đất quá nhỏ, sai lầm còn lặp lại hơn nghìn năm.",
+      "answers": [
+        { "q": 15, "ans": "B", "quote": "It listed thousands of places as pairs of numbers, a latitude and a longitude, so that a map could be reconstructed from the text alone", "how": "\"gave places as pairs of numbers, so that the map could be rebuilt from the written text\" ↔ lặp gần nguyên văn → loại B, Geography của Ptolemy." },
+        { "q": 24, "ans": "A", "quote": "Ptolemy also made the earth considerably too small, an error that was still being repeated more than a thousand years later", "how": "Đáp án A \"a mistake in a respected work may be repeated for many centuries\" ↔ \"an error that was still being repeated more than a thousand years later\". B sai vì bài không so sánh mức cẩn thận Hy Lạp – Babylon; C nói về báo cáo của lữ khách là ý ở đoạn D (học giả Ả Rập sửa tọa độ); D đúng về sự thật nhưng không phải lý do người viết nhắc tới ước lượng này." }
+      ],
+      "note": "Câu dài mang Q15: xương sống \"It listed thousands of places as pairs of numbers\"; \"a latitude and a longitude\" giải thích cặp số đó; \"so that a map could be reconstructed from the text alone\" là mục đích, còn \"by anyone who understood the system\" là điều kiện."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Công trình của Ptolemy được giữ gìn và mở rộng trong thế giới nói tiếng Ả Rập; khảo sát nổi tiếng nhất làm ở Sicily thế kỷ XII cho một vị vua Norman, và nó đặt hướng nam lên trên – nhắc ta rằng hướng bắc chỉ là quy ước.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Ở châu Âu trung cổ, mappa mundi tổ chức thế giới quanh một trung tâm thiêng (Jerusalem, hướng đông ở trên); gọi chúng là thiếu chính xác là sai vì độ chính xác vị trí không phải mục tiêu của chúng – chúng để đọc và suy ngẫm.",
+      "answers": [
+        { "q": 18, "ans": "C", "quote": "organised the world around a sacred centre rather than around a journey", "how": "\"arranged around a holy centre and was intended for reflection rather than travel\" ↔ \"sacred centre rather than around a journey\" và \"meant to be read and contemplated\" → loại C." },
+        { "q": 25, "ans": "B", "quote": "Such maps are often described as inaccurate, but accuracy of position was not what they were attempting", "how": "Đáp án B \"judges the maps by an aim they did not have\" ↔ \"accuracy of position was not what they were attempting\". A (sao chép từ bản gốc cũ) và C (chỉ đúng với vùng xa châu Âu) không được nhắc; D sai vì portolan được nêu ở đoạn sau nhưng không dùng để bác bỏ lời phê bình này." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Hàng hải thực dụng sinh ra hải đồ portolan từ thế kỷ XIII: đường bờ biển dựng từ ghi chép tích lũy của các chuyến đi nên rất sát thực tế, phủ đầy các đường thẳng tỏa ra từ hoa gió để vạch hải trình – lần đầu bản đồ là một công cụ làm việc.",
+      "answers": [
+        { "q": 17, "ans": "D", "quote": "whose coastlines were built up from the accumulated records of voyages and are startlingly close to their true shapes", "how": "\"assembled from what sailors had recorded on earlier voyages\" ↔ \"built up from the accumulated records of voyages\" → loại D, portolan chart." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Đi biển đại dương khiến vấn đề \"phẳng\" thành cấp bách: phép chiếu Mercator kéo giãn khoảng cách các vĩ tuyến về phía cực để hải trình theo một phương vị cố định hiện thành đường thẳng, cái giá là diện tích méo mó nghiêm trọng.",
+      "answers": [
+        { "q": 14, "ans": "E", "quote": "stretching the spacing of the parallels towards the poles by exactly the amount needed to make such a course appear straight", "how": "\"a course steered at a constant compass bearing could be drawn as a straight line\" ↔ \"a course steered at a constant compass bearing\" ở câu trước và \"make such a course appear straight\" → loại E, phép chiếu Mercator." }
+      ],
+      "note": "Chi tiết Greenland to ngang châu Phi là ví dụ cho sự méo diện tích, không phải ưu điểm. Người viết kết luận Mercator chỉ tốt cho đúng một mục đích."
+    },
+    {
+      "para": "Đoạn H",
+      "idea": "Xác định vị trí trên biển mới giải được một nửa: vĩ độ đo dễ bằng mặt trời hoặc sao, còn kinh độ cần so giờ địa phương với giờ ở một kinh tuyến gốc nên phải chờ đồng hồ hàng hải thế kỷ XVIII; trên đất liền, các nhà nước làm khảo sát quốc gia bằng tam giác đạc từ một đường đáy đo rất kỹ.",
+      "answers": [
+        { "q": 19, "ans": "C", "quote": "Latitude could be found readily enough by measuring the sun or a star above the horizon", "how": "\"establish ___ without great difficulty by taking a sight of the sun or a star\" ↔ \"Latitude could be found readily enough\"; đáp án C. latitude. Bẫy F. altitude: đúng là có đo độ cao thiên thể, nhưng cái xác định được là latitude." },
+        { "q": 20, "ans": "E", "quote": "longitude requires comparing local time with the time at a chosen reference meridian", "how": "\"comparing local time with the time at an agreed ___\" ↔ \"a chosen reference meridian\"; đáp án E. meridian." },
+        { "q": 21, "ans": "D", "quote": "systematic national surveys based on triangulation", "how": "\"national mapping came to rest instead on ___, a method in which a chain of triangles is carried across the country\" ↔ triangulation; đáp án D." },
+        { "q": 22, "ans": "G", "quote": "a single baseline is measured on the ground with great care and a chain of triangles is then extended across the country from it", "how": "\"from one carefully measured ___\" ↔ \"a single baseline is measured on the ground with great care\"; đáp án G. baseline." },
+        { "q": 23, "ans": "H", "quote": "they were paid for by states with military interests rather than by the sellers of maps", "how": "\"financed by states with ___ purposes\" ↔ \"paid for by states with military interests\"; đáp án H. military. Bẫy A. commercial: bài đối lập quân sự với \"the sellers of maps\", tức thương mại là vế bị loại." },
+        { "q": 26, "ans": "C", "quote": "A digital map chooses on the user's behalf, quietly and invisibly, and is no less a selection for being made of data", "how": "Đáp án C \"still rests on choices about what to show\" ↔ \"is no less a selection\". A sai (bài không nói khảo sát quốc gia thành thừa); B sai vì độ chính xác không phải điều người viết bàn ở đây; D là bẫy hấp dẫn – người viết nói bản đồ số đối mặt cùng NHỮNG CÂU HỎI mà người Babylon gặp, chứ không nói nó quay về mối bận tâm tôn giáo." }
+      ],
+      "note": "Toàn bộ summary Q19–23 nằm gọn trong đoạn này và đi đúng thứ tự câu. Điền một lượt rồi đi tiếp."
+    },
+    {
+      "para": "Đoạn I",
+      "idea": "Ảnh hàng không rồi ảnh vệ tinh chỉ thay đổi cách thu thập thông tin chứ không đổi mục đích: câu hỏi cuối cùng vẫn là đưa gì vào, bỏ gì ra, đặt gì ở trung tâm – bản đồ số cũng là một sự chọn lọc.",
+      "answers": [],
+      "note": "Q26 được chốt ngay khi đọc xong đoạn I (câu trích nằm ở đây); phần giải thích đã ghi ở mục trên để gom cùng nhóm trắc nghiệm."
+    }
+  ],
+  "tips": [
+    "Mỗi loại bản đồ trong danh sách A–F chỉ gắn với một đoạn duy nhất, nên matching features ở bài này rất \"ngoan\": đọc xuôi là gán xuôi, không cần quay lại.",
+    "Hộp từ ở Q19–23 có hai cặp gây nhiễu: latitude / altitude và military / commercial. Hãy xác định vai trò của từ trong câu (cái gì được xác định, ai trả tiền) chứ không chỉ nhìn từ quen mắt.",
+    "Các câu trắc nghiệm đều hỏi Ý ĐỒ của người viết (\"in order to show\", \"main purpose\"), nên đáp án đúng luôn là câu khái quát hóa ví dụ, không phải chi tiết chính xác nhất về mặt sự kiện."
+  ]
+}

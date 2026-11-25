@@ -1,0 +1,81 @@
+{
+  "step1": "Tiêu đề Alfred Nobel và sapo \"The man behind the Nobel Prize\" cho biết đây là bài tiểu sử, nên mạch bài gần như chắc chắn theo thời gian: giải thưởng ra đời → tuổi thơ và học hành → đi học nước ngoài → phát minh dynamite → sự nghiệp kinh doanh → đời tư và Bertha von Suttner → di chúc và Quỹ Nobel → đánh giá con người ông. Q1–6 (TRUE/FALSE/NOT GIVEN) rải đều theo thứ tự bài; Q7–13 là ghi chú (notes) chia hai mục nên dồn vào đoạn học hành (đoạn 3) và đoạn phát minh (đoạn 4).",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–6", "True / False / Not Given", "Có (mốc năm và tên riêng)", "1895, father, education, unsuccessful businessman, Bertha von Suttner, Nobel Foundation, social involvement"],
+    ["7–9", "Note completion – Education (NO MORE THAN TWO WORDS)", "Có, theo thứ tự", "sent him abroad, private laboratory, young chemist, more powerful explosive"],
+    ["10–13", "Note completion – Benefits in construction works (NO MORE THAN TWO WORDS)", "Có, theo thứ tự", "banned, city of, dynamite, became popular, lowered the"]
+  ],
+  "typesNote": "Cả hai dạng đều chạy theo thứ tự bài nên chỉ cần đọc một lượt: gặp mốc năm thì chốt TFNG, gặp đoạn kể phát minh thì điền notes.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Giải Nobel được trao từ năm 1901 cho năm lĩnh vực; nền móng là bản di chúc Alfred Nobel viết năm 1895.",
+      "answers": [
+        { "q": 1, "ans": "FALSE", "quote": "Since 1901, the Nobel Prize has been honoring men and women ... The foundations for the prize were laid in 1895 when Alfred Nobel wrote his last will", "how": "Câu hỏi nói giải đầu tiên trao năm 1895, nhưng 1895 chỉ là năm viết di chúc; giải bắt đầu từ 1901 nên mâu thuẫn → FALSE. Bẫy: hai mốc năm nằm ngay cạnh nhau trong cùng một đoạn." }
+      ]
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Nobel sinh năm 1833, cha là kỹ sư thành đạt, đưa gia đình sang St. Petersburg và cho các con học với gia sư; Alfred giỏi 5 thứ tiếng nhưng cha không thích ông mê thơ.",
+      "answers": [
+        { "q": 2, "ans": "NOT GIVEN", "how": "Bài chỉ nói cha cho các con \"a first class education by private teachers\" và muốn con làm kỹ sư; hoàn toàn không so sánh với trình độ học vấn của chính người cha. Bẫy: thấy \"education\" và \"father\" là vội chọn TRUE." }
+      ],
+      "note": "Đừng dùng đoạn này cho câu 7: ý \"sent him abroad\" nằm ở đoạn 3."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Cha gửi Alfred ra nước ngoài học kỹ thuật hóa; ở Paris ông làm trong phòng thí nghiệm của giáo sư Pelouze và gặp Ascanio Sobrero, người phát minh nitroglycerine – mạnh hơn thuốc súng nhưng quá nguy hiểm.",
+      "answers": [
+        { "q": 7, "ans": "chemical engineering", "quote": "his father sent him abroad for further training in chemical engineering", "how": "\"sent him abroad to be trained in ___\" khớp gần như nguyên văn với \"sent him abroad for further training in ___\"." },
+        { "q": 8, "ans": "Ascanio Sobrero", "quote": "There he met the young Italian chemist Ascanio Sobrero who, three years earlier, had invented nitroglycerine", "how": "\"a young chemist ___ and his invention nitroglycerine\" ↔ \"the young Italian chemist ... had invented nitroglycerine\". Đáp án là tên riêng, viết đủ hai từ." },
+        { "q": 9, "ans": "gunpowder", "quote": "Although its explosive power greatly exceeded that of gunpowder", "how": "\"a more powerful explosive than ___\" ↔ \"its explosive power greatly exceeded that of gunpowder\": \"exceeded that of\" là cách diễn đạt so sánh hơn." }
+      ],
+      "note": "Câu dài mang đáp án Q9: xương sống là \"the liquid would explode in a very unpredictable manner\" (WHO = the liquid, DOES WHAT = nổ khó lường); mệnh đề nhượng bộ \"Although its explosive power greatly exceeded that of gunpowder\" chứa đáp án, còn mệnh đề điều kiện \"if subjected to heat and pressure\" giải thích khi nào nổ. Đọc nhượng bộ trước, mệnh đề chính sau."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Về Thụy Điển, sau nhiều vụ nổ chết người, chính quyền cấm thí nghiệm nitroglycerine trong Stockholm; Nobel chuyển ra hồ, trộn với kieselguhr thành dynamite (1867) và chế thêm kíp nổ, cùng lúc máy khoan khí nén phổ biến, nhờ đó giảm mạnh chi phí xây dựng.",
+      "answers": [
+        { "q": 10, "ans": "Stockholm", "quote": "They forbade further experimentation with nitroglycerine within the Stockholm city limits", "how": "\"banned for experiments within the city of ___\" ↔ \"forbade further experimentation ... within the Stockholm city limits\"." },
+        { "q": 11, "ans": "detonator", "quote": "he also invented a detonator (blasting cap) which could be ignited by lighting a fuse", "how": "\"invented dynamite along with ___\" ↔ \"In 1867 he patented this material under the name of dynamite ... he also invented a detonator\". Chỉ cần một từ nên chọn \"detonator\" chứ không phải \"blasting cap\" trong ngoặc." },
+        { "q": 12, "ans": "pneumatic drill", "quote": "These inventions were made at the same time as the pneumatic drill came into general use", "how": "\"in the meantime ___ became popular\" ↔ \"at the same time as the pneumatic drill came into general use\"; \"came into general use\" = trở nên phổ biến." },
+        { "q": 13, "ans": "cost", "quote": "Together these inventions drastically reduced the cost of blasting rock", "how": "\"dramatically lowered the ___ of construction works\" ↔ \"drastically reduced the cost of ... construction work\"." }
+      ],
+      "note": "Bốn chỗ trống 10–13 nằm gọn trong một đoạn: đọc chậm đoạn này và chốt cả bốn, đừng đọc tiếp rồi quay lại."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Nobel là doanh nhân rất giỏi: lập nhà máy, phòng thí nghiệm ở khoảng 90 nơi tại hơn 20 nước và có 355 bằng sáng chế khi mất.",
+      "answers": [
+        { "q": 3, "ans": "FALSE", "quote": "Alfred Nobel also proved himself to be a very skillful entrepreneur and businessman", "how": "Câu hỏi nói ông kinh doanh thất bại, bài khẳng định ngược lại → FALSE (mâu thuẫn trực tiếp, không phải NOT GIVEN)." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Bận việc nên ít đời tư; ông đăng báo tìm thư ký và gặp Bertha Kinsky, sau thành bạn thư từ lâu năm, bà hoạt động vì hòa bình và được Quốc hội Na Uy trao giải Hòa bình 1905.",
+      "answers": [
+        { "q": 4, "ans": "FALSE", "quote": "Several years after the death of Alfred Nobel, the Norwegian Storting (Parliament) decided to award the 1905 Nobel Peace Prize to Bertha von Suttner", "how": "Câu hỏi nói chính Nobel chọn bà cho giải Hòa bình đầu tiên; bài nói Quốc hội Na Uy quyết định, nhiều năm sau khi ông mất, và là giải năm 1905 chứ không phải giải đầu tiên → FALSE. Bẫy: bài có nói bà \"influenced\" ông khi viết di chúc, nhưng ảnh hưởng không phải là chọn người nhận giải." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Nobel mất 1896; di chúc gây bất ngờ, hai kỹ sư thi hành di chúc lập ra Nobel Foundation dù bị họ hàng và chính quyền phản đối.",
+      "answers": [
+        { "q": 5, "ans": "TRUE", "quote": "Alfred Nobel died in San Remo, Italy, on December 10, 1896. When his will was opened ... They set about forming the Nobel Foundation", "how": "Di chúc chỉ được mở sau khi ông mất, rồi mới lập Quỹ → Quỹ ra đời sau khi Nobel qua đời → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Cái lớn của Nobel là kết hợp đầu óc nhà khoa học với tinh thần nhà công nghiệp; ông quan tâm xã hội, hòa bình và có quan điểm bị coi là cấp tiến thời đó.",
+      "answers": [
+        { "q": 6, "ans": "TRUE", "quote": "held what were considered radical views in his era", "how": "\"uncommon in the 1800s\" ↔ \"radical ... in his era\" (Nobel sống 1833–1896, tức thế kỷ 19); \"radical\" hàm ý khác số đông → TRUE." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài tiểu sử dày đặc mốc năm (1895, 1901, 1864, 1867, 1896, 1905): câu TFNG thường bẫy bằng cách gắn sai mốc năm với sự kiện, nên luôn kiểm tra năm đi kèm động từ nào.",
+    "NOT GIVEN ở câu 2 là loại kinh điển: bài nói về giáo dục của người con, câu hỏi thêm một phép so sánh với người cha mà bài không hề nhắc.",
+    "Phần notes giới hạn NO MORE THAN TWO WORDS: lấy đúng từ trong bài, bỏ phần trong ngoặc đơn (blasting cap) và không thêm mạo từ."
+  ]
+}

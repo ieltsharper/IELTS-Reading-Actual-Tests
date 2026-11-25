@@ -1,0 +1,76 @@
+{
+  "step1": "Tiêu đề là một câu hỏi \"Does the Language We Speak Shape the Way We Think?\", nên bài gần như chắc chắn theo lối cân nhắc: nêu giả thuyết mạnh/yếu → vì sao bản mạnh sụp đổ → các bằng chứng đã kiểm chứng (không gian, màu sắc, giống ngữ pháp) → phê phán nghiên cứu thống kê → kết luận vừa phải. Q27–31 (Which paragraph) và Q32–36 (Yes/No/Not Given) rải khắp bài; Q37 gắn với đoạn B, Q38 gắn với đoạn D (đề đã ghi rõ đoạn); Q39–40 nằm ở đoạn bàn về thì tương lai và tiền tiết kiệm.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–31", "Matching Information (đoạn A–G)", "Không – chỉ chốt sau khi đọc xong từng đoạn", "logical reason, presented to the public, effect vanishes, stay correctly oriented, not managed to obtain again"],
+    ["32–36", "Yes / No / Not Given (ý của người viết)", "Có (từ khóa), nhưng phải xác định quan điểm người viết", "strong version correct, number of words, spatial description, colour vs space, historically related"],
+    ["37–38", "MCQ (đề chỉ sẵn đoạn B và đoạn D)", "Có – đề nêu rõ đoạn", "translation (đoạn B), memory task (đoạn D)"],
+    ["39–40", "Chọn TWO letters (A–E) – không có đáp án chính thức", "Có – nằm ở đoạn về thì tương lai", "future tense, save money, objections"]
+  ],
+  "typesNote": "Matching Information không theo thứ tự bài nên phải đọc xong đoạn mới gán; các nhóm còn lại gần như chạy theo thứ tự nên chốt ngay tại đoạn. Lưu ý: bộ đáp án chính thức dùng cho trang web chỉ có tới câu 38, nên hướng dẫn này không chốt câu 39–40.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Giới thiệu giả thuyết: bản mạnh (Sapir–Whorf, ngôn ngữ quyết định tư duy) đã bị bỏ, còn bản yếu (ngôn ngữ buộc ta chú ý tới những phân biệt nhất định) thì vững hơn sau ba mươi năm thực nghiệm.",
+      "answers": [
+        { "q": 32, "ans": "NO", "quote": "The strong version was largely abandoned by the middle of the twentieth century.", "how": "Câu hỏi nói bản mạnh \"has now been shown to be correct\"; người viết nói nó bị từ bỏ từ giữa thế kỷ 20 → mâu thuẫn → NO. Bẫy: \"is in better health\" ở câu sau là nói về bản YẾU, không phải bản mạnh." }
+      ],
+      "note": "Phân biệt ngay từ đoạn A: strong form (bị bác) và weak form (được ủng hộ). Nhiều câu sau đánh vào chỗ lẫn lộn hai bản này."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Bản mạnh sụp đổ cả về bằng chứng (lập luận của Whorf về thời gian, huyền thoại về số từ chỉ tuyết) lẫn về logic: nếu ngôn ngữ giới hạn tư duy thì không ai học được ý niệm mới, trong khi lịch sử từ vựng kỹ thuật cho thấy điều ngược lại.",
+      "answers": [
+        { "q": 27, "ans": "B", "quote": "The logical difficulty is more serious. If the limits of a language really were the limits of thought, no speaker could ever acquire an idea that the language did not already encode, and the history of every technical vocabulary shows that they do.", "how": "\"a logical reason why the strongest form ... cannot be correct\" ↔ \"The logical difficulty\" cộng lập luận phản chứng. Đây là lý do LOGIC, khác với các lý do bằng chứng cũng nằm trong đoạn này." },
+        { "q": 33, "ans": "NO", "quote": "turned out to depend entirely on how one decides to count words in a language that builds long words out of small parts; by the same method English has indefinitely many words for anything", "how": "Câu hỏi nói số lượng từ là thước đo \"dependable\" (đáng tin) cho mức độ chú ý; người viết chỉ ra việc đếm từ hoàn toàn phụ thuộc cách đếm, nên không đáng tin → NO." },
+        { "q": 37, "ans": "B", "quote": "A language that lacks a single word for an idea can always reach it with a phrase, which is why translation is laborious rather than impossible.", "how": "Ý về dịch thuật trong đoạn B ↔ đáp án B \"An idea for which a language has no single word can still be expressed in it\" (\"reach it with a phrase\"). A sai vì bài không nói từ vựng kỹ thuật khó dịch nhất; C sai vì không nói dịch giả thêm ý; D sai vì \"long words\" chỉ liên quan tới cách đếm từ, không nói về độ khó dịch." }
+      ],
+      "note": "Câu dài mang đáp án 27: xương sống là \"no speaker could ever acquire an idea\"; mệnh đề điều kiện \"If the limits of a language really were the limits of thought\" nêu giả định, còn mệnh đề nối \"and the history ... shows that they do\" bác bỏ giả định đó – chuỗi \"nếu A thì B, nhưng thực tế không B\" chính là lập luận logic."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Điều hồi sinh lĩnh vực này là chuyển sang các khẳng định nhỏ kiểm chứng được, mạnh nhất là về không gian: người nói các ngôn ngữ dùng hệ quy chiếu địa lý cố định luôn định hướng đúng và xếp tranh theo trục la bàn.",
+      "answers": [
+        { "q": 30, "ans": "C", "quote": "remaining correctly oriented indoors, in unfamiliar towns and after being turned around", "how": "\"people who stay correctly oriented in unfamiliar surroundings\" ↔ \"remaining correctly oriented ... in unfamiliar towns\" – gần như dịch thẳng." },
+        { "q": 34, "ans": "YES", "quote": "Here a grammatical obligation plainly trains an everyday skill, and the writer regards this as the strongest evidence in the whole debate.", "how": "\"provides the best support for a link between grammar and habits of mind\" ↔ \"the strongest evidence in the whole debate\"; bài còn ghi rõ \"the writer regards\" nên đúng là ý người viết → YES." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Màu sắc cho kết quả tinh tế hơn: lợi thế phân biệt hai sắc xanh biến mất khi người tham gia phải giữ một chuỗi từ trong trí nhớ, nên ngôn ngữ chỉ là công cụ hỗ trợ quyết định chứ không phải lăng kính nhìn thế giới.",
+      "answers": [
+        { "q": 29, "ans": "D", "quote": "the experiment is repeated while the participants are made to hold a string of words in memory, an arrangement that occupies the language system and leaves the eyes alone. The advantage then disappears.", "how": "\"an effect that vanishes when speakers are prevented from using words to themselves\" ↔ \"The advantage then disappears\" khi hệ ngôn ngữ bị chiếm dụng; \"using words to themselves\" ↔ \"silently recruit a verbal label\"." },
+        { "q": 35, "ans": "NOT GIVEN", "how": "Người viết so sánh KẾT QUẢ của nghiên cứu màu sắc và không gian (một bên tinh tế, một bên mạnh nhất) nhưng không bao giờ nói thí nghiệm nào dễ THIẾT KẾ hơn → NOT GIVEN. Bẫy: vì cả hai chủ đề đều có mặt, dễ tưởng bài đã so sánh." },
+        { "q": 38, "ans": "C", "quote": "The natural reading is not that these speakers see different colours but that, in a task requiring a rapid decision, they silently recruit a verbal label that other speakers do not have available.", "how": "Cấu trúc \"not X but Y\" cho đáp án: không phải nhìn thấy màu khác (loại A) mà là dùng nhãn từ ngữ để quyết định nhanh ↔ C \"vocabulary assists a decision rather than altering perception\". B sai vì bài không chê thí nghiệm cẩu thả, chỉ bổ sung điều kiện; D sai vì bài không bàn tuổi học từ." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Giống ngữ pháp là trường hợp rắc rối: hiệu ứng nhỏ, nhiều lần lặp lại thất bại, và người tham gia thường là song ngữ trả lời bằng tiếng Anh nên câu hỏi vẫn bỏ ngỏ.",
+      "answers": [
+        { "q": 31, "ans": "E", "quote": "several attempts to reproduce them have failed", "how": "\"results that other researchers have not managed to obtain again\" ↔ \"attempts to reproduce them have failed\"; reproduce = obtain again." }
+      ],
+      "note": "\"The honest summary is that the question remains open\" – nếu có câu hỏi YNNG nào nói vấn đề này đã được giải quyết thì sẽ là NO."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Những khẳng định ngoài phòng thí nghiệm (ngôn ngữ có thì tương lai khiến người ta tiết kiệm ít hơn) càng đáng ngờ: các nước đó còn giống nhau về lịch sử, tôn giáo, thể chế, khí hậu, và các ngôn ngữ cùng họ không phải là quan sát độc lập.",
+      "answers": [
+        { "q": 36, "ans": "YES", "quote": "languages are related by descent, so a sample of hundreds of languages may contain only a handful of genuinely independent cases, and a statistical test that treats each language as a separate observation will report a confidence it has not earned", "how": "\"historically related weakens statistical comparisons\" ↔ \"related by descent ... will report a confidence it has not earned\" → đúng ý người viết → YES." }
+      ],
+      "note": "Đoạn F cũng là chỗ chứa bằng chứng cho nhóm câu 39–40 (hai phản bác nối bằng \"a language is not an isolated variable\" và \"Worse, ...\": mỗi dấu hiệu mở đầu một phản bác, đúng bằng số đáp án cần chọn). Tuy nhiên bộ đáp án chính thức cấp cho trang web dừng ở câu 38, nên câu 39 và 40 không có đáp án chính thức và không được chốt trong hướng dẫn này – hãy tự đối chiếu hai phản bác trong đoạn khi tự luyện."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Kết luận vừa phải: ngôn ngữ để lại dấu vết trong trí nhớ và cách phân loại nhưng không tạo ra một thực tại khác; chính vì hiệu ứng nhỏ nên báo chí hay phóng đại, và người đọc nên cảnh giác với những tiêu đề giật gân.",
+      "answers": [
+        { "q": 28, "ans": "G", "quote": "a result about reaction times becomes, by the time it reaches a newspaper, a claim that some people cannot perceive the colour blue. Readers would be wise to treat any headline announcing that a language makes its speakers unable to grasp something as a translation error of its own.", "how": "\"a warning about the way research of this kind is presented to the public\" ↔ lời cảnh báo về cách báo chí (newspaper, headline) trình bày kết quả. Bẫy: đoạn D cũng nhắc màu xanh, nhưng chỉ đoạn G mới nói về việc đưa tin ra công chúng." }
+      ]
+    }
+  ],
+  "tips": [
+    "Luôn hỏi \"bản mạnh hay bản yếu?\": người viết bác bản mạnh nhưng ủng hộ bản yếu, nên cùng một chủ đề có thể cho YES hoặc NO tùy câu hỏi nhắm vào bản nào.",
+    "Người viết nói rõ lập trường bằng các cụm đánh giá (\"the strongest evidence\", \"the honest summary\", \"a prompt for investigation, not a finding\"). Bám vào các cụm đó để trả lời Yes/No.",
+    "Với NOT GIVEN (Q35), chú ý loại so sánh mà bài KHÔNG thực hiện: bài so sánh kết quả, không so sánh độ khó thiết kế thí nghiệm."
+  ]
+}

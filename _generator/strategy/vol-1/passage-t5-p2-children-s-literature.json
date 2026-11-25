@@ -1,0 +1,74 @@
+{
+  "step1": "Tiêu đề \"Children's Literature\" báo hiệu một bài lịch sử theo trình tự thời gian: từ thời La Mã → trước 1700 → giữa thế kỷ 18 → ảnh hưởng của Rousseau và Mrs. Trimmer → đầu thế kỷ 19 (folklore, anh em Grimm) → cuối thập niên 1930 (Blyton) → sau Thế chiến II và hiện nay. Bảng Q14–18 có cột DATE nên chắc chắn đi đúng thứ tự bài; Q19–21 có tên riêng nên scan được; Q22–26 TRUE/FALSE/NOT GIVEN cũng bám theo thứ tự các mốc thời gian.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–18", "Table completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự nhờ cột DATE", "Before 1700, middle of 18th century, A Little Pretty Pocket Book, early 19th century, late 1930s"],
+    ["19–21", "Matching features – tên người (A–E)", "Có: scan tên riêng", "Thomas Boreham, Sarah Trimmer, Grimm Brothers"],
+    ["22–26", "True / False / Not Given", "Có (từ khóa) nhưng phải đọc trọn câu mới kết luận", "1700, good examples, parents violence, folklore, both children and adults"]
+  ],
+  "typesNote": "Cả ba dạng đều bám theo dòng thời gian của bài, nên đọc tới mốc nào thì chốt luôn câu hỏi của mốc đó rồi đi tiếp, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Truyện và thơ cho trẻ có từ rất lâu (hát ru thời La Mã), nhưng trước 1700 sách in mà trẻ đọc không hề nhắm vào trẻ; thứ duy nhất viết cho trẻ là vài sách dạy đọc và tờ truyền đạo đức, nên trẻ ham đọc phải đọc sách người lớn.",
+      "answers": [
+        { "q": 22, "ans": "FALSE", "quote": "there were stories in print before 1700 that children often seized on when they had the chance", "how": "Câu hỏi nói trẻ \"didn't start to read books until 1700\"; bài nói trước 1700 đã có truyện in mà trẻ vồ lấy đọc, nên mâu thuẫn → FALSE. Bẫy: bài có nói sách viết riêng cho trẻ xuất hiện muộn, nhưng \"đọc sách\" khác với \"có sách viết riêng cho mình\"." }
+      ],
+      "note": "Dòng \"Before 1700\" của bảng đã được điền sẵn (Puritanical tract) – dùng nó để xác nhận mình đang ở đúng đoạn."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Giữa thế kỷ 18, đủ trẻ ham đọc và phụ huynh chiều theo nên nhà xuất bản làm sách trẻ em lấy giải trí làm mục tiêu đầu tiên; Newbery ra A Little Pretty Pocket Book (1744) với vần thơ, truyện, trò chơi và quà tặng kèm, công thức này lập tức bị in lậu ở Mỹ.",
+      "answers": [
+        { "q": 14, "ans": "stories", "quote": "Its contents – rhymes, stories, children’s games plus a free gift", "how": "Bảng ghi \"Collection of [14] and games\" ↔ danh sách \"rhymes, stories, children's games\"; chỗ trống đứng trước \"and games\" nên lấy \"stories\"." },
+        { "q": 15, "ans": "America", "quote": "to be pirated almost immediately in America", "how": "\"exported to\" ↔ \"pirated almost immediately in\"; nơi chốn duy nhất trong câu là America." },
+        { "q": 19, "ans": "C", "quote": "a London merchant named Thomas Boreham produced Cajanus, The Swedish Giant in 1742", "how": "Boreham được giới thiệu là \"a London merchant\" (thương nhân) nên statement C \"Was not a writer originally\". Bẫy: ông có \"produced\" một cuốn sách, nhưng nghề gốc là buôn bán." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Không khí vui vẻ đó không kéo dài: chịu ảnh hưởng Rousseau, giới phê bình đòi sách thiếu nhi phải dạy dỗ và nâng cao tinh thần, tiêu biểu là Mrs. Sarah Trimmer với tạp chí điểm sách đầu tiên, người lên án truyện cổ tích và tự viết truyện về loài vật mẫu mực.",
+      "answers": [
+        { "q": 20, "ans": "A", "quote": "whose magazine The Guardian of Education (1802) carried the first regular reviews of children’s books", "how": "\"Wrote criticisms of children's literature\" ↔ bà xuất bản những bài điểm sách thiếu nhi đầu tiên → A. Bẫy là B: bà có dùng loài vật biết nói, nhưng để làm mẫu mực về lý trí và phép tắc, không phải để chứng minh sự phi lý của truyện cổ tích." },
+        { "q": 23, "ans": "TRUE", "quote": "her own stories Fabulous Histories (1786) described talking animals who were always models of sense and decorum", "how": "\"should set good examples\" ↔ \"models of sense and decorum\", cộng với việc bà đòi sách phải \"instructive and uplifting\" → TRUE." },
+        { "q": 24, "ans": "NOT GIVEN", "how": "Bài chỉ nói chính Mrs. Trimmer lên án bạo lực trong truyện cổ tích (\"condemned fairy tales for their violence\"); không chỗ nào nói phụ huynh (parents) lo lắng về bạo lực. Bẫy: đoạn 2 có nhắc parents nhưng là chuyện họ chiều sở thích đọc của con." }
+      ],
+      "note": "Phân biệt rõ ai lo lắng điều gì: critics/Mrs. Trimmer ≠ parents. Đây là bẫy \"đổi chủ thể\" rất hay gặp ở TFNG."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Đòn mạnh nhất giáng vào loại sách giáo huấn lại đến từ mối quan tâm với văn hóa dân gian đầu thế kỷ 19: đồng dao do Halliwell tuyển (1842) và truyện cổ Grimm dịch sang tiếng Anh năm 1823 nhanh chóng được trẻ yêu thích, kéo theo các ấn bản ngày càng hướng về trẻ em.",
+      "answers": [
+        { "q": 16, "ans": "folklore", "quote": "early 19th-century interest in folklore", "how": "Bảng ghi \"Growing interest in [16]\" ở mốc đầu thế kỷ 19 ↔ chính cụm \"interest in folklore\"." },
+        { "q": 17, "ans": "fairy tales", "quote": "a collection of fairy stories by the scholarly Grimm brothers", "how": "Bảng ghi \"Nursery rhymes and [17]\" ↔ đoạn liệt kê \"Both nursery rhymes ... and a collection of fairy stories\"; đáp án chấp nhận cả \"fairy tales\" lẫn \"fairy stories\"." },
+        { "q": 21, "ans": "E", "quote": "swiftly translated into English in 1823", "how": "Truyện Grimm được dịch SANG tiếng Anh, nghĩa là bản gốc không viết bằng tiếng Anh → E. Bẫy D (\"Translated a book into English\"): anh em Grimm là người được dịch, không phải người dịch – chú ý thể bị động \"translated\"." },
+        { "q": 25, "ans": "TRUE", "quote": "the greatest blow to the improving children’s book was to come from an unlikely source indeed: early 19th-century interest in folklore", "how": "\"changed the direction of the development\" ↔ \"the greatest blow\" khiến sách giáo huấn lùi bước và sách ngày càng hướng về trẻ → TRUE." }
+      ],
+      "note": "Câu dài cần tách: backbone = \"Both nursery rhymes ... and a collection of fairy stories ... soon rocketed to popularity with the young\" (WHO: đồng dao + truyện cổ Grimm – DOES WHAT: lập tức nổi tiếng với trẻ); các cụm xen giữa (\"selected by James Orchard Halliwell for a folklore society in 1842\", \"swiftly translated into English in 1823\") chỉ là thông tin phụ về từng mục, và vế kết \"quickly leading to new editions, each one more child-centred than the last\" nêu hệ quả."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Với trẻ lớn hơn, cái quyết định việc đọc không phải là có sách riêng cho thiếu nhi mà là tiếp cận được những sách có nhân vật dễ đồng cảm hoặc hành động không đòi hỏi sự chín chắn của người lớn.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Cuối thập niên 1930, sách bán chạy lấy trẻ làm trung tâm đẩy sự thoát ly lên đỉnh điểm: nhân vật của Blyton và Crompton phiêu lưu đủ kiểu mà chẳng bao giờ gặp chuyện xấu, thậm chí chiến tranh cũng không lọt vào thế giới đó; phản ứng ngược xuất hiện sau Thế chiến II cùng sách bìa mềm, thư viện thiếu nhi và tinh thần quan tâm xã hội mới.",
+      "answers": [
+        { "q": 18, "ans": "adventures", "quote": "described children who were always free to have the most unlikely adventures, secure in the knowledge that nothing bad could ever happen to them", "how": "Bảng ghi \"Stories of harm-free [18]\" ↔ phiêu lưu mà \"nothing bad could ever happen\"; đáp án: adventures." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Giới phê bình nay chia hai hướng – loại bỏ định kiến xã hội hoặc ghi nhận thành tựu; việc sách thiếu nhi ngày nay được giới thiệu cho cả người lớn lặp lại niềm tin thế kỷ 19 rằng văn học thiếu nhi có thể được các thế hệ cùng chia sẻ.",
+      "answers": [
+        { "q": 26, "ans": "TRUE", "quote": "That writers of these works are now often recommended to the attention of adult as well as child readers", "how": "\"appeal to both children and adults\" ↔ \"adult as well as child readers\"; bài còn nói điều này lặp lại niềm tin rằng văn học thiếu nhi \"can be shared by the generations\" → TRUE." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bảng có cột DATE: mỗi dòng là một đoạn khác nhau theo thứ tự, nên chỉ cần đọc tới mốc thời gian là biết chỗ trống nằm ở đâu – đừng scan ngược.",
+    "Matching people ở bài này toàn bẫy \"gần đúng\": Trimmer có dùng loài vật (B) nhưng với mục đích khác, Grimm liên quan tới việc dịch (D) nhưng ở thể bị động. Luôn kiểm tra chủ thể của hành động.",
+    "Với TFNG, hỏi xem ai là người có ý kiến đó: nhiều câu sai vì bài gán ý cho critics hoặc tác giả chứ không phải cho parents."
+  ]
+}

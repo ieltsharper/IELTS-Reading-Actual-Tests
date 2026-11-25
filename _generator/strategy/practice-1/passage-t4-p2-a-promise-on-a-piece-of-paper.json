@@ -1,0 +1,75 @@
+{
+  "step1": "Tiêu đề A Promise on a Piece of Paper gợi ngay ý: tiền giấy chỉ là một lời hứa, nên bài hẳn kể lịch sử tiền giấy và chuyện lời hứa ấy được tin tới đâu. Đoán mạch bài: tiền kim loại nặng nề → \"flying cash\" đời Đường → tiền giấy lưu thông ở Tứ Xuyên và nhà nước tiếp quản → nhà Nguyên bắt buộc dùng → lạm phát và nhà Minh bỏ tiền giấy → châu Âu (bills of exchange, thợ kim hoàn London, Thụy Điển, Bank of England) → bản vị vàng và tiền giấy ngày nay. Q14–18 (matching information) chốt khi đọc tới chi tiết; Q19–23 là summary về phần Trung Quốc nên nằm gọn ở các đoạn C, D, E; Q24–26 là câu hỏi ngắn, đều rơi vào đoạn D và F.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–18", "Matching information (đoạn A–G)", "Không: chỉ chốt khi đọc tới chi tiết", "not permitted by law to turn down, only part of the metal, one particular province, managed without paper money, first paper promises"],
+    ["19–23", "Summary completion – chọn từ trong khung (A–H)", "Có, theo thứ tự bài (phần Trung Quốc)", "Sichuan coinage, only ___ of notes, merchant who ___ to take it, repeated over-issue, settled larger accounts in"],
+    ["24–26", "Short answer (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "Yuan dynasty notes paper, debt in another city, true banknotes first"]
+  ],
+  "typesNote": "Bài kể theo trình tự thời gian nên cả ba dạng đều chạy xuôi: đọc tới triều đại nào thì chốt câu của triều đại đó rồi đi tiếp.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Trước đây tiền là vật có giá trị tự thân nhưng rất nặng, nên tiền giấy ra đời để khỏi phải chở kim loại; khác biệt mấu chốt: đồng xu là của cải, tờ giấy chỉ là lời hứa về của cải.",
+      "answers": [],
+      "note": "Đoạn mở đầu nêu luận đề (\"the history of how far such promises can be trusted\") nhưng không chứa câu hỏi nào. Đọc nhanh, nắm ý rồi đi tiếp."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Những lời hứa trên giấy đầu tiên được biết tới là ở đời Đường: thương nhân gửi tiền đồng cho đại lý ở thành này và nhận chứng thư đổi lấy tiền ở thành khác – gọi là \"flying cash\", chưa phải tiền thực thụ vì không nhằm lưu thông.",
+      "answers": [
+        { "q": 18, "ans": "B", "quote": "The first such promises on paper that we know of were issued in Tang dynasty China, more than a thousand years ago", "how": "\"the first paper promises of this kind that are known to have been issued\" ↔ \"The first such promises on paper that we know of were issued\" – gần như nguyên văn." }
+      ],
+      "note": "Bẫy giữa Q18 và Q16: đoạn B là tờ giấy ĐẦU TIÊN, đoạn C mới là tờ giấy đầu tiên thật sự LƯU THÔNG. Hai câu hỏi khác nhau nên hai đoạn khác nhau."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Giấy bạc thật sự lưu thông xuất hiện ở Tứ Xuyên vì tiền địa phương đúc bằng sắt quá cồng kềnh; các thương hội phát hành biên lai gửi tiền, rồi đầu thế kỷ 11 nhà nước dẹp tư nhân và tự in – được coi là tiền giấy đầu tiên do một chính quyền phát hành.",
+      "answers": [
+        { "q": 16, "ans": "C", "quote": "Notes that genuinely passed from hand to hand appeared a little later, in the province of Sichuan, and the reason they appeared there is instructive. Copper was scarce in the region and the local coinage was made of iron", "how": "\"an explanation of why notes first circulated in one particular province\" ↔ bài tự nói \"the reason they appeared there\" rồi giải thích bằng việc thiếu đồng, tiền bằng sắt." },
+        { "q": 19, "ans": "C", "quote": "the local coinage was made of iron, which is worth far less by weight", "how": "Tóm tắt \"the local coinage was made of ___, a metal of low value for its weight\" ↔ \"made of iron, which is worth far less by weight\". Bẫy: \"copper\" (F) cũng ở ngay câu đó nhưng là thứ KHAN HIẾM trong vùng, không phải thứ dùng để đúc tiền." },
+        { "q": 20, "ans": "D", "quote": "the authorities ... suppressed them and took the business over, printing notes themselves", "how": "\"the state ... became the only ___ of notes\" ↔ nhà nước dẹp tư nhân rồi tự in; \"issuer\" (D) là danh từ chỉ người phát hành. \"Borrower\" (G) không hợp nghĩa." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Dưới các hoàng đế Mông Cổ nhà Nguyên, tiền giấy in trên giấy vỏ dâu được phát hành khắp đế quốc và được tuyên bố là phương tiện thanh toán hợp pháp duy nhất; ai từ chối nhận sẽ bị phạt nặng, còn vàng bạc phải nộp vào kho đổi lấy giấy.",
+      "answers": [
+        { "q": 14, "ans": "D", "quote": "they were declared the only lawful means of payment: a merchant who refused to accept them was liable to severe punishment", "how": "\"a currency that people were not permitted by law to turn down\" ↔ \"the only lawful means of payment\" + hình phạt cho người \"refused to accept them\"." },
+        { "q": 21, "ans": "A", "quote": "a merchant who refused to accept them was liable to severe punishment", "how": "\"a merchant who ___ to take it in payment risked a severe penalty\" ↔ \"refused to accept them\"; chọn \"refused\" (A), còn \"agreed\" (H) là phương án trái nghĩa đặt sẵn để bẫy." },
+        { "q": 24, "ans": "mulberry bark", "quote": "Notes printed on paper made from mulberry bark", "how": "Câu hỏi \"What was the paper of Yuan dynasty notes made from?\" ↔ \"paper made from mulberry bark\"; chỉ cần hai từ, không cần chép cả \"paper made from\"." }
+      ],
+      "note": "Marco Polo và chi tiết \"turned bark into treasure\" là màu sắc kể chuyện, không có câu hỏi – đừng dừng lại."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Điểm yếu của hệ thống là chính trị chứ không phải kỹ thuật: chính quyền in thêm để bù thâm hụt, giá cả tăng, niềm tin sụp; tới thế kỷ 15 tiền nhà Minh gần như mất giá trị và nhà nước bỏ cuộc, sau đó Trung Quốc dùng bạc cân đong suốt nhiều thế kỷ.",
+      "answers": [
+        { "q": 17, "ans": "E", "quote": "For several centuries afterwards China conducted its large transactions in silver, weighed out and assessed for purity at each payment", "how": "\"a long period during which a country managed without paper money\" ↔ \"For several centuries afterwards\" nhà nước đã \"gave up the attempt\" và chuyển sang bạc." },
+        { "q": 22, "ans": "E", "quote": "Each new issue reduced the value of the notes already in circulation; prices rose, confidence fell", "how": "\"repeated over-issue brought ___ and a collapse of confidence\" ↔ giá tăng, giá trị giấy bạc giảm = \"inflation\" (E); bài không dùng từ \"inflation\" cho hiện tượng này mà chỉ mô tả, nên phải hiểu nghĩa." },
+        { "q": 23, "ans": "B", "quote": "China conducted its large transactions in silver", "how": "\"settled its larger accounts in ___ for several hundred years\" ↔ \"conducted its large transactions in silver\"; chọn \"silver\" (B)." }
+      ],
+      "note": "Đoạn này có cả \"printing block\" và động từ \"inflate\" (\"one that no official could inflate with a printing block\") – từ gốc của đáp án Q22, nhưng dùng cho bạc chứ không phải cho giấy. Hãy bám ý: in thêm → mất giá."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Châu Âu đi tới cùng thể chế bằng con đường khác: bills of exchange, rồi thợ kim hoàn London nhận giữ tiền và phát hành biên lai, nhận ra chỉ một phần nhỏ kim loại bị rút ra nên có thể cho vay nhiều hơn số đang giữ; Thụy Điển là nước châu Âu đầu tiên phát hành giấy bạc thật sự, và Bank of England ra đời năm 1694.",
+      "answers": [
+        { "q": 15, "ans": "F", "quote": "the goldsmiths noticed that only a small proportion of the coin they held was ever called for at any one time, so that they could safely lend out more in receipts than they actually held in metal", "how": "\"the discovery that only part of the metal held needed to be kept available\" ↔ \"noticed that only a small proportion of the coin they held was ever called for\"." },
+        { "q": 25, "ans": "bills of exchange", "quote": "Merchants there had long used bills of exchange, written instructions by which a debt incurred in one city could be settled by a correspondent in another", "how": "Câu hỏi \"settle a debt incurred in another city\" ↔ \"a debt incurred in one city could be settled by a correspondent in another\"; đáp án đúng ba từ." },
+        { "q": 26, "ans": "Sweden", "quote": "Sweden, where the main coinage consisted of copper plates of extraordinary weight, was the first European country to issue true banknotes", "how": "\"Which European country issued true banknotes before any other?\" ↔ \"the first European country to issue true banknotes\". Bẫy: England được nhắc nhiều hơn (goldsmiths, Bank of England 1694) nhưng Bank of England không phải nước đầu tiên." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Quyền phát hành dần tập trung vào một định chế mỗi nước và lời hứa được gắn với vàng, nhưng việc đổi ra vàng bị đình chỉ nhiều lần rồi bỏ hẳn đầu thập niên 1970; tờ tiền ngày nay chỉ hứa chính nó, giá trị dựa vào sự tiết chế của định chế phát hành và việc nhà nước, tòa án công nhận nó.",
+      "answers": [],
+      "note": "Không câu hỏi nào rơi vào đoạn cuối, nhưng đây là nơi khép lại luận đề của đoạn A: tiền giấy = lời hứa. Nếu còn phân vân ở Q17, nhớ rằng \"managed without paper money\" là chuyện của Trung Quốc ở đoạn E, không phải việc bỏ bản vị vàng ở đây."
+    }
+  ],
+  "tips": [
+    "Bài có bốn kim loại (copper, iron, silver, gold) và khung từ cho sẵn cả bốn: luôn đọc kỹ kim loại đó đang đóng vai gì – thứ khan hiếm, thứ dùng đúc tiền, hay thứ dùng thanh toán lớn.",
+    "Matching information ở đây dựa vào chi tiết độc nhất của từng triều đại/nước: Tang = tờ giấy đầu tiên (B), Sichuan = lý do lưu thông (C), Yuan = bắt buộc nhận (D), Ming = bỏ tiền giấy dùng bạc (E), London = phát hiện của thợ kim hoàn (F).",
+    "Câu hỏi ngắn Q24–26 yêu cầu tối đa ba từ: chép đúng cụm danh từ trong bài (\"mulberry bark\", \"bills of exchange\", \"Sweden\"), đừng thêm \"paper made from\" hay \"the Bank of\"."
+  ]
+}

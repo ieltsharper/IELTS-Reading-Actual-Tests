@@ -1,0 +1,104 @@
+{
+  "step1": "Tiêu đề \"Wonder Plant\" và sapo cho biết bài nói về cây tre: hơn một tỉ người sống nhờ tre, nhiều loài vật phụ thuộc vào tre, nhưng nhiều loài tre đang bị đe dọa. Đoán mạch bài: khỉ đột ăn tre → người dân dùng tre → thiếu hiểu biết/nghiên cứu về tre → đặc điểm sinh thái → giá trị kinh tế → nghịch lý \"tre xâm lấn mà lại nguy cấp\" → cái bị đe dọa là môi trường sống → bảo tồn. Q1–7 (matching information) và Q8–11 (matching people) rải khắp bài, không theo thứ tự; Q12–13 là short answer nằm ở phần nói về rễ và sản phẩm tre.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–7", "Matching information (sections A–F, có thể lặp)", "Không – phải đọc xong từng section mới gán được", "comparison, commercial products, research, destroyed, variety of uses, survival of plants, methods"],
+    ["8–11", "Matching features – tên người (A–D)", "Có: scan tên riêng Redmond, Kapos, Townsend, Stapleton", "Ian Redmond, Valerie Kapos, Ray Townsend, Chris Stapleton"],
+    ["12–13", "Short answer (NO MORE THAN TWO WORDS)", "Có: root system, market expansion", "root system, prevent, fastest growing product"]
+  ],
+  "typesNote": "Bài này chia sáu section A–F, mỗi section gồm hai đoạn in bài (A = đoạn 1–2, B = đoạn 3–5, C = đoạn 6, D = đoạn 7–8, E = đoạn 9–10, F = đoạn 11–12); đọc hết một section thì chốt ngay các câu thuộc section đó rồi đi tiếp.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Khỉ đột núi ở Trung Phi di cư theo mùa mưa để ăn tre, tre chiếm tới 90% khẩu phần của chúng và mất tre thì cơ hội sống sót giảm mạnh.",
+      "answers": [
+        { "q": 8, "ans": "A", "quote": "Without it, says Ian Redmond, chairman of the Ape Alliance, their chances of survival would be reduced significantly", "how": "\"Destroying bamboo poses a threat to wildlife\" ↔ mất tre thì khả năng sống sót của khỉ đột giảm mạnh; đây là lời của Ian Redmond nên chọn A, không phải Kapos (B chỉ nói về môi trường sống nói chung)." }
+      ],
+      "note": "Đoạn 1 thuộc section A."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Người dân quanh dãy Virunga dùng tre làm nhà và đồ gia dụng, nhưng 100 năm qua rừng tre bị phá để lấy đất làm nông trại và đồn điền thương mại.",
+      "answers": [
+        { "q": 4, "ans": "A", "quote": "large areas of bamboo forest have been cleared to make way for farms and commercial plantations", "how": "\"A human development that destroyed large areas of bamboo\" ↔ phá rừng tre để làm nông trại/đồn điền; đoạn 2 nằm trong section A." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Hiện tượng này xảy ra khắp thế giới: phạm vi phân bố của nhiều loài tre đang thu hẹp, trong khi hiểu biết của con người về tre lại rất ít, như báo cáo UNEP–INBAR chỉ ra.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Trong gần 1.600 loài tre, báo cáo chỉ xét khoảng 1.200 loài thân gỗ, và chỉ 38 loài \"ưu tiên\" từng được nghiên cứu khoa học thực sự, chủ yếu ở khía cạnh hàng hóa.",
+      "answers": [
+        { "q": 3, "ans": "B", "quote": "only 38 ‘priority species’ identified for their commercial value have been the subject of any real scientific research", "how": "\"Limited extent of existing research\" ↔ chỉ 38 loài được nghiên cứu thật sự, và chỉ ở góc độ thương mại; đoạn 4 thuộc section B." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Khoa học đánh giá tình trạng bảo tồn thực vật còn non trẻ so với động vật; theo Kapos, người ta mới bắt đầu tìm được cách làm việc này một cách hệ thống.",
+      "answers": [
+        { "q": 7, "ans": "B", "quote": "only now are they getting a handle on how to go about it systematically", "how": "\"The methods used to study bamboo\" ↔ cách tiến hành (how to go about it) việc đánh giá; vẫn thuộc section B nên câu 3 và 7 cùng đáp án B." },
+        { "q": 9, "ans": "B", "quote": "People have only started looking hard at this during the past 10-15 years", "how": "\"People have very limited knowledge of bamboo\" ↔ lời Valerie Kapos rằng mới 10–15 năm nay người ta mới thật sự chú ý; chọn B. Bẫy: ý \"ít hiểu biết\" cũng xuất hiện ở đoạn 3 nhưng ở đó không gắn với người nào được liệt kê." }
+      ],
+      "note": "Câu dài cần tách: backbone = \"the science of assessing the conservation status of plants is still in its infancy\" (WHO: ngành khoa học này – DOES WHAT: còn sơ khai), mệnh đề so sánh \"Compared to the work carried out on animals\" chỉ nêu mốc so sánh là động vật, không phải \"other plant species\" của câu 1."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Tre là một loại cỏ, cao từ 30 cm tới hơn 40 m, mọc nhanh nhất thế giới; hệ rễ rhizome chống xói mòn đất, và chu kỳ ra hoa – chết hàng loạt tạo khoảng trống trong rừng giúp duy trì đa dạng thực vật.",
+      "answers": [
+        { "q": 6, "ans": "C", "quote": "Patchiness helps to preserve diversity because certain plant species do better during the early stages of regeneration when there are gaps in the canopy", "how": "\"An explanation of how bamboo can help the survival of a range of plants\" ↔ khoảng trống do tre cháy tạo ra giúp nhiều loài cây khác tái sinh; đoạn 6 chính là section C." },
+        { "q": 12, "ans": "soil erosion", "quote": "Its extensive rhizome systems, which lie in the top layers of the soil, are crucial in preventing soil erosion", "how": "\"unique root system\" ↔ \"rhizome systems\"; \"prevent\" khớp thẳng với \"preventing\", đáp án đúng hai từ: soil erosion." }
+      ],
+      "note": "Đừng trả lời câu 12 là \"wildfire\": cháy rừng là hệ quả của sinh khối khô, không phải thứ rễ tre ngăn được."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Giá trị trực tiếp nhất của tre là kinh tế: nhờ công nghệ chế biến, tre thành sàn, ván ép và nhất là giấy – 25% giấy ở Ấn Độ làm từ sợi tre.",
+      "answers": [
+        { "q": 2, "ans": "D", "quote": "Modern processing techniques mean that it can be used in a variety of ways, for example, as flooring and laminates", "how": "\"Commercial products of bamboo\" ↔ các sản phẩm chế biến: sàn, laminate, giấy; đoạn 7 mở đầu section D." },
+        { "q": 13, "ans": "paper", "quote": "One of the fastest growing bamboo products is paper", "how": "\"experiencing market expansion\" ↔ \"fastest growing ... products\"; đáp án một từ: paper." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Tre chủ yếu dùng trong đời sống trong nước, trị giá khoảng 4,5 tỉ USD mỗi năm; nhờ bền và dẻo nên được dùng xây dựng, hơn một tỉ người sống trong nhà tre, và theo Stapleton tre giúp xóa nghèo, tạo của cải.",
+      "answers": [
+        { "q": 5, "ans": "D", "quote": "Because of its versatility, flexibility and strength (its tensile strength compares to that of some steel), it has traditionally been used in construction", "how": "\"How bamboos are put to a variety of uses\" ↔ \"versatility\" và các ứng dụng xây nhà, đồ dùng; vẫn là section D nên câu 2 và 5 trùng đáp án." },
+        { "q": 11, "ans": "D", "quote": "it contributes substantially to poverty alleviation and wealth creation", "how": "\"immeasurable commercial potentials\" ↔ lời Chris Stapleton rằng tre đóng góp lớn cho giảm nghèo và tạo của cải. Bẫy: Townsend ở đoạn 12 cũng khen tre \"so commercially important\", nhưng đáp án chính thức là D nên bám vào Stapleton." }
+      ],
+      "note": "Hai câu 2 và 5 cùng rơi vào section D – đề đã báo trước \"You may use any letter more than once\", đừng vì sợ trùng mà đổi đáp án."
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Báo cáo UNEP đáng lo, nhưng có vẻ mâu thuẫn: người trồng cảnh biết tre rất xâm lấn, và theo Kapos, dân sống cùng tre không hề thấy tre bị nguy cấp.",
+      "answers": [
+        { "q": 10, "ans": "B", "quote": "the people who live with bamboo don’t perceive it as being endangered in any way", "how": "\"Some people think bamboo is not really endangered\" ↔ đúng lời Valerie Kapos, nên chọn B." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Townsend phân biệt hai vấn đề: nhiều loài cây bị đe dọa vì bản thân chúng yếu, còn tre đủ khỏe để tự sống – thứ bị đe dọa là môi trường sống của nó.",
+      "answers": [
+        { "q": 1, "ans": "E", "quote": "Some plants are threatened because they can’t survive in the habitat ... But bamboo can take care of itself", "how": "\"Comparison of bamboo with other plant species\" ↔ đối chiếu \"some plants\" (yếu, không sống nổi) với \"bamboo\" (đủ khỏe nếu để yên); đoạn 10 nằm trong section E." }
+      ],
+      "note": "Bẫy lớn: đoạn 5 có \"Compared to the work carried out on animals\" – so sánh với động vật và so sánh về công trình nghiên cứu, không phải so sánh tre với các loài thực vật khác."
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Tre chỉ được bảo vệ gián tiếp khi nằm trong vườn quốc gia, gần như không có biện pháp nào bảo vệ tre hoang dã vì chính nó; báo cáo UNEP–INBAR sẽ giúp đổi điều đó.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Townsend coi báo cáo là bước tiến: lâu nay tre bị xem là cây hạng hai bên cạnh gỗ cứng, dù theo ông đây có thể là loài cây quan trọng nhất với con người, và việc cần làm đầu tiên là đưa nhà khoa học ra thực địa.",
+      "answers": []
+    }
+  ],
+  "tips": [
+    "Matching information (Q1–7) không theo thứ tự và được phép lặp letter: hãy ghi nhớ ranh giới section (A = đoạn 1–2, B = 3–5, C = 6, D = 7–8, E = 9–10, F = 11–12) rồi chốt ngay khi đọc xong mỗi section.",
+    "Bài có rất nhiều con số (650, 1.600, 1.200, 38, 25%, 4,5 tỉ, một tỉ) nhưng không câu nào hỏi số – đừng mất thời gian dừng lại ở chúng.",
+    "Với matching people, ai nói câu đó mới quan trọng: nhiều ý giống nhau được hai người nhắc tới, hãy bám vào đoạn có dấu ngoặc kép gắn trực tiếp với tên trong danh sách."
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "step1": "Tiêu đề \"Tasmanian Tiger\" cho biết bài nói về con thylacine – loài thú túi ăn thịt được coi là đã tuyệt chủng. Đoán trước mạch bài kiểu báo chí khoa học: mô tả con vật → lịch sử hóa thạch và quá trình tuyệt chủng → lần nhìn thấy đáng tin nhất (Hans Naarding) → phản ứng của dư luận và các cuộc tìm kiếm → ý kiến trái chiều của các nhà khoa học (Rose, Pemberton) → ví dụ cá coelacanth → người đi xác minh các báo cáo (Nick Mooney) → kết luận của Naarding. Q14–17 là summary về phần đầu bài (đoạn 1–2); Q18–23 ghép phát biểu với bốn nhân vật nên chỉ chốt được khi đọc tới đoạn của từng người; Q24–26 là trắc nghiệm nằm rải ở đoạn 6, 10 và 13.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–17", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự – chỉ nằm ở hai đoạn đầu", "dog, fur coat, fossils, years ago, mainland, settlers"],
+    ["18–23", "Matching features – bốn người (A–D, được dùng lại)", "Có – scan tên riêng rồi đọc kỹ đoạn của người đó", "Hans Naarding, Randolph Rose, David Pemberton, Nick Mooney"],
+    ["24–26", "Multiple choice (A–D)", "Có – theo thứ tự bài", "Naarding's sighting resulted in, coelacanth, all reports on face value"]
+  ],
+  "typesNote": "Bài có rất nhiều tên riêng nên định vị dễ: đọc đến đoạn chứa tên ai thì chốt ngay phát biểu của người đó, đừng để dồn tới cuối rồi phải quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Dù gọi là \"tiger\", con vật trông như một con chó có sọc đen trên lưng; đây là loài thú túi ăn thịt lớn nhất thời hiện đại, tên khoa học là Thylacine, được cho là đã tuyệt chủng trong thế kỷ 20.",
+      "answers": [
+        { "q": 14, "ans": "black stripes", "quote": "it looked like a dog with black stripes on its back", "how": "\"resembles the look of a dog and has ___ on its fur coat\" ↔ \"looked like a dog with black stripes on its back\"; fur coat = back (bộ lông trên lưng). Đúng hai từ: black stripes." }
+      ]
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Hóa thạch có niên đại gần 12 triệu năm; thylacine từng phổ biến khắp Australia cách đây 7.000 năm nhưng đã biến mất khỏi đại lục khoảng 2.000 năm trước (có thể do dingo); ở Tasmania, số lượng giảm nhanh hơn sau khi người châu Âu tới, con cuối cùng chết ở Hobart Zoo năm 1936.",
+      "answers": [
+        { "q": 15, "ans": "12 million", "quote": "Fossils of thylacines dating from almost 12 million years ago have been dug up at various places", "how": "\"had existed as early as ___ years ago\" ↔ \"dating from almost 12 million years ago\". Bẫy số: 7,000 là lúc chúng phổ biến, 2,000 là lúc tuyệt chủng ở đại lục, 8,000 là lúc dingo xuất hiện – chỉ 12 million mới gắn với fossils." },
+        { "q": 16, "ans": "Australia", "quote": "They were widespread in Australia 7,000 years ago, but have probably been extinct on the continent for 2,000 years", "how": "\"lived throughout ___ before disappearing from the mainland\" ↔ \"widespread in Australia ... extinct on the continent\"; mainland = the continent. Đừng điền Tasmania: Tasmania là nơi chúng còn sống thêm, không phải đại lục." },
+        { "q": 17, "ans": "European", "quote": "thylacine numbers may have been declining in Tasmania at the time of European settlement 200 years ago, but the decline was certainly accelerated by the new arrivals", "how": "\"soon after the ___ settlers arrived ... shrunk at a higher speed\" ↔ \"European settlement ... the decline was certainly accelerated by the new arrivals\"; accelerated = nhanh hơn." }
+      ],
+      "note": "Câu dài cần chẻ: backbone \"thylacine numbers may have been declining in Tasmania\" (WHO – DOES WHAT), cụm thời gian \"at the time of European settlement 200 years ago\" định mốc, rồi mệnh đề tương phản \"but the decline was certainly accelerated by the new arrivals\" mới là ý trả lời câu 17."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Giới thiệu Hans Naarding: khi đang khảo sát một loài chim di cư nguy cấp, ông có lần nhìn thấy thylacine nay được coi là đáng tin nhất từng được ghi nhận.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Naarding kể lại: đèn pha chiếu trúng con vật cách xe chưa tới 10 m, to cỡ chó chăn cừu nhỏ, khác chó ở phần mông dốc và đuôi nối thẳng sống lưng, có 12 sọc rõ rệt; khi ông với lấy máy ảnh thì nó biến mất.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Giám đốc Vườn quốc gia Tasmania giữ kín chuyện này hai năm; khi tin lộ ra thì hỗn loạn, đoàn truyền hình từ Nhật, Anh, Đức, New Zealand và Nam Mỹ vây lấy Naarding.",
+      "answers": [
+        { "q": 18, "ans": "A", "quote": "I was besieged by television crews, including four to five from Japan, and others from the United Kingdom, Germany, New Zealand and South America", "how": "\"attracted international interest\" ↔ danh sách đài truyền hình từ nhiều nước; người kể chính là Hans Naarding → A." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Các đoàn tìm kiếm của chính phủ và tư nhân lùng sục cả vùng nhưng không thấy gì thêm; từ đó thylacine trở lại như một phần của huyền thoại Australia.",
+      "answers": [
+        { "q": 24, "ans": "B", "quote": "Government and private search parties combed the region, but no further sightings were made", "how": "Hệ quả của lần nhìn thấy là sự quan tâm rộng khắp nhằm tìm một con thylacine còn sống ↔ B. Loại A: các đoàn đi TÌM chứ không hợp tác bảo vệ loài; loại C: bài nói 4.000 báo cáo nhưng ở Tasmania, không phải \"worldwide\"; loại D: bài nói huyền thoại/mythology chứ không nói văn học." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Hơn 4.000 lần tuyên bố nhìn thấy kể từ khi loài này coi như tuyệt chủng, trung bình 150 báo cáo mỗi năm; Randolph Rose mơ được thấy một con nhưng sau 35 năm đã tin rằng giấc mơ đó sẽ không thành.",
+      "answers": [
+        { "q": 21, "ans": "B", "quote": "Rose, who in his 35 years in Tasmanian academia has fielded countless reports of thylacine sightings, is now convinced that his dream will go unfulfilled", "how": "\"no hope of finding a surviving Tasmanian tiger\" ↔ \"convinced that his dream will go unfulfilled\" → Randolph Rose, đáp án B." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Rose dẫn đồng thuận của giới bảo tồn: quần thể dưới 1.000 cá thể thường tuyệt chủng trong vòng 60 năm, mà 60 năm trước chỉ còn đúng một con ở Hobart Zoo.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "David Pemberton phản bác: dù lý thuyết đòi 500 cá thể để duy trì quần thể, báo Florida chỉ còn khoảng một tá mà vẫn tồn tại; ông đoán nếu tìm được một con thylacine thì ngoài kia phải có hơn 50 con.",
+      "answers": [
+        { "q": 20, "ans": "C", "quote": "despite scientific thinking that 500 animals are required to sustain a population, the Florida panther is down to a dozen or so animals and, while it does have some inbreeding problems, is still ticking along", "how": "\"doesn't require a certain number of animals to ensure the survival\" ↔ ví dụ báo Florida bác lại con số 500 → David Pemberton, đáp án C. Bẫy: Rose ở đoạn 8 cũng nhắc con số 1.000 nhưng ông dùng nó để KHẲNG ĐỊNH ngưỡng, còn Pemberton mới là người phủ nhận." }
+      ],
+      "note": "Câu dài cần chẻ: backbone \"Dr. David Pemberton ... says that ... the Florida panther is down to a dozen or so animals and ... is still ticking along\". Mệnh đề nhượng bộ \"despite scientific thinking that 500 animals are required\" nêu lý thuyết bị phản bác, \"whose PhD thesis was on the thylacine\" chỉ bổ nghĩa cho tên ông, còn \"while it does have some inbreeding problems\" là nhượng bộ nhỏ bên trong."
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Động vật có thể rất khó thấy: cá coelacanth từng bị cho là tuyệt chủng cùng khủng long 70 triệu năm trước, mãi tới 1938 mới bắt được một con ngoài khơi Nam Phi.",
+      "answers": [
+        { "q": 25, "ans": "D", "quote": "was thought to have died out along with the dinosaurs 70 million years ago until a specimen was dragged to the surface in a shark net", "how": "Ví dụ cho thấy kết luận tuyệt chủng có thể sai ↔ D. Loại A: bài không nói nó sống CÙNG thời khủng long như một thông tin cần chứng minh, chỉ dùng mốc đó; loại B: \"proto-legs\" là đặc điểm của cá, không phải chuyện khủng long tiến hóa chân; loại C: khó BẮT không phải ý chính – ý chính là người ta tưởng nó đã biến mất." }
+      ]
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Nick Mooney là người phải xác minh toàn bộ 4.000 báo cáo (khoảng 150 mỗi năm); gần đây ông được hỏi ý kiến về mấy tấm ảnh số do một du khách Đức chụp, mà ông đánh giá là một trong những bằng chứng thuyết phục nhất.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Mooney đã gặp đủ loại: nhầm lẫn, trò lừa, ảo giác và cả những lời kể hợp lý; phần lớn người báo cáo đều thật lòng tin mình đã thấy thylacine, nhiều người thành ám ảnh tới mức phá sản, vì họ nhìn mọi thứ bằng \"lạc quan mù quáng\".",
+      "answers": [
+        { "q": 19, "ans": "D", "quote": "And Mooney has seen it all—the mistakes, the hoaxes, the illusions and the plausible accounts of sightings", "how": "\"Many eye-witnesses' reports are not trustworthy\" ↔ Mooney liệt kê nhầm lẫn, trò lừa, ảo giác trong các báo cáo → D." },
+        { "q": 23, "ans": "D", "quote": "It is a blind optimism that something is, rather than a cynicism that something isn't ... If something crosses the road, it's not a case of 'I wonder what that was?' Rather, it is a case of 'that's a thylacine!'", "how": "\"interpretation of evidence can be affected by people's beliefs\" ↔ niềm tin sẵn có khiến người ta diễn giải mọi bóng vật băng qua đường thành thylacine; vẫn là lời Mooney → D." }
+      ],
+      "note": "Đề cho phép dùng lại chữ cái (\"NB You may use any letter more than once\"), nên việc D xuất hiện ở cả Q19, Q23, Q26 và A ở cả Q18, Q22 là bình thường."
+    },
+    {
+      "para": "Đoạn 13",
+      "idea": "Dù vậy Mooney vẫn tiếp nhận mọi báo cáo một cách nghiêm túc, không bao giờ làm người ta bẽ mặt, dù việc ông không lập tức lên đường thường bị hiểu là chế giễu.",
+      "answers": [
+        { "q": 26, "ans": "A", "quote": "However, Mooney treats all reports on face value. \"I never try to embarrass people, or make fools of them.", "how": "\"on face value\" = tin theo đúng những gì người ta kể ↔ A \"given some credit as they claim even if they are untrue\". Loại B: chính Mooney nói ông KHÔNG lập tức lên xe (\"the fact that I don't pack the car immediately\"); loại C: ông không coi mọi báo cáo là bịa; loại D: bài không nói ông chất vấn từng báo cáo, mà nói ông không làm người kể bẽ mặt." }
+      ]
+    },
+    {
+      "para": "Đoạn 14",
+      "idea": "Naarding thấy khó hiểu khi người ta tốn thời gian và tiền bạc đi săn tìm thylacine; theo ông nên dồn nguồn lực cứu quỷ Tasmania và các đàn chim di cư đang suy giảm vì đất ngập nước thu hẹp.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 15",
+      "idea": "Naarding tin thylacine có thể vẫn còn ngoài đó nhưng việc tìm ra chúng là \"rather pointless\": nếu còn thì cứ để chúng yên ở chỗ của mình.",
+      "answers": [
+        { "q": 22, "ans": "A", "quote": "If there are thylacines out there, they are better off right where they are", "how": "\"Do not disturb them if there are any Tasmanian tigers still living today\" ↔ \"they are better off right where they are\"; người nói là Hans Naarding → A." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài dày đặc con số (12 triệu, 7.000, 8.000, 2.000, 200, 1936, 4.000, 150, 1.000, 500, 50): mỗi số gắn với một chủ thể khác nhau, nên luôn kiểm tra số đó đi kèm danh từ nào trước khi điền.",
+    "Matching features ở đây là bốn người có quan điểm đối lập nhau: Rose bi quan, Pemberton lạc quan về số lượng, Mooney trung lập trong việc xác minh, Naarding đã thấy nhưng khuyên để yên. Nắm bốn \"nhãn\" này là ghép được cả sáu câu.",
+    "Với trắc nghiệm, các phương án sai đều lấy đúng từ trong bài nhưng lệch vai trò (search parties thành bảo vệ loài, coelacanth thành chuyện khủng long): hãy đối chiếu với ý chính của đoạn, không chỉ với từ khóa."
+  ]
+}

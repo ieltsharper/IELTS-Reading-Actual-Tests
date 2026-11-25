@@ -1,0 +1,107 @@
+{
+ "step1": "Tiêu đề Being Left-handed in a Right-handed World và sapo (\"Why does a tenth of the population prefer the left?\") cho biết bài đi tìm nguyên nhân thuận tay trái. Mạch bài đoán được: xác suất di truyền → nghiên cứu sinh đôi và thai nhi phản bác thuyết gen → so sánh với động vật → lịch sử nghiên cứu hai bán cầu não (Dax, phẫu thuật tách não, Wada, Milner) → giả thuyết ngôn ngữ và cử chỉ → bàn về sáng tạo của người thuận tay trái. Lưu ý quan trọng: đề chia bài thành bảy phần A–G, mỗi phần gộp vài đoạn (A ≈ đoạn 1–2, B ≈ đoạn 3–4, C ≈ đoạn 5, D ≈ đoạn 6–7, E ≈ đoạn 8–10, F ≈ đoạn 11–12, G ≈ đoạn 13). Q14–18 (Matching Information) và Q19–22 (nối nhà nghiên cứu) đều chốt được trong một lượt đọc vì mỗi tên riêng xuất hiện đúng một lần.",
+ "types": [
+  ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+  ["14–18", "Matching Information (phần A–G)", "Không – chốt sau khi đọc xong mỗi phần", "animal species, how likely, the age, occupations, early discovery of hemisphere's function"],
+  ["19–22", "Matching researchers với findings A–G", "Có – bám tên riêng", "Marian Annett, Peter Hepper, Brenda Milner, Theodore Rasmussen, Michael Corballis"],
+  ["23–26", "Yes / No / Not Given", "Có, theo thứ tự bài", "twins, Marc Dax widely accepted, Juhn Wada, men and women"]
+ ],
+ "typesNote": "Nhóm 19–22 là chỗ dễ ăn điểm nhất: bốn tên riêng nằm lần lượt ở đoạn 1, 3, 8 và 10, nên cứ gặp tên nào thì chốt ngay phát hiện của người đó rồi đi tiếp.",
+ "walk": [
+  {
+   "para": "Đoạn 1 (phần A)",
+   "idea": "Xác suất sinh con thuận tay trái tăng dần theo số cha mẹ thuận tay trái; Annett giả thuyết không có gen đơn lẻ nào quyết định, mà một yếu tố phân tử giúp mạnh thêm bán cầu trái khi còn là thai nhi.",
+   "answers": [
+    { "q": 15, "ans": "A", "quote": "The probability that two right-handed people would have a left-handed child is only about 9.5 per cent.", "how": "\"How likely one handedness is born\" ↔ các con số xác suất 9,5% / 19,5% / 26% ở ngay đầu phần A." },
+    { "q": 19, "ans": "B", "quote": "British biologist Marian Annett of the University of Leicester hypothesised that no single gene determines handedness", "how": "\"No single biological component determines the handedness of a child\" ↔ \"no single gene determines handedness\"; \"biological component\" là cách nói khái quát của \"gene\" → finding B." }
+   ],
+   "note": "Xương sống câu dài về Annett: một yếu tố phân tử (molecular factor) làm mạnh bán cầu trái → nhờ đó tay phải dễ thành tay thuận, vì bán cầu trái điều khiển nửa phải cơ thể; ai thiếu yếu tố này thì tay thuận hình thành hoàn toàn ngẫu nhiên."
+  },
+  {
+   "para": "Đoạn 2 (phần A)",
+   "idea": "Nghiên cứu sinh đôi làm phức tạp thuyết gen: cứ năm cặp song sinh cùng trứng thì có một cặp gồm một người thuận tay phải, một người thuận tay trái.",
+   "answers": [
+    { "q": 23, "ans": "YES", "quote": "Genes, therefore, are not solely responsible for handedness.", "how": "\"genetic determination is not the only factor\" ↔ \"not solely responsible\"; bằng chứng là cặp song sinh cùng gen nhưng khác tay thuận → YES." }
+   ]
+  },
+  {
+   "para": "Đoạn 3 (phần B)",
+   "idea": "Nhóm Hepper dùng siêu âm thấy thai nhi tuần thứ 15 đã chọn ngón cái để mút, trong khi não chưa điều khiển được chi, nên ông cho rằng bên cơ thể phát triển nhanh hơn mới chi phối sự phát triển của não.",
+   "answers": [
+    { "q": 20, "ans": "F", "quote": "Hepper speculates that foetuses tend to prefer whichever side of the body is developing quicker and that their movements, in turn, influence the brain's development.", "how": "\"The rate of development of one side of the body has influence on hemisphere preference in foetus\" ↔ \"whichever side of the body is developing quicker\" + \"influence the brain's development\" → finding F. Không chọn G (não đã hoàn thiện ở cuối giai đoạn bào thai) vì bài nói ngược: tuần 15 não còn chưa điều khiển được tay chân." }
+   ]
+  },
+  {
+   "para": "Đoạn 4 (phần B)",
+   "idea": "Một bằng chứng nữa chống lại thuyết định sẵn bởi gen: trẻ em mãi tới hai hoặc ba tuổi mới chọn hẳn tay trái hay tay phải.",
+   "answers": [
+    { "q": 16, "ans": "B", "quote": "children do not settle on either their right or left hand until they are two or three years old", "how": "\"The age when the preference for using one hand is settled\" ↔ \"do not settle on either their right or left hand until they are two or three years old\"; đúng chữ \"settle\"." }
+   ]
+  },
+  {
+   "para": "Đoạn 5 (phần C)",
+   "idea": "Thiên lệch một bên cơ thể rất phổ biến ở động vật (mèo, ngựa, cua) và có lợi về mặt tiến hóa, nhưng ở loài vật thì bên nào là ngẫu nhiên; chỉ riêng con người mới áp đảo thuận tay phải.",
+   "answers": [
+    { "q": 14, "ans": "C", "quote": "specialisation on either side of the body is common among animals. Cats will favour one paw over another", "how": "\"Preference for using one side of the body in animal species\" ↔ \"specialisation on either side of the body is common among animals\" với ba ví dụ mèo, ngựa, cua." }
+   ]
+  },
+  {
+   "para": "Đoạn 6 (phần D)",
+   "idea": "Từ 1836, bác sĩ Pháp Marc Dax báo cáo hơn 40 bệnh nhân khó nói đều bị tổn thương bán cầu trái và cho rằng mỗi nửa não đảm nhiệm những chức năng riêng, nhưng giới chuyên môn khi đó không quan tâm.",
+   "answers": [
+    { "q": 18, "ans": "D", "quote": "Interest in hemispheres dates back to at least 1836.", "how": "\"A reference to an early discovery of each hemisphere's function\" ↔ mốc 1836 và kết luận của Dax rằng \"each half of the brain was responsible for certain functions\"." },
+    { "q": 24, "ans": "NO", "quote": "Other experts showed little interest in the Frenchman's ideas.", "how": "Câu hỏi nói báo cáo của Dax được chấp nhận rộng rãi thời đó; bài nói các chuyên gia khác gần như không quan tâm → mâu thuẫn → NO (không phải NOT GIVEN vì bài nói rõ phản ứng của giới chuyên môn)." }
+   ],
+   "note": "Finding C (mỗi bán cầu phụ trách chức năng cơ thể khác nhau) ứng với Dax, nhưng Dax không nằm trong danh sách Q19–22; đó là phương án nhử để người làm bài gán nhầm cho Milner & Rasmussen."
+  },
+  {
+   "para": "Đoạn 7 (phần D)",
+   "idea": "Càng về sau càng nhiều bằng chứng rằng tổn thương não trái gây khó nói, còn tổn thương não phải gây rối loạn tri giác; phẫu thuật tách não những năm 1960 cho phép nghiên cứu riêng từng bán cầu.",
+   "answers": []
+  },
+  {
+   "para": "Đoạn 8 (phần E)",
+   "idea": "Wada (1949) nghĩ ra cách gây tê một bên não để nghiên cứu bên còn lại; dựa trên đó, Milner và Rasmussen công bố năm 1975 rằng 96% người thuận tay phải xử lý ngôn ngữ ở bán cầu trái, còn người thuận tay trái thì tỉ lệ không rõ ràng bằng.",
+   "answers": [
+    { "q": 21, "ans": "D", "quote": "Brenda Milner and the late Theodore Rasmussen of the Montreal Neurological Institute published a major study in 1975 that confirmed the theory that country doctor Dax had formulated nearly 140 years earlier: in 96 per cent of right-handed people, language is processed much more intensely in the left hemisphere.", "how": "\"Language process is mainly centred in the left hemisphere\" ↔ \"language is processed much more intensely in the left hemisphere\" → finding D. Bẫy là finding C: hai ông chỉ xác nhận phần ngôn ngữ, còn phát biểu tổng quát về chức năng từng bán cầu là của Dax." },
+    { "q": 25, "ans": "NOT GIVEN", "how": "Bài nói Wada tiêm thuốc tê để làm liệt tạm thời một bên của một bộ não khỏe mạnh (\"one side of a healthy brain\"), hoàn toàn không nói ông nghiên cứu người có vấn đề về ngôn ngữ. Từ khóa \"language\" có trong đoạn nhưng gắn với tổ chức chức năng ngôn ngữ của não, không phải với đối tượng nghiên cứu → NOT GIVEN." }
+   ]
+  },
+  {
+   "para": "Đoạn 9 (phần E)",
+   "idea": "Con số một phần ba người thuận tay trái không theo quy luật khiến giới khoa học dè dặt với giả thuyết ngôn ngữ kéo theo tay thuận; có ý kiến cho rằng não trái nắm ngôn ngữ vì thanh quản và lưỡi nằm trên trục đối xứng cơ thể.",
+   "answers": []
+  },
+  {
+   "para": "Đoạn 10 (phần E)",
+   "idea": "Corballis cho rằng tiếng nói bắt nguồn từ cử chỉ: nếu bán cầu trái chi phối lời nói thì cũng chi phối cử chỉ, và vì não trái điều khiển nửa phải cơ thể nên tay phải khỏe hơn.",
+   "answers": [
+    { "q": 22, "ans": "A", "quote": "If the left hemisphere began to dominate speech, it would have dominated gestures, too, and because the left brain controls the right side of the body, the right hand develops more strongly.", "how": "\"Early language evolution is correlated to body movement and thus affecting the preference for use of one hand\" ↔ chuỗi lập luận cử chỉ (body movement) → ngôn ngữ → tay phải khỏe hơn → finding A. Câu điều kiện ở đây nối ba mắt xích: nếu não trái nắm lời nói → nó cũng nắm cử chỉ → vì não trái điều khiển nửa phải cơ thể nên tay phải phát triển mạnh hơn." }
+   ]
+  },
+  {
+   "para": "Đoạn 11 (phần F)",
+   "idea": "Quan niệm phổ thông cho rằng người thuận tay phải giỏi tư duy logic còn người thuận tay trái giàu sáng tạo, nhưng một số nhà thần kinh học coi đó chỉ là suy đoán.",
+   "answers": []
+  },
+  {
+   "para": "Đoạn 12 (phần F)",
+   "idea": "Dù ít nhà khoa học dám khẳng định, người thuận tay trái vẫn chiếm tỉ lệ cao trong giới nghệ sĩ, nhà soạn nhạc và các nhà tư tưởng chính trị lớn.",
+   "answers": [
+    { "q": 17, "ans": "F", "quote": "Yet lefties are prevalent among artists, composers and the generally acknowledged great political thinkers.", "how": "\"Occupations usually found in left-handed population\" ↔ danh sách nghề nghiệp \"artists, composers and... political thinkers\"; \"prevalent among\" = chiếm tỉ lệ cao trong." }
+   ]
+  },
+  {
+   "para": "Đoạn 13 (phần G)",
+   "idea": "Cách giải thích cuối: người thuận tay trái có thể sáng tạo hơn đơn giản vì họ phải xoay xở khéo léo hơn trong một thế giới dành cho người thuận tay phải.",
+   "answers": [
+    { "q": 26, "ans": "NOT GIVEN", "how": "Đọc hết 13 đoạn, bài chỉ đưa tỉ lệ chung (một phần mười dân số) và xác suất theo cha mẹ, chưa một lần so sánh số nam và số nữ thuận tay trái. Đoạn 6 có cụm \"more than 40 men and women\" nhưng đó là bệnh nhân của Dax, không phải so sánh giới tính → NOT GIVEN." }
+   ]
+  }
+ ],
+ "tips": [
+  "Đề chia bài thành bảy phần A–G chứ không phải mười ba đoạn: trước khi làm Q14–18, hãy đánh dấu ranh giới các phần trên đề, nếu không sẽ ghi nhầm chữ cái.",
+  "Bốn nhà nghiên cứu trong Q19–22 đều có một phát hiện riêng; các finding C, E, G là phương án nhử lấy từ phần nói về Dax và về thai nhi. Hãy gán theo đúng người nói, đừng gán theo chủ đề.",
+  "Hai câu NOT GIVEN (Q25, Q26) đều trùng từ khóa với bài (language, men and women) nhưng gắn sai đối tượng. Gặp trường hợp này, hãy hỏi: bài có so sánh/khẳng định đúng điều câu hỏi nói không?"
+ ]
+}

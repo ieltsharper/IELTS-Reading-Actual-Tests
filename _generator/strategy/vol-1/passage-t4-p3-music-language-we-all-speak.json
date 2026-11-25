@@ -1,0 +1,114 @@
+{
+  "step1": "Tiêu đề Music: Language We All Speak báo trước bài sẽ so sánh âm nhạc với ngôn ngữ và lập luận rằng âm nhạc cũng phổ quát như lời nói. Đoán mạch bài: âm nhạc vs ngôn ngữ (ai được khoa học coi trọng hơn) → các lý thuyết cũ (âm nhạc = toán học, Pythagoras) → nghiên cứu mới của Schwartz, Howe và Purves → chuyện động vật có hiểu nhạc không → trẻ sơ sinh và kết luận sinh học. Bài chia làm 5 section A–E, mỗi section gồm vài đoạn: Q27–31 chốt sau khi đọc hết từng section; Q32–38 nối người/nhóm với phát biểu nên định vị được ngay bằng tên riêng; Q39–40 là MCQ, trong đó Q40 hỏi chủ đề chung nên để cuối cùng.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–31", "Matching Headings (i–viii) cho section A–E", "Không – chỉ chốt được khi đọc xong cả section", "Theo dõi ý chính từng cụm đoạn: tương phản, lịch sử, nghiên cứu mới, động vật, trẻ sơ sinh"],
+    ["32–38", "Matching features: người ↔ phát biểu (A–G)", "Có – tên riêng rất dễ thấy", "Steven Pinker, musicologists, Pythagoras, Schwartz/Howe/Purves, Hauser & McDermott, Charles Rosen, Sandra Trehub"],
+    ["39–40", "Multiple choice", "Q39 có (animal music); Q40 không – hỏi chủ đề toàn bài", "inconclusive, laboratory animals, novel melodies, main theme"]
+  ],
+  "typesNote": "Đọc một lượt theo đoạn: gặp tên riêng thì chốt ngay câu 32–38 tương ứng, hết mỗi section thì chốt heading, còn Q40 để dành đến khi gấp bài lại.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Âm nhạc là khả năng phổ quát của loài người nhưng không rõ để làm gì, trong khi ngôn ngữ cũng phổ quát và lợi ích của nó thì quá rõ ràng.",
+      "answers": [],
+      "note": "Mở đầu section A. Chữ \"by contrast\" ở giữa đoạn chính là tín hiệu cho heading của section này."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Trong giới khoa học, ngôn ngữ được xem là chìa khoá của trí tuệ còn âm nhạc bị coi là thứ trang trí tiến hoá – \"auditory cheesecake\" theo lời Steven Pinker.",
+      "answers": [
+        { "q": 32, "ans": "F", "quote": "While language has long been considered essential to unlocking the mechanisms of human intelligence, music is generally treated as an evolutionary frippery", "how": "Tên Steven Pinker gắn với cụm \"auditory cheesecake\", tức coi nhẹ âm nhạc ↔ F \"Music doesn't enjoy the same status of research interest as language\". Ông không nói âm nhạc tồn tại ngoài thế giới (A) – đó là ý của Rosen ở đoạn sau." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Mười năm nghiên cứu thần kinh học đang đảo ngược quan niệm đó: nhiều công bố mới, trong đó có bài của Schwartz, Howe và Purves, cho rằng âm thanh của nhạc và của lời nói gắn chặt với nhau.",
+      "answers": [
+        { "q": 27, "ans": "iii", "quote": "Language, by contrast, is also everywhere - but for reasons that are more obvious...words and melody have acquired a vastly different status in the lab and the seminar room", "how": "Hết section A: cả ba đoạn đều đặt âm nhạc cạnh ngôn ngữ để so sánh vị thế và công dụng ↔ heading iii \"Music and language contrasted\". Heading vi (vượt qua ranh giới văn hoá) thuộc section sau, còn iv (nghiên cứu hiện nay) chỉ đúng với một câu cuối, không bao cả section." }
+      ],
+      "note": "Đoạn 3 có nhắc nghiên cứu mới nên rất dễ chọn nhầm heading iv cho section A. Heading phải bao được cả section, không chỉ một đoạn."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Quan niệm truyền thống thứ nhất: mỗi nền văn hoá in dấu riêng lên âm nhạc nhưng âm nhạc vẫn có những phẩm chất phổ quát, điển hình là thang 12 quãng, lâu nay được quy cho tính chất toán học của âm thanh.",
+      "answers": [
+        { "q": 33, "ans": "B", "quote": "musicologists have long emphasised that while each culture stamps a special identity onto its music, music itself has some universal qualities", "how": "Chủ ngữ \"musicologists\" nằm ngay đầu câu; cấu trúc \"while A, B\" cho thấy ý chính là B: dù chịu ảnh hưởng văn hoá, âm nhạc vẫn phổ quát ↔ phát biểu B." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Pythagoras cách đây 2.500 năm là người đầu tiên chỉ ra quan hệ giữa độ hoà hợp của âm và kích thước vật phát ra âm, đặt nền cho mối liên hệ tỉ lệ đơn giản – hoà âm.",
+      "answers": [
+        { "q": 34, "ans": "E", "quote": "This link between simple ratios and harmony has influenced music theory ever since", "how": "Pythagoras gắn với tỉ lệ dây đàn (một nửa, hai phần ba) ↔ E \"He discovered the mathematical basis of music\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Quan niệm truyền thống thứ hai (Charles Rosen nhắc lại): âm nhạc tách rời khỏi thế giới thực; Schwartz bác bỏ cả hai quan niệm, cho rằng sở thích âm nhạc được định hình bởi âm thanh đời sống, nhất là tiếng nói.",
+      "answers": [
+        { "q": 28, "ans": "vii", "quote": "To grasp the originality of this idea, it's necessary to realise two things about how music has traditionally been understood", "how": "Hết section B: ba đoạn này điểm lại hai quan niệm cũ (nhạc = toán học, nhạc tách khỏi thế giới) ↔ heading vii \"Look back at some of the historical theories\"." },
+        { "q": 35, "ans": "D", "quote": "Human musical preferences are fundamentally shaped not by elegant algorithms or ratios but by the messy sounds of real life, and of speech in particular", "how": "Câu có cấu trúc \"not by X but by Y\": bộ ba Schwartz, Howe và Purves khẳng định sở thích âm nhạc do môi trường âm thanh xung quanh quyết định ↔ D \"Music preference is related to the surrounding influences\"." },
+        { "q": 37, "ans": "A", "quote": "pianist and critic Charles Rosen discussed the long-standing notion that...music is entirely abstracted from the world in which we live", "how": "Câu dài cần tách xương sống: WHO = Charles Rosen, DOES WHAT = discussed the long-standing notion; rồi mệnh đề \"that...\" chứa ba vế song song (painting/sculpture tái hiện thiên nhiên – writing mô tả suy nghĩ – music tách hẳn khỏi thế giới). Vế thứ ba chính là phát biểu A." }
+      ],
+      "note": "Rosen chỉ \"discussed\" một quan niệm có sẵn chứ không hẳn tán thành, nhưng đề vẫn nối ông với A – khi matching features, hãy bám vào ý mà tên người đó xuất hiện cùng."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Nhóm Schwartz phân tích hơn 100.000 mẩu tiếng nói từ nhiều ngôn ngữ và thấy tập hợp tần số nổi bật trùng khớp với thang chromatic: viên gạch của âm nhạc nằm trong lời nói.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Âm nhạc không hề trừu tượng mà mô phỏng môi trường âm thanh của ta: ta thích những âm thanh quen thuộc, những âm gợi nhớ chính giọng người.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Câu hỏi \"con gà hay quả trứng\": nhạc bắt chước lời nói, hay lời nói bắt chước hát, hay cả hai đều bắt chước bộ máy phát âm – chưa ai biết, chỉ biết chúng cùng một hệ thống.",
+      "answers": [
+        { "q": 29, "ans": "iv", "quote": "Schwartz, Howe, and Purves analysed a vast selection of speech sounds from a variety of languages to reveal the underlying patterns common to all utterances", "how": "Hết section C: ba đoạn mô tả phương pháp, kết quả và những câu hỏi còn bỏ ngỏ của nghiên cứu mới ↔ heading iv \"Current research on music\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Nghiên cứu của Schwartz còn soi sáng câu hỏi lâu nay: động vật có cảm thụ âm nhạc không – dù thiên nhiên đầy \"nhạc\", thú trong phòng thí nghiệm lại không mặn mà với nhạc của người.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Hauser và McDermott lập luận động vật không tạo hay cảm nhận nhạc như người: khỉ nhận ra giai điệu chỉ vì hệ thính giác có điểm chung, còn chim chỉ nhận ra bài của chính mình chứ không sáng tạo giai điệu mới.",
+      "answers": [
+        { "q": 36, "ans": "G", "quote": "The fact that laboratory monkeys can show recognition of human tunes is evidence, they say, of shared general features of the auditory system", "how": "Tên Marc Hauser và Josh McDermott mở đầu đoạn; \"shared general features of the auditory system\" ↔ G \"Humans and monkeys have similar traits in perceiving sound\". Bẫy: họ cũng nói về chim, nhưng không phát biểu nào trong danh sách nói về chim." },
+        { "q": 39, "ans": "C", "quote": "they generally recognise their own tunes - a narrow repertoire - but don't generate novel melodies like we do", "how": "Theo đáp án chính thức, C \"Animals can't make up new tunes\" là chỗ bài nói rõ nhất về giới hạn của động vật: chim không tạo giai điệu mới. A sai vì bài nói hệ thính giác có điểm chung; D sai vì bài không bàn số lượng loài được thử nghiệm." }
+      ],
+      "note": "Nhiều học viên chọn B (\"Tests on animal music are limited\") cho Q39 vì đoạn 12 nói thứ đem thử nghiệm chỉ là nhạc của người; đáp án chính thức vẫn là C nên hãy làm theo key, nhưng cần nhớ bẫy này."
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Schwartz phản biện: thứ người ta đem thử là nhạc của người, nếu động vật cũng hình thành sở thích từ môi trường âm thanh của chúng thì \"nhạc\" của chúng phải khác hẳn – muốn kết luận thì phải thử bằng âm thanh của chính loài đó.",
+      "answers": [
+        { "q": 30, "ans": "i", "quote": "Schwartz's study also casts light on the long-running question of whether animals understand or appreciate music", "how": "Hết section D: ba đoạn đều xoay quanh âm nhạc và động vật ↔ heading i \"Communication in music with animals\". Heading ii \"New discoveries on animal music\" là bẫy vì section không đưa ra phát hiện mới nào về nhạc của động vật, chỉ tranh luận về cách thử nghiệm." }
+      ]
+    },
+    {
+      "para": "Đoạn 13",
+      "idea": "Dù mối liên hệ nhạc – ngôn ngữ được hiểu theo cách nào, cảm thức âm nhạc cũng bắt rễ trong sinh học và bộ não sâu như ngôn ngữ, rõ nhất là ở trẻ sơ sinh (Sandra Trehub).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 14",
+      "idea": "Với trẻ sơ sinh, nói và hát nằm trên cùng một dải: giọng mẹ ở mọi ngôn ngữ đều nằm giữa lời nói và bài hát, điều chỉnh cảm xúc của bé; theo Trehub, âm nhạc có thể còn thiết yếu hơn ta tưởng.",
+      "answers": [
+        { "q": 31, "ans": "viii", "quote": "our sense of music, even our love for it, is as deeply rooted in our biology and in our brains as language is", "how": "Hết section E: hai đoạn cuối khẳng định khả năng cảm nhạc là bẩm sinh, thấy ngay từ trẻ sơ sinh ↔ heading viii \"Are we genetically designed for music?\". Heading v (\"Music is beneficial for infants\") là bẫy vì trẻ sơ sinh chỉ là bằng chứng cho luận điểm sinh học, không phải chủ đề của section." },
+        { "q": 38, "ans": "C", "quote": "The upshot, says Trehub, is that music may be even more of a necessity than we realise", "how": "Tên Sandra Trehub gắn với chữ \"necessity\" ↔ C \"Music is a necessity for humans\"." },
+        { "q": 40, "ans": "C", "quote": "Music is one of the human species' relatively few universal abilities", "how": "Câu hỏi chủ đề toàn bài: bài bàn vì sao con người ai cũng có nhạc, nhạc gắn với tiếng nói và với sinh học của ta ↔ C \"The role of music in human society\". B (sự tiến hoá của âm nhạc) chỉ là một phần nhỏ (đoạn 9), D (nhạc cho động vật) là một section, A (ngôn ngữ và học tập) không phải trọng tâm." }
+      ]
+    }
+  ],
+  "tips": [
+    "Section ở bài này gồm nhiều đoạn (A = đoạn 1–3, B = 4–6, C = 7–9, D = 10–12, E = 13–14): đừng chọn heading theo một đoạn lẻ, hãy đợi hết section rồi hỏi \"cả cụm này nói gì\".",
+    "Với matching features, mỗi tên riêng chỉ gắn với MỘT ý trong bài: Pinker – coi nhẹ âm nhạc, musicologists – tính phổ quát, Pythagoras – tỉ lệ toán học, Rosen – nhạc tách khỏi thế giới, Schwartz – môi trường âm thanh, Hauser/McDermott – hệ thính giác chung, Trehub – nhu cầu thiết yếu. Chốt ngay khi gặp tên, đừng để dồn đến cuối.",
+    "Câu hỏi chủ đề (Q40) luôn làm sau cùng và phải chọn phương án bao được cả bài; mọi phương án còn lại đều là một phần đúng nhưng quá hẹp."
+  ]
+}

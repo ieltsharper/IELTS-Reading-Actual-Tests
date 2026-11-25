@@ -1,0 +1,75 @@
+{
+ "step1": "Tiêu đề How to Spot a Liar? cho biết bài nói về cách nhận ra người nói dối. Đoán mạch bài: nói dối là bản năng của sinh vật → phát hiện nói dối cũng là kỹ năng sinh tồn → muốn nói dối giỏi phải đọc được cảm xúc → máy phát hiện nói dối đo gì → khuôn mặt tiết lộ cảm xúc → biểu cảm buồn khó giả → nụ cười dễ giả. Q1–5 (YES/NO/NOT GIVEN) sẽ nằm ở ba đoạn đầu; Q6–9 (MCQ) ở đoạn nói về polygraph và khuôn mặt; Q10–13 (phân loại cảm xúc theo nét mặt) chắc chắn dồn ở hai đoạn cuối về lông mày và nụ cười.",
+ "types": [
+  ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+  ["1–5", "Yes / No / Not Given", "Có, theo thứ tự bài", "all living animals, self-preservation, computers, brain, survival skill, good liar, emotions"],
+  ["6–9", "MCQ (A–D)", "Có – bám từ khóa", "lie detector work, court of law, paralysed patients, politicians"],
+  ["10–13", "Matching features (A Sadness / B Anger / C Happiness)", "Có – bám bộ phận trên mặt", "inner corners of eyebrows, eyebrows lowered, lines around eyes, lines above eyebrows"]
+ ],
+ "typesNote": "Ba nhóm chia bài thành ba khối rõ rệt theo thứ tự (đoạn 1–3, đoạn 4–5, đoạn 6–7), nên chỉ cần đọc một lượt và chốt ngay khi gặp từ khóa của nhóm tương ứng.",
+ "walk": [
+  {
+   "para": "Đoạn 1",
+   "idea": "Lừa dối là bản năng tự nhiên của mọi sinh vật (chim giả vờ bị thương, cua nhện ngụy trang) và con người cũng nói dối vì cùng lý do: tự bảo vệ hoặc đạt điều không có được bằng cách khác.",
+   "answers": [
+    { "q": 1, "ans": "YES", "quote": "deception comes naturally to all living things", "how": "\"All living animals can lie\" ↔ \"deception comes naturally to all living things\"; từ \"all\" khớp nguyên văn nên không phải bẫy khái quát hóa → YES." },
+    { "q": 2, "ans": "YES", "quote": "often deceive for exactly the same reasons: to save their own skins or to get something they can't get by other means", "how": "\"self-preservation\" ↔ \"to save their own skins\" (thành ngữ: giữ lấy thân mình); \"some people\" nhẹ hơn \"often\" trong bài nên vẫn đúng → YES." }
+   ],
+   "note": "Con số 200 lần nói dối mỗi ngày (một lời cứ năm phút) là chi tiết gây nhiễu, không có câu hỏi nào hỏi tới."
+  },
+  {
+   "para": "Đoạn 2",
+   "idea": "Biết bắt thóp lời nói dối cũng là kỹ năng sinh tồn quan trọng không kém việc nói dối; quan sát nét mặt, ngôn ngữ cơ thể và giọng nói thì ai cũng học được, và máy tính cũng đang được lập trình để làm việc đó.",
+   "answers": [
+    { "q": 3, "ans": "NOT GIVEN", "how": "Bài có nhắc máy tính (\"Researchers are even programming computers... to get at the truth\") nhưng là để phân tích các dấu hiệu thể chất mà mắt và tai thường cũng thấy được, hoàn toàn không nói tới việc tìm vùng não nào phụ trách nói dối. Trùng từ khóa \"computers\" nhưng thiếu nội dung về não → NOT GIVEN." },
+    { "q": 4, "ans": "NO", "quote": "knowing how to catch deceit can be just as important a survival skill as knowing how to tell a lie and get away with it", "how": "Câu hỏi nói nói dối quan trọng HƠN phát hiện nói dối; bài dùng cấu trúc so sánh ngang bằng \"just as important ... as\" = quan trọng ngang nhau → mâu thuẫn về mức độ → NO. Đây là bẫy so sánh rất hay gặp: bài nói ngang bằng, câu hỏi đổi thành hơn/kém." }
+   ]
+  },
+  {
+   "para": "Đoạn 3",
+   "idea": "Muốn nói dối trót lọt phải đánh giá đúng trạng thái cảm xúc của người khác; chính trí tuệ cảm xúc đó cũng cần cho người phát hiện nói dối, và cảm xúc cần để ý là sự căng thẳng.",
+   "answers": [
+    { "q": 5, "ans": "YES", "quote": "In order to know what kind of lies work best, successful liars need to accurately assess other people's emotional states.", "how": "\"To be a good liar\" ↔ \"successful liars\" + \"In order to know what kind of lies work best\"; \"understand other people's emotions\" ↔ \"accurately assess other people's emotional states\" → YES." }
+   ]
+  },
+  {
+   "para": "Đoạn 4",
+   "idea": "Máy phát hiện nói dối không đo lời nói dối mà đo dấu hiệu thể chất của cảm xúc (nhịp thở, nhịp tim, độ dẫn điện của da), và vì một dấu hiệu có thể do nhiều nguyên nhân nên kết quả không được tòa chấp nhận.",
+   "answers": [
+    { "q": 6, "ans": "C", "quote": "they merely detect the physical cues of emotions, which may or may not correspond to what the person being tested is saying", "how": "Máy đo phản ứng cơ thể trong lúc người ta đang trả lời ↔ C \"body behaviour during one's verbal response\". A sai vì máy không kết luận cảm xúc có ổn định hay không, nó chỉ ghi dấu hiệu; B (hoạt động não) không hề được nhắc; D sai vì máy không phân tích từng từ trong câu trả lời." },
+    { "q": 7, "ans": "D", "quote": "it might also mean that the lights in the television studio are too hot - which is one reason polygraph tests are inadmissible in court", "how": "Xương sống câu: độ dẫn điện da tăng vọt có thể do hồi hộp, nhưng \"On the other hand\" nó cũng có thể chỉ do đèn studio quá nóng – tức một biểu hiện cơ thể có nhiều nguyên nhân ↔ D. A là bẫy chi tiết: đèn chỉ là ví dụ minh họa cho nguyên nhân khác, bài không nói đèn làm máy hỏng; B đảo ngược ý Ekman (ông khuyên nên xem nhiều cụm dấu hiệu); C không có chỗ nào nói polygraph thường cho kết quả sai." }
+   ],
+   "note": "Hãy để ý cụm \"On the other hand\" ở giữa đoạn: nó mở ra cách giải thích thứ hai, và chính cách giải thích thứ hai này mới là đáp án Q7."
+  },
+  {
+   "para": "Đoạn 5",
+   "idea": "Khuôn mặt là nơi lộ dấu hiệu rõ nhất vì cơ mặt nối thẳng với vùng não xử lý cảm xúc; ví dụ bệnh nhân liệt nửa mặt cười theo lệnh thì chỉ nhếch được nửa miệng, nhưng nghe chuyện cười thì nở nụ cười trọn vẹn.",
+   "answers": [
+    { "q": 8, "ans": "B", "quote": "If a patient paralysed by stroke on one side of the face, for example, is asked to smile deliberately, only the mobile side of the mouth is raised. But tell that same person a funny joke, and the patient breaks into a full and spontaneous smile.", "how": "Ví dụ này đặt ngay sau câu \"genuine emotions travel different pathways through the brain than insincere ones\", nên nó dùng để chứng minh mối liên hệ giữa cảm xúc thật và biểu hiện cơ thể ↔ B. A chỉ mô tả bề mặt của ví dụ, không phải mục đích; C và D không liên quan tới lập luận của bài." },
+    { "q": 9, "ans": "D", "quote": "Very few people - most notably, actors and politicians - are able to consciously control all of their facial expressions.", "how": "Chính trị gia được nêu như số ít người kiểm soát được toàn bộ nét mặt, tức che giấu được cảm xúc thật ↔ D \"mask their true feelings\". B là bẫy vì bài xếp actors và politicians cùng nhóm chứ không nói ai bắt chước ai." }
+   ]
+  },
+  {
+   "para": "Đoạn 6",
+   "idea": "Nỗi buồn là biểu cảm khó giả nhất: khi buồn thật, trán nhăn lại và đầu trong của lông mày nhướng lên – dưới 15% người được thử làm được chủ động, trong khi cau mày giận dữ thì hầu như ai cũng giả được.",
+   "answers": [
+    { "q": 10, "ans": "A", "quote": "When someone is truly sad, the forehead wrinkles with grief and the inner corners of the eyebrows are pulled up.", "how": "\"Inner corners of eyebrows raised\" ↔ \"the inner corners of the eyebrows are pulled up\", gắn với \"truly sad\" → A Sadness." },
+    { "q": 11, "ans": "B", "quote": "the lowering of the eyebrows associated with an angry scowl can be replicated at will by almost everybody", "how": "\"The whole eyebrows lowered\" ↔ \"the lowering of the eyebrows\", gắn với \"an angry scowl\" → B Anger. Chú ý phân biệt với đoạn 7, nơi cũng nhắc \"the inner corners of the eyebrows are not lowered\" nhưng đó là nói về nụ cười giả, không phải giận dữ." },
+    { "q": 13, "ans": "A", "quote": "the forehead wrinkles with grief", "how": "\"Lines formed above eyebrows\" = nếp nhăn trên trán, tức phía trên lông mày ↔ \"the forehead wrinkles\", gắn với \"grief\" (nỗi đau buồn) → A Sadness." }
+   ],
+   "note": "Q10 và Q13 cùng nằm trong một câu của đoạn 6 và cùng đáp án A. Đừng vì thấy hai câu khác nhau mà cố tìm hai cảm xúc khác nhau."
+  },
+  {
+   "para": "Đoạn 7",
+   "idea": "Nụ cười lại là biểu cảm dễ giả nhất, nhưng nụ cười thật còn làm co cơ vòng quanh mắt, tạo vết chân chim – chi tiết mà nụ cười giả không có nên trông gượng gạo.",
+   "answers": [
+    { "q": 12, "ans": "C", "quote": "the muscle around the eye that produces the distinctive \"crow's feet\" associated with people who laugh a lot", "how": "\"Lines formed around eyes\" ↔ \"crow's feet\" (vết chân chim quanh mắt), gắn với \"people who laugh a lot\" và với \"a genuine smile\" → C Happiness." }
+   ]
+  }
+ ],
+ "tips": [
+  "Bẫy lớn nhất của nhóm YNNG ở bài này là so sánh: bài viết \"just as important as\" (ngang bằng), câu hỏi đổi thành \"more important than\" nên phải chọn NO.",
+  "Nhóm 10–13 chỉ cần bám đúng bộ phận: đầu trong lông mày nhướng lên và trán nhăn = buồn; cả hàng lông mày hạ xuống = giận; nếp nhăn quanh mắt = vui. Cả ba đều nằm gọn trong hai đoạn cuối.",
+  "Với MCQ hỏi \"why does the author mention...\", đừng chọn phương án chỉ mô tả lại ví dụ; hãy quay lên câu đứng ngay trước ví dụ để tìm luận điểm mà ví dụ đó minh họa."
+ ]
+}

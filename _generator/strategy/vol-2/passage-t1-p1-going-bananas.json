@@ -1,0 +1,86 @@
+{
+  "step1": "Tiêu đề \"Going Bananas\" và sapo \"The world's favourite fruit could disappear forever in 10 years' time\" cho biết bài nói về nguy cơ tuyệt chủng của chuối. Đoán mạch bài: nguồn gốc chuối và lý do chuối vô sinh → bài học cho cây trồng khác → giống Gros Michel và bệnh Panama → bệnh black Sigatoka → các nỗ lực lai tạo và giải trình tự gen. Q1–3 (gap-fill) gần như chắc chắn nằm ở đoạn mở đầu về nguồn gốc; Q4–10 (matching people) rải khắp bài theo chỗ mỗi người được trích lời; Q11–13 (TRUE/FALSE/NOT GIVEN) bám theo thứ tự bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–3", "Sentence completion (NO MORE THAN THREE WORDS)", "Có, theo thứ tự bài", "first eaten, years ago, first planted, taste of wild bananas"],
+    ["4–10", "Matching statements with people (A–F)", "Có: locate bằng tên riêng trong danh sách", "Ortiz, McLaughlin, Frison, Romero, Gasparotto, Hawtin"],
+    ["11–13", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc hết đoạn mới chốt", "oldest known fruit, Gros Michel, main food"]
+  ],
+  "typesNote": "Với matching people, cách nhanh nhất là khoanh sáu cái tên ngay khi gặp trong lúc đọc, rồi đối chiếu lời trích của người đó với bảy phát biểu; không cần đọc lại bài.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Chuối là một trong những cây trồng cổ nhất: quả chuối ăn được đầu tiên xuất hiện khoảng mười nghìn năm trước ở Đông Nam Á, và vì đột biến ba bộ nhiễm sắc thể nên chuối vô sinh, thiếu đa dạng di truyền để chống bệnh.",
+      "answers": [
+        { "q": 1, "ans": "ten thousand", "quote": "the first edible banana was discovered around ten thousand years ago", "how": "\"first eaten as a fruit by humans\" ↔ \"first edible banana was discovered\"; chỗ trống đứng trước \"years ago\" nên chỉ cần con số: ten thousand." },
+        { "q": 2, "ans": "South-East Asia", "quote": "ever since it was first propagated in the jungles of South-East Asia", "how": "\"first planted\" ↔ \"first propagated\"; cần tên nơi chốn, lấy đúng \"South-East Asia\" (không lấy cả \"the jungles of\" vì giới hạn ba từ)." },
+        { "q": 3, "ans": "hard seeds", "quote": "contains a mass of hard seeds that make the fruit virtually inedible", "how": "\"taste ... adversely affected by its ___\" ↔ \"make the fruit virtually inedible\"; thứ gây ra điều đó là \"hard seeds\"." },
+        { "q": 11, "ans": "NOT GIVEN", "how": "Bài chỉ viết \"among the world's oldest crops\" = thuộc nhóm cổ nhất, hoàn toàn không nói chuối là loại quả cổ nhất đã biết. Bẫy ở chữ \"the oldest\": đọc lướt dễ tưởng khớp, nhưng \"among the oldest\" không đủ để kết luận FALSE hay TRUE." }
+      ],
+      "note": "Câu 1 và 2 nằm sát nhau trong hai câu đầu; chốt ngay rồi đi tiếp. Đừng nhầm \"ten thousand years ago\" với \"the end of the last ice age\"."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Frison cảnh báo rằng tình trạng của cây chuối là bài học chung: việc cây lương thực ngày càng bị chuẩn hóa đang đe dọa khả năng thích nghi và sinh tồn của chúng.",
+      "answers": [
+        { "q": 10, "ans": "C", "quote": "The state of the banana, Frison warns, can teach a broader lesson", "how": "\"Lessons can be learned from bananas for other crops\" ↔ \"it holds a lesson for other crops, too\" ... \"can teach a broader lesson\"; người nói là Emile Frison = C." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Chuối ngày nay là bản sao vô tính gần như không có đa dạng di truyền, nên rất dễ thành dịch; Hawtin cảnh báo sâu bệnh có thể gây dịch nặng.",
+      "answers": [
+        { "q": 4, "ans": "F", "quote": "\"When some pest or disease comes along, severe epidemics can occur,\" says Geoff Hawtin", "how": "\"A pest invasion may seriously damage the banana industry\" ↔ \"pest ... severe epidemics can occur\"; đúng lời Geoff Hawtin = F." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Trước thập niên 1950 giống Gros Michel thống trị nhưng bị bệnh Panama do nấm đất, nên bị bỏ và thay bằng Cavendish; Ortiz nói nấm tồn tại trong đất nhiều năm.",
+      "answers": [
+        { "q": 5, "ans": "A", "quote": "Once the fungus gets into the soil, it remains there for many years. There is nothing farmers can do.", "how": "\"effect of fungal infection in soil is often long-lasting\" ↔ \"remains there for many years\"; người nói là Rodomiro Ortiz = A." },
+        { "q": 12, "ans": "FALSE", "quote": "they ran out of clean land in the 1950s and had to abandon the Gros Michel", "how": "Câu hỏi nói Gros Michel vẫn đang được dùng thương mại; bài nói nó đã bị bỏ từ thập niên 1950 và Cavendish mới là \"the reigning commercial king\" → mâu thuẫn, chọn FALSE chứ không phải NOT GIVEN." }
+      ],
+      "note": "Câu dài \"So plantation owners played a running game, abandoning infested fields and moving to 'clean' land — until they ran out of clean land\": bộ khung là chủ đồn điền bỏ ruộng nhiễm bệnh và chuyển sang đất sạch, mệnh đề \"until...\" là mốc kết thúc → đó chính là lý do Gros Michel bị loại."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Nửa tỷ người ở châu Á và châu Phi sống dựa vào chuối, nhưng bệnh black Sigatoka đã thành dịch toàn cầu; Frison nói nấm nhanh chóng kháng thuốc, còn Gasparotto cho biết phần lớn vườn chuối ở Amazonia đã bị phá hủy.",
+      "answers": [
+        { "q": 7, "ans": "C", "quote": "\"As soon as you bring in a new fungicide, they develop resistance,\" says Frison", "how": "\"develop resistance to chemical sprays\" ↔ \"bring in a new fungicide, they develop resistance\"; Emile Frison = C (Frison xuất hiện hai lần, ở câu 10 và câu 7)." },
+        { "q": 8, "ans": "E", "quote": "\"Most of the banana fields in Amazonia have already been destroyed by the disease,\" says Luadir Gasparotto", "how": "\"destroyed a large number of banana plantations\" ↔ \"Most of the banana fields ... have already been destroyed\"; Luadir Gasparotto = E." },
+        { "q": 13, "ans": "TRUE", "quote": "Bananas provide the largest source of calories and are eaten daily.", "how": "\"main food in some countries\" ↔ \"largest source of calories\", \"eaten daily\", cộng với \"Half a billion people in Asia and Africa depend on bananas\" → TRUE." }
+      ],
+      "note": "Đoạn này chứa ba đáp án (7, 8, 13) và nhiều con số (50–70%, 40 lần phun, 30 năm): đừng sa vào số liệu, chỉ cần bắt lời của từng người."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Vì mọi giống chuối ăn được đều vô sinh nên gần như không thể đưa gen kháng bệnh vào; chỉ nhờ tai nạn di truyền hiếm hoi mà Honduras tạo được giống không hạt kháng cả Sigatoka lẫn Panama.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Giống lai mới không được ai ưa chuộng, nên giới lai tạo quay lưng với chuối và các công ty chuối bỏ hẳn chương trình lai tạo để chuyển sang tìm thuốc diệt nấm; Romero của Chiquita giải thích lý do.",
+      "answers": [
+        { "q": 6, "ans": "D", "quote": "We supported a breeding programme for 40 years, but it wasn’t able to develop an alternative to the Cavendish.", "how": "\"A commercial manufacturer gave up on breeding bananas\" ↔ \"commercial banana companies are now washing their hands of the whole breeding effort\"; lời này là của Ronald Romero, trưởng nghiên cứu Chiquita = D." }
+      ],
+      "note": "Chiquita có hai người được trích (Romero ở đoạn 7, McLaughlin ở đoạn 9). Phân biệt bằng nội dung: Romero nói về lai tạo thất bại, McLaughlin nói về công nghệ sinh học và người tiêu dùng."
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Nhóm của Frison dự định giải trình tự bộ gen chuối trong năm năm, dùng chuối dại Đông Á kháng black Sigatoka để tìm gen bảo vệ rồi đưa vào mô tế bào của giống ăn được.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Các công ty lớn né nghiên cứu biến đổi gen vì sợ mất lòng khách hàng; McLaughlin nêu vấn đề chi phí và sự chấp nhận của người tiêu dùng, dù công nghệ sinh học là hy vọng duy nhất của cây chuối.",
+      "answers": [
+        { "q": 9, "ans": "B", "quote": "\"Biotechnology is extremely expensive and there are serious questions about consumer acceptance,\" says David McLaughlin", "how": "\"Consumers would not accept genetically altered crops\" ↔ \"serious questions about consumer acceptance\" (gắn với GM research ở câu trước); David McLaughlin = B." }
+      ]
+    }
+  ],
+  "tips": [
+    "Dạng matching people có ghi \"NB You may use any letter more than once\": ở bài này C (Frison) dùng hai lần (câu 7 và 10). Nếu thấy thừa một phát biểu chưa có người, hãy nghĩ đến người đã dùng rồi.",
+    "Với câu 11, chú ý chữ \"among the world's oldest crops\": bài nói chuối thuộc nhóm cổ nhất, không nói là cổ nhất, nên là NOT GIVEN chứ không phải TRUE.",
+    "Bài có rất nhiều tên viện nghiên cứu và địa danh (Montpellier, Ibadan, Rome, Fiji, Amazonia). Chỉ cần nhớ ai nói gì, không cần nhớ họ làm ở đâu."
+  ]
+}

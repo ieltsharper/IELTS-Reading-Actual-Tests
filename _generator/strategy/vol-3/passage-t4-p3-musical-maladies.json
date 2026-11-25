@@ -1,0 +1,93 @@
+{
+  "step1": "Tiêu đề \"Musical Maladies\" cùng sapo \"Norman M. Weinberger reviews the latest work of Oliver Sacks on music\" cho biết đây là bài điểm sách: người viết là nhà thần kinh học, đánh giá cuốn Musicophilia. Đoán mạch bài: cảm nhận chung (P1) → ưu điểm về con người Sacks (P2) → lời nói đầu (P3) → các phần của sách và ca bệnh (P4–P6) → phần phê bình, những điều Sacks lẽ ra nên làm (P7–P10). Q27–30 là MCQ bám theo các đoạn đầu; Q31–36 là Yes/No/Not Given theo quan điểm người viết, trải đều cả bài; Q37–40 là nối vế câu, dồn ở các đoạn cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–30", "Multiple choice (A–D)", "Có, theo thứ tự bài", "mixed feeling, best part, preface, Tony Cicoria"],
+    ["31–36", "Yes / No / Not Given (quan điểm người viết)", "Có từ khóa, nhưng phải đọc hết đoạn mới kết luận", "well-reputable writer, Pathétique Sonata, technological methods, music therapy, skepticism, impatient"],
+    ["37–40", "Matching sentence endings (A–F)", "Có, vế đầu đều có từ khóa cụ thể", "harmony and melody, treating musical disorders, EEG scans, new technologies"]
+  ],
+  "typesNote": "Đọc từng đoạn và chốt ngay: MCQ nằm gọn ở bốn đoạn đầu, YNNG rải khắp bài, còn các vế nối 37–40 đều rơi vào bốn đoạn cuối nơi người viết nêu phê bình.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Người viết là nhà thần kinh học nghiên cứu thính giác, kỳ vọng nhiều ở cuốn Musicophilia nhưng thừa nhận cảm nhận của mình về sách là pha trộn.",
+      "answers": [
+        { "q": 27, "ans": "B", "quote": "So I had high expectations of Musicophilia", "how": "Lý do cảm nhận pha trộn là vì kỳ vọng cao hơn thực tế ↔ B \"The writer expected it to be better than it was\". A lật nhân quả (cảm giác áy náy là hệ quả của việc phải nhận xét chưa hay, không phải nguyên nhân); C sai vì sách có rất nhiều chuyện cá nhân; D không có trong bài, Sacks là \"prolific author\"." },
+        { "q": 31, "ans": "YES", "quote": "And I confess to feeling a little guilty reporting that my reactions to the book are mixed", "how": "\"difficult to give a well-reputable writer a less than favorable review\" ↔ cảm giác áy náy khi phải nói rằng phản ứng của mình chỉ ở mức pha trộn, với một tác giả nổi tiếng và viết nhiều." }
+      ],
+      "note": "Q31 dễ bị chọn NOT GIVEN vì bài không nói thẳng chữ \"difficult\"; nhưng \"feeling a little guilty\" chính là cách người viết thể hiện điều đó."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Phần hay nhất của sách chính là bản thân Sacks: ông ghi lại đời mình và những trải nghiệm rất riêng tư, giọng văn điềm đạm, uyên bác, không lên giọng dạy đời.",
+      "answers": [
+        { "q": 28, "ans": "C", "quote": "He richly documents his own life in the book and reveals highly personal experiences", "how": "\"best part\" ↔ \"Sacks himself is the best part\", cụ thể là phần tự thuật ↔ C \"autobiographical description\". A (tấm ảnh) và B (giọng văn) chỉ là chi tiết minh họa cho nhận định đó; D hoàn toàn không có." },
+        { "q": 32, "ans": "NOT GIVEN", "how": "Bản Pathétique Sonata chỉ xuất hiện ở mô tả tấm ảnh bìa (Sacks đeo tai nghe, nghe Alfred Brendel chơi); bài không hề nói bản nhạc này có tác dụng chữa rối loạn âm nhạc. Bẫy: đoạn 6 có nói về music therapy nhưng ở đó không nhắc Beethoven." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Lời nói đầu cho thấy Sacks muốn kết hợp \"nghệ thuật quan sát\" kiểu cũ với công nghệ mới; ông bị giằng co giữa hai lối, biết phải chú ý tới công nghệ nhưng trái tim nghiêng về quan sát.",
+      "answers": [
+        { "q": 29, "ans": "A", "quote": "He wants to combine \"observation and description with the latest in technology,\" he says", "how": "Trong lời nói đầu, điều Sacks muốn đạt được là hòa giải với công nghệ mới ↔ A \"make terms with the new technologies\". B là nội dung phần sau của sách chứ không phải mục tiêu nêu ở preface; C quá rộng; D trái ngược vì ông vẫn giữ quan sát giản dị." },
+        { "q": 33, "ans": "NO", "quote": "He knows that he needs to take heed of the latter, but his heart lies with the former", "how": "Câu hỏi nói Sacks coi công nghệ là không quan trọng so với quan sát; theo người viết, Sacks biết mình cần chú ý tới công nghệ và ở đoạn cuối \"He does call for both approaches\", nên đây là NO chứ không phải YES. Bẫy: \"his heart lies with the former\" chỉ là thiên hướng cá nhân, không phải phủ nhận giá trị công nghệ." }
+      ],
+      "note": "Câu \"The reader can see that Sacks... is torn between the 'old-fashioned' path of observation and the newfangled, high-tech approach\": xương sống là \"Sacks is torn between A and B\"; mệnh đề \"who has been practicing neurology for 40 years\" chỉ bổ nghĩa, còn hai dấu hai chấm sau đó giải thích sự giằng co."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Sách chủ yếu là mô tả ca bệnh, mở đầu Phần I với Tony Cicoria, bác sĩ phẫu thuật bỗng mê nhạc sau khi bị sét đánh; EEG bình thường, và ông từ chối làm các xét nghiệm nhạy hơn.",
+      "answers": [
+        { "q": 30, "ans": "A", "quote": "Cicoria has declined to undergo them; he does not want to delve into the causes of his musicality", "how": "\"What a shame!\" ngay sau đó cho thấy điều đáng tiếc là ông từ chối xét nghiệm thêm ↔ A. B sai chủ thể (ông không muốn tìm hiểu chứ không phải không thể xác định); C và D là chi tiết có thật trong đoạn nhưng không phải điều người viết tiếc." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Phần II trải rộng nhiều chủ đề nhưng có chương không mới gì; hay nhất là các ca lạ như \"amusia\" và \"dysharmonia\", tức mất khả năng nghe hòa âm mà vẫn hiểu giai điệu.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Phần III đưa người đọc vào lĩnh vực trị liệu âm nhạc ít được đánh giá đúng mức: liệu pháp ngữ điệu giúp bệnh nhân mất ngôn ngữ nói lại trôi chảy, và âm nhạc làm bệnh nhân Parkinson cử động được.",
+      "answers": [
+        { "q": 34, "ans": "NOT GIVEN", "how": "Người viết có gọi đây là \"the underappreciated realm of music therapy\", nhưng không bàn vì sao lĩnh vực này bị xem nhẹ, cũng không nói điều đó khó hiểu. Bẫy: \"Scientists cannot yet explain how music achieves this effect\" là chưa giải thích được cơ chế, không phải chưa giải thích được vì sao bị đánh giá thấp." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Với người chưa biết gì về thần kinh học, sách có thể là một khám phá, nhưng ai tìm nguyên nhân và hàm ý sẽ thất vọng: Sacks thoải mái với ca bệnh hơn với thí nghiệm và khá thiếu phản biện.",
+      "answers": [
+        { "q": 35, "ans": "YES", "quote": "he tends to be rather uncritical in accepting scientific findings and theories", "how": "\"should have more skepticism about other theories and findings\" ↔ \"rather uncritical in accepting scientific findings and theories\": đây là lời chê trực tiếp của người viết, nên YES." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Người viết cho rằng Sacks lẽ ra nên rút ra hàm ý từ quan sát: việc tách rời hòa âm và giai điệu chứng tỏ não không có một trung tâm âm nhạc, và bỏ lỡ cơ hội giáo dục người đọc.",
+      "answers": [
+        { "q": 37, "ans": "F", "quote": "loss of the ability to perceive harmony but not melody, indicate that there is no music center in the brain", "how": "Vế đầu \"The dissociations between harmony and melody\" khớp thẳng với câu này ↔ ending F \"show that music is not localised in the brain\". Ending E (\"not everyone can receive good education\") là bẫy bắt từ \"a missed educational opportunity\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Dường như không có cách chữa cho các rối loạn thần kinh liên quan âm nhạc: cùng một thuốc có thể đỡ ở người này, nặng hơn ở người kia, hiệu quả rất khác nhau.",
+      "answers": [
+        { "q": 38, "ans": "B", "quote": "A drug can alleviate a symptom in one patient and aggravate it in another", "how": "\"The study of treating musical disorders\" ↔ phần nói về điều trị; kết quả thuốc thay đổi tùy người ↔ ending B \"indicates that medication can have varied results\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Nhiều bệnh nhân có kết quả EEG \"bình thường\"; Sacks thừa nhận có công nghệ nhạy hơn nhưng không kêu gọi dùng, không tỏ ra cấp bách, dù ông có kêu gọi kết hợp cả hai hướng.",
+      "answers": [
+        { "q": 36, "ans": "NO", "quote": "he conveys no sense of urgency about the pursuit of new avenues in the diagnosis and treatment of music-brain disorders", "how": "Câu hỏi nói Sacks sốt ruột muốn dùng phương pháp xét nghiệm mới; bài khẳng định ngược lại: ông \"does not call for their use\" và không có cảm giác cấp bách nào, nên NO." },
+        { "q": 39, "ans": "A", "quote": "the patient with music-brain symptoms is reported to have \"normal\" EEG results", "how": "\"The EEG scans of Sacks's patients\" ↔ kết quả EEG bình thường, tức không cho thấy rối loạn nào ↔ ending A \"show no music-brain disorders\"." },
+        { "q": 40, "ans": "D", "quote": "He does call for both approaches, though", "how": "Sacks muốn dùng cả công nghệ mới lẫn quan sát giản dị, tức công nghệ không được dùng đơn độc ↔ ending D \"should not be used in isolation\". Ending C (\"key for the neurological community\") là bẫy bắt từ câu cuối \"we can only hope that the neurological community will respond\"." }
+      ],
+      "note": "Đoạn cuối chứa tới ba đáp án (36, 39, 40): đây là đoạn then chốt, đọc chậm và chốt hết trước khi dừng."
+    }
+  ],
+  "tips": [
+    "Đây là bài điểm sách: phải tách rõ quan điểm của người viết (Weinberger) với quan điểm của Sacks. Dạng Yes/No/Not Given hỏi \"views of the writer\", nên nhận xét của Sacks chỉ dùng được khi người viết cũng tán thành.",
+    "Hai câu NOT GIVEN (32 và 34) đều dựa trên chi tiết có thật trong bài (bản sonata trên bìa, music therapy bị xem nhẹ) nhưng bài không nói đúng điều câu hỏi nêu: có từ khóa không có nghĩa là có đáp án.",
+    "Các ending A–F dùng lại từ ngữ của bài (educational, neurological community) để gài bẫy; hãy khớp theo ý nghĩa của vế đầu, không khớp theo từ trùng."
+  ]
+}

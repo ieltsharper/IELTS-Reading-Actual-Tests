@@ -1,0 +1,102 @@
+{
+  "step1": "Tiêu đề \"Classifying societies\" cho biết bài phân loại các kiểu xã hội. Ngay đoạn 1 đã cho khung: bốn loại từ đơn giản đến phức tạp – clan, tribe, chiefdom, state – và bài có tiểu mục in riêng cho từng loại, nên định vị cực kỳ dễ. Đoán trước: mỗi loại được mô tả bằng quy mô dân số, kinh tế, cách tổ chức quyền lực và dấu vết khảo cổ. Q1–7 (True/False/Not Given) và Q8–13 (short answer) đều đi theo thứ tự bài và bám đúng bốn mục đó: Q1, Q8 ở mục Clan; Q2, Q3, Q9, Q10 ở mục Tribe; Q4, Q5, Q11, Q12 ở mục Chiefdom; Q6, Q7, Q13 ở mục Early State.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–7", "True / False / Not Given", "Có – dùng tiểu mục Clan/Tribe/Chiefdom/Early State", "economic difference, range of plants, one settlement, status, craft goods, army, bureaucratic officers"],
+    ["8–13", "Short answer (NO MORE THAN TWO WORDS)", "Có – theo thứ tự bài", "work sites, nomadic, Çatalhöyük, subjects, 5000–20,000, classes"]
+  ],
+  "typesNote": "Hai bộ câu hỏi xen kẽ nhau nhưng cùng chạy theo thứ tự bốn tiểu mục, nên cứ đọc xong một mục là chốt được cả câu TFNG lẫn câu short answer của mục đó.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Các nhà xã hội học và nhân học phân loại xã hội theo mức độ bất bình đẳng trong tiếp cận tài nguyên, uy tín, quyền lực, và thường nói tới bốn loại: clan, tribe, chiefdom, state.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Tiểu mục: Clan (thị tộc).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Clan là nhóm săn bắt hái lượm nhỏ dưới 100 người, di chuyển theo mùa, các thành viên là họ hàng, không có thủ lĩnh chính thức nên không có chênh lệch kinh tế hay địa vị.",
+      "answers": [
+        { "q": 1, "ans": "TRUE", "quote": "Clans lack formal leaders, so there are no marked economic differences or disparities in status among their members", "how": "\"little economic difference between members\" ↔ \"no marked economic differences ... among their members\" → TRUE. \"no marked\" (không đáng kể) và \"little\" cùng nghĩa, nên đừng vội chọn FALSE chỉ vì bài viết \"no\" còn câu hỏi viết \"little\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Dấu vết khảo cổ của clan: trại theo mùa, nơi giết mổ thú lớn và các work sites nơi người ta chế tác công cụ; nhà ở tạm bợ.",
+      "answers": [
+        { "q": 8, "ans": "tools", "quote": "work sites, where tools are made or other specific activities carried out", "how": "Câu hỏi \"What are made at the clan work sites?\" ↔ \"where tools are made\"; trả lời đúng một từ là tools. Đừng điền \"kill or butchery sites\": đó là loại địa điểm khác, không phải thứ được làm ra." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Tiểu mục: Tribe (bộ lạc).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Tribe đông hơn clan nhưng hiếm khi quá vài nghìn người, sống nhờ cây trồng và vật nuôi; thường là nông dân định cư nhưng cũng có thể du mục dựa vào chăn nuôi; quan chức (nếu có) thiếu nền tảng kinh tế để thực thi quyền lực.",
+      "answers": [
+        { "q": 2, "ans": "NOT GIVEN", "how": "Bài chỉ nói sinh kế dựa vào \"cultivated plants and domesticated animals\", hoàn toàn không nói tribe trồng nhiều LOẠI cây khác nhau (a wide range) → NOT GIVEN. Bẫy: thấy chữ \"plants\" rồi tự suy ra sự đa dạng." },
+        { "q": 9, "ans": "nomadic", "quote": "they may be nomadic with a very different, mobile economy based on the intensive exploitation of livestock", "how": "\"the other way of life besides settled farming\" ↔ \"Typically, they are settled farmers, but they may be nomadic\"; chữ \"but\" chỉ thẳng tới lối sống thứ hai." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Kiểu định cư của tribe: trang trại hoặc làng nông nghiệp cố định, không khu định cư nào lấn át các khu khác; làng có thể là nhà riêng lẻ (thung lũng Danube) hoặc cụm nhà dính nhau (pueblo ở Tây Nam Mỹ, Çatalhöyük ở Thổ Nhĩ Kỳ).",
+      "answers": [
+        { "q": 3, "ans": "FALSE", "quote": "Characteristically, no one settlement dominates any of the others in the region", "how": "Câu hỏi nói một khu định cư quan trọng hơn các khu khác; bài khẳng định không khu nào lấn át khu nào → mâu thuẫn, FALSE." },
+        { "q": 10, "ans": "grouped", "quote": "they may be clusters of buildings grouped together, for example, the pueblos of the American Southwest, and the early farming village or small town of Çatalhöyük", "how": "Çatalhöyük được nêu làm ví dụ cho kiểu \"clusters of buildings grouped together\" → nhà được gom cụm lại, đáp án grouped (hoặc grouped together, vẫn trong giới hạn hai từ)." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Tiểu mục: Chiefdom (lãnh địa tù trưởng).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Chiefdom vận hành theo nguyên tắc xếp hạng: các dòng họ được xếp theo thang uy tín, dòng họ cao nhất cai trị qua một chief; thứ bậc phụ thuộc vào quan hệ họ hàng gần hay xa với chief, chưa phân tầng giai cấp thật sự.",
+      "answers": [
+        { "q": 4, "ans": "FALSE", "quote": "Prestige and rank are determined by how closely related one is to the chief", "how": "Câu hỏi nói địa vị do số đất sở hữu quyết định; bài nói do mức độ gần gũi họ hàng với chief → mâu thuẫn, FALSE. Bẫy: \"owned by the ruling lineage\" ở mục Early State nói về đất đai nhưng là loại xã hội khác." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Thường có chuyên môn hóa thủ công tại chỗ; phần dư thủ công phẩm và lương thực được nộp cho chief, ông dùng để nuôi tùy tùng và tái phân phối cho dân; chiefdom có trung tâm quyền lực, quy mô khoảng 5.000–20.000 người.",
+      "answers": [
+        { "q": 5, "ans": "TRUE", "quote": "The chiefdom generally has a center of power, often with temples, residences of the chief and his retainers, and craft specialists", "how": "\"people who craft goods\" ↔ \"craft specialists\" và \"local specialisation in craft products\" → TRUE." },
+        { "q": 11, "ans": "foodstuffs", "quote": "surpluses of these and of foodstuffs are periodically paid as obligations to the chief. He uses these to maintain his retainers, and may use them for redistribution to his subjects", "how": "Câu hỏi hỏi ngoài craft goods thì chief còn tái phân phối gì cho dân; \"these\" trong câu sau trỏ về \"surpluses of these (craft products) and of foodstuffs\" → foodstuffs." },
+        { "q": 12, "ans": "20,000", "quote": "the range is generally between about 5000 and 20,000 persons", "how": "\"largest possible population\" ↔ đầu trên của khoảng, tức 20,000. Đừng điền 5000 (đầu dưới) hay cả cụm \"5000 and 20,000\" (quá hai từ và không trả lời đúng câu hỏi)." }
+      ]
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Tiểu mục: Early State (nhà nước sơ khai).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Nhà nước sơ khai giữ nhiều đặc điểm của chiefdom nhưng người cai trị có quyền ban hành và cưỡng chế luật bằng quân đội thường trực; xã hội phân tầng giai cấp (nông dân và dân nghèo thành thị ở dưới cùng, thợ thủ công trên họ, tăng lữ và thân tộc nhà vua cao hơn nữa), có kinh đô với bộ máy quan lại lo thu thuế và phân phối.",
+      "answers": [
+        { "q": 6, "ans": "TRUE", "quote": "the ruler (perhaps a king or sometimes a queen) has explicit authority to establish laws and also to enforce them by the use of a standing army", "how": "\"keeps the order ... by using an army\" ↔ \"enforce them by the use of a standing army\" → TRUE." },
+        { "q": 7, "ans": "NOT GIVEN", "how": "Bài có nói tới \"a bureaucratic administration of officials\" và việc họ thu rồi phân phối ngân sách, nhưng không hề so sánh LƯƠNG của quan lại với các nhóm khác → NOT GIVEN. Bẫy: từ \"distribute it to government, army and craft specialists\" dễ bị hiểu thành chuyện trả lương cao thấp." },
+        { "q": 13, "ans": "craft specialists", "quote": "Agricultural workers and the poorer urban dwellers form the lowest classes, with the craft specialists above", "how": "Câu hỏi hỏi nhóm nằm gần đáy nhưng cao hơn nông dân ↔ \"with the craft specialists above\" (ngay trên tầng lớp thấp nhất)." }
+      ],
+      "note": "Câu dài cần chẻ: backbone \"The society is viewed as a territory\" (WHO – DOES WHAT), rồi hai mệnh đề rút gọn bổ nghĩa cho territory: \"owned by the ruling lineage\" và \"populated by tenants\", cuối cùng mệnh đề quan hệ \"who have an obligation to pay taxes\" gắn vào tenants. Hiểu đúng chuỗi này mới không nhầm chuyện sở hữu đất ở Q4."
+    },
+    {
+      "para": "Đoạn 13",
+      "idea": "Kết: cách phân loại của Elman Service (được Sanders và Marino bổ sung) có thể bị phê phán và không nên dùng máy móc, nhưng vẫn là khung tốt để sắp xếp tư duy về các xã hội cổ.",
+      "answers": []
+    }
+  ],
+  "tips": [
+    "Bài có tiểu mục in riêng cho bốn loại xã hội: trước khi đọc, hãy gán nhanh mỗi câu hỏi vào một mục dựa trên từ khóa clan / tribe / chiefdom / state – làm vậy là coi như đã định vị xong toàn bộ bài.",
+    "Hai câu NOT GIVEN (Q2 và Q7) đều do câu hỏi thêm một chi tiết mà bài không bàn (sự đa dạng cây trồng; mức lương): thấy từ khóa khớp nhưng ý so sánh/định lượng không có thì chọn NOT GIVEN.",
+    "Các câu short answer đều yêu cầu tối đa hai từ và đáp án nằm nguyên trong bài: trả lời bằng đúng danh từ (tools, nomadic, foodstuffs, craft specialists), không chép cả cụm dài."
+  ]
+}

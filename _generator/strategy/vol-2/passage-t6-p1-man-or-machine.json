@@ -1,0 +1,74 @@
+{
+  "step1": "Tiêu đề Man or Machine? và sapo \"MIT's humanoid robots showcase both human creativity and contemporary pessimism\" báo trước bài có hai mặt: thành tựu sáng tạo và mặt \"phi nhân tính\". Đoán mạch: robot hình người từ viễn tưởng thành thật → ASIMO của Honda → các robot MIT (Kismet, Cog) → so sánh ASIMO với robot MIT → ứng dụng trong xã hội → phê phán mặt phi nhân tính → vở kịch 1921 sinh ra từ \"robot\". Q1–7 là Matching Information nên chỉ chốt được khi đọc xong từng đoạn; Q8–13 là tóm tắt theo thứ tự, dồn ở đoạn A–C.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–7", "Matching Information (đoạn A–G, có đoạn dùng hai lần)", "Không – đọc xong đoạn mới gán được", "uses in society, artistic work, modelled on an adult, comparison, negative effects, first use of the word, humanity replaced"],
+    ["8–13", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "Honda, years to make, controlled through a computer, imitate human behavior, express feelings, robot called, learn from its environment"]
+  ],
+  "typesNote": "Đọc một lượt: hết mỗi đoạn thì tự hỏi \"đoạn này nói thông tin gì\" để gán câu 1–7 ngay, đồng thời điền tóm tắt 8–13 khi gặp chi tiết tương ứng.",
+  "walk": [
+    {
+      "para": "Đoạn A (mở đầu + ASIMO, tức [P1]–[P2] của bản in)",
+      "idea": "Robot hình người từng chỉ có trong viễn tưởng nay đã thành hiện thực; ASIMO của Honda mất 17 năm chế tạo, cao bốn feet, nặng khoảng 115 pound, do người điều khiển từ xa qua máy tính trong ba lô, và còn biết nhảy điệu Hula.",
+      "answers": [
+        { "q": 2, "ans": "A", "quote": "It can even dance to the Hawaiian Hula", "how": "\"used in artistic work\" ↔ việc ASIMO nhảy múa (dance); đây là chi tiết nghệ thuật duy nhất trong bài nên đoạn A là đáp án." },
+        { "q": 8, "ans": "17", "quote": "After 17 years in the making, ASIMO stands at four feet tall", "how": "\"It took Honda ___ years\" ↔ \"After 17 years in the making\". Bẫy số: đoạn còn có four feet, 115 pounds, July 2003 – chỉ con số đi với \"years\" mới đúng." },
+        { "q": 9, "ans": "backpack", "quote": "its actions are 'remote controlled' by scientists through the computer in its backpack", "how": "\"controlled through a computer installed in the ___\" lặp gần nguyên văn \"the computer in its backpack\"." }
+      ],
+      "note": "Bản in gộp phần mở đầu và đoạn ASIMO thành đoạn A, nên khi làm bài hãy đếm đoạn theo đề (A–G) chứ không theo số dòng."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Trong khi người Nhật giỏi về cơ học chuyển động hai chân, phòng AI của MIT suốt 10 năm làm robot biết cư xử và tương tác như người, tiêu biểu là Kismet – một cái đầu có nhiều biểu cảm khuôn mặt mà người đối diện đọc được.",
+      "answers": [
+        { "q": 10, "ans": "interact", "quote": "have been making robots that can behave like humans and interact with humans", "how": "\"imitate human behavior and ___ with humans\" ↔ \"behave like humans and interact with humans\"; giữ nguyên dạng động từ \"interact\"." },
+        { "q": 11, "ans": "facial expressions", "quote": "It has several facial expressions, including happy, sad, frightened and disgusted", "how": "\"express its own feelings through ___\" ↔ Kismet có nhiều biểu cảm khuôn mặt và người ta \"read some of the robot's facial expressions\"." }
+      ],
+      "note": "Câu dài mở đoạn: xương sống là \"scientists at MIT's former AI lab have been making robots that can behave like humans\" (chứa đáp án Q10); mệnh đề nhượng bộ đầu câu \"While the Japanese have made huge strides in ... bipedal movements\" chỉ dùng để tương phản Nhật (cơ học) với MIT (tương tác), còn phần trong ngoặc về đổi tên CSAIL là chi tiết phụ."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Cog là dự án tiên phong khác của MIT: có đầu, mắt, hai tay, thân, tỉ lệ đo từ cơ thể một nhà nghiên cứu, dùng để thử nghiệm việc robot tự phát triển trí thông minh qua cảm biến và tương tác với môi trường.",
+      "answers": [
+        { "q": 3, "ans": "C", "quote": "its proportions were originally measured from the body of a researcher in the lab", "how": "\"modelled on an adult\" ↔ lấy tỉ lệ từ cơ thể một nhà nghiên cứu (người lớn). Bẫy: đoạn A ví ASIMO \"looks like a child in an astronaut's suit\" – đó là trẻ con, không phải người lớn." },
+        { "q": 12, "ans": "Cog", "quote": "Cog (short for Cognition) is another pioneering project from MIT's former AI lab", "how": "\"Another innovative project is a robot called ___\" ↔ \"another pioneering project\"; viết tên \"Cog\", không viết \"Cognition\"." },
+        { "q": 13, "ans": "intelligence", "quote": "getting a robot to develop intelligence by responding to its environment via sensors", "how": "\"learn from its environment to gain some ___\" ↔ \"develop intelligence by responding to its environment\"." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "MIT đi xa nhất trong việc tạo robot giống người và biết tương tác; nhiều nhà khoa học cho rằng ASIMO chỉ là kỳ công kỹ thuật chứ chưa thông minh vì không tự xử lý tình huống bất ngờ và không học từ kinh nghiệm, còn Cog và Kismet thì bắt đầu làm được.",
+      "answers": [
+        { "q": 4, "ans": "D", "quote": "Some scientists argue that ASIMO is a great engineering feat but not an intelligent machine", "how": "\"A comparison between two different types of robots\" ↔ đoạn đặt ASIMO (kỹ thuật) cạnh Cog/Kismet (biết học và tương tác). Đoạn B cũng có so sánh Nhật – Mỹ nhưng là so sánh hai nhóm nhà khoa học, còn ở đây mới là so sánh trực tiếp hai loại robot." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Đây là những bước tiến đáng mừng và sẽ còn nhanh hơn; robot hình người có thể làm vô số việc trong xã hội – việc nhà, cứu hỏa, phi hành gia, trợ lý y tế cho người già – phần nào để bù lại tình trạng dân số già.",
+      "answers": [
+        { "q": 1, "ans": "E", "quote": "Humanoid robots could have a plethora of uses in society, helping to free people from everyday tasks", "how": "\"The different uses of robots in society\" ↔ \"a plethora of uses in society\" kèm danh sách nghề: firefighters, astronauts, medical assistants." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Đi kèm những kế hoạch sáng tạo đó là sự phi nhân tính: ý tưởng thay bạn đồng hành bằng máy móc hạ thấp quan hệ con người; một mặt là sáng tạo, mặt khác là quan niệm coi con người chỉ là hành vi bề mặt có thể mô phỏng bằng kim loại và mạch điện.",
+      "answers": [
+        { "q": 5, "ans": "F", "quote": "there lies a certain dehumanisation. The idea that companions can be replaced with machines, for example, suggests a mechanical and degraded notion of human relationships", "how": "\"A criticism of the negative effects of humanoid robots on society\" ↔ lời phê phán về \"dehumanisation\" và quan hệ con người bị hạ thấp." },
+        { "q": 7, "ans": "F", "quote": "the sense that human companionship can be substituted by machines; that humans lose their humanity when they interact with technology", "how": "\"People feel humanity may be replaced by robots\" ↔ \"human companionship can be substituted by machines\" và \"humans lose their humanity\". Câu 5 và 7 cùng rơi vào đoạn F – đề đã báo trước có đoạn dùng nhiều hơn một lần." }
+      ],
+      "note": "Khi hai câu Matching Information cùng chỉ về một đoạn, đừng cố trải mỗi câu vào một đoạn khác nhau; cứ bám bằng chứng."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Căng thẳng giữa phi nhân tính và sáng tạo đã được văn hóa khai thác từ lâu: vở kịch năm 1921 của Karel Capek là nơi từ \"robot\" ra đời, và với Capek, làm người là nhiều hơn việc trông giống người.",
+      "answers": [
+        { "q": 6, "ans": "G", "quote": "a 1921 play in which the term 'robot' was first coined", "how": "\"A reference to the first use of the word 'robot'\" ↔ \"the term 'robot' was first coined\" (coin a term = đặt ra từ mới)." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài có nhiều tên riêng (ASIMO, Kismet, Cog, CSAIL, Capek): gạch chân chúng khi đọc, vì cả hai dạng câu hỏi đều xoay quanh việc gán đúng chi tiết cho đúng robot.",
+    "Đoạn A đầy số liệu (17 years, four feet, 115 pounds, July 2003) – với summary, nhìn vào từ đứng cạnh chỗ trống (years) để chọn đúng con số.",
+    "Matching Information không đi theo thứ tự và một đoạn có thể là đáp án của hai câu (ở đây F cho cả câu 5 và 7), nên không loại đoạn đã dùng."
+  ]
+}

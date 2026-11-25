@@ -1,0 +1,73 @@
+{
+  "step1": "Tiêu đề \"Ambergris\" cùng sapo \"What is it and where does it come from?\" báo trước bài sẽ trả lời hai câu: nó là gì và từ đâu ra. Đoán mạch bài: lịch sử dùng long diên hương ở các nền văn minh → các phỏng đoán về nguồn gốc → so sánh với hổ phách (amber) → cơ chế hình thành trong bụng cá nhà táng → vấn đề đạo đức/bảo tồn → ứng dụng trong nước hoa ngày nay. Q1–6 (phân loại ambergris/amber) dồn vào các đoạn so sánh, Q7–9 nằm ở đoạn mô tả quá trình hình thành, Q10–13 (TFNG) ở nửa sau bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–6", "Classification A–D (ambergris / amber / cả hai / không cái nào)", "Một phần: có từ khóa nhưng phải đọc cả đoạn so sánh", "expensive, flavor, currency, see-through, Herman Melville, sweet smell"],
+    ["7–9", "Sentence completion (NO MORE THAN ONE WORD)", "Có, theo thứ tự bài", "digest, squids, drive out of intestines, contact with air"],
+    ["10–13", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc hết đoạn mới chốt", "dead whales, more expensive, popular ingredient, new uses"]
+  ],
+  "typesNote": "Dạng phân loại A–D không chạy theo thứ tự bài, nên cách an toàn là vừa đọc vừa ghi bên lề: thông tin này nói về ambergris hay amber, rồi cuối cùng những ý không thấy ở đâu sẽ là D.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Long diên hương đã được dùng làm hương liệu mỹ phẩm từ thời Lưỡng Hà; người Trung Hoa gọi là \"nước dãi rồng\", người Arab gọi là anbar, và nhiều thế kỷ qua nó còn được dùng làm gia vị thực phẩm.",
+      "answers": [
+        { "q": 2, "ans": "A", "quote": "For centuries, this substance has also been used as a flavouring for food.", "how": "\"adds flavor to food\" ↔ \"used as a flavouring for food\"; \"this substance\" ở đây là ambergris, và cả bài không chỗ nào nói amber được ăn → A (ambergris only)." }
+      ],
+      "note": "Đoạn 1 chỉ nói về ambergris, chưa nhắc amber. Mọi thông tin ở đây nếu vào bộ câu 1–6 thì mặc định là A."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Thời trung cổ người châu Âu dùng long diên hương làm thuốc; Melville nhắc tới nó trong Moby-Dick, và bí ẩn nguồn gốc chỉ chấm dứt vào thập niên 1720 khi thợ săn cá voi Nantucket tìm thấy nó trong dạ dày cá nhà táng.",
+      "answers": [
+        { "q": 5, "ans": "A", "quote": "Herman Melville claimed that ambergris was \"largely used in perfumery.\"", "how": "Melville chỉ nhắc tới ambergris, không nhắc amber → A." },
+        { "q": 10, "ans": "TRUE", "quote": "By the 20th century, ambergris was mainly recovered from inside the carcasses of sperm whales.", "how": "\"comes from the dead whales\" ↔ \"from inside the carcasses\" (carcass = xác chết); \"most\" ↔ \"mainly\" → TRUE. Bẫy: đoạn 3 nói người ta nhặt được trên bãi biển, nhưng câu hỏi hỏi nguồn chính nên vẫn theo câu này." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Grey amber (long diên hương) từng bị gộp chung với golden amber: cả hai đều thuộc hàng quý giá gần bằng vàng, nhưng thực ra khác hẳn nhau vì amber là nhựa cây hóa thạch, cứng và trong suốt.",
+      "answers": [
+        { "q": 1, "ans": "C", "quote": "Both of them were among the most sought-after substances in the world, almost as valuable as gold.", "how": "\"being expensive\" ↔ \"almost as valuable as gold\"; chữ \"Both of them\" nói rõ cả ambergris lẫn amber → C." },
+        { "q": 4, "ans": "B", "quote": "amber is a hard, transparent, wholly-organic material derived from the resin of extinct species of trees", "how": "\"being see-through\" ↔ \"transparent\"; tính từ này chỉ gán cho amber, còn ambergris ở đoạn 5 được tả là \"smooth, waxy\" → B." },
+        { "q": 3, "ans": "D", "how": "Cả bài chỉ nói hai thứ này đắt gần bằng vàng và được săn lùng, không chỗ nào nói chúng từng được dùng làm tiền tệ. \"as valuable as gold\" là bẫy: đắt ngang vàng không có nghĩa là dùng thay tiền → D (không phải cái nào)." }
+      ],
+      "note": "Đây là đoạn so sánh trung tâm của bộ câu 1–6: ba câu (1, 3, 4) chốt được ngay tại đây. Chú ý phân biệt grey amber = ambergris và golden amber = amber."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Các sử gia phương Tây đầu tiên đoán đủ kiểu về nguồn gốc long diên hương (mạch nước ngầm, tinh dịch cá, phân chim biển, tổ ong), và Marco Polo là người đầu tiên gán đúng nó cho chất nôn của cá nhà táng.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Cá nhà táng lặn sâu săn mực nhưng không tiêu hóa nổi mỏ mực, nên dịch vị bao quanh mỏ thành khối rắn rồi nôn ra; sau khoảng mười năm trôi nổi, khối đó cứng lại và chuyển từ mùi hôi sang hương ngọt dịu.",
+      "answers": [
+        { "q": 7, "ans": "beaks", "quote": "seemingly struggle to digest the hard, sharp, parrot-like beaks", "how": "\"can't digest the ___ of the squids\" ↔ \"struggle to digest the ... beaks\"; giới hạn một từ nên chỉ điền \"beaks\"." },
+        { "q": 8, "ans": "vomiting", "quote": "hard, resinous lumps are formed around the beaks, and then expelled from their innards by vomiting", "how": "\"drive the irritants out of their intestines by ___\" ↔ \"expelled from their innards by vomiting\" (expel ↔ drive out, innards ↔ intestines); giữ nguyên dạng V-ing sau \"by\"." },
+        { "q": 9, "ans": "hardens", "quote": "the substance hardens with air and sun into a smooth, waxy, usually rounded piece", "how": "\"gradually ___ on contact with air\" ↔ \"hardens with air and sun\"; chủ ngữ số ít nên giữ \"hardens\"." },
+        { "q": 6, "ans": "A", "quote": "replaced by a sweet, smooth, musky and pleasant earthy aroma", "how": "\"produces sweet smell\" ↔ \"a sweet ... aroma\"; đây là nói về ambergris sau khi trôi nổi, amber không được mô tả có mùi → A." }
+      ],
+      "note": "Câu dài \"It is thought their stomach juices become hyper-active trying to process the irritants, and eventually hard, resinous lumps are formed around the beaks, and then expelled from their innards by vomiting\": bộ khung gồm hai vế nối bằng \"and\" — dịch vị hoạt động mạnh, rồi các khối rắn hình thành quanh mỏ mực và bị tống ra ngoài; cụm \"trying to process the irritants\" chỉ nêu lý do. Câu 8 nằm ở vế cuối cùng."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Vì long diên hương đến từ động vật nên nảy sinh vấn đề đạo đức: cá nhà táng là loài nguy cấp, nạn săn bắt vẫn tiếp diễn, và nhiều nhà nghiên cứu lo rằng buôn bán long diên hương tự nhiên cũng kích thích săn cá voi.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Ngày nay long diên hương được dùng làm chất định hương, nhưng vì hiếm, đắt và vướng pháp lý nên phần lớn hãng nước hoa dùng dẫn xuất hóa học thay thế.",
+      "answers": [
+        { "q": 12, "ans": "FALSE", "quote": "most perfumeries prefer to add a chemical derivative which mimics the properties of ambergris", "how": "Câu hỏi nói long diên hương vẫn là nguyên liệu phổ biến trong sản xuất nước hoa hôm nay; bài nói phần lớn hãng chuyển sang chất hóa học thay thế và \"you can assume that there is no natural ambergris in your perfume bottle\" → mâu thuẫn, FALSE. Bẫy: danh sách nước hoa ở cuối đoạn dễ khiến tưởng nó vẫn phổ biến." },
+        { "q": 11, "ans": "NOT GIVEN", "how": "Bài chỉ cho giá hiện tại (khoảng 20 USD/gram, ở đoạn 3) và nói nó \"rare and expensive\", nhưng không hề so sánh giá nay với giá trước kia → không đủ cơ sở, NOT GIVEN. \"expensive\" không đồng nghĩa với \"more expensive than before\"." },
+        { "q": 13, "ans": "NOT GIVEN", "how": "Đoạn 7 chỉ nói \"One of the forms in which ambergris is used today\" là chất định hương; bài không nhắc tới bất kỳ công dụng mới nào được phát hiện gần đây (các công dụng khác như gia vị, thuốc đều là chuyện xưa) → NOT GIVEN." }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhớ cặp tên dễ lẫn: ambergris = grey amber (từ cá nhà táng), amber = golden amber (nhựa cây hóa thạch). Gần như toàn bộ bộ câu 1–6 xoay quanh việc phân biệt hai thứ này.",
+    "Với dạng A–D có phương án \"neither\", hãy để trống rồi quay lại cuối cùng: câu 3 chỉ an tâm khi đã đọc hết bài mà vẫn không thấy nhắc tới tiền tệ.",
+    "Ba câu điền Q7–9 nằm sát nhau trong cùng một đoạn và chỉ cho phép một từ: chú ý dạng từ (danh từ số nhiều beaks, V-ing sau \"by\", động từ chia số ít hardens)."
+  ]
+}

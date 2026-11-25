@@ -1,0 +1,75 @@
+{
+  "step1": "Tiêu đề The Dance of the Honeybee với sapo \"How a colony of insects tells its members where to find the next meal\" cho biết bài giải thích cách ong thợ báo cho nhau vị trí nguồn mật. Đoán mạch bài: vấn đề của đàn ong → điệu múa vòng (gần) → điệu múa lắc (xa, góc và thời lượng) → xử lý việc mặt trời di chuyển → điệu múa còn báo chất lượng nguồn → tranh cãi khoa học và thí nghiệm chứng minh → các tín hiệu khác và việc chia đàn. Q1–5 (nối vế câu) bám các đoạn mô tả từng loại múa; Q6–9 là flow-chart nên rải theo trình tự; Q10–13 (TRUE/FALSE/NOT GIVEN) theo thứ tự bài, câu cuối chắc nằm ở đoạn về swarm.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–5", "Matching sentence endings (A–H)", "Có: vế đầu nêu rõ tên từng tín hiệu", "round dance, angle of the waggle run, time that a waggle run lasts, cloudy day, tremble dance"],
+    ["6–9", "Flow-chart completion (ONE WORD ONLY)", "Có, theo thứ tự bài", "cannot see it, clings to her, reaches the end of it, number at the site rises"],
+    ["10–13", "True / False / Not Given", "Có (từ khóa), nhưng phải đọc hết đoạn mới chốt", "many times in one dance, more energetically, young bees taught, scouts different dance"]
+  ],
+  "typesNote": "Mỗi đoạn của bài mô tả một tín hiệu khác nhau, nên cứ đọc xong một đoạn là chốt được đúng những câu thuộc tín hiệu ấy, không cần quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Một đàn ong hàng vạn con phải khai thác những vạt hoa rải rác trên nhiều km vuông mà không có ai ra lệnh, nên đàn dựa vào một hệ thống truyền tin do Karl von Frisch giải mã.",
+      "answers": [],
+      "note": "Đoạn mở đầu chỉ nêu bối cảnh và tên nhà khoa học (von Frisch, giải Nobel). Không có câu hỏi nào về ông – đừng dừng lại ghi nhớ chi tiết."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Khi hoa ở gần tổ, ong múa điệu vòng (round dance): điệu này không nói hướng, chỉ báo rằng có thứ đáng lấy ở quanh đây, và ong theo sau còn nhận được mùi hoa bám trên mình cô cùng một mẫu mật.",
+      "answers": [
+        { "q": 1, "ans": "F", "quote": "It announces only that something worth having lies somewhere in the immediate neighbourhood", "how": "Vế đầu \"The round dance tells the bees that follow it that\" ↔ ending F \"food is to be found somewhere nearby\"; \"immediate neighbourhood\" = nearby. Bẫy: ending B (hướng so với mặt trời) sai vì bài nói rõ \"This round dance says nothing about direction\"." },
+        { "q": 7, "ans": "scent", "quote": "the scent of the flowers she has visited still clings to her body", "how": "Flow-chart \"pick up the ___ of the flowers she has visited, which still clings to her\" lặp gần nguyên văn; chỉ một từ nên viết \"scent\", không viết \"nectar\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Khi thức ăn ở xa, ong múa điệu lắc (waggle dance) hình số tám: đoạn chạy thẳng mang thông điệp, trong đó góc so với phương thẳng đứng cho biết hướng so với mặt trời và thời lượng cho biết khoảng cách; vì tổ tối nên ong theo sau cảm nhận bằng râu và rung động.",
+      "answers": [
+        { "q": 2, "ans": "B", "quote": "a run made straight up the comb means that the food lies in the direction of the sun, while a run thirty degrees to the left of vertical means that the food lies thirty degrees to the left of the sun", "how": "\"The angle of the waggle run\" ↔ \"The first is its angle\"; ending B \"in which direction the food lies in relation to the sun\" ↔ hai ví dụ về góc so với mặt trời." },
+        { "q": 3, "ans": "A", "quote": "The longer the waggle run lasts, the further the forager has flown", "how": "\"The time that a waggle run lasts\" ↔ \"The second feature is duration\"; ending A \"how far the forager has flown\" ↔ \"the further the forager has flown\". Nhớ câu chốt: \"distance is expressed as time rather than as length\"." },
+        { "q": 6, "ans": "darkness", "quote": "since it is performed in the darkness of the hive the bees that follow cannot see it at all", "how": "\"Because the dance takes place in the ___ of the hive, the bees following her cannot see it\" ↔ \"performed in the darkness of the hive ... cannot see it at all\"; chỉ một từ nên là \"darkness\" (không phải \"the dark\")." },
+        { "q": 10, "ans": "TRUE", "quote": "A single dance may repeat the run dozens of times", "how": "\"may perform the waggle run many times in the course of one dance\" ↔ \"A single dance may repeat the run dozens of times\"; \"dozens of times\" = many times nên TRUE." }
+      ],
+      "note": "Câu mô tả điệu múa rất dài: xương sống là \"She runs forward in a straight line\" (AI + LÀM GÌ), rồi các phân từ \"shaking her abdomen ... and producing a buzzing vibration\" kể việc làm kèm theo, tiếp đó \"then loops back to her starting point\" là động tác thứ hai, và mệnh đề \"so that her path traces a flattened figure of eight\" nêu kết quả. Chỉ cần nắm: chạy thẳng + lắc bụng, rồi vòng về, thành hình số tám."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Vì mặt trời di chuyển, ong bị giữ lại trong tổ sẽ tự chỉnh dần góc múa theo thời gian; còn mây không phải trở ngại lớn vì chỉ cần một mảng trời xanh là ong đọc được ánh sáng phân cực để biết mặt trời ở đâu.",
+      "answers": [
+        { "q": 4, "ans": "D", "quote": "A patch of blue sky is enough, because a bee can detect the pattern of polarised light that the sky produces, and that pattern reveals where the sun must be", "how": "\"on a cloudy day\" ↔ \"Cloud is a smaller problem than it appears\"; ending D \"it can detect polarised light in a patch of blue sky\" ↔ chính câu này. Bẫy: ending G (theo dõi thời gian trôi) cũng có trong đoạn, nhưng đó là cách bù cho việc mặt trời di chuyển, không phải cách xác định mặt trời khi trời nhiều mây." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Điệu múa còn báo chất lượng: nguồn càng ngon, càng dễ lấy, càng gần thì múa càng hăng và càng dai, nhờ đó số ong tới một vạt hoa tăng nhanh khi vạt còn tốt và giảm khi hết.",
+      "answers": [
+        { "q": 9, "ans": "foragers", "quote": "the number of foragers visiting a site rises quickly while it remains productive", "how": "\"the number of ___ at the site rises\" ↔ \"the number of foragers visiting a site rises quickly\"; bài cũng dùng từ \"recruits\" nhưng cụm \"the number of\" đi liền với \"foragers\"." },
+        { "q": 11, "ans": "TRUE", "quote": "The richer the source – the sweeter the nectar, the easier the flowers are to work, the shorter the flight – the more vigorous and the more persistent the dance", "how": "\"dances more energetically for a source of nectar of better quality\" ↔ \"the sweeter the nectar ... the more vigorous ... the dance\". TRUE." }
+      ],
+      "note": "Ending E (\"how sweet the nectar at the source is\") của Q1–5 lấy từ đoạn này, nhưng không vế đầu nào (Q1–Q5) hỏi về độ ngọt – dạng nối vế luôn có phương án thừa."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Suốt nhiều năm có người phản bác rằng ong tìm được thức ăn nhờ mùi chứ không nhờ điệu múa; hai thí nghiệm (ong máy múa trong tổ, và ong gắn thiết bị theo dõi bằng radar) đã giải quyết tranh cãi.",
+      "answers": [
+        { "q": 8, "ans": "search", "quote": "they flew the course that the dance had specified, and then began to search when they reached the end of it", "how": "\"begins to ___ when she reaches the end of it\" ↔ \"began to search when they reached the end of it\"; chỉ cần đổi dạng động từ." }
+      ],
+      "note": "Đoạn này thừa nhận phe phản đối có lý (\"The objection was a fair one\") – nếu đề có câu hỏi về quan điểm thì đây là chỗ dễ hiểu nhầm thành người viết nghi ngờ điệu múa."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Trên sàn múa còn có các tín hiệu khác: tremble dance khi không có ong nhà nhận mật, xung rung ngắn để ngắt điệu múa quảng cáo nơi nguy hiểm, và chính điệu waggle được dùng lại khi đàn chia tổ để chọn nơi ở mới.",
+      "answers": [
+        { "q": 5, "ans": "C", "quote": "A forager who comes back loaded with nectar and cannot quickly find a house bee to take it from her will perform a tremble dance", "how": "\"performs a tremble dance when\" ↔ ending C \"there is nobody free to take her nectar from her\" ↔ \"cannot quickly find a house bee to take it from her\". Bẫy: ending H (gặp thú săn mồi ở vạt hoa) ứng với tín hiệu khác trong cùng đoạn – xung rung húc đầu – chứ không phải tremble dance." },
+        { "q": 13, "ans": "FALSE", "quote": "The same waggle dance is used for a quite different purpose when a colony divides and swarms", "how": "Câu hỏi nói ong trinh sát dùng \"a different dance\"; bài nói rõ dùng CÙNG điệu waggle, chỉ khác mục đích. \"Quite different purpose\" là bẫy đọc lướt: khác mục đích chứ không khác điệu múa. Mâu thuẫn nên FALSE." },
+        { "q": 12, "ans": "NOT GIVEN", "how": "Đọc hết bảy đoạn không có câu nào nói ong non phải được ong già dạy ý nghĩa của điệu múa; bài chỉ tả cách ong theo sau cảm nhận điệu múa bằng râu. Bẫy: \"press close behind the dancer\" nghe như học việc, nhưng đó là nhận thông tin, không phải được dạy." }
+      ]
+    }
+  ],
+  "tips": [
+    "Mỗi tín hiệu gắn với một thông điệp riêng: round dance = có thức ăn ở gần (không hướng), waggle góc = hướng, waggle thời lượng = khoảng cách, tremble = cần người nhận mật, xung húc đầu = nguy hiểm. Lẫn tín hiệu là mất cả cụm Q1–5.",
+    "Flow-chart Q6–9 yêu cầu ONE WORD ONLY: chép đúng \"darkness\", \"scent\", \"search\", \"foragers\" – đừng thêm mạo từ hay viết cụm hai từ.",
+    "Với TRUE/FALSE/NOT GIVEN, hãy phân biệt \"cùng điệu múa, khác mục đích\" (Q13 FALSE) và điều bài hoàn toàn không bàn tới (Q12 NOT GIVEN về việc dạy ong non)."
+  ]
+}

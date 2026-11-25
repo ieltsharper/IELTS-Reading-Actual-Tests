@@ -1,0 +1,80 @@
+{
+  "step1": "Tiêu đề New Zealand Seaweed và câu dẫn \"we are flowers of the sea\" cho thấy bài giới thiệu tổng quát về rong biển New Zealand: giá trị dinh dưỡng → các loài và sản phẩm thương mại → việc ít khai thác trước 1940 → phân loại theo màu và nơi sống → cách sinh sản → cách giữ nước/nổi. Q1–6 (headings) phải đọc hết từng section mới chốt; Q7–10 (flow chart) dồn ở đoạn nói về Gigartina và agar; Q11–13 (phân loại xanh/nâu/đỏ) nằm ở đoạn nói về phân vùng theo độ sâu.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–6", "Matching headings (i–x) cho section A–F", "Không, phải đọc xong section mới chọn", "nutritious, products, underuse, locations, reproduce, dry or sink"],
+    ["7–10", "Flow chart completion (NO MORE THAN THREE WORDS)", "Có", "Gigartina, agar, seameal, cough mixture, toothpaste"],
+    ["11–13", "Classifying A/B/C (green / brown / red)", "Có (từ khóa)", "exposure to sunlight, high-water mark, open sea water, karengo"]
+  ],
+  "typesNote": "Vừa đọc vừa chốt: headings chốt khi kết thúc mỗi section, còn flow chart và phân loại chốt ngay tại câu chứa từ khóa, không quay lại.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Rong biển rất bổ dưỡng vì hấp thụ và cô đặc nhiều khoáng chất, lại giàu vitamin (Eskimo lấy nhiều vitamin C từ rong biển).",
+      "answers": [],
+      "note": "Đoạn 1 và đoạn 2 cùng thuộc Section A; đọc hết cả hai rồi mới chọn heading cho Q1."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Giá trị dinh dưỡng đã được biết từ lâu: người Nhật và người Maori ăn rong biển nên ít bị bướu cổ nhờ hàm lượng i-ốt cao.",
+      "answers": [
+        { "q": 1, "ans": "v", "quote": "Seaweed is a particularly nutritious food ... The nutritive value of seaweed has long been recognised.", "how": "Cả Section A chỉ nói một ý: rong biển bổ dưỡng (khoáng chất, vitamin, i-ốt) ↔ heading v \"Nutritious value of seaweeds\". Bẫy là heading iii \"Use of seaweeds in Japan\": Nhật chỉ là một ví dụ trong một câu, không phải ý chính." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "New Zealand có khoảng 700 loài, trong đó ~30 loài Gigartina (New Zealand carrageens) cho chất agar dùng trong rất nhiều ngành: seameal, thuốc ho, bánh kẹo, mỹ phẩm, đồ hộp, sơn, da, kem đánh răng.",
+      "answers": [
+        { "q": 2, "ans": "ii", "quote": "gives them great commercial application in seameal, from which seameal custard is made, and in cough mixture, confectionery, cosmetics, the canning, paint and leather industries", "how": "Section B liệt kê hàng loạt sản phẩm làm từ rong biển ↔ heading ii \"Various products of seaweeds\". Bẫy là heading iv \"Seaweed species around the globe\": bài chỉ nói New Zealand có phần lớn trong các loài trồng khắp thế giới, trọng tâm vẫn là công dụng." },
+        { "q": 7, "ans": "New Zealand carrageen", "quote": "These are often referred to as the New Zealand carrageens.", "how": "\"also called as\" ↔ \"are often referred to as\". Chép đúng tên gọi khác của Gigartina; đáp án chuẩn dùng dạng số ít." },
+        { "q": 8, "ans": "agar", "quote": "The gel-forming substance called agar which can be extracted from this species", "how": "Ô [8] nằm ngay dưới \"made into\" ↔ chất được chiết ra từ Gigartina chính là agar; mọi sản phẩm bên dưới đều đi ra từ agar." },
+        { "q": 9, "ans": "seameal", "quote": "great commercial application in seameal, from which seameal custard is made", "how": "Nhánh đầu của flow chart cùng hàng với \"canned or bottled food\" ↔ \"the canning\" industries; sản phẩm được nêu đầu tiên trong danh sách là seameal." },
+        { "q": 10, "ans": "cough mixture", "quote": "and in cough mixture, confectionery, cosmetics", "how": "\"medicine (e.g. ...)\" ↔ thứ duy nhất trong danh sách thuộc về thuốc là \"cough mixture\"; confectionery và cosmetics không phải thuốc." }
+      ],
+      "note": "Flow chart lấy từ đúng một câu dài. Xương sống: \"The gel-forming substance called agar ... gives them great commercial application in ...\" – chủ ngữ là agar, phần \"which can be extracted from this species\" là mệnh đề quan hệ chèn vào, phần sau \"in ...\" là danh sách các lĩnh vực ứng dụng."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Dù có nhiều loài rong đỏ cho agar, trước năm 1940 New Zealand hầu như không dùng mà còn nhập Irish moss từ Anh và agar làm sẵn từ Nhật.",
+      "answers": [
+        { "q": 3, "ans": "viii", "quote": "before 1940 relatively little use was made of them. New Zealand used to import the Northern Hemisphere Irish moss (Chondrus crispus) from England and ready-made agar from Japan.", "how": "Ý chính Section C là \"có sẵn mà không dùng, phải đi nhập\" ↔ heading viii \"Underuse of native species\". Bẫy là heading vii \"Where to find red seaweeds\": đoạn có nhắc vùng phân bố (east coast, Hokianga) nhưng đó chỉ là chi tiết phụ." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Rong biển chia ba nhóm theo màu (đỏ, nâu, xanh), mỗi nhóm sống ở một vị trí riêng, nhưng màu có thể đổi nhiều khi khô.",
+      "answers": [],
+      "note": "Đoạn 5 và đoạn 6 cùng là Section D (màu + nơi sống), nên để dành heading Q4 đến cuối đoạn 6."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Nơi mọc của rong biển rất xác định: xanh ở nước nông, nâu ở độ sâu trung bình, đỏ ở nước sâu; mức chịu nắng quyết định cao hay thấp trên bờ.",
+      "answers": [
+        { "q": 4, "ans": "i", "quote": "the factors which determine where a seaweed will grow are quite precise, and they therefore tend to occur in very well-defined zones", "how": "Section D nói về màu sắc và vùng phân bố đặc trưng của từng nhóm ↔ heading i \"Locations and features of different seaweeds\". Heading vii chỉ nói riêng rong đỏ nên quá hẹp." },
+        { "q": 11, "ans": "A", "quote": "the green seaweeds are mainly shallow-water algae ... Those species able to resist long periods of exposure to the sun and air are usually found on the upper shore", "how": "\"resist exposure to sunlight at high-water mark\" ↔ \"able to resist long periods of exposure to the sun\" + \"found on the upper shore\" (vùng nước cao); bờ trên = nước nông, mà nước nông là rong xanh → A." },
+        { "q": 12, "ans": "C", "quote": "the reds are plants of the deeper water", "how": "\"far open sea water\" ↔ \"deeper water\"; nhóm ở nước sâu là rong đỏ → C. Bẫy: \"Deep-water rocks on open coasts\" trong câu sau nói về bull kelp (rong nâu) nhưng đó là đá lộ ra khi thủy triều rất thấp, không phải biển sâu ngoài khơi." },
+        { "q": 13, "ans": "B", "quote": "Flat rock surfaces near mid-level tides are the most usual habitat of sea bombs, Venus’ necklace and most brown seaweeds. This is also the location of the purple laver or Maori karengo", "how": "\"share their habitat with karengo\" ↔ \"This is also the location of ... karengo\"; cùng chỗ đó là \"most brown seaweeds\" → B. Đừng chọn C chỉ vì karengo được tả là \"reddish-purple\"; câu hỏi hỏi ai sống chung chứ không hỏi màu." }
+      ],
+      "note": "Cả ba câu 11–13 nằm gọn trong đoạn 6. Chốt ngay tại đây rồi mới đọc tiếp."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Rong biển sinh sản bằng bào tử hoặc thụ tinh tế bào trứng, không có rễ/hoa/quả thật, hút dinh dưỡng qua tán lá.",
+      "answers": [
+        { "q": 5, "ans": "x", "quote": "Propagation of seaweeds occurs by spores, or by fertilisation of egg cells.", "how": "Section E nói cách sinh sản và cách hút dinh dưỡng để lớn ↔ heading x \"How seaweeds reproduce and grow\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Rong biển lớn giữ nổi bằng phao/túi khí và chống mất nước bằng thân phồng, nốt sần hoặc lớp nhầy bao ngoài.",
+      "answers": [
+        { "q": 6, "ans": "vi", "quote": "Some of the large seaweeds maintain buoyancy with air-filled floats ... often reduce dehydration either by having swollen stems that contain water", "how": "Section F nói hai việc: giữ nổi (không chìm) và chống khô ↔ heading vi \"Why it doesn’t dry or sink\". Heading ix \"Mystery solved\" không có gì trong bài tương ứng." }
+      ]
+    }
+  ],
+  "tips": [
+    "Section ở đề không trùng với số đoạn: A gồm đoạn 1–2, D gồm đoạn 5–6. Phải đọc hết section rồi mới chốt heading, nếu chốt sớm sẽ chọn nhầm heading của một chi tiết phụ (iii, iv, vii).",
+    "Flow chart Q7–10 nằm trong một câu liệt kê duy nhất ở đoạn 3: bám theo trật tự agar → sản phẩm, và chọn đúng từ thuộc nhóm mà đề gợi ý (medicine → cough mixture).",
+    "Với phân loại 11–13, dấu hiệu quyết định là độ sâu/độ cao trên bờ, không phải màu sắc được miêu tả (karengo \"reddish-purple\" nhưng sống chung với rong nâu)."
+  ]
+}

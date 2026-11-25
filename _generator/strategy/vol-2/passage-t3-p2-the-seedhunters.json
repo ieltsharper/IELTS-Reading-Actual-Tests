@@ -1,0 +1,88 @@
+{
+  "step1": "Tiêu đề \"The Seedhunters\" và sapo (một phần tư thực vật thế giới sẽ biến mất trong 50 năm tới) cho biết bài nói về những nhà khoa học đi thu thập hạt giống để cứu di sản thực vật. Mạch bài dễ đoán: ai đi săn hạt và vì sao → những người tiên phong trong lịch sử → Millennium Seed Bank (ngân hàng hạt giống) → số liệu tuyệt chủng → vì sao mất cây là nghiêm trọng → khó khăn và kinh phí. Q14–18 là summary nên đi theo thứ tự và dồn ở đoạn 1–4; Q19–24 TRUE/FALSE/NOT GIVEN trải từ đoạn 3 đến đoạn 10; Q25–26 hỏi cây cho con người thứ gì, nằm ở đoạn 6.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–18", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "collect to protect, potential to produce, gardeners and botanists, out of his own pocket, low temperature"],
+    ["19–24", "True / False / Not Given", "Có (từ khóa), theo thứ tự bài", "different from the past, earliest seed banks, farmland expansion, used by farmers, only hope, insufficient financial resources"],
+    ["25–26", "Multiple choice chọn 2 trong A–E", "Có: đoạn nói cây mang lại gì cho con người", "food crops, medicines, fuel, building materials"]
+  ],
+  "typesNote": "Cả ba nhóm đều chạy theo thứ tự bài, nên chỉ cần đọc một lượt: xong đoạn nào chốt câu của đoạn đó rồi đi tiếp.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Những người săn hạt giống đi khắp thế giới: một số làm vì lợi nhuận cho công ty dược/công nghệ sinh học, số khác thu thập để bảo tồn, ngăn các loài cây tuyệt chủng.",
+      "answers": [
+        { "q": 14, "ans": "extinction", "quote": "working to halt the sad slide into extinction facing so many plant species", "how": "\"collect to protect certain species from ___\" ↔ \"collect to conserve, working to halt the sad slide into extinction\"; chỗ trống đứng sau \"from\" nên cần danh từ chỉ mối nguy." },
+        { "q": 15, "ans": "drugs, crops", "quote": "on the lookout for species that will yield the drugs or crops of the future", "how": "\"potential to produce ___\" ↔ \"will yield the drugs or crops of the future\"; đây là nhóm \"seek seeds for profit\". Đáp án chấp nhận hai từ \"drugs, crops\"." }
+      ],
+      "note": "Hai vế trong đoạn đối nhau rõ: \"Some seek seeds for profit\" (câu 15) và \"Others collect to conserve\" (câu 14). Câu hỏi hỏi bảo tồn trước, lợi nhuận sau, tức là thứ tự ngược với bài trong phạm vi một đoạn."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Những người tiên phong gồm John Tradescant (người làm vườn hoàng gia, đầu thế kỷ 17) và nhà thực vật học Sir Joseph Banks, người bỏ tiền túi cử các nhà thực vật học đi khắp thế giới.",
+      "answers": [
+        { "q": 16, "ans": "pioneers", "quote": "Among the pioneers of this botanical treasure hunt", "how": "\"The ___ of them included both gardeners and botanists\" ↔ \"Among the pioneers... was John Tradescant, an English royal gardener... Later, the English botanist Sir Joseph Banks\" (một người làm vườn + một nhà thực vật học)." },
+        { "q": 17, "ans": "Sir Joseph Banks", "quote": "he sent botanists around the world at his own expense", "how": "\"sponsored collectors out of his own pocket\" ↔ \"at his own expense\". Câu rất dài: xương sống là \"Sir Joseph Banks was so driven to expand his collections that he sent botanists around the world\"; phần chen giữa hai dấu gạch ngang (giám đốc đầu tiên của Kew, đi cùng thuyền trưởng Cook) chỉ là thông tin phụ, bỏ qua được. Bẫy: Tradescant cũng mang hạt về nhưng không nói ông tự bỏ tiền." }
+      ]
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Thời khám phá đã qua, nay mục đích là bảo tồn cho tương lai; tiêu biểu là Dr Michiel van Slageren ở Millennium Seed Bank, dự án bảo tồn trị giá 80 triệu bảng.",
+      "answers": [
+        { "q": 19, "ans": "TRUE", "quote": "Those heady days of exploration and discovery may be over, but they have been replaced by a pressing need to preserve our natural history for the future", "how": "\"different from the past\" ↔ mục đích khám phá ngày xưa đã được \"replaced by\" nhu cầu bảo tồn. Cấu trúc nhượng bộ \"may be over, but...\" chính là chỗ nói lý do đã đổi." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Trụ sở ở Wakehurst Place: trong các hầm ngầm có 260 triệu hạt khô từ 122 nước, giữ ở -20 độ C để sống được hàng thế kỷ.",
+      "answers": [
+        { "q": 18, "ans": "underground vaults", "quote": "Within its underground vaults are 260 million dried seeds from 122 countries, all stored at -20 Celsius", "how": "\"stored in the ___ at low temperature\" ↔ \"Within its underground vaults... all stored at -20 Celsius\"; chỗ trống cần nơi chứa, không phải nhiệt độ." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Đây là kho hạt cây hoang dã lớn nhất thế giới, nhắm 24.000 loài vào năm 2010, vì khoảng 25% thực vật sắp tuyệt chủng do con người phá hủy môi trường sống và biến đất hoang thành đất nông nghiệp.",
+      "answers": [
+        { "q": 21, "ans": "TRUE", "quote": "Experts predict that during the next 50 years a further one billion hectares of wilderness will be converted to farmland in developing countries alone", "how": "\"farmland expansion\" ↔ \"wilderness will be converted to farmland\"; nối với \"We're currently responsible for habitat destruction on an unprecedented scale\" ở ngay trước, đó là nguyên nhân chính của tuyệt chủng → TRUE." },
+        { "q": 20, "ans": "NOT GIVEN", "how": "Bài nói Millennium Seed Bank \"the world's largest wild-plant depository\" (lớn nhất) chứ không nói nó ra đời sớm nhất. Bẫy đánh tráo largest ↔ earliest." }
+      ],
+      "note": "Câu 20 phải chốt ở đây vì đây là chỗ duy nhất nói về vị thế của ngân hàng này; đừng hy vọng tìm thấy ngày thành lập ở phần sau."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Mất thực vật là tổn thất lớn: cây cho lương thực, thuốc, nhiên liệu, vật liệu xây dựng, giữ đất và điều hòa khí hậu.",
+      "answers": [],
+      "note": "Đây là đoạn trả lời câu 25–26: \"providing staple food crops\" → food (A) và \"the principal supply of fuel\" → energy (D). B (artefact) và C (treasure) lấy từ đoạn 1 nhưng ở đó bài nói người săn hạt KHÔNG đi tìm chúng."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Mới đánh giá được 4% số loài đã mô tả nên con số 5.714 loài bị đe dọa chắc chắn còn thấp hơn thực tế; hạt lưu trữ giúp phục hồi môi trường và phục vụ nghiên cứu.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Dr Paul Smith ví ngân hàng hạt là \"hợp đồng bảo hiểm\": kỹ thuật bảo quản hạt vốn do nông dân nghĩ ra, và thách thức lớn nhất là tìm, đặt tên, phân loại cây chứ không phải công nghệ.",
+      "answers": [
+        { "q": 22, "ans": "TRUE", "quote": "Seed conservation techniques were originally developed by farmers... Storage is the basis of what we do, conserving seeds until you can use them - just as in farming", "how": "\"similar to that used by farmers\" ↔ \"just as in farming\"; chính Smith nói kỹ thuật này bắt nguồn từ nông dân → TRUE." },
+        { "q": 23, "ans": "FALSE", "quote": "he admits that the biggest challenge is finding, naming and categorising all the world's plants", "how": "Câu hỏi nói công nghệ là hy vọng DUY NHẤT. Bài nói công nghệ hôm nay đã đủ (\"no reason why any plant species should become extinct, given today's technology\") NHƯNG vẫn còn thách thức lớn nhất là tìm và phân loại cây, lại thiếu người làm → có yếu tố khác ngoài công nghệ, nên mâu thuẫn với \"only hope\" → FALSE. Bẫy: từ \"only/always\" trong câu hỏi hầu như luôn cần kiểm tra kỹ." }
+      ]
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Trên thế giới có khoảng 1.470 ngân hàng hạt với 5,4 triệu mẫu, phần lớn phục vụ nông nghiệp; chỉ 15% số hạt lưu trữ là cây hoang dã.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Nhiều ngân hàng hạt bị đe dọa vì thiếu kinh phí: khảo sát 151 nước cho thấy ngân sách bị cắt ở một phần tư số nước, nên Global Conservation Trust được lập để huy động 260 triệu đô.",
+      "answers": [
+        { "q": 24, "ans": "TRUE", "quote": "Many seed banks are themselves under threat due to a lack of funds", "how": "\"limited by insufficient financial resources\" ↔ \"a lack of funds\"; số liệu ngân sách bị cắt và quỹ mới lập càng khẳng định → TRUE." }
+      ]
+    }
+  ],
+  "tips": [
+    "Summary Q14–18 chỉ nằm gọn trong bốn đoạn đầu: đọc chậm đoạn 1–4 là lấy trọn 5 điểm, phần sau đọc nhanh hơn được.",
+    "Chú ý các cặp đánh tráo: largest ↔ earliest (câu 20), today's technology ↔ only hope (câu 23). Gặp \"the only\", \"the first\", \"most\" trong câu hỏi hãy tìm đúng từ đó trong bài.",
+    "Đáp án điền từ phải chép nguyên dạng trong bài: \"underground vaults\", \"pioneers\" (số nhiều), \"Sir Joseph Banks\" đủ cả chức danh."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+ "step1": "Tiêu đề Amateur Naturalists cùng sapo (cuộc thi cá cược ở Alaska, ghi chép chim di cư, dự đoán tác động biến đổi khí hậu) cho biết bài nói về việc các nhà sinh thái học dùng dữ liệu do người nghiệp dư ghi chép để nghiên cứu khí hậu. Mạch bài đoán được: vài bộ ghi chép cổ → định nghĩa phenology → nguồn dữ liệu lạ → kết quả rút ra → giới chuyên môn nghi ngờ → cách khắc phục → lợi ích truyền thông. Q27–33 (Matching Information) chỉ chốt được khi đọc xong từng đoạn; Q34–36 là điền từ, bám tên riêng (Coates, Marsham) nên nằm ở đoạn A và E; Q37–40 là MCQ, đi theo thứ tự ở bốn đoạn cuối F, F, G, H.",
+ "types": [
+  ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+  ["27–33", "Matching Information (đoạn A–H)", "Không – chốt khi đọc xong mỗi đoạn", "definition of phenology, first became aware, reacted to involvement, encourage, predictions, competition, very old record"],
+  ["34–36", "Sentence completion (NO MORE THAN TWO WORDS)", "Có – bám tên riêng", "Walter Coates, Robert Marsham, waterfowl in North America"],
+  ["37–40", "MCQ (A–D)", "Một phần – bám tên người", "a lot of scientists discredit, Mark Schwartz leaves, how data should be used, implication for ordinary people"]
+ ],
+ "typesNote": "Cả ba nhóm đều quét bài một lượt theo thứ tự: Q34–35 nằm ngay đoạn A, Q27–33 chốt dần theo từng đoạn, còn Q37–40 dồn ở ba đoạn cuối F, G, H nên đọc tới đâu chốt tới đó là vừa đủ một lượt.",
+ "walk": [
+  {
+   "para": "Đoạn A",
+   "idea": "Sparks sưu tầm các sổ tay nghiệp dư (sổ nuôi ong 1941–1969 của Walter Coates) và nhắc tới bộ ghi chép của gia đình Marsham về vòng đời cây cỏ, chim muông kéo dài 211 năm.",
+   "answers": [
+    { "q": 33, "ans": "A", "quote": "Successive Marshams continued compiling these notes for 211 years.", "how": "\"a very old record compiled by generations of amateur naturalists\" ↔ \"Successive Marshams\" (các thế hệ nối tiếp) + \"211 years\" (rất lâu đời). Không chọn đoạn C dù ở đó cũng nhắc Marsham, vì đoạn C nói về việc Sparks nhận được bộ ghi chép, không mô tả bản thân bộ ghi chép." },
+    { "q": 34, "ans": "bee-keeping", "quote": "The book's yellowing pages contain bee-keeping notes made between 1941 and 1969 by the late Walter Coates", "how": "\"records largely contain the information of ___\" ↔ \"contain bee-keeping notes\"; chỗ trống cần danh từ chỉ nội dung ghi chép nên lấy đúng \"bee-keeping\", không lấy cả cụm \"bee-keeping notes\" (thừa từ và lặp nghĩa với \"records\")." },
+    { "q": 35, "ans": "life cycles", "quote": "began recording the life cycles of plants and animals on his estate", "how": "\"on his land\" ↔ \"on his estate\"; \"the ___ of animals and plants\" ↔ \"the life cycles of plants and animals\" (câu hỏi chỉ đảo thứ tự animals/plants)." }
+   ],
+   "note": "Đoạn A chứa hai mốc thời gian dễ nhầm: 1941–1969 là sổ Coates, còn 211 năm là của dòng họ Marsham."
+  },
+  {
+   "para": "Đoạn B",
+   "idea": "Những ghi chép ấy nay phục vụ ngành phenology – nghiên cứu thời điểm diễn ra các hiện tượng sinh học – và ghép với dữ liệu khí hậu để dự báo tác động biến đổi khí hậu.",
+   "answers": [
+    { "q": 27, "ans": "B", "quote": "ecologists interested in the timing of biological events, or phenology", "how": "Chữ \"or\" ở đây là dấu hiệu định nghĩa: \"the timing of biological events\" chính là giải thích cho \"phenology\" ↔ \"the definition of phenology\". Các đoạn sau nhắc phenology nhiều lần nhưng chỉ đoạn B định nghĩa nó." }
+   ]
+  },
+  {
+   "para": "Đoạn C",
+   "idea": "Sparks biết đến \"đội quân phenologist thầm lặng\" khi một đồng nghiệp sắp nghỉ hưu đưa ông bộ ghi chép Marsham, và từ đó người ta liên tục mách ông các nguồn tư liệu khác.",
+   "answers": [
+    { "q": 28, "ans": "C", "quote": "Sparks first became aware of the army of \"closet phenologists\", as he describes them, when a retiring colleague gave him the Marsham records.", "how": "Câu hỏi gần như trùng nguyên văn \"first became aware\"; đoạn C kể đúng hoàn cảnh ông biết tới nguồn dữ liệu nghiệp dư." }
+   ]
+  },
+  {
+   "para": "Đoạn D",
+   "idea": "Sagarin phân tích cuộc thi đoán thời điểm giá gỗ sập xuống mặt băng tan trên sông Tanana (Alaska, từ 1917) và thấy băng nay tan sớm hơn năm ngày.",
+   "answers": [
+    { "q": 32, "ans": "D", "quote": "The competition has taken place annually on the Tanana River in Alaska since 1917, and analysis of the results showed that the thaw now arrives five days earlier than it did when the contest began.", "how": "\"Records of a competition providing clues to climate change\" ↔ \"the competition\" + kết quả cho thấy băng tan sớm hơn, tức bằng chứng về khí hậu ấm lên." }
+   ]
+  },
+  {
+   "para": "Đoạn E",
+   "idea": "Nhờ các ghi chép đó, giới khoa học thấy nhiều hiện tượng tự nhiên ở bắc bán cầu nay đến sớm hơn, và Terry Root ghép số liệu đếm chim nước 1955–1996 với mô hình khí hậu để dự báo tương lai.",
+   "answers": [
+    { "q": 31, "ans": "E", "quote": "Together with models of climate change, amateurs' records could help guide conservation.", "how": "\"using amateur records to make predictions\" ↔ ghép ghi chép nghiệp dư với mô hình khí hậu để dự báo (\"models of future warming\", \"Her analysis shows that\"). Đoạn D cũng dùng dữ liệu nghiệp dư nhưng chỉ phân tích quá khứ, không dự báo tương lai – đó là chỗ phân biệt hai đoạn." },
+    { "q": 36, "ans": "droughts", "quote": "her analysis shows that the increased droughts that the models predict could halve the breeding populations at the ponds", "how": "\"due to increased ___\" ↔ \"the increased droughts\"; xương sống câu dài: phân tích của bà cho thấy hạn hán gia tăng (do mô hình dự báo) có thể làm giảm một nửa quần thể sinh sản ở các ao." }
+   ],
+   "note": "Q36 cần đúng dạng số nhiều \"droughts\" như trong bài; \"global warming\" là bẫy vì đó là nguyên nhân xa, còn câu hỏi hỏi nguyên nhân trực tiếp."
+  },
+  {
+   "para": "Đoạn F",
+   "idea": "Không phải nhà khoa học nào cũng chịu dùng dữ liệu nghiệp dư: họ cho rằng dữ liệu đầy vấn đề, và Schwartz nhấn mạnh phải biết chính xác người ghi đã quan sát cái gì.",
+   "answers": [
+    { "q": 37, "ans": "C", "quote": "A lot of scientists won't touch them, they say they're too full of problems", "how": "\"discredit the data\" ↔ \"won't touch them\" + \"too full of problems\" = dữ liệu không đáng tin ↔ C. A sai vì lý do nêu ra là bản thân dữ liệu có vấn đề (mỗi người hiểu \"open snowdrop\" một kiểu), không phải khẳng định không dùng phương pháp khoa học; B đổ lỗi cho sự cẩu thả của người quan sát, trong khi bài chỉ nói mối lo là không biết họ quan sát cẩn thận và hệ thống đến đâu; D không có trong bài." },
+    { "q": 38, "ans": "D", "quote": "We need to know pretty precisely what a person's been observing - if they just say 'I noted when the leaves came out', it might not be that useful.", "how": "Ý của Schwartz: phải biết thật chính xác người ta quan sát gì, nói chung chung thì vô dụng → thông tin có giá trị là thông tin chính xác ↔ D. C là bẫy từ khóa: bài có nói đổi màu lá mang tính chủ quan hơn, nhưng ví dụ về lá ở đây là \"when the leaves came out\" (lá nhú), dùng để minh họa sự thiếu chính xác chứ không phải khó quan sát; A và B quá tuyệt đối (\"can't be used\", \"always\")." }
+   ]
+  },
+  {
+   "para": "Đoạn G",
+   "idea": "Phần lớn phenologist đánh giá cao đóng góp của người nghiệp dư nhưng đòi kiểm soát chất lượng: phỏng vấn người ghi chép, dùng kỹ thuật thống kê, và xây dựng các chương trình ghi chép chuẩn hóa cho tương lai.",
+   "answers": [
+    { "q": 30, "ans": "G", "quote": "It's very difficult to collect data on a large geographical scale without enlisting an army of observers", "how": "\"The necessity to encourage amateur data collection\" ↔ câu kết của Root: không huy động một đội quân người quan sát thì không thể thu thập dữ liệu trên quy mô địa lý rộng, tức việc khuyến khích người nghiệp dư là cần thiết." },
+    { "q": 39, "ans": "A", "quote": "professional researchers are now trying to create standardised recording schemes for future efforts", "how": "\"standardised recording schemes\" + \"well-designed studies\" = cải tiến phương pháp thu thập ↔ A \"Using improved methods\". D là bẫy sát nghĩa: bài có nói tới kỹ thuật thống kê, nhưng để xử lý độ bất định của dữ liệu đã có (\"account for the uncertainty in amateur phenological data\"), không phải áp dụng trong khâu thu thập như phương án D nói; B và C chỉ là chi tiết lẻ trong đoạn." }
+   ],
+   "note": "Đoạn G là đoạn nhiều bẫy nhất: nó chứa cả \"raw power of science\" (bẫy cho C ở Q39), \"careful observation\" (bẫy cho B) và \"statistical techniques\" (bẫy cho D). Phải đọc xem mỗi chi tiết gắn với khâu nào."
+  },
+  {
+   "para": "Đoạn H",
+   "idea": "Phenology giúp truyền đạt thông điệp về biến đổi khí hậu vì công chúng hiểu và chấp nhận các ghi chép này, đồng thời khiến người tham gia thấy đóng góp của mình có ý nghĩa.",
+   "answers": [
+    { "q": 29, "ans": "H", "quote": "People are thrilled to think that the data they've been collecting as a hobby can be used for something scientific - it empowers them", "how": "\"How people reacted to their involvement in data collection\" ↔ \"People are thrilled...\" = phản ứng của người tham gia." },
+    { "q": 40, "ans": "D", "quote": "Phenology also helps to drive home messages about climate change. \"Because the public understand these records, they accept them,\"", "how": "Câu hỏi hỏi ý nghĩa của phenology đối với người bình thường: vì công chúng hiểu nên họ tiếp nhận thông điệp về biến đổi khí hậu ↔ D. A (\"it empowers them\") đúng chữ nhưng chỉ nói về nhóm người đi thu thập dữ liệu chứ không phải công chúng nói chung; B chỉ là lợi ích cho giới nghiên cứu (\"great for public relations\"); C quá hẹp, nạn chuột chỉ là một ví dụ minh họa." }
+   ],
+   "note": "Q40 có tới ba phương án lấy nguyên chữ trong đoạn H (empowers, public relations, infestations). Khi mọi phương án đều xuất hiện trong bài, hãy chọn phương án trả lời đúng đối tượng mà câu hỏi nêu (ở đây là ordinary people)."
+  }
+ ],
+ "tips": [
+  "Dạng Matching Information không theo thứ tự bài, nhưng nếu chốt ngay sau mỗi đoạn thì vẫn chỉ cần đọc một lượt: mỗi đoạn ở bài này gần như chỉ ứng với đúng một câu.",
+  "Cặp đoạn D và E đều dùng dữ liệu nghiệp dư; phân biệt bằng hướng thời gian: D phân tích quá khứ, E dự báo tương lai (predictions).",
+  "Ở nhóm MCQ, các phương án sai đều là từ khóa có thật trong cùng đoạn nhưng gắn sai khâu hoặc sai đối tượng. Luôn kiểm tra: chi tiết này nói về ai, ở bước nào?"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+  "step1": "Tiêu đề \"Two Wheels\" cùng sapo (\"The bicycle took eighty years to arrive at a shape it has barely altered since\") báo trước một bài LỊCH SỬ theo trình tự thời gian: vì sao xe đạp ra đời muộn → máy chạy bộ 1817 → velocipede thập niên 1860 → penny-farthing thập niên 1870 → safety bicycle 1885 và lốp hơi 1888 → bùng nổ thập niên 1890 và tác động xã hội → suy thoái rồi hồi sinh. Q14–19 (TRUE/FALSE/NOT GIVEN) đi theo thứ tự bài; Q20–23 (nối với bốn loại xe) sẽ rơi đúng vào bốn đoạn mô tả từng loại; Q24–26 (bảng) nằm ở đoạn D–E.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–19", "True / False / Not Given", "Có (mốc thời gian và tên máy)", "1817, pavements, large quantities, cost more, diameter, length of the rider's legs, road surfaces, motor cars"],
+    ["20–23", "Matching features (A–D: bốn loại xe)", "Một phần – mỗi loại xe có một đoạn riêng", "thrown over the handlebars, pedals on front wheel, wooden wheels, no pedals, fast without a large wheel"],
+    ["24–26", "Table completion (ONE WORD ONLY)", "Có, theo thứ tự bài", "wire spokes, solid rubber tyres, smaller sprocket, pneumatic tyre, rough surfaces"]
+  ],
+  "typesNote": "Vì bài kể theo thời gian, cả ba nhóm đều rơi đúng thứ tự các đoạn, nên đọc xong mỗi đoạn về một loại xe là chốt hết câu liên quan tới loại xe đó.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Xe đạp lẽ ra có thể chế tạo từ thời cổ đại nhưng chỉ mới hai trăm năm tuổi, vì cần thép rẻ và các chi tiết tròn chính xác; lịch sử của nó là chuỗi xưởng thợ giải quyết từng vấn đề một.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Tổ tiên của xe đạp là máy chạy bộ bằng gỗ của Karl von Drais (Đức, 1817), không bàn đạp, người lái đẩy chân xuống đất, và nó chứng minh xe hai bánh không đổ khi đang chạy.",
+      "answers": [
+        { "q": 14, "ans": "TRUE", "quote": "It had no pedals, and the rider propelled it by pushing against the ground with the feet", "how": "\"moved along by the rider's feet on the ground\" ↔ \"propelled it by pushing against the ground with the feet\" → TRUE." },
+        { "q": 15, "ans": "FALSE", "quote": "riders took to the pavements, where they frightened pedestrians and were promptly banned", "how": "Câu hỏi nói người lái ĐƯỢC PHÉP dùng vỉa hè; bài nói họ bị cấm ngay → FALSE. Bẫy: bài đúng là có nói họ đi lên vỉa hè, nên đọc lướt dễ chọn TRUE; mấu chốt nằm ở \"were promptly banned\"." },
+        { "q": 22, "ans": "A", "quote": "It had no pedals", "how": "\"carried no pedals of any kind\" ↔ \"It had no pedals\"; chỉ máy chạy bộ (A) mới không có bàn đạp, ba loại sau đều có." }
+      ]
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Thập niên 1860 ở Paris, bàn đạp được gắn thẳng vào trục bánh trước tạo ra velocipede (\"boneshaker\"): bánh gỗ vành sắt, xóc kinh khủng, nhưng là xe đạp đầu tiên sản xuất hàng loạt và bộc lộ hạn chế về tốc độ.",
+      "answers": [
+        { "q": 16, "ans": "TRUE", "quote": "it was the first bicycle to be manufactured in large numbers", "how": "\"produced in large quantities\" ↔ \"manufactured in large numbers\" → TRUE." },
+        { "q": 21, "ans": "B", "quote": "a workshop fitted cranks and pedals directly to the axle of the front wheel ... Its wheels were wooden with iron tyres", "how": "\"pedals attached to the front wheel and wheels made of wood\" khớp cả hai chi tiết với velocipede (B). Bẫy: high bicycle (C) cũng có bàn đạp ở bánh trước nhưng bánh dùng nan thép và lốp cao su đặc, không phải gỗ." }
+      ],
+      "note": "Hạn chế được nêu ở câu cuối: một vòng chân chỉ đi được đúng chu vi bánh trước. Chính nó dẫn tới bánh khổng lồ ở đoạn D và truyền động gián tiếp ở đoạn E."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Thập niên 1870, bánh trước được phóng to hết cỡ chân người lái tạo ra high bicycle (penny-farthing): nan thép chịu kéo, lốp cao su đặc, nhanh và nhẹ hơn nhưng rất nguy hiểm vì người lái bị văng qua ghi đông.",
+      "answers": [
+        { "q": 17, "ans": "NOT GIVEN", "how": "Bài nói high bicycle là \"a machine for athletic young men with money\", tức người mua phải có tiền, nhưng KHÔNG hề so sánh giá của nó với giá velocipede → NOT GIVEN. Bẫy: \"with money\" khiến nhiều người vội chọn TRUE, nhưng đó không phải một so sánh giá." },
+        { "q": 18, "ans": "TRUE", "quote": "the driven front wheel grew until it was as large as the rider's legs could straddle", "how": "\"diameter ... limited by the length of the rider's legs\" ↔ \"as large as the rider's legs could straddle\" (to hết mức chân còn dang tới) → TRUE." },
+        { "q": 20, "ans": "C", "quote": "if that wheel struck a stone or a rut the machine stopped and he did not, but was pitched over the handlebars head first", "how": "\"liable to be thrown forward over the handlebars\" ↔ \"pitched over the handlebars head first\" → high bicycle (C). Câu dài: xương sống là \"the machine stopped and he did not\"; mệnh đề điều kiện \"if that wheel struck a stone or a rut\" nêu nguyên nhân, mệnh đề \"but was pitched over the handlebars\" nêu hậu quả." },
+        { "q": 24, "ans": "lighter", "quote": "so the high bicycle was both faster and lighter than anything before it", "how": "\"faster and ___ than any earlier machine\" ↔ \"both faster and lighter than anything before it\"; chỉ một từ nên là \"lighter\" (giữ nguyên dạng so sánh)." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Safety bicycle (Rover của Starley, 1885) thay thế nó nhờ truyền động gián tiếp bằng xích: tốc độ tách khỏi kích thước bánh, hai bánh bằng nhau, khung tam giác, và lốp hơi năm 1888 hoàn tất bộ hình dáng.",
+      "answers": [
+        { "q": 23, "ans": "D", "quote": "Gearing had separated speed from wheel size. The wheels could now be equal, and modest", "how": "\"go fast without a wheel of unusual size\" ↔ tốc độ tách khỏi kích thước bánh, bánh \"equal, and modest\" → safety bicycle (D)." },
+        { "q": 25, "ans": "chain", "quote": "a chain running from a pedalled sprocket to a smaller sprocket on the rear wheel", "how": "\"A ___ running back to a smaller sprocket\" ↔ \"a chain running from a pedalled sprocket to a smaller sprocket\"; chỉ một từ → chain." },
+        { "q": 26, "ans": "comfortable", "quote": "which made riding far more comfortable on rough surfaces and, to everyone's surprise, faster as well", "how": "\"Riding became much more ___ on rough surfaces, and quicker too\" ↔ \"far more comfortable on rough surfaces and ... faster as well\"; much more = far more, quicker = faster." }
+      ],
+      "note": "Chi tiết \"patented decades earlier and forgotten\" về lốp hơi là mồi cho câu hỏi dạng \"ý tưởng mới hoàn toàn\" – nó KHÔNG mới."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Thập niên 1890 bùng nổ: hàng triệu xe được bán, công nhân đi làm xa mười dặm, phụ nữ ra khỏi phố mình, ngành xe đạp sinh ra ngành ô tô và máy bay, và người đi xe đạp vận động làm đường tốt trước khi có ô tô.",
+      "answers": [
+        { "q": 19, "ans": "FALSE", "quote": "Cyclists had meanwhile organised themselves and begun to campaign for smoother road surfaces, well before the motorist existed to benefit from them.", "how": "Câu hỏi nói các chiến dịch cải thiện mặt đường chỉ bắt đầu KHI đã có ô tô; bài nói người đi xe đạp vận động \"well before the motorist existed\" → mâu thuẫn → FALSE." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Sau khoảng 1910 xe đạp mất hào quang ở các nước giàu nhưng nay hồi sinh nhờ hiệu suất năng lượng cao nhất trên trái đất, và chiếc xe trong cửa hàng hôm nay vẫn là safety bicycle về mặt thiết kế.",
+      "answers": []
+    }
+  ],
+  "tips": [
+    "Bài kể theo mốc thời gian (1817 – 1860s – 1870s – 1885 – 1888 – 1890s – 1910): dùng các mốc này làm neo để biết mình đang ở đâu và câu nào sắp tới.",
+    "Bẫy TFNG ở đây là kiểu \"có nhắc nhưng ngược\" (Q15 vỉa hè bị cấm, Q19 vận động có trước ô tô): luôn đọc hết mệnh đề sau dấu phẩy.",
+    "Với Matching features, hãy gắn mỗi loại xe với 2–3 đặc điểm riêng ngay khi đọc đoạn của nó (A: không bàn đạp; B: bàn đạp bánh trước, bánh gỗ; C: bánh trước khổng lồ, ngã lộn đầu; D: xích, hai bánh bằng nhau)."
+  ]
+}

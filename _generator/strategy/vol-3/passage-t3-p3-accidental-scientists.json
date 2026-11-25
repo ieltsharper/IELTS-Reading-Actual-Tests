@@ -1,0 +1,75 @@
+{
+  "step1": "Tiêu đề \"Accidental Scientists\" gợi ý bài nói về vai trò của sự tình cờ trong khám phá khoa học, xoay quanh từ \"serendipity\". Đoán mạch bài: nghịch lý của khám phá (A) → vị trí lý tưởng ở giữa (B, đã cho ví dụ) → nguồn gốc của từ (C) → các nhà khoa học dùng từ này (D) → tranh cãi, Pasteur (E) → khoa học có kế hoạch, General Electric (F) → Merton và hệ quả ngoài dự tính (G). Q27–32 là Matching Headings nên chỉ chốt được sau khi đọc xong mỗi đoạn; Q33–37 là MCQ bám theo thứ tự đoạn A, D, E, F, G; Q38–40 là short answer dồn ở đoạn nói về nguồn gốc từ (C).",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–32", "Matching Headings (i–x)", "Không, phải đọc hết đoạn mới chốt", "đọc ý chính từng đoạn; B đã cho sẵn iii"],
+    ["33–37", "Multiple choice (A–D)", "Có, mỗi câu có từ khóa riêng", "inductivism, Medawar, scientists dislike, Irving Langmuir, Yosemite"],
+    ["38–40", "Short answer (NO MORE THAN TWO WORDS)", "Có, cả ba cùng nằm ở đoạn nguồn gốc từ", "first used, story, present name of Serendip"]
+  ],
+  "typesNote": "Vừa đọc vừa làm: hết mỗi đoạn thì chọn heading cho đoạn đó rồi mới sang đoạn sau, đồng thời chốt luôn MCQ hoặc short answer nào có bằng chứng nằm trong đoạn vừa đọc.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Nghịch lý của khám phá khoa học: nếu biết trước mình tìm gì thì không còn là khám phá, nhưng nếu không biết gì thì không nhận ra khi tìm thấy — hai cực deductivism và inductivism.",
+      "answers": [
+        { "q": 27, "ans": "v", "quote": "A paradox lies close to the heart of scientific discovery", "how": "Cả đoạn dựng lên hai quan điểm đối lập về khám phá ↔ heading v \"The contradiction of views on scientific discovery\". Heading iv \"What is the Scientific Method\" là bẫy vì cụm đó chỉ xuất hiện ở đoạn D." },
+        { "q": 33, "ans": "C", "quote": "in the latter, you are recommended to start with no expectations whatsoever and see what turns up", "how": "\"the latter\" = inductivism (cực thứ hai trong cặp deductivism/inductivism); không kỳ vọng gì và xem điều gì xuất hiện ↔ C \"accept chance discoveries\". A và D mô tả ngược lại (biết trước điều mình muốn), B \"prepared premises\" là deductivism — bẫy đổi vị trí hai cực." }
+      ],
+      "note": "Câu dài \"In the former, the outcome is supposed to be logically contained in the premises... in the latter, you are recommended to start with no expectations\": xương sống là \"the outcome is contained in the premises\" (former = deductivism) đối lập với \"start with no expectations\" (latter = inductivism). Bám chữ former/latter để không gán nhầm."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Vị trí lý tưởng nằm giữa hai cực: biết đủ để ngạc nhiên nhưng cũng mơ hồ đủ để chấp nhận kết quả khác — đó là \"serendipity\" (đã cho sẵn heading iii).",
+      "answers": []
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Lịch sử của từ \"serendipity\": xuất hiện đầu thế kỷ 19, nghĩa là may mắn tình cờ, do Horace Walpole dùng đầu tiên, lấy từ truyện cổ tích về ba hoàng tử xứ Serendip.",
+      "answers": [
+        { "q": 28, "ans": "ix", "quote": "The word did not appear in the published literature until the early 19th century", "how": "Cả đoạn kể từ này ra đời và phổ biến thế nào ↔ heading ix \"How the word came into being\". Heading ii \"Horace Walpole's fairy tale\" là bẫy: truyện cổ tích chỉ là một chi tiết, không phải ý chính." },
+        { "q": 38, "ans": "Horace Walpole", "quote": "The first noted use of \"serendipity\" in the English language was by Horace Walpole", "how": "\"first used\" ↔ \"The first noted use ... was by\"; đáp án là tên riêng, đúng hai từ." },
+        { "q": 39, "ans": "fairy tale", "quote": "it came from the fairy tale, called The Three Princes of Serendip", "how": "\"What kind of story\" ↔ \"came from the fairy tale\"; đừng chép tên truyện vì câu hỏi hỏi loại truyện." },
+        { "q": 40, "ans": "Sri Lanka", "quote": "the ancient name for Ceylon, or present day Sri Lanka", "how": "\"present name\" ↔ \"present day\"; Ceylon là tên cũ nên là bẫy." }
+      ],
+      "note": "Ba câu 38–40 nằm sát nhau trong cùng một đoạn: chốt cả ba ngay, đừng đọc tiếp rồi quay lại."
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Giới sưu tầm cổ vật rồi giới khoa học dùng từ này; nhiều nhà khoa học như Cannon và Medawar nhấn mạnh khám phá là ngoài kế hoạch, ví dụ Ørsted tình cờ tìm ra điện từ.",
+      "answers": [
+        { "q": 29, "ans": "i", "quote": "One of the examples is Hans Christian Ørsted's discovery of electromagnetism when he unintentionally brought a current-carrying wire parallel to a magnetic needle", "how": "Đoạn đưa ví dụ cụ thể về khám phá khoa học ↔ heading i \"Examples of some scientific discoveries\". Heading iv là bẫy vì câu \"There is no such thing as The Scientific Method\" nằm ở đây nhưng chỉ là dẫn chứng, không phải nội dung chính." },
+        { "q": 34, "ans": "B", "quote": "liked to emphasise how much of scientific discovery was unplanned and even accidental", "how": "Lý do Medawar nói vậy là vì khám phá phần lớn diễn ra ngoài kế hoạch ↔ B \"discoveries tend to happen unplanned\". A ngược lại (đó là ý của Pasteur ở đoạn E), C \"unpleasant\" không được nói đến, D là câu hỏi mở cuối đoạn chứ không phải lý do." }
+      ]
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Một số nhà khoa học coi serendipity là tình huống, số khác coi là năng lực cá nhân; nhiều người thấy ý tưởng này hạ thấp khoa học, nên viện câu của Pasteur: cơ hội ưu ái trí óc đã chuẩn bị.",
+      "answers": [
+        { "q": 30, "ans": "vi", "quote": "many others exploited the ambiguity of the notion", "how": "Đoạn nói về cách hiểu lệch nhau và sự mơ hồ quanh serendipity ↔ heading vi \"Some misunderstandings of serendipity\". Heading vii \"Opponents of authority\" đảo ngược ý: ở đây là những người bảo vệ uy tín chuyên môn, không phải chống lại nó." },
+        { "q": 35, "ans": "D", "quote": "If scientific discovery were really accidental, then what was the special basis of expert authority?", "how": "Lý do nhiều nhà khoa học ghét ý tưởng này là nó làm mất cơ sở của uy tín chuyên môn ↔ D \"it devalues their scientific expertise\". A \"misunderstood and abused\" đúng với nội dung đoạn nhưng không phải lý do họ phản đối; B và C không có trong bài." }
+      ],
+      "note": "Câu \"Accidents may happen... but the ability to notice such events, to see their potential bearing and meaning, to exploit their occurrence... these are the results of systematic mental preparation\": xương sống là \"the ability ... are the results of systematic mental preparation\"; ba cụm \"to notice / to see / to exploit\" chỉ là liệt kê cùng một chủ ngữ \"the ability\". Ý: cái trông như tình cờ thực ra là chuyên môn."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Tranh luận gay gắt nhất là quanh \"planned science\": Whitney và Langmuir ở General Electric dùng serendipity để phản đối việc lập kế hoạch nghiên cứu quá cứng nhắc.",
+      "answers": [
+        { "q": 31, "ans": "x", "quote": "two of the great early-20th-century American pioneers of industrial research—Willis Whitney and Irving Langmuir, both of General Electric—made much play of serendipity", "how": "Đoạn lấy chính doanh nghiệp (General Electric) làm minh họa cho serendipity ↔ heading x \"Illustration of serendipity in the business sector\"." },
+        { "q": 36, "ans": "D", "quote": "a mature acceptance of uncertainty was far more likely to result in productive research policies", "how": "Langmuir được nhắc để cho thấy chấp nhận sự bất định mang lại kết quả tốt ↔ D. A quá mạnh (bài chỉ phản đối kế hoạch quá cứng nhắc, không nói phải bỏ hẳn), B đảo chủ ngữ (nghiên cứu chứ không phải phát triển công nghiệp cần bất định), C chỉ là một ý phụ trong câu dẫn." }
+      ]
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Với Merton, serendipity là trung tâm: bản chất của hành động xã hội là cái ta định làm hiếm khi là cái ta nhận được, nên mọi kết quả đều bất định.",
+      "answers": [
+        { "q": 32, "ans": "viii", "quote": "the nature of social action that what one intends is rarely what one gets", "how": "Đoạn nói kết quả thực tế lệch khỏi dự định ↔ heading viii \"Reality doesn't always match expectation\"." },
+        { "q": 37, "ans": "A", "quote": "people wanting to be alone with nature in Yosemite Valley wind up crowding one another", "how": "Ví dụ Yosemite: muốn ở một mình với thiên nhiên nhưng rốt cuộc chen chúc nhau ↔ A \"the conflict between reality and expectation\". B ngược hẳn (đoạn nói kế hoạch không bảo đảm được gì), C và D chỉ lặp từ trong đoạn mà không phải điều ví dụ muốn chứng minh." }
+      ]
+    }
+  ],
+  "tips": [
+    "Heading iv (\"What is the Scientific Method\") và ii (\"Horace Walpole's fairy tale\") là hai bẫy chép lại nguyên cụm từ trong bài: cụm có trong đoạn không có nghĩa đó là ý chính của đoạn.",
+    "Với MCQ hỏi \"because\" hoặc \"to illustrate\", hãy tìm lý do/mục đích chứ đừng chọn phương án chỉ đúng về mặt nội dung (ví dụ Q35 phương án A).",
+    "Bài dùng nhiều tên riêng (Walpole, Cannon, Medawar, Pasteur, Langmuir, Merton) ở các đoạn khác nhau: dùng chúng làm mốc định vị, nhưng nhớ ai nói gì để không gán nhầm quan điểm."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "step1": "Tiêu đề \"Going Nowhere Fast\" (đi mà chẳng tới đâu dù nhanh) cho thấy bài nói về sự bế tắc của giao thông đô thị: xe hơi làm thành phố tắc nghẽn và các hệ thống thay thế. Mạch bài có thể đoán: giao thông thành phố lạc hậu → ô nhiễm và lý do người ta vẫn thích ô tô → giải pháp PRT → vì sao PRT khó thành → hệ thống \"dual-mode\" RUF → lợi ích và con số tai nạn. Q1–6 (TRUE/FALSE/NOT GIVEN) đi theo thứ tự và dồn ở đoạn 1–3; Q7–12 phân loại PRT/RUF nên nằm ở đoạn 4–7; Q13 chọn ba lợi ích, chốt ở cuối bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–6", "True / False / Not Given", "Có, theo thứ tự bài", "city transport, pollution ignored, most states in America, steep hills, heavy shopping, compulsory restrictions"],
+    ["7–12", "Matching features (A = PRT only, B = RUF only, C = cả hai)", "Không locate trước được, phải đọc rồi mới gán", "resisted, high speed, share, computer, existing roads, private buyers"],
+    ["13", "Multiple choice chọn 3 trong A–G", "Một phần: lợi ích nằm rải ở đoạn 4, 6, 9", "pollution, speed, safety, accidents"]
+  ],
+  "typesNote": "Chỉ Q1–6 là locate được bằng từ khóa; Q7–12 là dạng phân loại nên vừa đọc vừa gán cho PRT hay RUF, đọc xong đoạn nào chốt câu của đoạn đó.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Con người liên lạc và bay đi khắp thế giới dễ dàng, nhưng cách di chuyển trong thành phố gần như không đổi từ thời Gottlieb Daimler.",
+      "answers": [
+        { "q": 1, "ans": "TRUE", "quote": "when it comes to getting around our cities, we depend on systems that have scarcely changed since the days of Gottlieb Daimler", "how": "\"developed slower than other means of communication\" ↔ nói chuyện/bay đi khắp nơi thì tiến bộ, còn giao thông đô thị \"scarcely changed\". Cấu trúc câu: vế tương phản \"But when it comes to...\" đối lập với các thành tựu ở hai câu trước, nên đúng là chậm hơn." }
+      ]
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Ô nhiễm từ hàng triệu xe đã chi phối cuộc tranh luận về giao thông; nhưng xe sạch hơn cũng không làm thành phố bớt tắc, và ô tô vẫn tiện cho người có con nhỏ hay nhiều đồ.",
+      "answers": [
+        { "q": 2, "ans": "FALSE", "quote": "the pollution belched out by millions of vehicles has dominated the debate about transport", "how": "Câu hỏi nói ô nhiễm \"has been largely ignored\" (bị bỏ qua), bài nói ngược lại là nó \"dominated the debate\" → mâu thuẫn trực tiếp, chọn FALSE." },
+        { "q": 3, "ans": "NOT GIVEN", "how": "Bài chỉ nhắc một bang: \"persuaded California... to curb traffic growth\". Không có thông tin về \"most states in America\" → NOT GIVEN. Bẫy: thấy đúng tên nước Mỹ là vội chọn TRUE." },
+        { "q": 4, "ans": "NOT GIVEN", "how": "Từ khóa \"uphill struggle\" trong bài chỉ là thành ngữ nghĩa là \"rất gian nan\" khi thuyết phục người ta dùng tàu/xe buýt, hoàn toàn không nói gì đến đồi dốc thật. Bẫy dịch sát nghĩa đen." },
+        { "q": 5, "ans": "TRUE", "quote": "Cars, after all, are popular for very good reasons, as anyone with small children or heavy shopping knows", "how": "\"tend to buy a lot of things during shopping\" ↔ \"heavy shopping\"; \"much more convenient\" ↔ \"popular for very good reasons\"." }
+      ],
+      "note": "Hai câu NOT GIVEN (3 và 4) đều nằm ngay cạnh từ khóa đúng. Hãy hỏi: bài có nói chính xác điều câu hỏi nói không, hay chỉ nói một phần?"
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Chính trị gia nên dụ (lure) người dân rời bỏ ô tô chứ không ép; giải pháp hấp dẫn nhất là PRT, ra đời từ thập niên 1950.",
+      "answers": [
+        { "q": 6, "ans": "FALSE", "quote": "politicians should be trying to lure people out of their cars, not forcing them out", "how": "\"impose compulsory restrictions\" = ép buộc ↔ \"forcing them out\", mà bài nói \"not forcing\" → mâu thuẫn, chọn FALSE (không phải NOT GIVEN vì bài nêu rõ quan điểm ngược lại)." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "PRT hoạt động thế nào: lên xe do máy tính điều khiển tại trạm, chạy trên mạng guideway, không phải chung chỗ với người lạ và không bị đèn đỏ làm chậm.",
+      "answers": [
+        { "q": 9, "ans": "C", "quote": "You wouldn't have to share your space with strangers", "how": "Đây là đặc điểm của PRT; đến đoạn 6 bài nói RUF \"resembles PRT but with one key difference\" (chỉ khác ở bánh xe), nên đặc điểm không phải chung xe này áp dụng cho cả hai → C." },
+        { "q": 10, "ans": "A", "quote": "hop into a computer-controlled car", "how": "PRT luôn do máy tính lái. RUF thì \"the occupant would take over from the computer\" khi xuống đường thường, tức không phải lúc nào cũng do máy tính → chỉ PRT, chọn A." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "PRT khó thành vì hạ tầng phải làm trước và rất tốn kém, lại bị những bên hưởng lợi từ ô tô chống lại; công nghệ hay hơn chưa chắc thắng (VHS/Betamax, Windows/Apple).",
+      "answers": [],
+      "note": "Đoạn này nêu sự phản đối \"from private car owners to manufacturers and oil multinationals\" — hãy ghi nhớ cho câu 7, nhưng chỉ chốt được A hay C sau khi đọc đoạn 7."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Hệ thống \"dual-mode\" như RUF của Palle Jensen giống PRT nhưng xe có bánh nên rời ray xuống đường thường được, khi đó trở thành ô tô điện do người lái.",
+      "answers": [
+        { "q": 11, "ans": "B", "quote": "vehicles have wheels as well as a slot allowing them to travel on a monorail, so they can drive off the rail onto a normal road", "how": "\"run on existing roads\" ↔ \"drive off the rail onto a normal road\"; đây chính là \"one key difference\" so với PRT, nên chỉ RUF → B. Bẫy: đoạn 5 có \"The first cars ran on existing roads\" nhưng đó nói về ô tô thời đầu, không phải PRT." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Mạng guideway nhanh ở trung tâm sẽ khiến người ta vừa dùng xe RUF công cộng vừa mua xe dual-mode riêng; hệ thống có thể lớn dần và còn được các hãng xe ủng hộ.",
+      "answers": [
+        { "q": 7, "ans": "A", "quote": "any transport system that threatened the car's dominance would be up against all those with a stake in maintaining the status quo, from private car owners to manufacturers and oil multinationals", "how": "\"individuals and manufacturers\" ↔ \"private car owners to manufacturers\" (đoạn 5, nói về PRT). Không chọn C vì đoạn 7 nói ngược lại về RUF: \"a dual-mode system might even win the support of car manufacturers\" → chỉ PRT bị phản đối, chọn A." },
+        { "q": 8, "ans": "C", "quote": "PRT guideways can carry far more traffic, nonstop, than any inner city road... Build a fast network of guideways in a busy city centre", "how": "\"high speed in cities\" đúng với cả hai: PRT chạy nonstop nhanh hơn đường nội đô, còn RUF cũng có \"fast network of guideways in a busy city centre\" (và chính tên RUF nghĩa là \"go fast\") → C." },
+        { "q": 12, "ans": "B", "quote": "people would have a strong incentive not just to use public RUF vehicles, but also to buy their own dual-mode vehicle", "how": "\"bought by private buyers\" ↔ \"buy their own dual-mode vehicle\". Với PRT bài chỉ nói người ta tới trạm rồi lên xe, không hề nói mua xe riêng → B. Câu phức: xương sống là \"people would have a strong incentive\", phần \"not just... but also...\" cho biết có hai hành vi, trong đó mua xe riêng là điểm mới của RUF." }
+      ]
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Hệ thống mới không rẻ, nhưng khác với việc thêm làn xe buýt hay kéo dài tàu điện ngầm, ý tưởng của Jensen có thể thay đổi cả thành phố.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Vấn đề không chỉ là tiết kiệm vài phút: theo Hội Chữ thập đỏ, hơn 30 triệu người chết vì tai nạn giao thông trong thế kỷ qua và con số còn tăng.",
+      "answers": [],
+      "note": "Đoạn này là nền cho câu 13 (chọn 3 lợi ích): safety từ số liệu tai nạn ở đoạn 9, speed từ \"nonstop/fast network\" ở đoạn 4 và 7, low pollution từ \"electric car\" ở đoạn 6 và vấn đề ô nhiễm ở đoạn 2. Kinh tế (economy) bị loại vì bài nói rõ \"will not be cheap\"."
+    }
+  ],
+  "tips": [
+    "Cạm bẫy lớn nhất của nhóm TRUE/FALSE/NOT GIVEN ở bài này là nghĩa đen: \"uphill struggle\" là thành ngữ, \"California\" không phải \"most states\".",
+    "Với dạng phân loại A/B/C, luôn kiểm tra cả hai hệ thống trước khi chọn C: câu nào bài nói rõ RUF khác PRT (bánh xe, người lái, mua xe riêng) thì gần như chắc chắn là B hoặc A, không phải C.",
+    "Đoạn 6 là bản lề: nó vừa định nghĩa RUF vừa nói RUF \"resembles PRT\", nhờ câu này mà các đặc điểm chung (không chung xe, chạy nhanh) được gán C."
+  ]
+}

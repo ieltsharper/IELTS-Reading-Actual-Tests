@@ -1,0 +1,75 @@
+{
+  "step1": "Tiêu đề \"Tackling Hunger in Msekeni\" cho biết bài nói về cách một ngôi trường ở Malawi đối phó với nạn đói. Đoán mạch bài: cảnh ngôi trường → bối cảnh nghèo đói của Malawi → chương trình bữa trưa miễn phí → tác động tới sĩ số → tác động tới kết quả học tập → vì sao dinh dưỡng giúp học tốt → bức tranh toàn cầu. Vì có bảy đoạn A–G và đúng bảy câu Matching Headings, mỗi đoạn chắc chắn có một tiêu đề; Q21–24 (điền từ/số) rải theo thứ tự bài, Q25–26 chốt sau khi đọc xong.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–20", "Matching Headings (i–xi) cho đoạn A–G", "Không: chỉ quyết được sau khi đọc xong mỗi đoạn", "đọc ý chính từng đoạn, không scan từ khóa"],
+    ["21–24", "Sentence completion (NO MORE THAN TWO WORDS / OR A NUMBER)", "Có, theo thứ tự bài", "girls after school day, collect from the field, passed the test, industrial revolution"],
+    ["25–26", "Multiple answers – chọn 2 trong A–F", "Không: phải loại dần khi đọc", "open air, new staff, WHO, detect underfed students"]
+  ],
+  "typesNote": "Vì số đoạn bằng số câu heading, hãy chốt tiêu đề ngay khi đọc xong mỗi đoạn và gạch tiêu đề đã dùng khỏi danh sách; làm vậy đoạn cuối chỉ còn vài lựa chọn.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Trường Msekeni thiếu phòng học đến mức nửa số tiết phải học dưới gốc cây, vậy mà một phòng học lại bị dọn trống để chứa bao ngũ cốc, vì thức ăn quan trọng hơn chỗ trú.",
+      "answers": [
+        { "q": 14, "ans": "iii", "quote": "one of the school's purpose-built classrooms has been emptied of pupils and turned into a storeroom for sacks of grain", "how": "Ý chính là cách dùng phòng học gây bất ngờ ↔ heading iii \"Surprising use of school premises\"; chính bài cũng dùng chữ \"it might seem odd\". Heading viii (cách vận hành chương trình) là bẫy vì có nhắc bao ngũ cốc, nhưng đoạn A không mô tả quy trình nấu/phát." }
+      ],
+      "note": "Đoạn này ứng với phương án A của nhóm Q25–26 (\"half the lessons take place in the shade of yellow-blossomed acacia trees\"), nhưng đáp án trên trang không có đáp án cho câu 25 nên bài hướng dẫn không chốt câu đó."
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Malawi không có chiến tranh, không quá đông dân, đất cũng không cằn, vậy mà dân vẫn thiếu ăn — tức là không có lý do thường thấy nào giải thích được nạn đói ở đây.",
+      "answers": [
+        { "q": 15, "ans": "x", "quote": "No war lays waste Malawi, nor is the land unusually crowded or infertile, but Malawians still have trouble finding enough to eat.", "how": "Cấu trúc \"không A, không B, không C, nhưng vẫn đói\" chính là heading x \"None of the usual reasons\". Heading v \"Why students were undernourished\" là bẫy vì đoạn có nói trẻ suy dinh dưỡng, nhưng đoạn này phủ nhận các nguyên nhân chứ không nêu nguyên nhân." }
+      ],
+      "note": "Câu \"No war lays waste Malawi, nor is the land unusually crowded or infertile, but...\" có đảo ngữ sau \"nor\". Bộ khung: chiến tranh không tàn phá, đất cũng không đông/cằn; mệnh đề \"but\" mới là ý chính."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Hiệu trưởng Kumanda coi thức ăn là giáo cụ vô giá; từ 1999 học sinh có bữa trưa miễn phí do WFP tài trợ, tình nguyện viên địa phương nấu bột ngô đậu nành tăng cường vitamin A rồi múc ra đĩa nhựa.",
+      "answers": [
+        { "q": 16, "ans": "viii", "quote": "Local volunteers do the cooking—turning the dry ingredients into a bland but nutritious slop, and spooning it out on to plastic plates.", "how": "Đoạn mô tả ai tài trợ, ai nấu, nấu thế nào, phát ra sao ↔ heading viii \"How food program is operated\". Heading ii \"Becoming the headmaster of Msekeni\" là bẫy vì có tên hiệu trưởng, nhưng bài không kể ông trở thành hiệu trưởng thế nào." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Khi có bữa ăn miễn phí, sĩ số trường tăng gấp đôi, chủ yếu nhờ những gia đình trước đây giữ con ở nhà đi kiếm củi hay làm đồng; riêng các bé gái còn được phát thêm đồ ăn mang về.",
+      "answers": [
+        { "q": 17, "ans": "ix", "quote": "When the school's feeding programme was introduced, enrolment at Msekeni doubled.", "how": "Toàn đoạn giải thích vì sao chương trình ăn làm số học sinh đi học tăng ↔ heading ix \"How food program affects school attendance\". Heading vii \"An innovative program to help girls\" là bẫy vì câu cuối nói về bé gái, nhưng đó chỉ là một chi tiết, không phải ý chính." },
+        { "q": 21, "ans": "extra snacks", "quote": "Girls, who are more likely than boys to be kept out of school, are given extra snacks to take home.", "how": "\"after the end of the school day\" ↔ \"to take home\"; thứ được phát là \"extra snacks\" (đúng hai từ)." },
+        { "q": 22, "ans": "firewood", "quote": "the short-term gain of sending children out to gather firewood or help in the fields", "how": "\"sent to collect ___ from the field\" ↔ \"sending children out to gather firewood\"; động từ collect ↔ gather." }
+      ],
+      "note": "Đoạn D chứa hai ô điền sát nhau; chốt luôn rồi mới sang đoạn E, đừng để dồn."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Lẽ ra nhận thêm nhiều học sinh nghèo mà không thêm giáo viên thì chất lượng phải giảm, nhưng tỷ lệ đỗ ở Msekeni lại tăng vọt từ 30% lên 85%, và kết quả toàn quốc cũng khả quan.",
+      "answers": [
+        { "q": 18, "ans": "vi", "quote": "Pass rates at Msekeni improved dramatically, from 30% to 85%.", "how": "Ý chính là kết quả học tập trái với dự đoán ↔ heading vi \"Surprising academic outcome\" (\"you would expect standards to fall even further. But they have not.\"). Heading xi \"How to maintain academic standard\" là bẫy: bài không chỉ cách duy trì chuẩn mực, chỉ nêu kết quả bất ngờ." },
+        { "q": 23, "ans": "85%", "quote": "Pass rates at Msekeni improved dramatically, from 30% to 85%.", "how": "\"Thanks to the free food program, ___ of students passed the test\" là con số SAU khi có chương trình → 85%, không phải 30% (bẫy số liệu trước/sau)." }
+      ],
+      "note": "Đoạn này ứng với phương án C của nhóm Q25–26 (\"not accompanied by any increase in the number of teachers\"), nhưng đáp án trên trang không có đáp án cho câu 26 nên bài hướng dẫn không chốt câu đó."
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Dinh dưỡng tốt làm trẻ sáng dạ hơn: trước mắt là dễ tập trung, quan trọng hơn là não cần dưỡng chất để phát triển, nếu thiếu thì bị còi cọc như cơ bắp.",
+      "answers": [
+        { "q": 19, "ans": "i", "quote": "more and better food helps brains grow and develop", "how": "Đoạn giải thích cơ chế vì sao ăn tốt thì học tốt ↔ heading i \"Why better food helps students' learning\". Heading v \"Why students were undernourished\" lại là bẫy: đoạn nói hậu quả của thiếu ăn, không nói nguyên nhân thiếu ăn." }
+      ],
+      "note": "Câu \"But if it is starved of the necessary calories, proteins and micronutrients, it is stunted, perhaps not as severely as a muscle would be, but stunted nonetheless\": bộ khung là \"nếu não bị bỏ đói thì nó còi cọc\"; phần chen giữa chỉ so sánh mức độ với cơ bắp rồi khẳng định lại."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Nhìn trên phạm vi toàn cầu, con người đang ăn uống tốt hơn bao giờ hết: cơ thể to hơn 50% so với trước cách mạng công nghiệp và tỷ lệ trẻ còi cọc ở các nước đang phát triển giảm từ 39% xuống 30%.",
+      "answers": [
+        { "q": 20, "ans": "iv", "quote": "On a global scale, the good news is that people are eating better than ever before.", "how": "Đoạn chuyển từ Malawi sang cả thế giới, dẫn số liệu WHO ↔ heading iv \"Global perspective\"; cụm \"On a global scale\" là tín hiệu rõ nhất." },
+        { "q": 24, "ans": "50%", "quote": "Homo sapiens has grown 50% bigger since the industrial revolution.", "how": "\"The modern human is ___ bigger than before after the industrial revolution\" gần như lặp nguyên văn; \"Homo sapiens\" = con người hiện đại → 50%. Đừng nhầm với 39% hay 30% ở câu sau." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài có nhiều tiêu đề mồi gắn với một chi tiết nhỏ trong đoạn (ii với tên hiệu trưởng, vii với các bé gái, v với trẻ suy dinh dưỡng). Luôn hỏi: đây là ý chính cả đoạn hay chỉ một câu?",
+    "Các con số dễ lẫn: 1999 (năm bắt đầu), 30% và 85% (tỷ lệ đỗ trước/sau), 38% và 24% (tăng sĩ số nữ/nam), 50% (kích thước cơ thể), 39%/30% (trẻ còi cọc). Khi điền, bám vào mốc \"trước hay sau chương trình\".",
+    "Với Q25–26, ba phương án sai (D, E, F) đều lấy đúng từ trong bài nhưng đổi chủ thể hoặc đảo nghĩa. Kiểm tra ai làm gì trước khi chọn."
+  ]
+}

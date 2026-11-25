@@ -1,0 +1,81 @@
+{
+  "step1": "Tiêu đề The Sleep of Animals và sapo \"Nothing that has been examined closely turns out to be entirely awake\" cho biết bài nói về giấc ngủ ở nhiều loài vật: cách nhận biết giấc ngủ, các giai đoạn, những loài ngủ kiểu đặc biệt, lượng ngủ và lý do phải ngủ. Đoán mạch bài: định nghĩa/dấu hiệu → hai trạng thái (slow-wave và REM) → các loài có hoàn cảnh đặc biệt (cá heo, chim, ngựa) → lượng ngủ nhiều ít → các giả thuyết về chức năng. Q6–10 (notes) bám đoạn 1–2 và đoạn cuối về \"purposes\"; Q1–5 (matching animals) rải ở phần giữa nơi từng con vật xuất hiện; Q11–13 (chọn 3 chữ cái) gom từ cả bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["1–5", "Matching features – nối phát biểu với con vật (A–F)", "Có: mỗi đáp án là một con vật, hiện rõ trong bài", "dolphin, frigatebird, horse, elephant, sloth, brown bat"],
+    ["6–10", "Note completion (ONE WORD ONLY)", "Có, theo thứ tự bài", "ended by a disturbance, large slow, muscles lose, saving, reinforcing"],
+    ["11–13", "Multiple choice – chọn THREE letters (A–G)", "Một phần: phải đọc xong mới loại được phương án sai", "fluid, muscle tone, body temperature, patterns of activity, both halves, eyes open, breathing"]
+  ],
+  "typesNote": "Q1–5 và Q6–10 chốt được ngay khi đọc tới đoạn chứa từ khóa; riêng Q11–13 phải vừa đọc vừa ghi nhận ứng viên rồi mới loại trừ ở cuối bài.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Giấc ngủ được nhận ra qua một danh sách dấu hiệu hành vi (tư thế, ít phản ứng, có thể bị đánh thức, ngủ bù), và theo danh sách đó cả cá, côn trùng lẫn sứa đều ngủ.",
+      "answers": [
+        { "q": 6, "ans": "coma", "quote": "The state can be ended by a strong enough disturbance, which is what separates sleep from a coma or from anaesthesia", "how": "\"can be brought to an end by a disturbance, unlike a ___\" ↔ \"separates sleep from a coma\"; chỉ được viết MỘT từ nên chọn \"coma\" chứ không phải \"coma or anaesthesia\"." }
+      ],
+      "note": "Đoạn này liệt kê jellyfish, fruit fly – không có trong danh sách A–F của Q1–5, đừng mất thời gian."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Ở thú và chim, giấc ngủ chia làm hai trạng thái rất khác nhau: slow-wave sleep (sóng não lớn và chậm) và REM sleep (não gần như lúc thức nhưng cơ mất trương lực, con vật tê liệt tạm thời).",
+      "answers": [
+        { "q": 7, "ans": "waves", "quote": "so that the brain produces large, slow waves", "how": "Ghi chú \"the brain produces large, slow ___\" lặp gần như nguyên văn câu trong bài." },
+        { "q": 8, "ans": "tone", "quote": "the muscles of the body lose their tone so completely that the animal is briefly paralysed", "how": "\"the muscles lose their ___\" ↔ \"the muscles of the body lose their tone\"." }
+      ],
+      "note": "Đoạn này cho luôn một trong ba đáp án của Q11–13: phương án B (\"The muscles of the body lose their tone for a period\") khớp thẳng với REM sleep, \"briefly\" ↔ \"for a period\" – đánh dấu ngay rồi đi tiếp. Phương án F (\"The eyes stay open throughout\") và G (\"stops breathing\") là bẫy sinh ra từ đoạn này và đoạn 3: bài nói mắt khép (\"beneath the closed lids\") và nhịp thở đều (\"breathing and heart rate are steady\"), nên F và G sai."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Cá heo (và một số loài chim) giải quyết việc vừa ngủ vừa phải hoạt động bằng cách ngủ từng nửa não một, nhắm một mắt và mở mắt kia.",
+      "answers": [
+        { "q": 2, "ans": "A", "quote": "it cannot afford to stop swimming or to stop rising to the surface. Dolphins meet this difficulty by sleeping with one half of the brain at a time: ... the eye on the opposite side of the body is closed while its partner remains open", "how": "\"shuts one eye at a time so that it can go on coming up for air\" ↔ \"rising to the surface\" + \"one eye ... closed while its partner remains open\". Bẫy: vịt trong đoạn này cũng mở một mắt, nhưng vịt không nằm trong danh sách A–F." }
+      ],
+      "note": "Phương án E của Q11–13 (\"Both halves of the brain are always inactive at once\") bị chính đoạn này bác bỏ: từ \"always\" là từ tuyệt đối sai."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Vài loài chim ngủ khi đang bay: máy ghi gắn trên frigatebird bắt được sóng ngủ trong những chuyến vượt đại dương dài, và swift cũng được cho là như vậy.",
+      "answers": [
+        { "q": 4, "ans": "B", "quote": "Recorders small enough to be carried by a large seabird have captured the slow waves of sleep in frigatebirds during long crossings of open ocean", "how": "\"recorded sleeping while it was in the air\" ↔ \"captured the slow waves of sleep in frigatebirds\" khi bay qua đại dương. Bẫy: swift cũng bay nhiều tháng nhưng chỉ \"are thought to\" (phỏng đoán, chưa ghi được) và cũng không có trong danh sách." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Con mồi cần đứng dậy nhanh: ngựa ngủ gật khi đứng nhờ hệ gân–dây chằng khóa khớp, nhưng vẫn phải nằm xuống mỗi ngày để có REM sleep.",
+      "answers": [
+        { "q": 3, "ans": "C", "quote": "A horse can doze on its feet because an arrangement of tendons and ligaments in its legs locks the joints and holds its weight with almost no effort from the muscles", "how": "\"Structures in its legs\" ↔ \"an arrangement of tendons and ligaments in its legs\"; \"with almost no muscular effort\" ↔ \"with almost no effort from the muscles\"." }
+      ],
+      "note": "Câu dài có mệnh đề nhân quả: xương sống là \"A horse can doze on its feet\" (AI + LÀM GÌ), rồi \"because ...\" nêu lý do (gân và dây chằng khóa khớp), tiếp đó \"That trick will not serve for REM sleep, in which muscle tone is lost\" là ý tương phản – giải thích vì sao ngựa vẫn phải nằm."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Lượng ngủ rất khác nhau giữa các loài: dơi ngủ gần cả ngày, voi chỉ khoảng hai tiếng và có thể thức trắng đêm khi di chuyển, còn con lười ngoài tự nhiên ngủ ít hơn nhiều so với trong vườn thú.",
+      "answers": [
+        { "q": 1, "ans": "E", "quote": "when sloths were fitted with recorders and followed in the forest, they proved to sleep several hours less than their captive relatives", "how": "\"considerably less in the wild than ... in captivity\" ↔ \"several hours less than their captive relatives\" khi được theo dõi \"in the forest\"." },
+        { "q": 5, "ans": "D", "quote": "An elephant, recorded in the wild with a device fitted to its trunk, sleeps only about two hours a day, and will go without sleep altogether for a night or more while travelling", "how": "\"stay awake all night while it is on the move\" ↔ \"go without sleep altogether for a night or more while travelling\". Bẫy: voi cũng được \"recorded in the wild\" nên dễ nhầm với câu 1, nhưng câu 1 cần ý so sánh hoang dã/nuôi nhốt – chỉ con lười có." }
+      ],
+      "note": "Brown bat (F) xuất hiện ở đây nhưng không khớp phát biểu nào trong Q1–5; dạng matching features luôn có phương án thừa."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Có bốn giả thuyết về chức năng của giấc ngủ, không loại trừ nhau: tiết kiệm năng lượng, an toàn, dọn chất thải trong não, và củng cố trí nhớ.",
+      "answers": [
+        { "q": 9, "ans": "energy", "quote": "The oldest proposal is that sleep saves energy, by shutting an animal down during the hours when it could not feed or hunt efficiently", "how": "\"saving ___ during the hours when feeding would be inefficient\" ↔ \"sleep saves energy ... could not feed or hunt efficiently\"." },
+        { "q": 10, "ans": "memories", "quote": "so that memories formed during the day survive better than they otherwise would", "how": "\"reinforcing the ___ formed earlier in the day\" ↔ \"memories formed during the day\"; dù bài viết \"the connections involved are reinforced\", chỗ trống đi với \"formed ... in the day\" nên phải là \"memories\"." }
+      ],
+      "note": "Đoạn này cho hai đáp án còn lại của Q11–13: phương án A (\"Fluid passes more easily through the brain\") ↔ \"fluid moves more freely through the narrow spaces of the brain during slow-wave sleep\", và phương án D (\"Patterns of activity from the waking hours are repeated\") ↔ \"the patterns of activity recorded while it learned the route are replayed during the sleep that follows\". Vậy Q11–13 = A, B, D. Giả thuyết thứ hai (safety) chỉ nói con vật nằm yên và ẩn mình, không phải một lựa chọn trong A–G; đừng cố ghép."
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Giấc ngủ là bắt buộc: chuột bị tước ngủ mất khả năng điều nhiệt rồi chết; ngủ đông không phải là giấc ngủ dài vì con vật tỉnh dậy còn phải ngủ bù.",
+      "answers": [],
+      "note": "Phương án C (\"Body temperature falls below that of the surroundings\") lấy chữ từ đoạn này nhưng sai hai lần: mất kiểm soát thân nhiệt là hậu quả của việc KHÔNG được ngủ, còn thân thể lạnh là ở hibernation – mà bài nói rõ hibernation không phải giấc ngủ."
+    }
+  ],
+  "tips": [
+    "Với matching features, hãy chốt con vật ngay khi tên nó xuất hiện: dolphin (đoạn 3), frigatebird (đoạn 4), horse (đoạn 5), sloth và elephant (đoạn 6) – không cần quay lại.",
+    "Bẫy lớn của bài là các chi tiết \"gần giống\": vịt cũng mở một mắt, swift cũng bay nhiều tháng, voi cũng được ghi hình ngoài tự nhiên – nhưng danh sách đáp án chỉ cho sáu con vật.",
+    "Ở dạng chọn ba chữ cái, loại nhanh phương án có từ tuyệt đối (always ở E, throughout ở F) và phương án nói về hibernation (C), vì bài tách hibernation ra khỏi giấc ngủ."
+  ]
+}

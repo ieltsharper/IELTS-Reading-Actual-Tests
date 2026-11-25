@@ -575,7 +575,573 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Review of research on the effects of food promotion to children\" cho biết đây là báo cáo tổng hợp nghiên cứu về tác động của quảng cáo thực phẩm tới trẻ em. Đoán trước mạch bài của một bản review: quảng cáo gì (loại thực phẩm) → ảnh hưởng tới kiến thức → tới sở thích và hành vi mua → tới cân nặng/béo phì → đánh giá chung về độ tin cậy của các nghiên cứu → điều bị đánh giá thấp → kết luận và kiến nghị. Q1–7 là Matching Headings cho bảy đoạn A–G (chính là các đoạn [P4]–[P10] trong bản in: phần mở đầu và hai gạch đầu dòng không được đánh chữ cái), nên mỗi đoạn chốt một heading. Q8–13 là Yes/No/Not Given, đi theo thứ tự bài."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "1–7"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching Headings (i–x) cho đoạn A–G"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Không – phải đọc xong đoạn mới chốt"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Đọc ý chính từng đoạn, không scan từ khóa"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "8–13"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Yes / No / Not Given"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có (từ khóa), nhưng phải đọc hết đoạn mới kết luận"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "healthy/unhealthy advertisements, nutritional knowledge, TV viewing, age and gender, wealthy parents, other than TV advertising"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Hai bộ câu hỏi chạy song song theo thứ tự bài: đọc xong một đoạn thì vừa chốt heading cho đoạn đó, vừa chốt những câu Yes/No/Not Given có bằng chứng nằm trong đoạn."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 1 – ",
+       "b": true
+      },
+      {
+       "t": "Câu dẫn: bản review do Food Standards Agency đặt hàng để xem xét bằng chứng nghiên cứu hiện có."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 2 – ",
+       "b": true
+      },
+      {
+       "t": "Gạch đầu dòng thứ nhất: phạm vi và bản chất của hoạt động quảng bá thực phẩm tới trẻ em."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 3 – ",
+       "b": true
+      },
+      {
+       "t": "Gạch đầu dòng thứ hai: tác động (nếu có) của quảng bá lên kiến thức, sở thích và hành vi ăn uống của trẻ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Ba đoạn đầu không mang chữ cái A–G. Đoạn A trong đề chính là đoạn [P4] bên dưới; đếm lệch ở đây là lỗi hay gặp nhất của bài này."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn A (tức đoạn 4) – ",
+       "b": true
+      },
+      {
+       "t": "Quảng cáo thực phẩm cho trẻ chủ yếu trên truyền hình và tập trung vào \"Big Four\" đồ ngọt, nước ngọt, bánh kẹo, snack mặn; chế độ ăn được quảng cáo trái ngược hẳn với chế độ ăn mà chuyên gia y tế khuyên."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 1 → viii. ",
+       "b": true
+      },
+      {
+       "t": "Ý chính của đoạn là quảng cáo chỉ nhắm vào nhóm thực phẩm không lành mạnh ↔ heading viii \"Advertising's focus on unhealthy options\". Heading iv \"Advertising effects of the Big Four\" là bẫy từ khóa: đoạn chỉ liệt kê Big Four chứ chưa nói đến effects (tác động), tác động mới xuất hiện từ đoạn B trở đi."
+      },
+      {
+       "t": " Trích: \"The advertised diet contrasts sharply with that recommended by public health advisors\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 8 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói số quảng cáo thực phẩm lành mạnh và không lành mạnh \"little difference\" (chênh nhau không đáng kể). Bài khẳng định ngược lại: chế độ ăn được khuyến nghị hầu như không được quảng bá, còn Big Four thì áp đảo → mâu thuẫn, chọn NO."
+      },
+      {
+       "t": " Trích: \"The advertised diet contrasts sharply with that recommended by public health advisors ... the recommended diet gets little promotional support\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn B (tức đoạn 5) – ",
+       "b": true
+      },
+      {
+       "t": "Trẻ có để ý và thích quảng cáo, nhưng đo tác động thì khó; về mặt kiến thức dinh dưỡng, quảng cáo ít ảnh hưởng tới hiểu biết chung nhưng làm sai lệch một số hiểu biết cụ thể (ví dụ nhận biết sản phẩm có trái cây thật)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 2 → ii. ",
+       "b": true
+      },
+      {
+       "t": "Cả đoạn xoay quanh children know about food ↔ heading ii \"How much children really know about food\". Đừng chọn vi: hành vi mua hàng mới là đoạn C."
+      },
+      {
+       "t": " Trích: \"In terms of nutritional knowledge, food advertising seems to have little influence on children's general perceptions of what constitutes a healthy diet\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 9 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói quảng cáo TV đã \"successfully taught\" trẻ kiến thức dinh dưỡng. Bài nói ngược: quảng cáo làm giảm khả năng nhận biết đúng của trẻ → NO. Bẫy ở chữ \"vitamins\": bài không nói vitamin mà nói real fruit, nhưng ý \"dạy được kiến thức dinh dưỡng\" thì bị phủ định rõ ràng nên không phải NOT GIVEN."
+      },
+      {
+       "t": " Trích: \"seeing soft drink and cereal adverts reduced primary aged children's ability to determine correctly whether or not certain products contained real fruit\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn C (tức đoạn 6) – ",
+       "b": true
+      },
+      {
+       "t": "Có bằng chứng quảng bá thực phẩm ảnh hưởng tới sở thích, tới việc mua (máy bán hàng tự động ở trường cấp hai) và tới cái trẻ thực sự ăn (bữa phụ giờ ra chơi)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 3 → vi. ",
+       "b": true
+      },
+      {
+       "t": "Trọng tâm đoạn là purchase behaviour ↔ heading vi \"Evidence that advertising affects what children buy to eat\". Heading ix \"Children often buy what they want\" là bẫy: bài nói trẻ mua theo quảng cáo, không nói trẻ muốn gì mua nấy."
+      },
+      {
+       "t": " Trích: \"another showed that labelling and signage on a vending machine had an effect on what was bought by secondary school pupils\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 11 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn nói về food preferences nên đây là chỗ duy nhất có thể trả lời câu 11, nhưng bài chỉ nhắc primary school children và secondary school pupils như bối cảnh nghiên cứu, hoàn toàn không so sánh sở thích theo tuổi (age) hay giới tính (gender) → NOT GIVEN. Bẫy: thấy hai cấp học khác nhau rồi suy ra \"age\" là suy diễn."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn D (tức đoạn 7) – ",
+       "b": true
+      },
+      {
+       "t": "Bước khó nhất là nối quảng bá với béo phì: nhiều nghiên cứu dùng thời lượng xem TV làm đại diện và thấy có liên hệ với béo phì, cholesterol, nhưng không tách được nguyên nhân là quảng cáo hay việc ngồi ì hay ăn vặt khi xem."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 4 → v. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn duy nhất nói về cân nặng ↔ heading v \"Connection of advertising and children's weight problems\"."
+      },
+      {
+       "t": " Trích: \"They have established a clear link between television viewing and diet, obesity, and cholesterol levels\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 10 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"hard to decide which aspect of TV viewing\" ↔ \"impossible to say whether this effect is caused by\" + ba khả năng được liệt kê (quảng cáo / ngồi ì / ăn vặt) → đúng ý người viết, YES. Câu cuối đoạn (nhật ký xem TV) chỉ giải được một phần, không làm câu hỏi thành NO."
+      },
+      {
+       "t": " Trích: \"It is impossible to say, however, whether this effect is caused by the advertising, the sedentary nature of television viewing or snacking that might take place whilst viewing\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài cần chẻ: backbone là \"The next step ... is extremely difficult\" (WHO: bước tiếp theo – DOES WHAT: rất khó). Mệnh đề \"of trying to establish whether or not a link exists...\" chỉ giải thích \"the next step\" là gì; mệnh đề nguyên nhân \"as it requires research to be done in real world settings\" nêu lý do khó."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn E (tức đoạn 8) – ",
+       "b": true
+      },
+      {
+       "t": "Đánh giá tổng thể: tài liệu cho thấy quảng bá có ảnh hưởng nhưng không phải bằng chứng tuyệt đối, một số nghiên cứu không tìm thấy tác động, song nhiều nghiên cứu dùng phương pháp chặt chẽ nên kết quả không do ngẫu nhiên."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 5 → i. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn vừa nêu chỗ các nhà nghiên cứu đồng thuận (nhiều nghiên cứu thấy tác động rõ, phương pháp tinh vi) vừa nêu chỗ chưa thống nhất ↔ heading i \"General points of agreement and disagreement of researchers\"."
+      },
+      {
+       "t": " Trích: \"Nor do all studies point to this conclusion; several have not found an effect\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 12 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn có nhắc \"parents' eating habits or attitudes\" nên dễ bị kéo vào đây, nhưng bài chỉ coi đó là yếu tố nhiễu cần loại trừ, không hề nói gì về cha mẹ giàu có (wealthy parents) hay \"sensible food\" → NOT GIVEN. Heading vii về cha mẹ cũng là bẫy cùng kiểu."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn F (tức đoạn 9) – ",
+       "b": true
+      },
+      {
+       "t": "Hai lý do khiến các kết quả trên còn nói giảm tác động thật: tài liệu chỉ tập trung vào quảng cáo TV, và chỉ đo tác động trực tiếp lên từng trẻ nên bỏ qua ảnh hưởng gián tiếp qua cha mẹ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 6 → x. ",
+       "b": true
+      },
+      {
+       "t": "\"downplay / understate\" ↔ heading x \"Underestimating the effects advertising has on children\". Heading vii (cha mẹ ảnh hưởng thói quen ăn của con) là bẫy: ở đây chiều ảnh hưởng ngược lại, quảng cáo tác động lên cha mẹ."
+      },
+      {
+       "t": " Trích: \"two factors suggest that these findings actually downplay the effect that food promotion has on children\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 13 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"lack of investigation on food promotion methods other than TV advertising\" ↔ \"focuses principally on television advertising\"; đoạn B cũng đã nói \"a few examined other forms of food promotion\" (chỉ một vài) → người viết đồng ý, YES."
+      },
+      {
+       "t": " Trích: \"the literature focuses principally on television advertising; the cumulative effect of this combined with other forms of promotion and marketing is likely to be significantly greater\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn G (tức đoạn 10) – ",
+       "b": true
+      },
+      {
+       "t": "Kết luận: chưa phải bằng chứng tuyệt đối nhưng đủ để khẳng định có tác động, và giờ nên chuyển sang bàn cần hành động gì."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 7 → iii. ",
+       "b": true
+      },
+      {
+       "t": "\"what action is needed\" ↔ heading iii \"Need to take action\"."
+      },
+      {
+       "t": " Trích: \"The debate should now shift to what action is needed\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn A–G không trùng với thứ tự đoạn in trong bài: ba đoạn đầu (lời dẫn và hai gạch đầu dòng) không được đánh chữ cái, nên A bắt đầu từ đoạn nói về Big Four."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Nhiều heading là bẫy từ khóa (iv Big Four, vii parents, ix children buy what they want): chúng chứa từ có trong bài nhưng lệch ý chính hoặc lệch chiều tác động."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Với Yes/No/Not Given, hãy hỏi \"người viết có nói đúng điều này không\": câu 11 và 12 có từ khóa gần giống bài (lứa tuổi học sinh, cha mẹ) nhưng bài không bàn tới tuổi/giới tính hay mức thu nhập nên phải chọn NOT GIVEN."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -1113,7 +1679,583 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"The bridge that swayed\" và sapo (cầu đi bộ Millennium ở London mở cửa tháng 6/2000 thì lắc lư, bị gọi là \"wobbly bridge\") cho biết bài kể một sự cố kỹ thuật và quá trình tìm nguyên nhân. Đoán trước mạch bài: giới thiệu cây cầu → ngày khánh thành và hiện tượng lắc → nghi ngờ đầu tiên (gió) → lý thuyết mới về cách người đi bộ phản ứng → ý kiến chuyên gia Nhật → chương trình nghiên cứu → các thí nghiệm trong phòng lab và hạn chế của chúng → hai giải pháp. Q14–17 (chọn 4 ý thấy được trong ngày khánh thành) nằm ở đoạn 2–3; Q18–23 là summary theo thứ tự, dồn ở đoạn 3–5; Q24–26 là bảng về các đơn vị thí nghiệm, nằm ở đoạn 6–7."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "14–17"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Multiple choice (chọn BỐN đáp án A–I)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – khoanh vùng ngày khánh thành"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "opening day, sway, balance, hand rails, band, flags"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "18–23"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Summary completion (NO MORE THAN TWO WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, theo thứ tự bài"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "videotape, flags and banners, tests on how people walk, Pat Dallard, Fujino Yozo"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "24–26"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Table completion (NO MORE THAN THREE WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – tìm tên đơn vị thí nghiệm"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "tests at..., limitations, platform, walking on the spot"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Ba bộ câu hỏi chạy đúng theo thứ tự bài nên chỉ cần đọc một lượt: đoạn 2–3 chốt Q14–17, đoạn 3–5 chốt Q18–23, đoạn 6–7 chốt Q24–26."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 1 – ",
+       "b": true
+      },
+      {
+       "t": "Giới thiệu: Millennium Bridge là cây cầu mới đầu tiên bắc qua sông Thames kể từ 1894 và là cầu đầu tiên dành riêng cho người đi bộ, nối khu City với bảo tàng Tate Modern."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 2 – ",
+       "b": true
+      },
+      {
+       "t": "Ngày khánh thành 10/6/2000: hơn 1.000 người cùng một ban nhạc đi qua cầu, mặt cầu lập tức lắc ngang mạnh, mọi người phải dừng lại và bám lan can; cầu bị đóng ngày 12/6 để điều tra."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Đây là đoạn trả lời Q14–17 (chọn bốn ý): cầu lắc ngang (\"it began to sway sideways\"), khó giữ thăng bằng (\"Everyone had to stop walking to retain balance\"), ban nhạc đi qua cầu (\"with a band in front ... when they started to walk across with the band playing\") – và nhịp lắc khác nhau ở từng nhịp cầu thì nằm ở đoạn 3. Loại A (cầu không nhúc nhích theo chiều dọc mà lắc ngang), C (lúc đầu cầu \"still\", chỉ lắc mạnh khi đông người nên không phải suốt buổi lễ), I (cờ không hề đứng yên, trời có gió force 3-4)."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 3 – ",
+       "b": true
+      },
+      {
+       "t": "Arup lập tức làm nghiên cứu cấp tốc: băng video cho thấy nhịp giữa lắc khoảng 3 inch mỗi giây còn nhịp nam 2 inch mỗi 1,25 giây; ban đầu nghi gió thổi vào cờ nhưng nhanh chóng loại trừ, rồi các thí nghiệm về người đi trên sàn lắc cho ra lý thuyết mới."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 18 → wind. ",
+       "b": true
+      },
+      {
+       "t": "Ô trống nằm sau \"the forces of\" và trước lý do \"many flags and banners\" ↔ \"winds might be exerting excessive force on the many large flags and banners\". Lưu ý bài nói ngay sau đó rằng gió thực ra không phải nguyên nhân – câu hỏi chỉ hỏi suy đoán ban đầu."
+      },
+      {
+       "t": " Trích: \"the engineers first thought that winds might be exerting excessive force on the many large flags and banners\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 19 → swaying. ",
+       "b": true
+      },
+      {
+       "t": "\"tests ... on how people walk on ___ floors\" ↔ \"people walking on swaying platforms\"; floors là cách diễn đạt khác của platforms."
+      },
+      {
+       "t": " Trích: \"measurements were made in university laboratories of the effects of people walking on swaying platforms\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Số liệu \"3 inches sideways every second\" cho nhịp giữa và \"2 inches every 1.25 seconds\" cho nhịp nam chính là bằng chứng cho phương án H của Q14–17 (nhịp lắc khác nhau ở các phần cầu)."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 4 – ",
+       "b": true
+      },
+      {
+       "t": "Lý thuyết mới: người đi bộ phản xạ tự nhiên trước dao động ngang nhỏ – dang chân rộng hơn và vô thức bước theo nhịp lắc, nên càng làm cầu lắc mạnh; khi đủ đông, lực đẩy ngang vượt khả năng hấp thụ của cầu."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 20 → further apart. ",
+       "b": true
+      },
+      {
+       "t": "\"place their legs ___ to keep balance when the floor is shaking\" ↔ \"stabilise ourselves by spreading our legs further apart\"; keep balance = stabilise."
+      },
+      {
+       "t": " Trích: \"we tend to compensate and stabilise ourselves by spreading our legs further apart\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 21 → footsteps. ",
+       "b": true
+      },
+      {
+       "t": "\"unknowingly adjust their ___ to match the sway\" ↔ \"unconscious tendency ... to match their footsteps to the sway\"; unknowingly = unconscious. Bẫy: đoạn cũng nói \"you change the way you walk\", nhưng ô trống chỉ cho tối đa hai từ và danh từ khớp chính xác là footsteps."
+      },
+      {
+       "t": " Trích: \"It is an unconscious tendency for pedestrians to match their footsteps to the sway\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Bài nói rõ hiện tượng này KHÔNG phải cộng hưởng (\"doesn't have to match exactly the natural frequency of the bridge as in resonance\") – đừng chọn từ liên quan đến resonance."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 5 – ",
+       "b": true
+      },
+      {
+       "t": "Giáo sư Fujino Yozo (Đại học Tokyo) cho rằng lực ngang do đi, chạy, nhảy gây ra dao động ngang quá mức: người đi bộ khớp bước vào nhịp cầu, càng nhiều người cùng nhịp thì cầu càng lắc, tới mức không đứng vững nổi."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 22 → horizontal forces. ",
+       "b": true
+      },
+      {
+       "t": "Ô trống đứng sau \"caused by the ___ of people walking, running and jumping\" ↔ \"the horizontal forces caused by walking, running or jumping\". Đừng viết \"lateral direction\": đó là hướng dao động của cầu, không phải lực do người tạo ra."
+      },
+      {
+       "t": " Trích: \"the horizontal forces caused by walking, running or jumping could also in turn cause excessive dynamic vibration in the lateral direction\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 23 → upright. ",
+       "b": true
+      },
+      {
+       "t": "\"impossible to stand ___\" ↔ \"could not even keep upright\"; stand = keep."
+      },
+      {
+       "t": " Trích: \"until people stopped walking altogether, because they could not even keep upright\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài cần chẻ: backbone \"Professor Fujino Yozo ... believes the horizontal forces ... could cause excessive dynamic vibration\" (WHO: Fujino – DOES WHAT: tin rằng lực ngang gây dao động). Mệnh đề \"who studied the earth-resistant Toda Bridge in Japan\" chỉ bổ nghĩa cho tên ông; \"caused by walking, running or jumping\" bổ nghĩa cho horizontal forces. Bỏ hai mệnh đề phụ đi thì câu rất gọn."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 6 – ",
+       "b": true
+      },
+      {
+       "t": "Arup – đơn vị thiết kế cầu – mở ngay chương trình nghiên cứu để lượng hóa lực do người đi bộ tạo ra, vì tài liệu sẵn có chỉ mô tả hiện tượng chứ chưa đo được lực; nhiều trường đại học và tổ chức nghiên cứu vào cuộc hỗ trợ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 24 → Arup. ",
+       "b": true
+      },
+      {
+       "t": "Bảng có ba dòng, hai dòng dưới đã chắc chắn là Imperial College và University of Southampton (đoạn 7), nên dòng còn lại ứng với các thử nghiệm quy mô lớn do chính Arup làm trên cầu; hạn chế \"not enough data collection\" ↔ \"none of these actually quantifies the force\" / chưa có cách phân tích định lượng."
+      },
+      {
+       "t": " Trích: \"an immediate research program was launched by the bridge's engineering designer Arup\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Đáp án Q24 là chỗ dễ tranh cãi nhất của bài: hạn chế \"không thu đủ dữ liệu\" đọc ra cũng khá giống hạn chế \"Neither test could investigate any influence of other people in a crowd\" ở đoạn 7. Đáp án chính thức là Arup, vẫn dùng đúng đáp án này; cách chắc ăn trong phòng thi là loại trừ hai dòng rõ ràng trước rồi điền tên đơn vị còn lại."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 7 – ",
+       "b": true
+      },
+      {
+       "t": "Hai thí nghiệm và hạn chế của chúng: Southampton cho người \"đi tại chỗ\" trên bàn rung, Imperial College dùng sàn dài 7,2 m rung ngang; sàn của Imperial quá ngắn nên chỉ đo được bảy tám bước, còn \"đi tại chỗ\" thì không giống đi thật."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 25 → Imperial College. ",
+       "b": true
+      },
+      {
+       "t": "\"Not long enough\" ↔ \"so short\" (sàn dài 7.2m, quá ngắn) → đơn vị là Imperial College."
+      },
+      {
+       "t": " Trích: \"the Imperial College test platform was so short that only seven or eight steps could be measured at one time\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 26 → University of Southampton. ",
+       "b": true
+      },
+      {
+       "t": "\"Not like the real walking experience\" ↔ \"did not accurately replicate forward walking\"; kiểu thí nghiệm \"walking on the spot\" được gắn với University of Southampton ở câu đầu đoạn."
+      },
+      {
+       "t": " Trích: \"The tests at the University of Southampton involved a person walking on the spot on a small shake table ... the \"walking on the spot\" test did not accurately replicate forward walking\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Hai hạn chế nằm ở câu sau, còn tên trường nằm ở hai câu đầu đoạn: phải nối ngược lại mới điền đúng. Giới hạn ba từ cho phép viết đủ \"University of Southampton\"."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 8 – ",
+       "b": true
+      },
+      {
+       "t": "Kết quả thí nghiệm giúp thiết kế phương án cải tạo: chỉ hai hướng khả thi – tăng độ cứng để đẩy tần số dao động ngang ra khỏi vùng bị kích thích, hoặc tăng giảm chấn để giảm phản ứng cộng hưởng."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Với Q14–17, phải phân biệt \"lắc ngang\" (sideways/lateral) với \"lắc dọc\", và nhớ rằng cầu chỉ lắc mạnh khi đông người chứ không lắc suốt buổi lễ – hai bẫy A và C."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Summary Q18–23 đi đúng thứ tự bài nên nếu thấy mình phải quay lại đoạn trước thì gần như chắc chắn đã điền lệch ô."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bảng Q24–26 không xếp theo thứ tự xuất hiện trong bài: tên trường ở đầu đoạn 7, hạn chế ở cuối đoạn 7, nên hãy nối từ hạn chế ngược về tên đơn vị."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -1604,7 +2746,578 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Internal Market: Selling the Brand Inside\" cho biết bài bàn về marketing hướng vào chính nhân viên trong công ty, chứ không chỉ vào khách hàng. Đoán trước mạch bài của một bài báo quản trị: nêu vấn đề (công ty bỏ quên nhân viên) → vì sao quan trọng → thực trạng làm kém → các ví dụ thất bại (bảo hiểm y tế, tổ chức tài chính) → ví dụ thành công (IBM) → ví dụ phản tác dụng (United Airlines) → cách triển khai (quảng cáo nhắm hai đối tượng, Nike kể chuyện) → nguyên tắc giữ lời hứa bên ngoài nhỉnh hơn thực tế bên trong (Ford, British Rail). Q27–32 ghép tên loại công ty với kết cục nên locate được ngay theo tên công ty; Q33–40 là Yes/No/Not Given đi theo thứ tự bài."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "27–32"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching sentence endings (A–E, được dùng lại)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – mỗi câu là một loại công ty"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "health insurance company, financial services institution, IBM, United Airlines, Nike, British Rail"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "33–40"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Yes / No / Not Given"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có (từ khóa), nhưng phải đọc hết đoạn mới kết luận"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "believe in the brand, internal marketing done poorly, consumers unprepared, United, market research, expensive, Nike storytellers, a little ahead"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bộ 27–32 không theo thứ tự đề bài mà theo thứ tự công ty xuất hiện trong bài, còn 33–40 thì theo đúng thứ tự bài: đọc đến công ty nào thì chốt luôn cả hai loại câu hỏi thuộc đoạn đó."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 1 – ",
+       "b": true
+      },
+      {
+       "t": "Đặt vấn đề: nói tới marketing người ta chỉ nghĩ tới khách hàng, nhưng \"thị trường\" thứ hai cũng quan trọng không kém là nhân viên – nhóm thường bị công ty bỏ quên."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 2 – ",
+       "b": true
+      },
+      {
+       "t": "Vì sao marketing nội bộ quan trọng: nó tạo kết nối cảm xúc giữa nhân viên với sản phẩm; thiếu nó nhân viên hiểu sai hoặc không tin vào thương hiệu, còn khi tin thì họ làm việc hăng hơn và trung thành hơn."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 33 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"A strong conviction in the brand\" ↔ \"care about and believe in the brand\"; \"higher job performance\" ↔ \"motivated to work harder\" → đúng ý người viết, YES."
+      },
+      {
+       "t": " Trích: \"when people care about and believe in the brand, they're motivated to work harder and their loyalty to the company increases\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 3 – ",
+       "b": true
+      },
+      {
+       "t": "Thực trạng: ở hầu hết công ty, marketing nội bộ làm rất kém hoặc không làm; lãnh đạo biết phải thông báo chiến lược nhưng ít ai thấy cần thuyết phục nhân viên về sức mạnh thương hiệu."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 34 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"common for companies to overlook the necessity for internal communication\" ↔ \"in most companies ... done poorly, if at all\" và \"few understand the need to convince employees\" → YES."
+      },
+      {
+       "t": " Trích: \"in most companies, internal marketing is done poorly, if at all\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 4 – ",
+       "b": true
+      },
+      {
+       "t": "Thông điệp đối nội và đối ngoại thường lệch nhau, làm nhân viên nghi ngờ tính chính trực của công ty: công ty bảo hiểm y tế nói ưu tiên bệnh nhân nhưng bảo nhân viên ưu tiên cắt giảm chi phí; định chế tài chính tuyên bố chuyển sang vai trò tư vấn nhưng không bán ý tưởng đó vào trong nên nhân viên vẫn làm như cũ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 27 → C. ",
+       "b": true
+      },
+      {
+       "t": "Hai thông điệp trái ngược nhau cho nhân viên và cho công chúng ↔ ending C \"produced conflicting images between its employees and the general public\"."
+      },
+      {
+       "t": " Trích: \"advertised that the welfare of patients was the company's number one priority, while employees were told that their main goal was to increase the value of their stock options through cost reductions\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 28 → C. ",
+       "b": true
+      },
+      {
+       "t": "Cũng là lệch giữa lời hứa ra bên ngoài và điều nhân viên được truyền đạt bên trong ↔ ending C. Đề đã báo trước \"You can use any letter more than once\" nên việc C xuất hiện hai lần là bình thường – đừng vì sợ trùng mà đổi sang B."
+      },
+      {
+       "t": " Trích: \"told customers that it was making a major shift in focus from being a financial retailer to a financial adviser, but, a year later, research showed that the customer experience with the company had not changed\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài cần chẻ ở ví dụ thứ hai: backbone \"one major financial services institution told customers that it was making a major shift in focus\" (WHO – DOES WHAT), rồi mệnh đề tương phản \"but, a year later, research showed that the customer experience ... had not changed\", và câu sau nêu nguyên nhân \"company leaders had not made an effort to sell the change internally, so employees were still churning out transactions\"."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 5 – ",
+       "b": true
+      },
+      {
+       "t": "Khớp thông điệp trong – ngoài còn giúp công ty với tới mục tiêu tưởng như ngoài tầm: chiến dịch e-business 1997 của IBM bỏ qua kết quả nghiên cứu, dùng quảng cáo để tập hợp nhân viên quanh ý tưởng Internet, nhờ đó đổi cả cách họ làm việc và khôi phục niềm tin vào IBM."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 29 → D. ",
+       "b": true
+      },
+      {
+       "t": "\"A computer company\" = IBM; chiến dịch quảng cáo được dùng để truyền cảm hứng và định hướng cho nhân viên ↔ ending D \"successfully used an advertising campaign to inspire employees\"."
+      },
+      {
+       "t": " Trích: \"IBM was also using the campaign to align employees around the idea of the Internet as the future of technology\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 35 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói người tiêu dùng ĐÃ sẵn sàng xem IBM là người dẫn đầu e-business trước chiến dịch; bài nói nghiên cứu cho thấy họ \"unprepared\" (chưa sẵn sàng) → mâu thuẫn, NO. Bẫy: số liệu \"four times more likely\" ở cuối đoạn là kết quả SAU chiến dịch, không phải trước."
+      },
+      {
+       "t": " Trích: \"it chose to ignore research that suggested consumers were unprepared to embrace IBM as a leader in e-business\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 6 – ",
+       "b": true
+      },
+      {
+       "t": "Bỏ quên nhân viên còn có thể tạo ra thông điệp gây bất bình: chiến dịch \"Rising\" của United Airlines thừa nhận dịch vụ kém để chiều khách lại làm nhân viên nản lòng, sự phản đối của họ khiến lời hứa cải thiện không thực hiện được và ba năm sau hãng phải bỏ chiến dịch."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 30 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"An airline\" = United Airlines; chiến dịch mang tính xin lỗi (thừa nhận dịch vụ kém) làm nhân viên xa lánh ↔ ending A \"alienated its employees by its apologetic branding campaign\"."
+      },
+      {
+       "t": " Trích: \"a campaign focusing on customers' distaste for flying was deeply discouraging to the staff\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 36 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi quy thất bại cho \"bad advice of an advertisement agency\". Người viết nêu nguyên nhân khác hẳn và rất rõ: vì United không tính đến thị trường nội bộ, thậm chí còn gọi tiền đề của chiến dịch là \"a logical premise ... given the tenor of the times\" → mâu thuẫn, NO."
+      },
+      {
+       "t": " Trích: \"a fundamental principle of advertising—find and address a customer concern—failed United because it did not consider the internal market\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 37 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Bài nói United rút chiến dịch vì \"employee opposition was undermining its success\", còn cuộc khảo sát (survey) chỉ là lý do KHỞI ĐỘNG chiến dịch năm 1996. Việc hãng bỏ chiến dịch do một nghiên cứu thị trường thì bài không hề nói → NOT GIVEN. Đây là bẫy ghép sai mốc thời gian: cùng một từ \"survey/research\" nhưng gắn với hai thời điểm khác nhau."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Q36 và Q37 rất dễ đảo nhau. Nguyên tắc: nếu bài nêu một nguyên nhân KHÁC cho cùng một sự kiện thì chọn NO; nếu bài chỉ im lặng về mối liên hệ mà câu hỏi dựng lên thì chọn NOT GIVEN."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 7 – ",
+       "b": true
+      },
+      {
+       "t": "Cách triển khai phổ biến nhất: làm quảng cáo đối ngoại nhắm cả hai đối tượng, như mẩu quảng cáo tám trang của IBM trên Wall Street Journal – tốn kém nhưng nếu dùng tiết chế thì mạnh nhất, lại cho thấy sự nghiêm túc và minh bạch."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 38 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi gọi chiến dịch e-business của IBM là \"an expensive mistake\". Người viết công nhận tốn kém nhưng khẳng định đó là cách truyền thông mạnh nhất, và ở đoạn 5 còn nói chiến dịch thành công → không phải sai lầm, NO. Bẫy: chỉ nhìn thấy chữ \"expensive\" rồi chọn YES mà bỏ qua mệnh đề tương phản \"but...\"."
+      },
+      {
+       "t": " Trích: \"This is an expensive way to capture attention, but if used sparingly, it is the most powerful form of communication\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 8 – ",
+       "b": true
+      },
+      {
+       "t": "Không chỉ có quảng cáo: ở Nike, một số lãnh đạo cấp cao kiêm chức \"Corporate Storyteller\", kể những giai thoại kiểu \"just do it\" (chuyện Bill Bowerman đổ cao su vào khuôn bánh waffle) để nuôi tinh thần sáng tạo trong nội bộ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 31 → E. ",
+       "b": true
+      },
+      {
+       "t": "\"A sport shoe company\" = Nike; công ty khai thác các giai thoại về tinh thần công ty ↔ ending E \"draws on the legends of the company spirit\"."
+      },
+      {
+       "t": " Trích: \"One tale, for example, recalls how legendary coach and Nike cofounder Bill Bowerman, in an effort to build a better shoe for his team, poured rubber into the family waffle iron\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 39 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Bài chỉ nói \"the company hopes to keep the spirit of innovation ... alive\" – đó là mong muốn của công ty. Không ở đâu nhân viên Nike tự nói rằng họ được truyền cảm hứng nhờ các câu chuyện đó → NOT GIVEN. Bẫy: suy từ mục đích của công ty ra kết quả thật."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 9 – ",
+       "b": true
+      },
+      {
+       "t": "Nguyên tắc cuối: lời hứa ra bên ngoài nên đi trước thực tế bên trong một chút để tạo động lực (Ford với \"Quality Is Job 1\"), nhưng đi trước quá xa thì mất uy tín (British Rail với \"We're Getting There\" bị báo chí phê phán và làm nhân viên nản)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 32 → B. ",
+       "b": true
+      },
+      {
+       "t": "\"A railway company\" = British Rail; chiến dịch kéo theo phản ứng tiêu cực của báo chí ↔ ending B \"attracted negative publicity through its advertising campaign\"."
+      },
+      {
+       "t": " Trích: \"By drawing attention to the gap between the promise and the reality, it prompted destructive press coverage\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 40 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"A slight difference between internal and external promises\" ↔ \"a little ahead of internal realities\"; \"create a sense of purpose\" ↔ \"provide incentives ... give them something to live up to\" → YES. Chú ý chữ \"slight/a little\": nếu khoảng cách quá xa thì bài nói mất uy tín, nên đừng vì vế British Rail mà chọn NO."
+      },
+      {
+       "t": " Trích: \"companies must also keep external promises a little ahead of internal realities. Such promises provide incentives for employees and give them something to live up to\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Mỗi đoạn ví dụ gắn với đúng một công ty, nên Q27–32 chỉ cần đọc tới tên công ty là chốt được; ending C được dùng hai lần, điều này đề đã cho phép."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Với Yes/No/Not Given, hãy tách \"nguyên nhân bài nêu\" khỏi \"nguyên nhân câu hỏi dựng lên\": bài nêu nguyên nhân khác → NO (Q36), bài im lặng → NOT GIVEN (Q37, Q39)."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Cảnh giác với mệnh đề tương phản \"but / however / while\": Q38 và Q40 đều được quyết định bởi vế sau chữ but chứ không phải vế đầu."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -2058,7 +3771,596 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Classifying societies\" cho biết bài phân loại các kiểu xã hội. Ngay đoạn 1 đã cho khung: bốn loại từ đơn giản đến phức tạp – clan, tribe, chiefdom, state – và bài có tiểu mục in riêng cho từng loại, nên định vị cực kỳ dễ. Đoán trước: mỗi loại được mô tả bằng quy mô dân số, kinh tế, cách tổ chức quyền lực và dấu vết khảo cổ. Q1–7 (True/False/Not Given) và Q8–13 (short answer) đều đi theo thứ tự bài và bám đúng bốn mục đó: Q1, Q8 ở mục Clan; Q2, Q3, Q9, Q10 ở mục Tribe; Q4, Q5, Q11, Q12 ở mục Chiefdom; Q6, Q7, Q13 ở mục Early State."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "1–7"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "True / False / Not Given"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – dùng tiểu mục Clan/Tribe/Chiefdom/Early State"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "economic difference, range of plants, one settlement, status, craft goods, army, bureaucratic officers"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "8–13"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Short answer (NO MORE THAN TWO WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – theo thứ tự bài"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "work sites, nomadic, Çatalhöyük, subjects, 5000–20,000, classes"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Hai bộ câu hỏi xen kẽ nhau nhưng cùng chạy theo thứ tự bốn tiểu mục, nên cứ đọc xong một mục là chốt được cả câu TFNG lẫn câu short answer của mục đó."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 1 – ",
+       "b": true
+      },
+      {
+       "t": "Các nhà xã hội học và nhân học phân loại xã hội theo mức độ bất bình đẳng trong tiếp cận tài nguyên, uy tín, quyền lực, và thường nói tới bốn loại: clan, tribe, chiefdom, state."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 2 – ",
+       "b": true
+      },
+      {
+       "t": "Tiểu mục: Clan (thị tộc)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 3 – ",
+       "b": true
+      },
+      {
+       "t": "Clan là nhóm săn bắt hái lượm nhỏ dưới 100 người, di chuyển theo mùa, các thành viên là họ hàng, không có thủ lĩnh chính thức nên không có chênh lệch kinh tế hay địa vị."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 1 → TRUE. ",
+       "b": true
+      },
+      {
+       "t": "\"little economic difference between members\" ↔ \"no marked economic differences ... among their members\" → TRUE. \"no marked\" (không đáng kể) và \"little\" cùng nghĩa, nên đừng vội chọn FALSE chỉ vì bài viết \"no\" còn câu hỏi viết \"little\"."
+      },
+      {
+       "t": " Trích: \"Clans lack formal leaders, so there are no marked economic differences or disparities in status among their members\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 4 – ",
+       "b": true
+      },
+      {
+       "t": "Dấu vết khảo cổ của clan: trại theo mùa, nơi giết mổ thú lớn và các work sites nơi người ta chế tác công cụ; nhà ở tạm bợ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 8 → tools. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi \"What are made at the clan work sites?\" ↔ \"where tools are made\"; trả lời đúng một từ là tools. Đừng điền \"kill or butchery sites\": đó là loại địa điểm khác, không phải thứ được làm ra."
+      },
+      {
+       "t": " Trích: \"work sites, where tools are made or other specific activities carried out\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 5 – ",
+       "b": true
+      },
+      {
+       "t": "Tiểu mục: Tribe (bộ lạc)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 6 – ",
+       "b": true
+      },
+      {
+       "t": "Tribe đông hơn clan nhưng hiếm khi quá vài nghìn người, sống nhờ cây trồng và vật nuôi; thường là nông dân định cư nhưng cũng có thể du mục dựa vào chăn nuôi; quan chức (nếu có) thiếu nền tảng kinh tế để thực thi quyền lực."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 2 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Bài chỉ nói sinh kế dựa vào \"cultivated plants and domesticated animals\", hoàn toàn không nói tribe trồng nhiều LOẠI cây khác nhau (a wide range) → NOT GIVEN. Bẫy: thấy chữ \"plants\" rồi tự suy ra sự đa dạng."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 9 → nomadic. ",
+       "b": true
+      },
+      {
+       "t": "\"the other way of life besides settled farming\" ↔ \"Typically, they are settled farmers, but they may be nomadic\"; chữ \"but\" chỉ thẳng tới lối sống thứ hai."
+      },
+      {
+       "t": " Trích: \"they may be nomadic with a very different, mobile economy based on the intensive exploitation of livestock\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 7 – ",
+       "b": true
+      },
+      {
+       "t": "Kiểu định cư của tribe: trang trại hoặc làng nông nghiệp cố định, không khu định cư nào lấn át các khu khác; làng có thể là nhà riêng lẻ (thung lũng Danube) hoặc cụm nhà dính nhau (pueblo ở Tây Nam Mỹ, Çatalhöyük ở Thổ Nhĩ Kỳ)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 3 → FALSE. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói một khu định cư quan trọng hơn các khu khác; bài khẳng định không khu nào lấn át khu nào → mâu thuẫn, FALSE."
+      },
+      {
+       "t": " Trích: \"Characteristically, no one settlement dominates any of the others in the region\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 10 → grouped. ",
+       "b": true
+      },
+      {
+       "t": "Çatalhöyük được nêu làm ví dụ cho kiểu \"clusters of buildings grouped together\" → nhà được gom cụm lại, đáp án grouped (hoặc grouped together, vẫn trong giới hạn hai từ)."
+      },
+      {
+       "t": " Trích: \"they may be clusters of buildings grouped together, for example, the pueblos of the American Southwest, and the early farming village or small town of Çatalhöyük\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 8 – ",
+       "b": true
+      },
+      {
+       "t": "Tiểu mục: Chiefdom (lãnh địa tù trưởng)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 9 – ",
+       "b": true
+      },
+      {
+       "t": "Chiefdom vận hành theo nguyên tắc xếp hạng: các dòng họ được xếp theo thang uy tín, dòng họ cao nhất cai trị qua một chief; thứ bậc phụ thuộc vào quan hệ họ hàng gần hay xa với chief, chưa phân tầng giai cấp thật sự."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 4 → FALSE. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói địa vị do số đất sở hữu quyết định; bài nói do mức độ gần gũi họ hàng với chief → mâu thuẫn, FALSE. Bẫy: \"owned by the ruling lineage\" ở mục Early State nói về đất đai nhưng là loại xã hội khác."
+      },
+      {
+       "t": " Trích: \"Prestige and rank are determined by how closely related one is to the chief\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 10 – ",
+       "b": true
+      },
+      {
+       "t": "Thường có chuyên môn hóa thủ công tại chỗ; phần dư thủ công phẩm và lương thực được nộp cho chief, ông dùng để nuôi tùy tùng và tái phân phối cho dân; chiefdom có trung tâm quyền lực, quy mô khoảng 5.000–20.000 người."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 5 → TRUE. ",
+       "b": true
+      },
+      {
+       "t": "\"people who craft goods\" ↔ \"craft specialists\" và \"local specialisation in craft products\" → TRUE."
+      },
+      {
+       "t": " Trích: \"The chiefdom generally has a center of power, often with temples, residences of the chief and his retainers, and craft specialists\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 11 → foodstuffs. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi hỏi ngoài craft goods thì chief còn tái phân phối gì cho dân; \"these\" trong câu sau trỏ về \"surpluses of these (craft products) and of foodstuffs\" → foodstuffs."
+      },
+      {
+       "t": " Trích: \"surpluses of these and of foodstuffs are periodically paid as obligations to the chief. He uses these to maintain his retainers, and may use them for redistribution to his subjects\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 12 → 20,000. ",
+       "b": true
+      },
+      {
+       "t": "\"largest possible population\" ↔ đầu trên của khoảng, tức 20,000. Đừng điền 5000 (đầu dưới) hay cả cụm \"5000 and 20,000\" (quá hai từ và không trả lời đúng câu hỏi)."
+      },
+      {
+       "t": " Trích: \"the range is generally between about 5000 and 20,000 persons\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 11 – ",
+       "b": true
+      },
+      {
+       "t": "Tiểu mục: Early State (nhà nước sơ khai)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 12 – ",
+       "b": true
+      },
+      {
+       "t": "Nhà nước sơ khai giữ nhiều đặc điểm của chiefdom nhưng người cai trị có quyền ban hành và cưỡng chế luật bằng quân đội thường trực; xã hội phân tầng giai cấp (nông dân và dân nghèo thành thị ở dưới cùng, thợ thủ công trên họ, tăng lữ và thân tộc nhà vua cao hơn nữa), có kinh đô với bộ máy quan lại lo thu thuế và phân phối."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 6 → TRUE. ",
+       "b": true
+      },
+      {
+       "t": "\"keeps the order ... by using an army\" ↔ \"enforce them by the use of a standing army\" → TRUE."
+      },
+      {
+       "t": " Trích: \"the ruler (perhaps a king or sometimes a queen) has explicit authority to establish laws and also to enforce them by the use of a standing army\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 7 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Bài có nói tới \"a bureaucratic administration of officials\" và việc họ thu rồi phân phối ngân sách, nhưng không hề so sánh LƯƠNG của quan lại với các nhóm khác → NOT GIVEN. Bẫy: từ \"distribute it to government, army and craft specialists\" dễ bị hiểu thành chuyện trả lương cao thấp."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 13 → craft specialists. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi hỏi nhóm nằm gần đáy nhưng cao hơn nông dân ↔ \"with the craft specialists above\" (ngay trên tầng lớp thấp nhất)."
+      },
+      {
+       "t": " Trích: \"Agricultural workers and the poorer urban dwellers form the lowest classes, with the craft specialists above\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài cần chẻ: backbone \"The society is viewed as a territory\" (WHO – DOES WHAT), rồi hai mệnh đề rút gọn bổ nghĩa cho territory: \"owned by the ruling lineage\" và \"populated by tenants\", cuối cùng mệnh đề quan hệ \"who have an obligation to pay taxes\" gắn vào tenants. Hiểu đúng chuỗi này mới không nhầm chuyện sở hữu đất ở Q4."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 13 – ",
+       "b": true
+      },
+      {
+       "t": "Kết: cách phân loại của Elman Service (được Sanders và Marino bổ sung) có thể bị phê phán và không nên dùng máy móc, nhưng vẫn là khung tốt để sắp xếp tư duy về các xã hội cổ."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bài có tiểu mục in riêng cho bốn loại xã hội: trước khi đọc, hãy gán nhanh mỗi câu hỏi vào một mục dựa trên từ khóa clan / tribe / chiefdom / state – làm vậy là coi như đã định vị xong toàn bộ bài."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Hai câu NOT GIVEN (Q2 và Q7) đều do câu hỏi thêm một chi tiết mà bài không bàn (sự đa dạng cây trồng; mức lương): thấy từ khóa khớp nhưng ý so sánh/định lượng không có thì chọn NOT GIVEN."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Các câu short answer đều yêu cầu tối đa hai từ và đáp án nằm nguyên trong bài: trả lời bằng đúng danh từ (tools, nomadic, foodstuffs, craft specialists), không chép cả cụm dài."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -2757,7 +5059,696 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Tasmanian Tiger\" cho biết bài nói về con thylacine – loài thú túi ăn thịt được coi là đã tuyệt chủng. Đoán trước mạch bài kiểu báo chí khoa học: mô tả con vật → lịch sử hóa thạch và quá trình tuyệt chủng → lần nhìn thấy đáng tin nhất (Hans Naarding) → phản ứng của dư luận và các cuộc tìm kiếm → ý kiến trái chiều của các nhà khoa học (Rose, Pemberton) → ví dụ cá coelacanth → người đi xác minh các báo cáo (Nick Mooney) → kết luận của Naarding. Q14–17 là summary về phần đầu bài (đoạn 1–2); Q18–23 ghép phát biểu với bốn nhân vật nên chỉ chốt được khi đọc tới đoạn của từng người; Q24–26 là trắc nghiệm nằm rải ở đoạn 6, 10 và 13."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "14–17"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Summary completion (NO MORE THAN TWO WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, theo thứ tự – chỉ nằm ở hai đoạn đầu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "dog, fur coat, fossils, years ago, mainland, settlers"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "18–23"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching features – bốn người (A–D, được dùng lại)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – scan tên riêng rồi đọc kỹ đoạn của người đó"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Hans Naarding, Randolph Rose, David Pemberton, Nick Mooney"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "24–26"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Multiple choice (A–D)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có – theo thứ tự bài"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Naarding's sighting resulted in, coelacanth, all reports on face value"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bài có rất nhiều tên riêng nên định vị dễ: đọc đến đoạn chứa tên ai thì chốt ngay phát biểu của người đó, đừng để dồn tới cuối rồi phải quay lại."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 1 – ",
+       "b": true
+      },
+      {
+       "t": "Dù gọi là \"tiger\", con vật trông như một con chó có sọc đen trên lưng; đây là loài thú túi ăn thịt lớn nhất thời hiện đại, tên khoa học là Thylacine, được cho là đã tuyệt chủng trong thế kỷ 20."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 14 → black stripes. ",
+       "b": true
+      },
+      {
+       "t": "\"resembles the look of a dog and has ___ on its fur coat\" ↔ \"looked like a dog with black stripes on its back\"; fur coat = back (bộ lông trên lưng). Đúng hai từ: black stripes."
+      },
+      {
+       "t": " Trích: \"it looked like a dog with black stripes on its back\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 2 – ",
+       "b": true
+      },
+      {
+       "t": "Hóa thạch có niên đại gần 12 triệu năm; thylacine từng phổ biến khắp Australia cách đây 7.000 năm nhưng đã biến mất khỏi đại lục khoảng 2.000 năm trước (có thể do dingo); ở Tasmania, số lượng giảm nhanh hơn sau khi người châu Âu tới, con cuối cùng chết ở Hobart Zoo năm 1936."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 15 → 12 million. ",
+       "b": true
+      },
+      {
+       "t": "\"had existed as early as ___ years ago\" ↔ \"dating from almost 12 million years ago\". Bẫy số: 7,000 là lúc chúng phổ biến, 2,000 là lúc tuyệt chủng ở đại lục, 8,000 là lúc dingo xuất hiện – chỉ 12 million mới gắn với fossils."
+      },
+      {
+       "t": " Trích: \"Fossils of thylacines dating from almost 12 million years ago have been dug up at various places\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 16 → Australia. ",
+       "b": true
+      },
+      {
+       "t": "\"lived throughout ___ before disappearing from the mainland\" ↔ \"widespread in Australia ... extinct on the continent\"; mainland = the continent. Đừng điền Tasmania: Tasmania là nơi chúng còn sống thêm, không phải đại lục."
+      },
+      {
+       "t": " Trích: \"They were widespread in Australia 7,000 years ago, but have probably been extinct on the continent for 2,000 years\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 17 → European. ",
+       "b": true
+      },
+      {
+       "t": "\"soon after the ___ settlers arrived ... shrunk at a higher speed\" ↔ \"European settlement ... the decline was certainly accelerated by the new arrivals\"; accelerated = nhanh hơn."
+      },
+      {
+       "t": " Trích: \"thylacine numbers may have been declining in Tasmania at the time of European settlement 200 years ago, but the decline was certainly accelerated by the new arrivals\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài cần chẻ: backbone \"thylacine numbers may have been declining in Tasmania\" (WHO – DOES WHAT), cụm thời gian \"at the time of European settlement 200 years ago\" định mốc, rồi mệnh đề tương phản \"but the decline was certainly accelerated by the new arrivals\" mới là ý trả lời câu 17."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 3 – ",
+       "b": true
+      },
+      {
+       "t": "Giới thiệu Hans Naarding: khi đang khảo sát một loài chim di cư nguy cấp, ông có lần nhìn thấy thylacine nay được coi là đáng tin nhất từng được ghi nhận."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 4 – ",
+       "b": true
+      },
+      {
+       "t": "Naarding kể lại: đèn pha chiếu trúng con vật cách xe chưa tới 10 m, to cỡ chó chăn cừu nhỏ, khác chó ở phần mông dốc và đuôi nối thẳng sống lưng, có 12 sọc rõ rệt; khi ông với lấy máy ảnh thì nó biến mất."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 5 – ",
+       "b": true
+      },
+      {
+       "t": "Giám đốc Vườn quốc gia Tasmania giữ kín chuyện này hai năm; khi tin lộ ra thì hỗn loạn, đoàn truyền hình từ Nhật, Anh, Đức, New Zealand và Nam Mỹ vây lấy Naarding."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 18 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"attracted international interest\" ↔ danh sách đài truyền hình từ nhiều nước; người kể chính là Hans Naarding → A."
+      },
+      {
+       "t": " Trích: \"I was besieged by television crews, including four to five from Japan, and others from the United Kingdom, Germany, New Zealand and South America\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 6 – ",
+       "b": true
+      },
+      {
+       "t": "Các đoàn tìm kiếm của chính phủ và tư nhân lùng sục cả vùng nhưng không thấy gì thêm; từ đó thylacine trở lại như một phần của huyền thoại Australia."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 24 → B. ",
+       "b": true
+      },
+      {
+       "t": "Hệ quả của lần nhìn thấy là sự quan tâm rộng khắp nhằm tìm một con thylacine còn sống ↔ B. Loại A: các đoàn đi TÌM chứ không hợp tác bảo vệ loài; loại C: bài nói 4.000 báo cáo nhưng ở Tasmania, không phải \"worldwide\"; loại D: bài nói huyền thoại/mythology chứ không nói văn học."
+      },
+      {
+       "t": " Trích: \"Government and private search parties combed the region, but no further sightings were made\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 7 – ",
+       "b": true
+      },
+      {
+       "t": "Hơn 4.000 lần tuyên bố nhìn thấy kể từ khi loài này coi như tuyệt chủng, trung bình 150 báo cáo mỗi năm; Randolph Rose mơ được thấy một con nhưng sau 35 năm đã tin rằng giấc mơ đó sẽ không thành."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 21 → B. ",
+       "b": true
+      },
+      {
+       "t": "\"no hope of finding a surviving Tasmanian tiger\" ↔ \"convinced that his dream will go unfulfilled\" → Randolph Rose, đáp án B."
+      },
+      {
+       "t": " Trích: \"Rose, who in his 35 years in Tasmanian academia has fielded countless reports of thylacine sightings, is now convinced that his dream will go unfulfilled\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 8 – ",
+       "b": true
+      },
+      {
+       "t": "Rose dẫn đồng thuận của giới bảo tồn: quần thể dưới 1.000 cá thể thường tuyệt chủng trong vòng 60 năm, mà 60 năm trước chỉ còn đúng một con ở Hobart Zoo."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 9 – ",
+       "b": true
+      },
+      {
+       "t": "David Pemberton phản bác: dù lý thuyết đòi 500 cá thể để duy trì quần thể, báo Florida chỉ còn khoảng một tá mà vẫn tồn tại; ông đoán nếu tìm được một con thylacine thì ngoài kia phải có hơn 50 con."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 20 → C. ",
+       "b": true
+      },
+      {
+       "t": "\"doesn't require a certain number of animals to ensure the survival\" ↔ ví dụ báo Florida bác lại con số 500 → David Pemberton, đáp án C. Bẫy: Rose ở đoạn 8 cũng nhắc con số 1.000 nhưng ông dùng nó để KHẲNG ĐỊNH ngưỡng, còn Pemberton mới là người phủ nhận."
+      },
+      {
+       "t": " Trích: \"despite scientific thinking that 500 animals are required to sustain a population, the Florida panther is down to a dozen or so animals and, while it does have some inbreeding problems, is still ticking along\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài cần chẻ: backbone \"Dr. David Pemberton ... says that ... the Florida panther is down to a dozen or so animals and ... is still ticking along\". Mệnh đề nhượng bộ \"despite scientific thinking that 500 animals are required\" nêu lý thuyết bị phản bác, \"whose PhD thesis was on the thylacine\" chỉ bổ nghĩa cho tên ông, còn \"while it does have some inbreeding problems\" là nhượng bộ nhỏ bên trong."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 10 – ",
+       "b": true
+      },
+      {
+       "t": "Động vật có thể rất khó thấy: cá coelacanth từng bị cho là tuyệt chủng cùng khủng long 70 triệu năm trước, mãi tới 1938 mới bắt được một con ngoài khơi Nam Phi."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 25 → D. ",
+       "b": true
+      },
+      {
+       "t": "Ví dụ cho thấy kết luận tuyệt chủng có thể sai ↔ D. Loại A: bài không nói nó sống CÙNG thời khủng long như một thông tin cần chứng minh, chỉ dùng mốc đó; loại B: \"proto-legs\" là đặc điểm của cá, không phải chuyện khủng long tiến hóa chân; loại C: khó BẮT không phải ý chính – ý chính là người ta tưởng nó đã biến mất."
+      },
+      {
+       "t": " Trích: \"was thought to have died out along with the dinosaurs 70 million years ago until a specimen was dragged to the surface in a shark net\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 11 – ",
+       "b": true
+      },
+      {
+       "t": "Nick Mooney là người phải xác minh toàn bộ 4.000 báo cáo (khoảng 150 mỗi năm); gần đây ông được hỏi ý kiến về mấy tấm ảnh số do một du khách Đức chụp, mà ông đánh giá là một trong những bằng chứng thuyết phục nhất."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 12 – ",
+       "b": true
+      },
+      {
+       "t": "Mooney đã gặp đủ loại: nhầm lẫn, trò lừa, ảo giác và cả những lời kể hợp lý; phần lớn người báo cáo đều thật lòng tin mình đã thấy thylacine, nhiều người thành ám ảnh tới mức phá sản, vì họ nhìn mọi thứ bằng \"lạc quan mù quáng\"."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 19 → D. ",
+       "b": true
+      },
+      {
+       "t": "\"Many eye-witnesses' reports are not trustworthy\" ↔ Mooney liệt kê nhầm lẫn, trò lừa, ảo giác trong các báo cáo → D."
+      },
+      {
+       "t": " Trích: \"And Mooney has seen it all—the mistakes, the hoaxes, the illusions and the plausible accounts of sightings\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 23 → D. ",
+       "b": true
+      },
+      {
+       "t": "\"interpretation of evidence can be affected by people's beliefs\" ↔ niềm tin sẵn có khiến người ta diễn giải mọi bóng vật băng qua đường thành thylacine; vẫn là lời Mooney → D."
+      },
+      {
+       "t": " Trích: \"It is a blind optimism that something is, rather than a cynicism that something isn't ... If something crosses the road, it's not a case of 'I wonder what that was?' Rather, it is a case of 'that's a thylacine!'\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Đề cho phép dùng lại chữ cái (\"NB You may use any letter more than once\"), nên việc D xuất hiện ở cả Q19, Q23, Q26 và A ở cả Q18, Q22 là bình thường."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 13 – ",
+       "b": true
+      },
+      {
+       "t": "Dù vậy Mooney vẫn tiếp nhận mọi báo cáo một cách nghiêm túc, không bao giờ làm người ta bẽ mặt, dù việc ông không lập tức lên đường thường bị hiểu là chế giễu."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 26 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"on face value\" = tin theo đúng những gì người ta kể ↔ A \"given some credit as they claim even if they are untrue\". Loại B: chính Mooney nói ông KHÔNG lập tức lên xe (\"the fact that I don't pack the car immediately\"); loại C: ông không coi mọi báo cáo là bịa; loại D: bài không nói ông chất vấn từng báo cáo, mà nói ông không làm người kể bẽ mặt."
+      },
+      {
+       "t": " Trích: \"However, Mooney treats all reports on face value. \"I never try to embarrass people, or make fools of them.\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 14 – ",
+       "b": true
+      },
+      {
+       "t": "Naarding thấy khó hiểu khi người ta tốn thời gian và tiền bạc đi săn tìm thylacine; theo ông nên dồn nguồn lực cứu quỷ Tasmania và các đàn chim di cư đang suy giảm vì đất ngập nước thu hẹp."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 15 – ",
+       "b": true
+      },
+      {
+       "t": "Naarding tin thylacine có thể vẫn còn ngoài đó nhưng việc tìm ra chúng là \"rather pointless\": nếu còn thì cứ để chúng yên ở chỗ của mình."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 22 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"Do not disturb them if there are any Tasmanian tigers still living today\" ↔ \"they are better off right where they are\"; người nói là Hans Naarding → A."
+      },
+      {
+       "t": " Trích: \"If there are thylacines out there, they are better off right where they are\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bài dày đặc con số (12 triệu, 7.000, 8.000, 2.000, 200, 1936, 4.000, 150, 1.000, 500, 50): mỗi số gắn với một chủ thể khác nhau, nên luôn kiểm tra số đó đi kèm danh từ nào trước khi điền."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Matching features ở đây là bốn người có quan điểm đối lập nhau: Rose bi quan, Pemberton lạc quan về số lượng, Mooney trung lập trong việc xác minh, Naarding đã thấy nhưng khuyên để yên. Nắm bốn \"nhãn\" này là ghép được cả sáu câu."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Với trắc nghiệm, các phương án sai đều lấy đúng từ trong bài nhưng lệch vai trò (search parties thành bảo vệ loài, coelacanth thành chuyện khủng long): hãy đối chiếu với ý chính của đoạn, không chỉ với từ khóa."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -3550,7 +6541,617 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Accidental Scientists\" gợi ý bài nói về vai trò của sự tình cờ trong khám phá khoa học, xoay quanh từ \"serendipity\". Đoán mạch bài: nghịch lý của khám phá (A) → vị trí lý tưởng ở giữa (B, đã cho ví dụ) → nguồn gốc của từ (C) → các nhà khoa học dùng từ này (D) → tranh cãi, Pasteur (E) → khoa học có kế hoạch, General Electric (F) → Merton và hệ quả ngoài dự tính (G). Q27–32 là Matching Headings nên chỉ chốt được sau khi đọc xong mỗi đoạn; Q33–37 là MCQ bám theo thứ tự đoạn A, D, E, F, G; Q38–40 là short answer dồn ở đoạn nói về nguồn gốc từ (C)."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "27–32"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching Headings (i–x)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Không, phải đọc hết đoạn mới chốt"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "đọc ý chính từng đoạn; B đã cho sẵn iii"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "33–37"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Multiple choice (A–D)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, mỗi câu có từ khóa riêng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "inductivism, Medawar, scientists dislike, Irving Langmuir, Yosemite"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "38–40"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Short answer (NO MORE THAN TWO WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, cả ba cùng nằm ở đoạn nguồn gốc từ"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "first used, story, present name of Serendip"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Vừa đọc vừa làm: hết mỗi đoạn thì chọn heading cho đoạn đó rồi mới sang đoạn sau, đồng thời chốt luôn MCQ hoặc short answer nào có bằng chứng nằm trong đoạn vừa đọc."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn A – ",
+       "b": true
+      },
+      {
+       "t": "Nghịch lý của khám phá khoa học: nếu biết trước mình tìm gì thì không còn là khám phá, nhưng nếu không biết gì thì không nhận ra khi tìm thấy — hai cực deductivism và inductivism."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 27 → v. ",
+       "b": true
+      },
+      {
+       "t": "Cả đoạn dựng lên hai quan điểm đối lập về khám phá ↔ heading v \"The contradiction of views on scientific discovery\". Heading iv \"What is the Scientific Method\" là bẫy vì cụm đó chỉ xuất hiện ở đoạn D."
+      },
+      {
+       "t": " Trích: \"A paradox lies close to the heart of scientific discovery\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 33 → C. ",
+       "b": true
+      },
+      {
+       "t": "\"the latter\" = inductivism (cực thứ hai trong cặp deductivism/inductivism); không kỳ vọng gì và xem điều gì xuất hiện ↔ C \"accept chance discoveries\". A và D mô tả ngược lại (biết trước điều mình muốn), B \"prepared premises\" là deductivism — bẫy đổi vị trí hai cực."
+      },
+      {
+       "t": " Trích: \"in the latter, you are recommended to start with no expectations whatsoever and see what turns up\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu dài \"In the former, the outcome is supposed to be logically contained in the premises... in the latter, you are recommended to start with no expectations\": xương sống là \"the outcome is contained in the premises\" (former = deductivism) đối lập với \"start with no expectations\" (latter = inductivism). Bám chữ former/latter để không gán nhầm."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn B – ",
+       "b": true
+      },
+      {
+       "t": "Vị trí lý tưởng nằm giữa hai cực: biết đủ để ngạc nhiên nhưng cũng mơ hồ đủ để chấp nhận kết quả khác — đó là \"serendipity\" (đã cho sẵn heading iii)."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn C – ",
+       "b": true
+      },
+      {
+       "t": "Lịch sử của từ \"serendipity\": xuất hiện đầu thế kỷ 19, nghĩa là may mắn tình cờ, do Horace Walpole dùng đầu tiên, lấy từ truyện cổ tích về ba hoàng tử xứ Serendip."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 28 → ix. ",
+       "b": true
+      },
+      {
+       "t": "Cả đoạn kể từ này ra đời và phổ biến thế nào ↔ heading ix \"How the word came into being\". Heading ii \"Horace Walpole's fairy tale\" là bẫy: truyện cổ tích chỉ là một chi tiết, không phải ý chính."
+      },
+      {
+       "t": " Trích: \"The word did not appear in the published literature until the early 19th century\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 38 → Horace Walpole. ",
+       "b": true
+      },
+      {
+       "t": "\"first used\" ↔ \"The first noted use ... was by\"; đáp án là tên riêng, đúng hai từ."
+      },
+      {
+       "t": " Trích: \"The first noted use of \"serendipity\" in the English language was by Horace Walpole\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 39 → fairy tale. ",
+       "b": true
+      },
+      {
+       "t": "\"What kind of story\" ↔ \"came from the fairy tale\"; đừng chép tên truyện vì câu hỏi hỏi loại truyện."
+      },
+      {
+       "t": " Trích: \"it came from the fairy tale, called The Three Princes of Serendip\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 40 → Sri Lanka. ",
+       "b": true
+      },
+      {
+       "t": "\"present name\" ↔ \"present day\"; Ceylon là tên cũ nên là bẫy."
+      },
+      {
+       "t": " Trích: \"the ancient name for Ceylon, or present day Sri Lanka\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Ba câu 38–40 nằm sát nhau trong cùng một đoạn: chốt cả ba ngay, đừng đọc tiếp rồi quay lại."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn D – ",
+       "b": true
+      },
+      {
+       "t": "Giới sưu tầm cổ vật rồi giới khoa học dùng từ này; nhiều nhà khoa học như Cannon và Medawar nhấn mạnh khám phá là ngoài kế hoạch, ví dụ Ørsted tình cờ tìm ra điện từ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 29 → i. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn đưa ví dụ cụ thể về khám phá khoa học ↔ heading i \"Examples of some scientific discoveries\". Heading iv là bẫy vì câu \"There is no such thing as The Scientific Method\" nằm ở đây nhưng chỉ là dẫn chứng, không phải nội dung chính."
+      },
+      {
+       "t": " Trích: \"One of the examples is Hans Christian Ørsted's discovery of electromagnetism when he unintentionally brought a current-carrying wire parallel to a magnetic needle\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 34 → B. ",
+       "b": true
+      },
+      {
+       "t": "Lý do Medawar nói vậy là vì khám phá phần lớn diễn ra ngoài kế hoạch ↔ B \"discoveries tend to happen unplanned\". A ngược lại (đó là ý của Pasteur ở đoạn E), C \"unpleasant\" không được nói đến, D là câu hỏi mở cuối đoạn chứ không phải lý do."
+      },
+      {
+       "t": " Trích: \"liked to emphasise how much of scientific discovery was unplanned and even accidental\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn E – ",
+       "b": true
+      },
+      {
+       "t": "Một số nhà khoa học coi serendipity là tình huống, số khác coi là năng lực cá nhân; nhiều người thấy ý tưởng này hạ thấp khoa học, nên viện câu của Pasteur: cơ hội ưu ái trí óc đã chuẩn bị."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 30 → vi. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn nói về cách hiểu lệch nhau và sự mơ hồ quanh serendipity ↔ heading vi \"Some misunderstandings of serendipity\". Heading vii \"Opponents of authority\" đảo ngược ý: ở đây là những người bảo vệ uy tín chuyên môn, không phải chống lại nó."
+      },
+      {
+       "t": " Trích: \"many others exploited the ambiguity of the notion\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 35 → D. ",
+       "b": true
+      },
+      {
+       "t": "Lý do nhiều nhà khoa học ghét ý tưởng này là nó làm mất cơ sở của uy tín chuyên môn ↔ D \"it devalues their scientific expertise\". A \"misunderstood and abused\" đúng với nội dung đoạn nhưng không phải lý do họ phản đối; B và C không có trong bài."
+      },
+      {
+       "t": " Trích: \"If scientific discovery were really accidental, then what was the special basis of expert authority?\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu \"Accidents may happen... but the ability to notice such events, to see their potential bearing and meaning, to exploit their occurrence... these are the results of systematic mental preparation\": xương sống là \"the ability ... are the results of systematic mental preparation\"; ba cụm \"to notice / to see / to exploit\" chỉ là liệt kê cùng một chủ ngữ \"the ability\". Ý: cái trông như tình cờ thực ra là chuyên môn."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn F – ",
+       "b": true
+      },
+      {
+       "t": "Tranh luận gay gắt nhất là quanh \"planned science\": Whitney và Langmuir ở General Electric dùng serendipity để phản đối việc lập kế hoạch nghiên cứu quá cứng nhắc."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 31 → x. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn lấy chính doanh nghiệp (General Electric) làm minh họa cho serendipity ↔ heading x \"Illustration of serendipity in the business sector\"."
+      },
+      {
+       "t": " Trích: \"two of the great early-20th-century American pioneers of industrial research—Willis Whitney and Irving Langmuir, both of General Electric—made much play of serendipity\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 36 → D. ",
+       "b": true
+      },
+      {
+       "t": "Langmuir được nhắc để cho thấy chấp nhận sự bất định mang lại kết quả tốt ↔ D. A quá mạnh (bài chỉ phản đối kế hoạch quá cứng nhắc, không nói phải bỏ hẳn), B đảo chủ ngữ (nghiên cứu chứ không phải phát triển công nghiệp cần bất định), C chỉ là một ý phụ trong câu dẫn."
+      },
+      {
+       "t": " Trích: \"a mature acceptance of uncertainty was far more likely to result in productive research policies\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn G – ",
+       "b": true
+      },
+      {
+       "t": "Với Merton, serendipity là trung tâm: bản chất của hành động xã hội là cái ta định làm hiếm khi là cái ta nhận được, nên mọi kết quả đều bất định."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 32 → viii. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn nói kết quả thực tế lệch khỏi dự định ↔ heading viii \"Reality doesn't always match expectation\"."
+      },
+      {
+       "t": " Trích: \"the nature of social action that what one intends is rarely what one gets\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 37 → A. ",
+       "b": true
+      },
+      {
+       "t": "Ví dụ Yosemite: muốn ở một mình với thiên nhiên nhưng rốt cuộc chen chúc nhau ↔ A \"the conflict between reality and expectation\". B ngược hẳn (đoạn nói kế hoạch không bảo đảm được gì), C và D chỉ lặp từ trong đoạn mà không phải điều ví dụ muốn chứng minh."
+      },
+      {
+       "t": " Trích: \"people wanting to be alone with nature in Yosemite Valley wind up crowding one another\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Heading iv (\"What is the Scientific Method\") và ii (\"Horace Walpole's fairy tale\") là hai bẫy chép lại nguyên cụm từ trong bài: cụm có trong đoạn không có nghĩa đó là ý chính của đoạn."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Với MCQ hỏi \"because\" hoặc \"to illustrate\", hãy tìm lý do/mục đích chứ đừng chọn phương án chỉ đúng về mặt nội dung (ví dụ Q35 phương án A)."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bài dùng nhiều tên riêng (Walpole, Cannon, Medawar, Pasteur, Langmuir, Merton) ở các đoạn khác nhau: dùng chúng làm mốc định vị, nhưng nhớ ai nói gì để không gán nhầm quan điểm."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -3968,7 +7569,558 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Otters\" cho thấy đây là bài mô tả động vật, thường đi theo trình tự: cơ thể và bộ lông (A) → giác quan và bơi lội (B) → môi trường sống, lãnh thổ, thức ăn (C) → sinh sản (D) → nuôi con (E) → nguyên nhân suy giảm (F) → phục hồi và bảo tồn (G). Q1–9 là Matching Information nên chỉ chốt khi đọc xong từng đoạn; Q10–13 là short answer, nằm rải ở các đoạn đầu (lông, bơi, lãnh thổ, thức ăn)."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "1–9"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching Information (A–G, có thể lặp)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Không, phải đọc xong đoạn mới gán"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "vision underwater, body shape, underdeveloped sense, agriculture, social, baby otters, conflicted opinions, legislative act, heat loss"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "10–13"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Short answer (NO MORE THAN TWO WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, theo thứ tự bài"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "outer fur, Asian short-clawed, shortest range, occasionally"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đọc hết một đoạn thì gán ngay các câu 1–9 có bằng chứng trong đoạn đó và chốt luôn short answer tương ứng, không quay lại."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn A – ",
+       "b": true
+      },
+      {
+       "t": "Giới thiệu rái cá: thuộc họ chồn, thân dài chân ngắn phù hợp luồn lách và săn trong hang, đuôi dẹt giúp bơi, bộ lông hai lớp chống nước và giữ ấm nhưng bị nước biển làm hỏng."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 2 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"fit-for-purpose characteristics of body shape\" ↔ thân dài chân ngắn \"ideal for pushing through dense undergrowth or hunting in tunnels\": hình dáng gắn với công dụng."
+      },
+      {
+       "t": " Trích: \"Otters have a long thin body and short legs\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 9 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"compensate for heat loss\" ↔ lớp lông trong dày mịn như \"thermal underwear\" = giữ nhiệt."
+      },
+      {
+       "t": " Trích: \"under-fur which is dense and fine, equivalent to an otter's thermal underwear\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 10 → sea water. ",
+       "b": true
+      },
+      {
+       "t": "\"outer fur\" ↔ \"guard hairs which form a waterproof outer covering\"; thứ làm hỏng tính chống nước là nước biển. Đáp án cũng chấp nhận \"salt water\"."
+      },
+      {
+       "t": " Trích: \"Sea water reduces the waterproofing and insulating qualities of otter fur\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Đoạn A chứa cả Q2 và Q9: một đoạn có thể trả lời nhiều câu, nên đừng dừng lại sau khi tìm được một đáp án."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn B – ",
+       "b": true
+      },
+      {
+       "t": "Các giác quan: khứu giác nhạy như chó, mắt nhỏ và cận trên cạn nhưng đổi được độ cong thủy tinh thể để nhìn dưới nước, ria phát hiện cá; cách bơi và màng chân khác nhau giữa các loài."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 1 → B. ",
+       "b": true
+      },
+      {
+       "t": "\"regulate vision underwater\" ↔ thay đổi hình dạng thủy tinh thể để khắc phục khúc xạ của nước."
+      },
+      {
+       "t": " Trích: \"they do have the ability to modify the shape of the lens in the eye to make it more spherical, and hence overcome the refraction of water\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 3 → B. ",
+       "b": true
+      },
+      {
+       "t": "\"an underdeveloped sense\" = giác quan kém phát triển ↔ thị giác kém trên cạn. Bẫy: cùng đoạn nói khứu giác rất nhạy, đó là giác quan mạnh chứ không phải yếu."
+      },
+      {
+       "t": " Trích: \"Otters have small eyes and are probably short-sighted on land\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 11 → swimming speed. ",
+       "b": true
+      },
+      {
+       "t": "\"not necessary for Asian short-clawed otters\" ↔ loài này không có màng chân vì săn tôm ở mương và ruộng nên không cần tốc độ bơi."
+      },
+      {
+       "t": " Trích: \"so they don't need the swimming speed\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn C – ",
+       "b": true
+      },
+      {
+       "t": "Điều kiện môi trường sống và lãnh thổ: cần sông đủ cá, tránh con người, không có rái cá khác; phạm vi của con đực lớn hơn và có thể chồng lấn với hai, ba con cái; thức ăn rất đa dạng."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 5 → C. ",
+       "b": true
+      },
+      {
+       "t": "\"social characteristics\" ↔ quan hệ lãnh thổ giữa con đực và con cái, cộng với việc chúng nhút nhát, tránh nơi có người và không ở chung với rái cá khác."
+      },
+      {
+       "t": " Trích: \"a male otter may find his range overlaps with two or three females\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 12 → coastal otters. ",
+       "b": true
+      },
+      {
+       "t": "\"shortest range\" ↔ \"just a few kilometers\", nhỏ hơn hẳn 25km của rái cá sông. Bẫy: con cái sông có phạm vi bằng nửa con đực nhưng vẫn lớn hơn rái cá ven biển, và câu hỏi hỏi \"type of otters\"."
+      },
+      {
+       "t": " Trích: \"Coastal otters have a much more abundant food supply and ranges for males and females may be just a few kilometers of coastline\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 13 → small mammals. ",
+       "b": true
+      },
+      {
+       "t": "\"occasionally\" khớp nguyên văn; đừng chép \"rabbits\" hay \"moles\" vì đó chỉ là ví dụ của nhóm này."
+      },
+      {
+       "t": " Trích: \"Small mammals are occasionally taken\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu \"Because male ranges are usually larger, a male otter may find his range overlaps with two or three females\": xương sống là \"a male otter may find his range overlaps with two or three females\", mệnh đề \"Because...\" nêu nguyên nhân (phạm vi con đực lớn hơn)."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn D – ",
+       "b": true
+      },
+      {
+       "t": "Mùa sinh sản phụ thuộc nguồn thức ăn: nơi khắc nghiệt như Thụy Điển thì đẻ vào xuân, ở Shetlands đẻ vào hè; thời gian mang thai 63 ngày."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn E – ",
+       "b": true
+      },
+      {
+       "t": "Rái cá con lớn lên theo mốc tuần: mở mắt lúc 5 tuần, cai sữa 7 tuần, rời tổ 10 tuần, biết bơi sau 3 tháng, tự săn sau 8 tháng và tách mẹ sau 9 tháng."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 6 → E. ",
+       "b": true
+      },
+      {
+       "t": "\"how baby otters grow\" ↔ chuỗi mốc phát triển của cub: \"At seven weeks they're weaned onto solid food... After three months they finally meet the water and learn to swim\". Đoạn D nói về sinh sản/mang thai chứ không phải quá trình lớn lên, đó là bẫy đoạn kề."
+      },
+      {
+       "t": " Trích: \"At five weeks they open their eyes\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn F – ",
+       "b": true
+      },
+      {
+       "t": "Nguyên nhân rái cá Anh suy giảm: thuốc trừ sâu dùng trong nông nghiệp từ 1955 tích tụ qua chuỗi thức ăn; dù bị loại bỏ dần, số lượng vẫn giảm do mất môi trường sống và tai nạn giao thông."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 4 → F. ",
+       "b": true
+      },
+      {
+       "t": "\"why agriculture failed in otter conservation\" ↔ thuốc trừ sâu dùng trong nông nghiệp đi vào sông và chuỗi thức ăn, nồng độ tăng dần đến rái cá."
+      },
+      {
+       "t": " Trích: \"Pesticides, such as dieldrin and aldrin, were first used in 1955 in agriculture and other industries\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn G – ",
+       "b": true
+      },
+      {
+       "t": "Số lượng rái cá đang phục hồi khắp nước Anh nhờ luật pháp, bảo tồn và chương trình nhân giống; việc thả rái cá nuôi nhốt vẫn còn gây tranh cãi, nhưng Otter Trust ở Norfolk đã thành công."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 7 → G. ",
+       "b": true
+      },
+      {
+       "t": "\"conflicted opinions on how to preserve\" ↔ hai luồng ý kiến: phe cho rằng thả là biện pháp cuối cùng và vô ích, đối lại là \"However, reintroducing animals into a fragmented and fragile population may add just enough impetus\"."
+      },
+      {
+       "t": " Trích: \"Releasing captive-bred otters is seen by many as a last resort\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 8 → G. ",
+       "b": true
+      },
+      {
+       "t": "\"a legislative act\" ↔ \"law\". Bẫy: đoạn F có mốc \"From 1962 the chemicals were phased out\" nghe như quy định, nhưng bài không gọi đó là luật."
+      },
+      {
+       "t": " Trích: \"This is almost entirely due to law and conservation efforts\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Đoạn G trả lời cả Q7 và Q8; đề đã báo \"You may use any letter more than once\" nên đừng loại G sau khi dùng một lần."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Dạng Matching Information không theo thứ tự bài: hãy đọc lướt qua 9 câu hỏi trước, nhớ từ khóa, rồi gán khi đọc đến đoạn tương ứng."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Một đoạn có thể chứa nhiều đáp án (A có Q2+Q9, B có Q1+Q3, G có Q7+Q8): đọc hết đoạn rồi mới chuyển."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Short answer lấy đúng chữ trong bài và tối đa hai từ: \"sea water\", \"swimming speed\", \"coastal otters\", \"small mammals\" đều là cụm có sẵn, đừng diễn đạt lại."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -4524,7 +8676,558 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Wealth in a Cold Climate\" và sapo \"Latitude is crucial to a nation's economic strength\" cho biết bài bàn về quan hệ giữa vĩ độ/khí hậu lạnh và sự giàu có của quốc gia. Đoán mạch bài: ý tưởng nảy ra khi đọc sách (A) → giả thuyết về sương giá (B) → số liệu và ngoại lệ (C) → khí hậu không phải yếu tố duy nhất, vai trò thể chế (D) → nên viện trợ thế nào (E) → các nhà nghiên cứu khác, Diamond (F) → Gallup và Sachs, lời cảnh báo của Masters (G). Q14–20 là Matching Headings cho đúng bảy đoạn nên chốt sau mỗi đoạn; Q21–26 là summary đi theo thứ tự bài."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "14–20"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching Headings (i–x)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Không, phải đọc xong đoạn mới chốt"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "ý chính từng đoạn; 7 đoạn chọn trong 10 heading"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "21–26"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Summary completion (NO MORE THAN TWO WORDS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, theo thứ tự bài"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "American city, rich but small country, improve their, continent, crops, tropical country"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Hai dạng chạy song song theo thứ tự đoạn: đọc xong đoạn nào thì chọn heading cho đoạn đó và điền luôn ô trống của summary có bằng chứng trong đoạn ấy."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn A – ",
+       "b": true
+      },
+      {
+       "t": "Masters nảy ra ý tưởng khi đọc một cuốn sách về muỗi, kể chuyện dịch sốt vàng ở Philadelphia năm 1793 chỉ chấm dứt khi đợt sương giá đầu tiên đến."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 14 → iii. ",
+       "b": true
+      },
+      {
+       "t": "Cả đoạn chỉ kể nguồn cảm hứng đến từ việc đọc sách ↔ heading iii \"Inspiration from reading a book\"."
+      },
+      {
+       "t": " Trích: \"Dr William Masters was reading a book about mosquitoes when inspiration struck\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 21 → yellow-fever epidemic. ",
+       "b": true
+      },
+      {
+       "t": "\"struck an American city hundreds of years ago\" ↔ \"hit Philadelphia in 1793\"; \"terminated by a cold frost\" ↔ \"until the first frost came\". Chỗ trống đứng sau \"a(an)\" nên cần danh từ chỉ dịch bệnh."
+      },
+      {
+       "t": " Trích: \"the great yellow-fever epidemic that hit Philadelphia in 1793\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn B – ",
+       "b": true
+      },
+      {
+       "t": "Masters đặt câu hỏi vì sao hầu hết nước giàu nằm trên vĩ độ 40, và cùng McMillan chỉ ra sương giá hằng năm là một yếu tố phân biệt nước giàu với nước nghèo vì nó diệt sâu bệnh và côn trùng truyền bệnh."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 15 → vi. ",
+       "b": true
+      },
+      {
+       "t": "Lợi ích của giá lạnh cho cả mùa màng (crops) và sức khỏe con người (bệnh do muỗi) ↔ heading vi \"Low temperature benefits people and crops\"."
+      },
+      {
+       "t": " Trích: \"they freeze pests that would otherwise destroy crops, and also freeze organisms, such as mosquitoes, that carry disease\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Heading i (\"positive correlation between climate and wealth\") cũng có vẻ hợp đoạn B, nhưng phần tương quan bằng số liệu nằm ở đoạn C; đoạn B chỉ nêu cơ chế lợi ích nên chọn vi. Khi hai heading gần nhau, hãy đọc cả hai đoạn rồi chia."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn C – ",
+       "b": true
+      },
+      {
+       "t": "Hai bộ dữ liệu thu nhập và khí hậu khớp nhau: nước có từ năm ngày sương giá mỗi tháng trở lên đều giàu, dưới năm ngày thì nghèo, dù vẫn có ngoại lệ như Hong Kong, Singapore và các nước hậu cộng sản."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 16 → i. ",
+       "b": true
+      },
+      {
+       "t": "Đây là tương quan thuận giữa khí hậu lạnh và thu nhập ↔ heading i. Heading x \"Confusions and exceptions\" là bẫy: phần ngoại lệ chỉ ở cuối đoạn, còn trọng tâm là mối tương quan."
+      },
+      {
+       "t": " Trích: \"Countries having five or more frosty days a month are uniformly rich, those with fewer than five are impoverished\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 22 → Finland. ",
+       "b": true
+      },
+      {
+       "t": "\"rich but small country\" ↔ \"a small country that is growing quickly\"; Bolivia cũng nhỏ nhưng không tăng trưởng nên là bẫy đối chiếu."
+      },
+      {
+       "t": " Trích: \"Finland is a small country that is growing quickly\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn D – ",
+       "b": true
+      },
+      {
+       "t": "Masters nhấn mạnh khí hậu không bao giờ là yếu tố quyết định duy nhất: nó kết hợp với thể chế, chính phủ, đường thương mại; nước giàu lên thì thể chế cũng tốt lên."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 17 → ii. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn liệt kê các yếu tố ngoài khí hậu ↔ heading ii \"Other factors besides climate that influence wealth\". Heading vii \"The importance of institutions in traditional views\" chỉ đúng một câu giữa đoạn, không bao trùm."
+      },
+      {
+       "t": " Trích: \"the wealth of nations is too complicated to be attributable to just one factor\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 23 → institutions. ",
+       "b": true
+      },
+      {
+       "t": "\"besides excellent surroundings and climate, one country still needs to improve their ___\" ↔ thể chế/chính phủ; đáp án cũng chấp nhận \"governments\"."
+      },
+      {
+       "t": " Trích: \"as countries get richer, they get better institutions\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu \"And the accumulation of wealth and improvement in governing institutions are both helped by a favourable environment, including climate\": xương sống là \"the accumulation of wealth and improvement in institutions are helped by a favourable environment\"; \"including climate\" là ví dụ, cho thấy khí hậu hỗ trợ chứ không quyết định."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn E – ",
+       "b": true
+      },
+      {
+       "t": "Nước nhiệt đới không hết hy vọng: thay vì viện trợ để cải thiện quản trị, nên chi cho công nghệ nông nghiệp, vaccine và giống cây chịu nhiệt đới."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 18 → ix. ",
+       "b": true
+      },
+      {
+       "t": "Cả đoạn bàn cách dùng viện trợ cho hiệu quả ↔ heading ix \"The best way to use aid\"."
+      },
+      {
+       "t": " Trích: \"richer countries should change the way in which foreign aid is given\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn F – ",
+       "b": true
+      },
+      {
+       "t": "Các nhà nghiên cứu khác cũng lý giải chênh lệch giàu nghèo: Diamond chỉ ra Âu Á trải theo trục đông tây nên cây trồng và công nghệ lan nhanh, khác với châu Phi và châu Mỹ trải bắc nam."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 19 → v. ",
+       "b": true
+      },
+      {
+       "t": "Đoạn so sánh đặc điểm địa lý của Âu Á với châu Phi ↔ heading v \"Different attributes between Eurasia and Africa\". Heading viii \"The spread of crops...\" chỉ là hệ quả được nêu làm dẫn chứng."
+      },
+      {
+       "t": " Trích: \"Eurasia is broadly aligned east-west, while Africa and the Americas are aligned north-south\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 24 → Europe. ",
+       "b": true
+      },
+      {
+       "t": "\"resembling weather conditions across latitude in the continent of ___\" ↔ \"climates are similar\" ở Europe."
+      },
+      {
+       "t": " Trích: \"in Europe, crops can spread quickly across latitudes because climates are similar\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 25 → einkorn wheat. ",
+       "b": true
+      },
+      {
+       "t": "\"spread faster than from South America to the North\" ↔ đối chiếu với \"it took twice as long for corn to spread from Mexico to what is now the eastern United States\", nên cây lan nhanh là einkorn wheat chứ không phải corn."
+      },
+      {
+       "t": " Trích: \"One of the first domesticated crops, einkorn wheat, spread quickly from the Middle East into Europe\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Q25 rất dễ điền nhầm \"corn\": corn là ví dụ lan chậm (Mexico sang miền đông Hoa Kỳ), einkorn wheat mới là ví dụ lan nhanh."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn G – ",
+       "b": true
+      },
+      {
+       "t": "Gallup và Sachs thấy nước nhiệt đới gần như đều nghèo, nhưng Masters cảnh báo không nên tin vào thuyết định mệnh địa lý và lấy Singapore làm ngoại lệ."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 20 → iv. ",
+       "b": true
+      },
+      {
+       "t": "Kết quả của nhóm nghiên cứu khác vẫn chừa chỗ cho ngoại lệ ↔ heading iv \"Other researchers' results do not rule out exceptional cases\"."
+      },
+      {
+       "t": " Trích: \"But Masters cautions against geographical determinism\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 26 → Singapore. ",
+       "b": true
+      },
+      {
+       "t": "\"tropical country ... still became rich due to scientific advancement\" ↔ Singapore giàu nhờ điều hòa không khí, tức tiến bộ công nghệ. Hong Kong ở đoạn C cũng là nước nhiệt đới giàu nhưng lý do là vị trí thương mại, không phải khoa học."
+      },
+      {
+       "t": " Trích: \"Take Singapore: without air conditioning, it wouldn't be rich\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Heading x (\"Confusions and exceptions\") và viii (\"The spread of crops...\") là hai heading thừa, dựng lên từ chi tiết phụ trong đoạn C và F: luôn hỏi \"đây là ý chính hay chỉ là dẫn chứng?\"."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Summary 21–26 đi đúng thứ tự bài và phần lớn là tên riêng (Finland, Europe, Singapore) hoặc cụm nguyên văn (yellow-fever epidemic, einkorn wheat): chép đúng chữ trong bài, không viết lại."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Bài có nhiều cặp đối chiếu (Finland/Bolivia, einkorn wheat/corn, Hong Kong/Singapore): mỗi cặp đều có một vế là bẫy, nên đọc hết câu so sánh rồi mới điền."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   },
   {
@@ -5249,7 +9952,645 @@
      "evidence": null
     }
    },
-   "strategy": [],
+   "strategy": [
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 1 – Đọc tiêu đề, nắm chủ đề"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Tiêu đề \"Musical Maladies\" cùng sapo \"Norman M. Weinberger reviews the latest work of Oliver Sacks on music\" cho biết đây là bài điểm sách: người viết là nhà thần kinh học, đánh giá cuốn Musicophilia. Đoán mạch bài: cảm nhận chung (P1) → ưu điểm về con người Sacks (P2) → lời nói đầu (P3) → các phần của sách và ca bệnh (P4–P6) → phần phê bình, những điều Sacks lẽ ra nên làm (P7–P10). Q27–30 là MCQ bám theo các đoạn đầu; Q31–36 là Yes/No/Not Given theo quan điểm người viết, trải đều cả bài; Q37–40 là nối vế câu, dồn ở các đoạn cuối."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 2 – Phân loại câu hỏi"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Câu"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Dạng"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Locate trước được?"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Từ khóa để scan"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "27–30"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Multiple choice (A–D)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, theo thứ tự bài"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "mixed feeling, best part, preface, Tony Cicoria"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "31–36"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Yes / No / Not Given (quan điểm người viết)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có từ khóa, nhưng phải đọc hết đoạn mới kết luận"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "well-reputable writer, Pathétique Sonata, technological methods, music therapy, skepticism, impatient"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "37–40"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Matching sentence endings (A–F)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "Có, vế đầu đều có từ khóa cụ thể"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "type": "p",
+         "runs": [
+          {
+           "t": "harmony and melody, treating musical disorders, EEG scans, new technologies"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đọc từng đoạn và chốt ngay: MCQ nằm gọn ở bốn đoạn đầu, YNNG rải khắp bài, còn các vế nối 37–40 đều rơi vào bốn đoạn cuối nơi người viết nêu phê bình."
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bước 3 – Đọc One-Shot: đến đoạn nào chốt hết câu hỏi của đoạn đó"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 1 – ",
+       "b": true
+      },
+      {
+       "t": "Người viết là nhà thần kinh học nghiên cứu thính giác, kỳ vọng nhiều ở cuốn Musicophilia nhưng thừa nhận cảm nhận của mình về sách là pha trộn."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 27 → B. ",
+       "b": true
+      },
+      {
+       "t": "Lý do cảm nhận pha trộn là vì kỳ vọng cao hơn thực tế ↔ B \"The writer expected it to be better than it was\". A lật nhân quả (cảm giác áy náy là hệ quả của việc phải nhận xét chưa hay, không phải nguyên nhân); C sai vì sách có rất nhiều chuyện cá nhân; D không có trong bài, Sacks là \"prolific author\"."
+      },
+      {
+       "t": " Trích: \"So I had high expectations of Musicophilia\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 31 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"difficult to give a well-reputable writer a less than favorable review\" ↔ cảm giác áy náy khi phải nói rằng phản ứng của mình chỉ ở mức pha trộn, với một tác giả nổi tiếng và viết nhiều."
+      },
+      {
+       "t": " Trích: \"And I confess to feeling a little guilty reporting that my reactions to the book are mixed\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Q31 dễ bị chọn NOT GIVEN vì bài không nói thẳng chữ \"difficult\"; nhưng \"feeling a little guilty\" chính là cách người viết thể hiện điều đó."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 2 – ",
+       "b": true
+      },
+      {
+       "t": "Phần hay nhất của sách chính là bản thân Sacks: ông ghi lại đời mình và những trải nghiệm rất riêng tư, giọng văn điềm đạm, uyên bác, không lên giọng dạy đời."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 28 → C. ",
+       "b": true
+      },
+      {
+       "t": "\"best part\" ↔ \"Sacks himself is the best part\", cụ thể là phần tự thuật ↔ C \"autobiographical description\". A (tấm ảnh) và B (giọng văn) chỉ là chi tiết minh họa cho nhận định đó; D hoàn toàn không có."
+      },
+      {
+       "t": " Trích: \"He richly documents his own life in the book and reveals highly personal experiences\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 32 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Bản Pathétique Sonata chỉ xuất hiện ở mô tả tấm ảnh bìa (Sacks đeo tai nghe, nghe Alfred Brendel chơi); bài không hề nói bản nhạc này có tác dụng chữa rối loạn âm nhạc. Bẫy: đoạn 6 có nói về music therapy nhưng ở đó không nhắc Beethoven."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 3 – ",
+       "b": true
+      },
+      {
+       "t": "Lời nói đầu cho thấy Sacks muốn kết hợp \"nghệ thuật quan sát\" kiểu cũ với công nghệ mới; ông bị giằng co giữa hai lối, biết phải chú ý tới công nghệ nhưng trái tim nghiêng về quan sát."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 29 → A. ",
+       "b": true
+      },
+      {
+       "t": "Trong lời nói đầu, điều Sacks muốn đạt được là hòa giải với công nghệ mới ↔ A \"make terms with the new technologies\". B là nội dung phần sau của sách chứ không phải mục tiêu nêu ở preface; C quá rộng; D trái ngược vì ông vẫn giữ quan sát giản dị."
+      },
+      {
+       "t": " Trích: \"He wants to combine \"observation and description with the latest in technology,\" he says\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 33 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói Sacks coi công nghệ là không quan trọng so với quan sát; theo người viết, Sacks biết mình cần chú ý tới công nghệ và ở đoạn cuối \"He does call for both approaches\", nên đây là NO chứ không phải YES. Bẫy: \"his heart lies with the former\" chỉ là thiên hướng cá nhân, không phải phủ nhận giá trị công nghệ."
+      },
+      {
+       "t": " Trích: \"He knows that he needs to take heed of the latter, but his heart lies with the former\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Câu \"The reader can see that Sacks... is torn between the 'old-fashioned' path of observation and the newfangled, high-tech approach\": xương sống là \"Sacks is torn between A and B\"; mệnh đề \"who has been practicing neurology for 40 years\" chỉ bổ nghĩa, còn hai dấu hai chấm sau đó giải thích sự giằng co."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 4 – ",
+       "b": true
+      },
+      {
+       "t": "Sách chủ yếu là mô tả ca bệnh, mở đầu Phần I với Tony Cicoria, bác sĩ phẫu thuật bỗng mê nhạc sau khi bị sét đánh; EEG bình thường, và ông từ chối làm các xét nghiệm nhạy hơn."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 30 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"What a shame!\" ngay sau đó cho thấy điều đáng tiếc là ông từ chối xét nghiệm thêm ↔ A. B sai chủ thể (ông không muốn tìm hiểu chứ không phải không thể xác định); C và D là chi tiết có thật trong đoạn nhưng không phải điều người viết tiếc."
+      },
+      {
+       "t": " Trích: \"Cicoria has declined to undergo them; he does not want to delve into the causes of his musicality\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 5 – ",
+       "b": true
+      },
+      {
+       "t": "Phần II trải rộng nhiều chủ đề nhưng có chương không mới gì; hay nhất là các ca lạ như \"amusia\" và \"dysharmonia\", tức mất khả năng nghe hòa âm mà vẫn hiểu giai điệu."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 6 – ",
+       "b": true
+      },
+      {
+       "t": "Phần III đưa người đọc vào lĩnh vực trị liệu âm nhạc ít được đánh giá đúng mức: liệu pháp ngữ điệu giúp bệnh nhân mất ngôn ngữ nói lại trôi chảy, và âm nhạc làm bệnh nhân Parkinson cử động được."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 34 → NOT GIVEN. ",
+       "b": true
+      },
+      {
+       "t": "Người viết có gọi đây là \"the underappreciated realm of music therapy\", nhưng không bàn vì sao lĩnh vực này bị xem nhẹ, cũng không nói điều đó khó hiểu. Bẫy: \"Scientists cannot yet explain how music achieves this effect\" là chưa giải thích được cơ chế, không phải chưa giải thích được vì sao bị đánh giá thấp."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 7 – ",
+       "b": true
+      },
+      {
+       "t": "Với người chưa biết gì về thần kinh học, sách có thể là một khám phá, nhưng ai tìm nguyên nhân và hàm ý sẽ thất vọng: Sacks thoải mái với ca bệnh hơn với thí nghiệm và khá thiếu phản biện."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 35 → YES. ",
+       "b": true
+      },
+      {
+       "t": "\"should have more skepticism about other theories and findings\" ↔ \"rather uncritical in accepting scientific findings and theories\": đây là lời chê trực tiếp của người viết, nên YES."
+      },
+      {
+       "t": " Trích: \"he tends to be rather uncritical in accepting scientific findings and theories\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 8 – ",
+       "b": true
+      },
+      {
+       "t": "Người viết cho rằng Sacks lẽ ra nên rút ra hàm ý từ quan sát: việc tách rời hòa âm và giai điệu chứng tỏ não không có một trung tâm âm nhạc, và bỏ lỡ cơ hội giáo dục người đọc."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 37 → F. ",
+       "b": true
+      },
+      {
+       "t": "Vế đầu \"The dissociations between harmony and melody\" khớp thẳng với câu này ↔ ending F \"show that music is not localised in the brain\". Ending E (\"not everyone can receive good education\") là bẫy bắt từ \"a missed educational opportunity\"."
+      },
+      {
+       "t": " Trích: \"loss of the ability to perceive harmony but not melody, indicate that there is no music center in the brain\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 9 – ",
+       "b": true
+      },
+      {
+       "t": "Dường như không có cách chữa cho các rối loạn thần kinh liên quan âm nhạc: cùng một thuốc có thể đỡ ở người này, nặng hơn ở người kia, hiệu quả rất khác nhau."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 38 → B. ",
+       "b": true
+      },
+      {
+       "t": "\"The study of treating musical disorders\" ↔ phần nói về điều trị; kết quả thuốc thay đổi tùy người ↔ ending B \"indicates that medication can have varied results\"."
+      },
+      {
+       "t": " Trích: \"A drug can alleviate a symptom in one patient and aggravate it in another\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đoạn 10 – ",
+       "b": true
+      },
+      {
+       "t": "Nhiều bệnh nhân có kết quả EEG \"bình thường\"; Sacks thừa nhận có công nghệ nhạy hơn nhưng không kêu gọi dùng, không tỏ ra cấp bách, dù ông có kêu gọi kết hợp cả hai hướng."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 36 → NO. ",
+       "b": true
+      },
+      {
+       "t": "Câu hỏi nói Sacks sốt ruột muốn dùng phương pháp xét nghiệm mới; bài khẳng định ngược lại: ông \"does not call for their use\" và không có cảm giác cấp bách nào, nên NO."
+      },
+      {
+       "t": " Trích: \"he conveys no sense of urgency about the pursuit of new avenues in the diagnosis and treatment of music-brain disorders\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 39 → A. ",
+       "b": true
+      },
+      {
+       "t": "\"The EEG scans of Sacks's patients\" ↔ kết quả EEG bình thường, tức không cho thấy rối loạn nào ↔ ending A \"show no music-brain disorders\"."
+      },
+      {
+       "t": " Trích: \"the patient with music-brain symptoms is reported to have \"normal\" EEG results\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Câu 40 → D. ",
+       "b": true
+      },
+      {
+       "t": "Sacks muốn dùng cả công nghệ mới lẫn quan sát giản dị, tức công nghệ không được dùng đơn độc ↔ ending D \"should not be used in isolation\". Ending C (\"key for the neurological community\") là bẫy bắt từ câu cuối \"we can only hope that the neurological community will respond\"."
+      },
+      {
+       "t": " Trích: \"He does call for both approaches, though\"",
+       "i": true
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Lưu ý: ",
+       "b": true
+      },
+      {
+       "t": "Đoạn cuối chứa tới ba đáp án (36, 39, 40): đây là đoạn then chốt, đọc chậm và chốt hết trước khi dừng."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "h",
+     "runs": [
+      {
+       "t": "Bẫy cần tránh"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Đây là bài điểm sách: phải tách rõ quan điểm của người viết (Weinberger) với quan điểm của Sacks. Dạng Yes/No/Not Given hỏi \"views of the writer\", nên nhận xét của Sacks chỉ dùng được khi người viết cũng tán thành."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Hai câu NOT GIVEN (32 và 34) đều dựa trên chi tiết có thật trong bài (bản sonata trên bìa, music therapy bị xem nhẹ) nhưng bài không nói đúng điều câu hỏi nêu: có từ khóa không có nghĩa là có đáp án."
+      }
+     ],
+     "list": true
+    },
+    {
+     "type": "p",
+     "runs": [
+      {
+       "t": "Các ending A–F dùng lại từ ngữ của bài (educational, neurological community) để gài bẫy; hãy khớp theo ý nghĩa của vế đầu, không khớp theo từ trùng."
+      }
+     ],
+     "list": true
+    }
+   ],
    "reading": []
   }
  ]

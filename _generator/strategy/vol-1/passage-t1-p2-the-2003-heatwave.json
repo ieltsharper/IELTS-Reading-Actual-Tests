@@ -1,0 +1,99 @@
+{
+ "step1": "Tiêu đề The 2003 Heatwave báo trước một bài báo khoa học về đợt nắng nóng châu Âu năm 2003 và quan hệ của nó với hiện tượng nóng lên toàn cầu. Mạch bài dễ đoán: mùa hè 2003 bất thường → số liệu nhiệt độ vượt chuẩn → lời bình của chuyên gia CRU → đêm nóng kỷ lục → số người chết → các năm nóng nhất trong lịch sử → nghiên cứu và hệ quả chính sách. Q14–19 (YES/NO/NOT GIVEN) sẽ bám nửa đầu bài; Q20–25 toàn là năm và tên nước nên dồn ở các đoạn cuối, nhất là đoạn tổng kết số liệu; Q26 chọn tiêu đề thì chỉ chốt khi đã đọc xong.",
+ "types": [
+  ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+  ["14–19", "Yes / No / Not Given", "Có, theo thứ tự bài", "4 degrees, human activities, Jones, normal range, measured twice a day, milder winters, ski resorts"],
+  ["20–21", "Short answer (NO MORE THAN TWO WORDS)", "Có", "other two hottest years in Britain, government policies"],
+  ["22–25", "Summary completion (NO MORE THAN THREE WORDS)", "Có, nhưng không hẳn theo thứ tự bài", "two hottest years around the globe, ten hottest years, data gathered since, thousands died"],
+  ["26", "MCQ chọn tiêu đề", "Không – chốt sau khi đọc hết", "title of this passage"]
+ ],
+ "typesNote": "Gần như mọi đáp án Q20–25 là một con số năm hoặc tên nước, nên khi đọc gặp bất kỳ năm nào (1976, 1995, 1998, 2002, 1990, 1856) hay con số người chết thì dừng lại chốt ngay; riêng Q25 (France) nằm trước Q22–24 trong bài nên đừng bám cứng thứ tự của bài tóm tắt.",
+ "walk": [
+  {
+   "para": "Đoạn 1",
+   "idea": "Mùa hè 2003 là lúc hiện tượng nóng lên toàn cầu bộc lộ rõ nhất: Anh lập kỷ lục nhiệt độ, châu Âu cháy rừng, sông cạn và hàng nghìn người chết vì nóng.",
+   "answers": []
+  },
+  {
+   "para": "Đoạn 2",
+   "idea": "Ba tháng hè 2003 là ba tháng nóng nhất từng ghi nhận ở Tây và Trung Âu; trên cả vùng rộng từ Paris tới bắc Ý, nhiệt độ trung bình cao hơn mức chuẩn dài hạn 3,78°C.",
+   "answers": [
+    { "q": 14, "ans": "YES", "quote": "the average temperature for the summer months was 3.78°C above the long-term norm", "how": "\"almost 4 degrees higher\" ↔ \"3.78°C above\" (3,78 gần 4); \"the average temperature of the past\" ↔ \"the long-term norm\" = mức chuẩn nhiều năm. Người viết nêu con số nên khẳng định rõ ràng → YES, không phải NOT GIVEN." }
+   ],
+   "note": "Con số 3.78°C là số then chốt của cả bài, được nhắc lại ở đoạn 4 dưới dạng \"nearly four degrees\" và ở đoạn 5 dưới dạng \"nearly four degrees\" trong lời Jones."
+  },
+  {
+   "para": "Đoạn 3",
+   "idea": "Mức vượt chuẩn này chưa từng có tiền lệ, đến mức giám đốc CRU Phil Jones dám nói thẳng rằng nó do con người gây ra chứ không phải do biến thiên tự nhiên.",
+   "answers": [
+    { "q": 15, "ans": "YES", "quote": "the 2003 extreme may be directly attributed, not to natural climate variability, but to global warming caused by human actions", "how": "\"human activities\" ↔ \"human actions\"; cấu trúc \"not A but B\" loại hẳn nguyên nhân tự nhiên và quy cho hành động của con người. Dù đây là lời Jones, người viết thuật lại không phản bác, và đoạn 5 lặp lại ý này → YES." }
+   ]
+  },
+  {
+   "para": "Đoạn 4",
+   "idea": "So với chuỗi số liệu tin cậy từ 1781 và mốc trung bình 1961–1990, suốt 200 năm chỉ có vài lần chênh khoảng 2°C, còn 2003 chênh gần bốn độ.",
+   "answers": [
+    { "q": 17, "ans": "NOT GIVEN", "how": "Bài nói rất kỹ về chuỗi số liệu nhiệt độ (từ 1781, mốc 1961–1990, cách vẽ đồ thị anomalies) nhưng tuyệt nhiên không nói nhiệt độ được đo mấy lần một ngày hay đo ở các thành phố lớn. Có chủ đề \"temperature records\" nhưng không có chi tiết \"twice a day\" → NOT GIVEN chứ không phải NO." }
+   ],
+   "note": "Bẫy số: 1781 (năm bắt đầu chuỗi số liệu châu Âu của CRU) rất dễ bị điền nhầm vào câu 24, nhưng câu 24 hỏi chuỗi số liệu toàn cầu (global temperature record) ở đoạn 9, đáp án là 1856."
+  },
+  {
+   "para": "Đoạn 5",
+   "idea": "Jones nhấn mạnh tính bất thường về mặt thống kê: chu kỳ lặp lại khoảng một lần trong một nghìn năm, trong gần bốn độ chênh thì khoảng ba độ là biến thiên tự nhiên, độ cuối cùng là do con người.",
+   "answers": [
+    { "q": 16, "ans": "NO", "quote": "It's very unusual in a statistical sense. If this series had a normal statistical distribution, you wouldn't get this number.", "how": "Câu hỏi nói Jones cho rằng mức biến thiên nằm trong khoảng bình thường; bài ghi lời ông nói ngược hẳn: rất bất thường về mặt thống kê, nếu phân phối bình thường thì không thể có con số này → mâu thuẫn → NO. Bẫy là chữ \"normal\" có xuất hiện trong bài, nhưng nằm trong câu điều kiện phủ định." }
+   ]
+  },
+  {
+   "para": "Đoạn 6",
+   "idea": "Giới khoa học đã chờ đợi một mùa hè như 2003: trước đó nóng lên chủ yếu thể hiện qua mùa đông bớt lạnh hơn là mùa hè nóng hơn, và LHQ dự báo các khu trượt tuyết thấp sẽ biến mất.",
+   "answers": [
+    { "q": 18, "ans": "YES", "quote": "Until now, the warming has been manifesting itself mainly in winters that have been less cold than in summers that have been much hotter.", "how": "\"milder winters rather than hotter summers\" ↔ \"winters that have been less cold\" ... \"rather than\" ↔ \"mainly in ... than in ...\"; \"before 2003\" ↔ \"Until now\" (bài viết ngay trong năm 2003) → YES." },
+    { "q": 19, "ans": "NOT GIVEN", "how": "Bài chỉ nói LHQ dự báo môn thể thao mùa đông sẽ biến mất ở các khu trượt tuyết thấp (lower-level ski resorts); không có câu nào nói chính phủ đang xây khu trượt tuyết mới ở nơi cao. Từ khóa \"ski resorts\" trùng nhưng hành động \"building new high-altitude\" hoàn toàn vắng mặt → NOT GIVEN." }
+   ],
+   "note": "Q19 là bẫy \"suy diễn hợp lý\": thấy khu thấp mất tuyết thì người đọc dễ tự suy ra phải xây khu cao hơn. YNNG chỉ xét những gì bài viết ra."
+  },
+  {
+   "para": "Đoạn 7",
+   "idea": "Một nét nổi bật là những đêm nóng kỷ lục, nhất là nửa đầu tháng Tám, ở Paris, Đức, Thụy Sĩ và Ý.",
+   "answers": []
+  },
+  {
+   "para": "Đoạn 8",
+   "idea": "15.000 ca tử vong vượt mức ở Pháp trong tháng Tám gắn với nhiệt độ ban đêm cao, đỉnh điểm khoảng 2.000 ca/ngày đêm 12–13/8, người cao tuổi chịu ảnh hưởng nặng nhất.",
+   "answers": [
+    { "q": 25, "ans": "France", "quote": "The 15,000 excess deaths in France during August", "how": "\"Thousands of people died in the country of ___\" ↔ \"The 15,000 excess deaths in France\"; chỗ trống đứng sau \"the country of\" nên phải là tên quốc gia, không điền Paris (chỉ là thành phố, ở đoạn 7)." }
+   ],
+   "note": "Câu 25 đứng cuối bài tóm tắt nhưng bằng chứng lại ở đoạn 8, trước ba câu 22–24 ở đoạn 9. Chốt luôn khi đọc tới đây."
+  },
+  {
+   "para": "Đoạn 9",
+   "idea": "Với riêng nước Anh, mùa hè 2003 vẫn xếp sau 1976 và 1995; xét toàn cầu, 2003 đứng thứ ba sau 1998 và 2002 trong chuỗi số liệu từ 1856, và mười năm nóng nhất đều rơi vào sau 1990.",
+   "answers": [
+    { "q": 20, "ans": "1976, 1995", "quote": "the summer itself - defined as the June, July and August period - still comes behind 1976 and 1995, when there were longer periods of intense heat", "how": "Câu hỏi giới hạn \"in Britain\" ↔ \"For Britain\" ở đầu đoạn; \"comes behind\" = xếp sau, tức hai năm đó nóng hơn." },
+    { "q": 22, "ans": "1998 and 2002", "quote": "the year is on course to be the third hottest ever in the global temperature record, which goes back to 1856, behind 1998 and 2002", "how": "\"around the globe\" ↔ \"global temperature record\"; đứng thứ ba, sau 1998 và 2002 nên hai năm này nóng hơn." },
+    { "q": 23, "ans": "1990", "quote": "The ten hottest years in the record have all now occurred since 1990.", "how": "\"all come after the year ___\" ↔ \"have all now occurred since 1990\"." },
+    { "q": 24, "ans": "1856", "quote": "the global temperature record, which goes back to 1856", "how": "\"has been gathered since ___\" ↔ \"goes back to 1856\"; mệnh đề quan hệ \"which goes back to 1856\" bổ nghĩa cho \"the global temperature record\"." }
+   ],
+   "note": "Đoạn 9 chứa tới bốn đáp án là bốn con số năm nằm sát nhau (1976, 1995, 1998, 2002, 1990, 1856). Phân biệt bằng phạm vi: Britain (Q20) so với global (Q22, Q24)."
+  },
+  {
+   "para": "Đoạn 10",
+   "idea": "Trung tâm Tyndall sẽ nghiên cứu riêng mùa hè này vì cả nhiệt độ cực đoan lẫn mức độ đa dạng của tác động đều chưa từng có.",
+   "answers": []
+  },
+  {
+   "para": "Đoạn 11",
+   "idea": "Đợt nắng nóng sẽ thay đổi cách các nước nghĩ và lập kế hoạch ứng phó biến đổi khí hậu, giống như trận lụt năm 2000 đã thay đổi cách chính phủ Anh nhìn nhận chuyện ngập lụt.",
+   "answers": [
+    { "q": 21, "ans": "2000 floods", "quote": "much as the 2000 floods have revolutionised the way the Government is thinking about flooding in the UK", "how": "\"influence government policies in the future like the hot summer in 2003\" ↔ \"much as the 2000 floods have revolutionised the way the Government is thinking\"; \"much as\" = giống như, báo hiệu phép so sánh mà câu hỏi đang hỏi. Giới hạn hai từ nên viết \"2000 floods\"." },
+    { "q": 26, "ans": "D", "quote": "It was the warmest summer in the past 500 years and probably way beyond that.", "how": "Toàn bài bám vào một sự kiện cụ thể: mùa hè nóng kỷ lục năm 2003 ở châu Âu ↔ D \"That Hot Year in Europe\". A quá rộng (bài không giới thiệu chung về nóng lên toàn cầu), B sai vì bài không đi tìm nguyên nhân gây nóng lên, C là bẫy gần đúng nhưng bài không liệt kê các hậu quả nói chung của nóng lên toàn cầu mà chỉ mô tả một mùa hè." }
+   ]
+  }
+ ],
+ "tips": [
+  "Bài dày đặc con số: trước khi điền, hãy đọc lại chỗ trống xem nó đòi năm (Q22–24), tên nước (Q25) hay cặp năm của riêng nước Anh (Q20). Nhầm phạm vi Britain/global là lỗi phổ biến nhất ở bài này.",
+  "Hai câu NOT GIVEN (Q17, Q19) đều có từ khóa trùng với bài (temperature records, ski resorts) nhưng thiếu đúng chi tiết mà câu hỏi thêm vào. Gặp từ khóa trùng mà chi tiết lạ thì nghĩ ngay tới NOT GIVEN.",
+  "Với MCQ chọn tiêu đề, loại phương án quá rộng (Global Warming) và phương án nói về nguyên nhân khi bài chỉ mô tả hiện tượng; chọn phương án khớp với phạm vi hẹp nhất mà bài thực sự bao phủ."
+ ]
+}

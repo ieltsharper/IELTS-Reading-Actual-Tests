@@ -1,0 +1,110 @@
+{
+  "step1": "Tiêu đề THE INGENUITY GAP (khoảng cách về trí sáng tạo): bài luận trích từ một cuốn sách, giọng \"I\" nên nhiều câu là quan điểm tác giả. Đoán mạch: định nghĩa ingenuity → cái xã hội CẦN → cái xã hội CUNG CẤP → ingenuity chưa đủ, còn cần vốn/lao động và giải quyết tranh chấp → thế kỷ qua thay đổi tạo ra thế giới mới → hệ quả → nhu cầu ingenuity tăng → hệ thống phức tạp → nguồn cung cũng tăng → nhưng không chắc đủ → các giới hạn (thông tin, thị trường, khoa học). Q27–30 ghép câu nên dồn ở các đoạn đầu (định nghĩa, yêu cầu, của cải, ổn định); Q31–33 ở phần giữa; Q34–40 ở phần cuối.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–30", "Matching sentence endings (A–D)", "Có, vế đầu là chủ đề từng đoạn mở bài", "definition, requirement, creation of social wealth, stability"],
+    ["31–33", "Multiple choice (A–D)", "Có (từ khóa)", "last 100 years / incremental change, combination of changes, natural systems"],
+    ["34–40", "True / False / Not Given", "Có, theo thứ tự bài", "demand, inappropriate ingenuity, few understand, more information, next generation, science faster, social science"]
+  ],
+  "typesNote": "Ba nhóm chạy nối tiếp nhau theo thứ tự bài, nên đọc một lượt từ đầu: đoạn 1–4 chốt 27–30, đoạn 5–9 chốt 31–33 và 34, đoạn 11–13 chốt 35–40.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Tác giả định nghĩa ingenuity: không chỉ ý tưởng công nghệ mới mà sâu xa hơn là ý tưởng về thể chế và cách tổ chức xã hội tốt hơn.",
+      "answers": [
+        { "q": 27, "ans": "C", "quote": "consists not only of ideas for new technologies like computers or drought-resistant crops but, more fundamentally, of ideas for better institutions and social arrangements", "how": "\"The definition of ingenuity\" ↔ ending C \"is not only of technological advance, but more of institutional renovation\": cấu trúc \"not only ... but more fundamentally ...\" khớp y hệt; \"better institutions\" ↔ \"institutional renovation\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Xã hội CẦN bao nhiêu và loại ingenuity nào là tùy nhiều yếu tố: mục tiêu, dân số già hay trẻ, tài nguyên nhiều hay ít, khí hậu dễ chịu hay khắc nghiệt.",
+      "answers": [
+        { "q": 28, "ans": "A", "quote": "depends on a range of factors, including the society's goals and the circumstances within which it must achieve those goals—whether it has a young population or an aging one ... an easy climate or a punishing one", "how": "\"The requirement for ingenuity\" ↔ \"How much and what kinds of ingenuity a society requires\"; ending A \"depends on many factors including climate\" khớp vì khí hậu được nêu trong danh sách yếu tố." }
+      ],
+      "note": "Đoạn 3 nói về supply (nguồn cung) với cấu trúc gần giống hệt đoạn 2. Phân biệt bằng động từ: requires (đoạn 2) và supplies (đoạn 3) – đây là bẫy nhắc lại cấu trúc."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Xã hội CUNG CẤP được bao nhiêu ingenuity cũng tùy nhiều yếu tố: óc sáng tạo con người, phần thưởng kinh tế cho người tạo tri thức, và sức phản kháng chính trị với cải cách.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Có ingenuity đúng loại là cần nhưng chưa đủ: tạo của cải còn cần vốn và lao động, còn thịnh vượng – ổn định – công bằng thì phụ thuộc việc giải quyết hoặc kiềm chế các cuộc tranh giành của cải và quyền lực.",
+      "answers": [
+        { "q": 29, "ans": "D", "quote": "the creation of wealth, for example, depends not only on an adequate supply of useful ideas but also on the availability of other, more conventional factors of production, like capital and labor", "how": "\"The creation of social wealth\" khớp thẳng với \"the creation of wealth\"; ending D \"some traditional resources\" ↔ \"more conventional factors of production, like capital and labor\"." },
+        { "q": 30, "ans": "B", "quote": "prosperity, stability and justice usually depend on the resolution, or at least the containment, of major political struggles over wealth and power", "how": "\"The stability of society\" ↔ \"stability\" trong câu này; ending B \"management and solution of disputes\" ↔ \"the resolution, or at least the containment, of major political struggles\" (containment = kiềm chế/quản lý)." }
+      ],
+      "note": "Câu dài mang đáp án Q30: xương sống là \"prosperity, stability and justice depend on the resolution of major political struggles\"; cụm chen giữa \"or at least the containment\" chỉ hạ bớt mức độ (giải quyết, hoặc ít ra là kiềm chế), không đổi ý."
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Vô số thay đổi nhỏ suốt một thế kỷ đã cộng dồn thành một thế giới mới về chất, nhưng vì diễn ra chậm nên ta khó nhận ra chúng sâu rộng tới đâu.",
+      "answers": [
+        { "q": 31, "ans": "B", "quote": "Because these changes have accumulated slowly, it's often hard for us to recognize how profound and sweeping they've been", "how": "Phương án B \"Its significance is often not noticed\" ↔ \"hard for us to recognize how profound and sweeping they've been\". A sai vì bài không nói tới tranh luận học thuật; C sai vì đoạn nói thay đổi tạo ra \"a qualitatively new world\" chứ không nói riêng môi trường tự nhiên bị định hình lại; D sai vì dân số đông hơn là một trong các thay đổi, không phải lợi ích." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Kết hợp lại, các thay đổi đó làm tương tác giữa người với người dày đặc, mạnh và nhanh hơn, tăng gánh nặng lên môi trường và chuyển quyền lực từ thể chế sang cá nhân, nhóm nhỏ.",
+      "answers": [
+        { "q": 32, "ans": "B", "quote": "these changes have sharply increased the density, intensity, and pace of our interactions with each other", "how": "\"pace ... increased\" = nhịp sống nhanh hơn ↔ phương án B \"faster\". A và D sai vì đoạn 7–8 nói hoàn cảnh phức tạp và khó lường hơn, quyết định phải tinh vi hơn; C ngược hẳn." }
+      ]
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Hệ quả: mọi người, từ lãnh đạo tới dân thường, phải xoay xở với hoàn cảnh phức tạp, cấp bách và khó đoán hơn nhiều.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Quản lý quan hệ với thế giới mới này đòi hỏi lượng ingenuity khổng lồ và ngày càng tăng; ta phải ra quyết định tinh vi hơn trong thời gian ngắn hơn.",
+      "answers": [
+        { "q": 34, "ans": "TRUE", "quote": "requires immense and ever-increasing amounts of social and technical ingenuity", "how": "\"demand ... has been growing\" ↔ \"ever-increasing amounts\"; gắn với \"the past century's\" ở đoạn 5 và \"the last century's stunning changes ... have not just increased our need for ingenuity\" ở đoạn 10 → đúng với 100 năm qua." }
+      ]
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Cải thiện hiệu năng hệ thống nào cũng làm nó phức tạp hơn; các hệ thống tự nhiên vốn đã cực phức tạp, rất nhạy với thay đổi nhỏ và có thể đột ngột đổi trạng thái.",
+      "answers": [
+        { "q": 33, "ans": "C", "quote": "they are often very sensitive to the smallest of changes and perturbations, and their behavior can flip from one mode to another suddenly and dramatically", "how": "Phương án C \"Minor alterations may cause natural systems to change dramatically\" ↔ \"sensitive to the smallest of changes ... can flip ... suddenly and dramatically\". A sai vì bài nói ta thường KHÔNG dự đoán được chính xác; B sai vì bài chỉ nói hệ tự nhiên vốn đã phức tạp, không so sánh hơn kém với hệ nhân tạo; D sai vì bài nói ta vẫn phụ thuộc và nhu cầu còn tăng." }
+      ]
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Tin tốt: thay đổi của thế kỷ qua không chỉ làm tăng nhu cầu mà còn làm tăng mạnh nguồn cung ingenuity nhờ đô thị hóa, công nghệ liên lạc và thị trường hiệu quả hơn.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Nhưng không thể kết luận nguồn cung luôn tăng song hành với nhu cầu: độ phức tạp và tốc độ của các hệ thống sống còn vượt quá khả năng nắm bắt của bộ não, rất ít người hiểu chúng.",
+      "answers": [
+        { "q": 35, "ans": "TRUE", "quote": "we can't always rely on the right kind of ingenuity appearing when and where we need it", "how": "\"may be inappropriate for solving problems at hand\" ↔ \"can't always rely on the right kind of ingenuity appearing when and where we need it\" cộng với \"makes it hard to supply the ingenuity we need to solve problems\" → đúng." },
+        { "q": 36, "ans": "TRUE", "quote": "Very few of us have more than a rudimentary understanding of how these systems work", "how": "\"very few who can understand the complex systems\" ↔ \"Very few of us have more than a rudimentary understanding\" (chỉ hiểu sơ đẳng) → khớp." }
+      ],
+      "note": "Câu dài ở đầu đoạn: xương sống \"we should not jump to the conclusion that the supply of ingenuity always increases in lockstep with our ingenuity requirement\"; mệnh đề nhượng bộ \"while it's true that necessity is often the mother of invention\" chỉ thừa nhận một phần rồi bác lại. Đọc sai cụm \"while it's true\" rất dễ chọn nhầm sang TRUE/FALSE ngược."
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Tác giả nêu các yếu tố hạn chế khác: công nghệ liên lạc mới chưa chắc củng cố dân chủ, vì biển thông tin làm ngắn khả năng tập trung và khiến tranh luận chính sách hời hợt hơn.",
+      "answers": [
+        { "q": 37, "ans": "FALSE", "quote": "The crush of information in our everyday lives is shortening our attention span, limiting the time we have to reflect on critical matters of public policy, and making policy arguments more superficial", "how": "Câu hỏi nói nhiều thông tin hơn giúp ra quyết định tốt hơn; bài nói ngược lại (ít thời gian suy ngẫm, tranh luận hời hợt) → FALSE. Bẫy: nửa đầu đoạn nêu niềm tin của \"many people\" rằng công nghệ giúp tìm giải pháp, nhưng tác giả bác ngay bằng \"the story is less clear than it seems\"." }
+      ]
+    },
+    {
+      "para": "Đoạn 13",
+      "idea": "Thị trường và khoa học là nguồn cung ingenuity quan trọng, nhưng khoa học bị ràng buộc thực tế: chi phí nghiên cứu tăng, tốc độ tiến bộ phụ thuộc bản chất hiện tượng, nên luôn có độ trễ giữa lúc nhận ra vấn đề và lúc có công nghệ giải quyết; khoa học xã hội tiến chậm nhất vì lý do chưa rõ.",
+      "answers": [
+        { "q": 39, "ans": "TRUE", "quote": "science's rate of advance depends on the characteristics of the natural phenomena it investigates, simply because some phenomena are intrinsically harder to understand than others", "how": "\"develop faster in certain areas than others\" ↔ tốc độ tiến bộ tùy hiện tượng, có lĩnh vực \"the production of useful new knowledge ... can be very slow\" → TRUE." },
+        { "q": 40, "ans": "FALSE", "quote": "Progress in the social sciences is especially slow, for reasons we don't yet understand; but we desperately need better social scientific knowledge", "how": "Câu hỏi giải thích nguyên nhân là \"vì nó không quan trọng bằng khoa học tự nhiên\"; bài nói lý do thì chưa ai hiểu và nhấn mạnh ta rất cần tri thức khoa học xã hội → mâu thuẫn, FALSE (không phải NOT GIVEN vì bài có nói cả hai vế)." },
+        { "q": 38, "ans": "NOT GIVEN", "how": "Đọc hết 13 đoạn không có chỗ nào nói về thế hệ sau trách cứ chính phủ hiện nay. Bài chỉ nói \"the coming century\" và \"competent governments\" ở đoạn 1, hoàn toàn không có ý quy trách nhiệm." }
+      ],
+      "note": "Q38 nằm giữa các câu khác nhưng không có đoạn nào chứa bằng chứng; chốt NOT GIVEN khi đọc xong và đừng đọc lại từ đầu để tìm."
+    }
+  ],
+  "tips": [
+    "Bài lặp đi lặp lại cặp đối nghĩa requirement/need và supply: đọc kỹ chủ ngữ của mỗi đoạn để không gán đáp án nhầm vế (đoạn 2 là cầu, đoạn 3 là cung).",
+    "Tác giả hay nêu quan điểm số đông rồi bác lại (\"many people believe ... but the story is less clear\", \"while it's true that ... we can't always rely\"); câu TFNG thường chính là cái bị bác, nên bám vào vế sau \"but\".",
+    "Với nhóm ghép câu 27–30, vế đầu gần như trùng câu mở đoạn (definition, requires, creation of wealth, stability), nên chỉ cần đối chiếu đoạn mở bài tương ứng, không phải dò cả bài."
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "step1": "Tiêu đề \"Wealth in a Cold Climate\" và sapo \"Latitude is crucial to a nation's economic strength\" cho biết bài bàn về quan hệ giữa vĩ độ/khí hậu lạnh và sự giàu có của quốc gia. Đoán mạch bài: ý tưởng nảy ra khi đọc sách (A) → giả thuyết về sương giá (B) → số liệu và ngoại lệ (C) → khí hậu không phải yếu tố duy nhất, vai trò thể chế (D) → nên viện trợ thế nào (E) → các nhà nghiên cứu khác, Diamond (F) → Gallup và Sachs, lời cảnh báo của Masters (G). Q14–20 là Matching Headings cho đúng bảy đoạn nên chốt sau mỗi đoạn; Q21–26 là summary đi theo thứ tự bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–20", "Matching Headings (i–x)", "Không, phải đọc xong đoạn mới chốt", "ý chính từng đoạn; 7 đoạn chọn trong 10 heading"],
+    ["21–26", "Summary completion (NO MORE THAN TWO WORDS)", "Có, theo thứ tự bài", "American city, rich but small country, improve their, continent, crops, tropical country"]
+  ],
+  "typesNote": "Hai dạng chạy song song theo thứ tự đoạn: đọc xong đoạn nào thì chọn heading cho đoạn đó và điền luôn ô trống của summary có bằng chứng trong đoạn ấy.",
+  "walk": [
+    {
+      "para": "Đoạn A",
+      "idea": "Masters nảy ra ý tưởng khi đọc một cuốn sách về muỗi, kể chuyện dịch sốt vàng ở Philadelphia năm 1793 chỉ chấm dứt khi đợt sương giá đầu tiên đến.",
+      "answers": [
+        { "q": 14, "ans": "iii", "quote": "Dr William Masters was reading a book about mosquitoes when inspiration struck", "how": "Cả đoạn chỉ kể nguồn cảm hứng đến từ việc đọc sách ↔ heading iii \"Inspiration from reading a book\"." },
+        { "q": 21, "ans": "yellow-fever epidemic", "quote": "the great yellow-fever epidemic that hit Philadelphia in 1793", "how": "\"struck an American city hundreds of years ago\" ↔ \"hit Philadelphia in 1793\"; \"terminated by a cold frost\" ↔ \"until the first frost came\". Chỗ trống đứng sau \"a(an)\" nên cần danh từ chỉ dịch bệnh." }
+      ]
+    },
+    {
+      "para": "Đoạn B",
+      "idea": "Masters đặt câu hỏi vì sao hầu hết nước giàu nằm trên vĩ độ 40, và cùng McMillan chỉ ra sương giá hằng năm là một yếu tố phân biệt nước giàu với nước nghèo vì nó diệt sâu bệnh và côn trùng truyền bệnh.",
+      "answers": [
+        { "q": 15, "ans": "vi", "quote": "they freeze pests that would otherwise destroy crops, and also freeze organisms, such as mosquitoes, that carry disease", "how": "Lợi ích của giá lạnh cho cả mùa màng (crops) và sức khỏe con người (bệnh do muỗi) ↔ heading vi \"Low temperature benefits people and crops\"." }
+      ],
+      "note": "Heading i (\"positive correlation between climate and wealth\") cũng có vẻ hợp đoạn B, nhưng phần tương quan bằng số liệu nằm ở đoạn C; đoạn B chỉ nêu cơ chế lợi ích nên chọn vi. Khi hai heading gần nhau, hãy đọc cả hai đoạn rồi chia."
+    },
+    {
+      "para": "Đoạn C",
+      "idea": "Hai bộ dữ liệu thu nhập và khí hậu khớp nhau: nước có từ năm ngày sương giá mỗi tháng trở lên đều giàu, dưới năm ngày thì nghèo, dù vẫn có ngoại lệ như Hong Kong, Singapore và các nước hậu cộng sản.",
+      "answers": [
+        { "q": 16, "ans": "i", "quote": "Countries having five or more frosty days a month are uniformly rich, those with fewer than five are impoverished", "how": "Đây là tương quan thuận giữa khí hậu lạnh và thu nhập ↔ heading i. Heading x \"Confusions and exceptions\" là bẫy: phần ngoại lệ chỉ ở cuối đoạn, còn trọng tâm là mối tương quan." },
+        { "q": 22, "ans": "Finland", "quote": "Finland is a small country that is growing quickly", "how": "\"rich but small country\" ↔ \"a small country that is growing quickly\"; Bolivia cũng nhỏ nhưng không tăng trưởng nên là bẫy đối chiếu." }
+      ]
+    },
+    {
+      "para": "Đoạn D",
+      "idea": "Masters nhấn mạnh khí hậu không bao giờ là yếu tố quyết định duy nhất: nó kết hợp với thể chế, chính phủ, đường thương mại; nước giàu lên thì thể chế cũng tốt lên.",
+      "answers": [
+        { "q": 17, "ans": "ii", "quote": "the wealth of nations is too complicated to be attributable to just one factor", "how": "Đoạn liệt kê các yếu tố ngoài khí hậu ↔ heading ii \"Other factors besides climate that influence wealth\". Heading vii \"The importance of institutions in traditional views\" chỉ đúng một câu giữa đoạn, không bao trùm." },
+        { "q": 23, "ans": "institutions", "quote": "as countries get richer, they get better institutions", "how": "\"besides excellent surroundings and climate, one country still needs to improve their ___\" ↔ thể chế/chính phủ; đáp án cũng chấp nhận \"governments\"." }
+      ],
+      "note": "Câu \"And the accumulation of wealth and improvement in governing institutions are both helped by a favourable environment, including climate\": xương sống là \"the accumulation of wealth and improvement in institutions are helped by a favourable environment\"; \"including climate\" là ví dụ, cho thấy khí hậu hỗ trợ chứ không quyết định."
+    },
+    {
+      "para": "Đoạn E",
+      "idea": "Nước nhiệt đới không hết hy vọng: thay vì viện trợ để cải thiện quản trị, nên chi cho công nghệ nông nghiệp, vaccine và giống cây chịu nhiệt đới.",
+      "answers": [
+        { "q": 18, "ans": "ix", "quote": "richer countries should change the way in which foreign aid is given", "how": "Cả đoạn bàn cách dùng viện trợ cho hiệu quả ↔ heading ix \"The best way to use aid\"." }
+      ]
+    },
+    {
+      "para": "Đoạn F",
+      "idea": "Các nhà nghiên cứu khác cũng lý giải chênh lệch giàu nghèo: Diamond chỉ ra Âu Á trải theo trục đông tây nên cây trồng và công nghệ lan nhanh, khác với châu Phi và châu Mỹ trải bắc nam.",
+      "answers": [
+        { "q": 19, "ans": "v", "quote": "Eurasia is broadly aligned east-west, while Africa and the Americas are aligned north-south", "how": "Đoạn so sánh đặc điểm địa lý của Âu Á với châu Phi ↔ heading v \"Different attributes between Eurasia and Africa\". Heading viii \"The spread of crops...\" chỉ là hệ quả được nêu làm dẫn chứng." },
+        { "q": 24, "ans": "Europe", "quote": "in Europe, crops can spread quickly across latitudes because climates are similar", "how": "\"resembling weather conditions across latitude in the continent of ___\" ↔ \"climates are similar\" ở Europe." },
+        { "q": 25, "ans": "einkorn wheat", "quote": "One of the first domesticated crops, einkorn wheat, spread quickly from the Middle East into Europe", "how": "\"spread faster than from South America to the North\" ↔ đối chiếu với \"it took twice as long for corn to spread from Mexico to what is now the eastern United States\", nên cây lan nhanh là einkorn wheat chứ không phải corn." }
+      ],
+      "note": "Q25 rất dễ điền nhầm \"corn\": corn là ví dụ lan chậm (Mexico sang miền đông Hoa Kỳ), einkorn wheat mới là ví dụ lan nhanh."
+    },
+    {
+      "para": "Đoạn G",
+      "idea": "Gallup và Sachs thấy nước nhiệt đới gần như đều nghèo, nhưng Masters cảnh báo không nên tin vào thuyết định mệnh địa lý và lấy Singapore làm ngoại lệ.",
+      "answers": [
+        { "q": 20, "ans": "iv", "quote": "But Masters cautions against geographical determinism", "how": "Kết quả của nhóm nghiên cứu khác vẫn chừa chỗ cho ngoại lệ ↔ heading iv \"Other researchers' results do not rule out exceptional cases\"." },
+        { "q": 26, "ans": "Singapore", "quote": "Take Singapore: without air conditioning, it wouldn't be rich", "how": "\"tropical country ... still became rich due to scientific advancement\" ↔ Singapore giàu nhờ điều hòa không khí, tức tiến bộ công nghệ. Hong Kong ở đoạn C cũng là nước nhiệt đới giàu nhưng lý do là vị trí thương mại, không phải khoa học." }
+      ]
+    }
+  ],
+  "tips": [
+    "Heading x (\"Confusions and exceptions\") và viii (\"The spread of crops...\") là hai heading thừa, dựng lên từ chi tiết phụ trong đoạn C và F: luôn hỏi \"đây là ý chính hay chỉ là dẫn chứng?\".",
+    "Summary 21–26 đi đúng thứ tự bài và phần lớn là tên riêng (Finland, Europe, Singapore) hoặc cụm nguyên văn (yellow-fever epidemic, einkorn wheat): chép đúng chữ trong bài, không viết lại.",
+    "Bài có nhiều cặp đối chiếu (Finland/Bolivia, einkorn wheat/corn, Hong Kong/Singapore): mỗi cặp đều có một vế là bẫy, nên đọc hết câu so sánh rồi mới điền."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "step1": "Tiêu đề \"The Ant and the Mandarin\" (kiến và quả quýt) báo trước bài kể chuyện nông dân Trung Quốc dùng kiến vàng để diệt sâu bọ trong vườn cam – tức lịch sử của biện pháp sinh học. Đoán mạch bài: mở đầu bằng chuyện hài hước ở Berne 1476 → đặc điểm con kiến vàng → sâu bệnh trên cây quýt → phương Tây biết tới qua Swingle 1915 → các ghi chép cổ theo mốc thời gian (304, 890, 1130, thế kỷ 17, 1700) → thái độ hoài nghi của phương Tây và vedalia beetle 1888 → thuốc trừ sâu thập niên 1950–60 rồi quay lại dùng kiến → các nghiên cứu chứng minh hiệu quả. Vì bài kể theo dòng thời gian nên Q14–18 (ghép mốc) và Q19–26 (TFNG) đều chạy xuôi theo bài.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["14–18", "Matching features – mốc thời gian (A–G)", "Có: quét các con số năm trong bài", "first description, marketplace, Swingle, western world, pesticides, returned to traditional"],
+    ["19–26", "True / False / Not Given", "Có (từ khóa), theo thứ tự bài", "more citrus pests, Swingle came to China, impressed, expensive, abandoned pesticide, leaves, yield, damage"]
+  ],
+  "typesNote": "Bài có rất nhiều con số năm nên Q14–18 chốt được ngay khi gặp mốc; Q19–26 đi đúng thứ tự đoạn 3 → đoạn 15, cứ đọc xong đoạn là kết luận.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Năm 1476 nông dân Berne kiện sâu ra tòa và nhờ tổng giám mục rút phép thông công, trong khi nông dân Trung Quốc thực tế hơn: dùng ếch, vịt và nhất là kiến vàng Oecophylla smaragdina – khởi đầu của biện pháp sinh học, dẫn tới cả nghề nuôi kiến.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Kiến vàng là kẻ săn mồi đáng sợ: to, chạy nhanh, cắn đau với người nhưng chí mạng với sâu bọ hại vườn cam Quảng Đông – Quảng Tây, và đã được tận dụng suốt ít nhất 17 thế kỷ.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Cây có múi tiến hóa ở Viễn Đông nên Trung Quốc vừa là quê hương của cam chanh vừa là nơi có nhiều loại sâu hại cây có múi nhất; cây quýt (kan) ngọt nhất lại hút nhiều côn trùng ăn lá nhất.",
+      "answers": [
+        { "q": 19, "ans": "TRUE", "quote": "As the ancestral home of oranges, lemons and pomelos, China also has the greatest diversity of citrus pests.", "how": "\"more citrus pests than any other country\" ↔ \"the greatest diversity of citrus pests\" (nhiều loại sâu hại nhất) → TRUE. Lưu ý: bài nói về mức đa dạng, nhưng theo đáp án chính thức đây vẫn là TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Phương Tây chỉ biết tới bí quyết này đầu thế kỷ 20: năm 1915 Walter Swingle được Bộ Nông nghiệp Mỹ cử sang Trung Quốc tìm giống cam kháng bệnh loét, và tại Quảng Châu ông nghe chuyện kiến nuôi được bán theo tổ.",
+      "answers": [
+        { "q": 15, "ans": "F", "quote": "in 1915 Walter Swingle, a plant physiologist working for the US Department of Agriculture, was sent to China", "how": "\"Swingle came to Asia for research\" ↔ được cử sang Trung Quốc năm 1915 → F." },
+        { "q": 20, "ans": "FALSE", "quote": "was sent to China in search of varieties of orange that were resistant to the disease", "how": "Câu hỏi nói Swingle sang Trung Quốc để tìm một loài CÔN TRÙNG mang về Mỹ; bài nói ông đi tìm GIỐNG CAM kháng bệnh, còn chuyện con kiến chỉ là tình cờ \"he came across the story\" → mâu thuẫn, FALSE. Bẫy: cả hai đều là \"tìm kiếm\", chỉ khác đối tượng tìm." }
+      ]
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Ghi chép sớm nhất về kiến trong vườn cam nằm trong sách thực vật của Hsi Han năm 304: người Chiao-Chih bán kiến trong túi cói ngoài chợ, và nếu cây quýt không có loại kiến này thì không quả nào lành lặn.",
+      "answers": [
+        { "q": 14, "ans": "C", "quote": "The earliest report of citrus ants at work among the orange trees appeared in a book on tropical and subtropical botany written by Hsi Han in AD 304. \"The people of Chiao-Chih sell in their markets ants in bags of rush matting.", "how": "\"The first description of citrus ants is traded in the marketplace\" ↔ \"The earliest report...\" năm AD 304 đã mô tả cảnh bán kiến ngoài chợ → C. Bẫy: đoạn 6 (năm 890) cũng nói về mua bán tổ kiến, nhưng \"earliest/first\" thuộc về 304." }
+      ]
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Ban đầu nông dân lấy tổ kiến trong tự nhiên hoặc mua ngoài chợ; Liu Hsun (khoảng năm 890) chép rằng người ta tranh nhau mua tổ kiến vì cây không có kiến thì quả bị sâu.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Nghề này nhanh chóng tinh vi hơn: từ thế kỷ 10 người ta bẫy kiến bằng bong bóng lợn, cừu nhồi mỡ đặt cạnh tổ, chờ kiến dọn vào rồi mang đi – Chuang Chi-Yu mô tả năm 1130 là nghề \"nuôi kiến cam\".",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 8",
+      "idea": "Đến thế kỷ 17, nhà vườn bắc cầu tre giữa các cây để kiến lan nhanh sang cây khác và lập hàng trăm nghìn tổ.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 9",
+      "idea": "Nhà vườn tin chắc cách này hiệu quả: Chhii Ta-Chun (1700) nhấn mạnh phải diệt sâu, nhất là sâu bướm, và sức người không hiệu quả bằng sức kiến.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 10",
+      "idea": "Swingle rất ấn tượng nhưng nhiều nhà sinh học phương Tây vẫn hoài nghi; họ coi thành công đầu tiên là năm 1888 khi bọ vedalia của Úc cứu ngành cam California, dù thật ra Trung Quốc đã giỏi biện pháp sinh học từ nhiều thế kỷ.",
+      "answers": [
+        { "q": 16, "ans": "A", "quote": "The first breakthrough had come in 1888, when the infant orange industry in California had been saved from extinction by the Australian vedalia beetle.", "how": "\"The first record of one insect is used to tackle other insects in the western world\" ↔ bước đột phá đầu tiên (ở phương Tây) năm 1888 với bọ vedalia → A." },
+        { "q": 21, "ans": "FALSE", "quote": "Yet despite his reports, many Western biologists were sceptical.", "how": "Câu hỏi nói nhiều người rất ấn tượng với phát hiện của Swingle; bài nói CHÍNH Swingle ấn tượng, còn nhiều nhà sinh học phương Tây thì hoài nghi → FALSE. Bẫy: câu \"Swingle was just as impressed\" nằm ngay trước, dễ đọc lướt thành \"many people\"." }
+      ],
+      "note": "Chú ý \"California's 'first' was nothing of the sort\": tác giả công nhận 1888 là cái đầu tiên của PHƯƠNG TÂY, không phải của thế giới – đúng như cách hỏi ở câu 16."
+    },
+    {
+      "para": "Đoạn 11",
+      "idea": "Truyền thống dùng kiến chỉ lung lay vào thập niên 1950–1960 khi có thuốc trừ sâu hữu cơ mạnh; nhưng chi phí tăng vọt và sâu kháng thuốc nên cuối thập niên 1960 nhà vườn quay lại với đội quân kiến.",
+      "answers": [
+        { "q": 17, "ans": "D", "quote": "The long tradition of ants in the Chinese orchards only began to waver in the 1950s and 1960s with the introduction of powerful organic insecticides.", "how": "\"started to use pesticides in place of citrus ants\" ↔ mốc BẮT ĐẦU chuyển sang hóa chất là 1950s → D (mốc sớm hơn trong cặp 1950s/1960s)." },
+        { "q": 18, "ans": "E", "quote": "growers began to revive the old ant patrols in the late 1960s", "how": "\"returned to the traditional bio-method\" ↔ \"revive the old ant patrols in the late 1960s\" → E. Cặp D/E phân biệt bằng hướng đi: 1950s rời bỏ kiến, 1960s quay về với kiến." },
+        { "q": 22, "ans": "TRUE", "quote": "As costs soared and pests began to develop resistance to the chemicals", "how": "\"pesticides became increasingly expensive\" ↔ \"costs soared\" → TRUE." },
+        { "q": 23, "ans": "TRUE", "quote": "Those who abandoned ants in favour of chemicals quickly became disillusioned... growers began to revive the old ant patrols", "how": "\"Some Chinese farmers abandoned the use of pesticide\" ↔ họ vỡ mộng với hóa chất và quay lại dùng kiến, tức bỏ thuốc trừ sâu → TRUE. Bẫy: bài dùng chữ \"abandoned\" cho việc bỏ KIẾN, đừng đọc nhầm chiều." }
+      ],
+      "note": "Đoạn 11 chứa tới bốn đáp án (17, 18, 22, 23). Đây là đoạn then chốt: đọc chậm từng mệnh đề rồi chốt hết trước khi đi tiếp."
+    },
+    {
+      "para": "Đoạn 12",
+      "idea": "Nghiên cứu đầu thập niên 1960: chỉ cần đủ kiến trên cây là diệt tốt các loài sâu lớn; cây có kiến vàng cho nhiều hơn gần 20% lá khỏe mạnh, và các thử nghiệm gần đây cho thấy sản lượng ngang với cây được phun hóa chất đắt tiền.",
+      "answers": [
+        { "q": 24, "ans": "FALSE", "quote": "Trees with yellow ants produced almost 20 per cent more healthy leaves than those without.", "how": "Câu hỏi nói cây có kiến rụng lá NHIỀU HƠN; bài nói cây có kiến có nhiều lá KHỎE MẠNH hơn gần 20% → ngược hẳn, FALSE." },
+        { "q": 25, "ans": "TRUE", "quote": "More recent trials have shown that these trees yield just as big a crop as those protected by expensive chemical sprays.", "how": "\"yield as large a crop as fields using chemical pesticides\" khớp gần như nguyên văn \"yield just as big a crop as\" → TRUE." }
+      ]
+    },
+    {
+      "para": "Đoạn 13",
+      "idea": "Một nhược điểm bề ngoài – cũng là lý do phương Tây hoài nghi – là kiến không diệt rệp sáp mà còn bảo vệ chúng để đổi lấy dịch ngọt; nhà vườn luôn nói đó không phải vấn đề.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 14",
+      "idea": "Nghiên cứu thập niên 1980 cho thấy nhà vườn đúng: nơi rệp sáp sinh sôi dưới sự bảo vệ của kiến thì chúng lại bị ký sinh nặng nên ít gây hại.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 15",
+      "idea": "Vườn dùng kiến giữ được cân bằng loài tốt hơn: kiến lo sâu lớn, các loài ăn thịt khác lo sâu nhỏ; về lâu dài kiến gây hại ít hơn hóa chất nhiều.",
+      "answers": [
+        { "q": 26, "ans": "FALSE", "quote": "In the long run, ants do a lot less damage than chemicals", "how": "Câu hỏi nói kiến thường gây hại đáng kể cho môi trường sinh thái vườn cam; bài nói vườn dùng kiến \"maintain a better balance of species\" và kiến hại ít hơn hóa chất nhiều → FALSE. Bẫy: \"considerable damage\" xuất hiện ở đoạn 13 nhưng là nói về rệp sáp, không phải về kiến." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bài đầy mốc thời gian: hãy khoanh ngay mỗi con số năm khi đọc (1476, 304, 890, 1130, thế kỷ 17, 1700, 1888, 1915, 1950s–1960s, 1980s). Nhóm Q14–18 chỉ chọn trong bảy mốc nên khoanh là chốt được.",
+    "Cặp mốc 1950s và 1960s dễ lẫn: 1950s = chuyển sang thuốc hóa học, cuối 1960s = quay lại dùng kiến.",
+    "Nhiều câu TFNG sai theo kiểu đảo chiều hoặc đổi chủ thể: Swingle tìm giống cam chứ không tìm kiến (Q20); chính Swingle ấn tượng còn giới khoa học phương Tây hoài nghi (Q21); \"considerable damage\" là của rệp sáp chứ không phải của kiến (Q26)."
+  ]
+}

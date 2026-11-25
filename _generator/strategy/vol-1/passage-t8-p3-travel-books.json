@@ -1,0 +1,78 @@
+{
+  "step1": "Tiêu đề Travel Books báo trước một bài lịch sử theo trình tự thời gian: vì sao người ta đi xa và sách du ký ra đời ra sao, từ thời cổ đại → hậu cổ điển (thương nhân, hành hương) → châu Âu trung đại → cận đại → thế kỷ 19 → thế kỷ 20 (du lịch đại chúng, guidebook). Vì bài đi theo dòng thời gian nên bảng Q29–36 chắc chắn chạy song song với các đoạn; Q27–28 nằm ở đoạn mở đầu, Q37–40 rải theo bài và câu 40 chỉ chốt khi đọc xong.",
+  "types": [
+    ["Câu", "Dạng", "Locate trước được?", "Từ khóa để scan"],
+    ["27–28", "Multiple choice (A–D)", "Có, nằm ở đoạn mở đầu", "early days, a mirror"],
+    ["29–36", "Table completion (NO MORE THAN TWO WORDS)", "Có, theo đúng thứ tự thời gian", "Herodotus, Zhang Qian, Ptolemy, Muslims, Chinese Buddhists, colonial administrators, Sun Yat-sen, mass tourism"],
+    ["37–40", "Multiple choice (A–D)", "Có với 37–39; câu 40 hỏi chủ đề nên phải đọc xong", "imperial rulers, spiritual trips, early modern era, main theme"]
+  ],
+  "typesNote": "Bảng Q29–36 là xương sống của bài: mỗi hàng ứng với một mốc thời gian trong bài, nên cứ đọc tới mốc nào thì điền ngay hàng đó rồi đi tiếp.",
+  "walk": [
+    {
+      "para": "Đoạn 1",
+      "idea": "Người ta đi ra khỏi xã hội mình vì nhiều lý do; sách du ký vừa cho thông tin về vùng đất lạ vừa là \"tấm gương\" giúp chính người đi hiểu bản thân mình hơn.",
+      "answers": [
+        { "q": 27, "ans": "C", "quote": "Some travellers may have simply desired to satisfy curiosity about the larger world.", "how": "\"Knowing other people and places better\" ↔ \"satisfy curiosity about the larger world\" cùng với việc các ghi chép \"provide a window for the understanding of the local cultures and histories\". Bẫy là B (Business): buôn bán chỉ xuất hiện từ đoạn 3 (post-classical era), không phải \"the early days\"; A sai vì bài nói hiểu bản thân chứ không nói nghiên cứu văn hóa của chính mình; D lẫn phương tiện với mục đích." },
+        { "q": 28, "ans": "B", "quote": "they are also a mirror to the travellers themselves, for these accounts help them to have a better understanding of themselves", "how": "\"a mirror\" ↔ \"help them to have a better understanding of themselves\", tức soi lại chính mình và xã hội mình → B. A chỉ mô tả việc ghi chép (hiển nhiên, không giải thích hình ảnh tấm gương); C là mặt \"cửa sổ\" chứ không phải \"tấm gương\"; D nằm ngoài câu." }
+      ],
+      "note": "Bài có câu \"travellers did start their journey for reasons other than mere curiosity\", nghe như phủ nhận sự tò mò, nhưng đáp án chuẩn của Q27 vẫn là C dựa trên hai ý \"satisfy curiosity\" và \"a window for the understanding of the local cultures\". Cứ theo đáp án chuẩn và nhớ rằng câu hỏi hỏi mục đích chung của việc đi xa."
+    },
+    {
+      "para": "Đoạn 2",
+      "idea": "Ghi chép du hành xuất hiện ngay sau khi có chữ viết; sang thời cổ điển, nó thành thể loại văn học nổi bật và đặc biệt hấp dẫn các nhà cai trị muốn hiểu lãnh thổ của mình (Herodotus, Zhang Qian, Ptolemy).",
+      "answers": [
+        { "q": 37, "ans": "D", "quote": "they held especially strong appeal for rulers desiring useful knowledge about their realms", "how": "\"imperial rulers especially interested\" ↔ \"held especially strong appeal for rulers\"; lý do là \"desiring useful knowledge about their realms\" (realms = đế chế của họ) → D. A và C lấy chữ \"prominent literary genre\" cùng câu nhưng đó là nói về vị thế văn học nói chung, không phải lý do của nhà cai trị; B không được nêu ở đâu." },
+        { "q": 29, "ans": "Persian wars", "quote": "reported on his travels in Egypt and Anatolia in researching the history of the Persian wars", "how": "Hàng Herodotus, cột mục đích: \"gather information for the study of ___\" ↔ \"in researching the history of the Persian wars\"." },
+        { "q": 30, "ans": "allies", "quote": "while searching for allies for the Han dynasty", "how": "Hàng Zhang Qian: \"To seek ___\" ↔ \"searching for allies\"; seek = search for." },
+        { "q": 31, "ans": "geographical knowledge", "quote": "to compile vast compendia of geographical knowledge", "how": "Hàng Ptolemy, Strabo, Pliny the Elder: \"To acquire ___\" ↔ \"to compile vast compendia of geographical knowledge\"; chỉ lấy hai từ chính." }
+      ],
+      "note": "Câu về Ptolemy rất dài: xương sống là \"geographers ... relied on their own travels ... to compile vast compendia of geographical knowledge\", còn \"as well as reports of other travellers\" chỉ là nguồn bổ sung. Đáp án nằm ở phần mục đích (to compile...)."
+    },
+    {
+      "para": "Đoạn 3",
+      "idea": "Thời hậu cổ điển, buôn bán và hành hương là hai động lực chính: thương nhân Hồi giáo mô tả vùng Ấn Độ Dương, hàng nghìn ghi chép hajj ra đời, còn Phật tử Trung Hoa sang Ấn Độ học đạo và sưu tầm kinh sách.",
+      "answers": [
+        { "q": 32, "ans": "pilgrimage", "quote": "devout Muslims travelled as pilgrims to Mecca to make their hajj", "how": "Hàng Muslims, cột mục đích \"For trading and ___\"; điểm đến có cả Mecca nên mục đích thứ hai là hành hương ↔ \"travelled as pilgrims ... to make their hajj\"." },
+        { "q": 33, "ans": "India", "quote": "hundreds and possibly even thousands of Chinese Buddhists travelled to India to study with Buddhist teachers, collect sacred texts, and visit holy sites", "how": "Hàng \"5th to 9th centuries CE – Chinese Buddhists\", cột điểm đến ↔ \"travelled to India\"; mốc thời gian khớp với \"Between the 5th and 9th centuries CE\"." },
+        { "q": 38, "ans": "B", "quote": "untold millions of Muslims have followed his example, and thousands of hajj accounts have related their experiences", "how": "\"largest group to record their spiritual trips\" ↔ số lượng ghi chép: hàng nghìn bản hajj của người hành hương Hồi giáo, và bài nói rõ \"Though not so numerous as the Chinese pilgrims\" nhưng chính người Hồi giáo mới áp đảo cả thời kỳ (\"East Asian travellers were not quite so prominent as Muslims\") → B. A sai vì thương nhân đi vì lợi nhuận, không phải chuyến đi tâm linh; C đông nhưng vẫn kém người Hồi giáo; D là người dạy ở Ấn Độ, không phải người đi." }
+      ],
+      "note": "Đoạn 3 rất dài và chứa hai đáp án bảng cùng một MCQ. Phân biệt rõ hai nhóm Hồi giáo: merchants (buôn bán) và pilgrims (hajj) – Q32 cần nhóm thứ hai, Q38 cũng vậy."
+    },
+    {
+      "para": "Đoạn 4",
+      "idea": "Người châu Âu trung đại ban đầu ít đi, nhưng sau thế kỷ 12 thương nhân, người hành hương và giáo sĩ đi khắp nơi (nổi tiếng nhất là Marco Polo) và bắt đầu tìm đường mới tới thị trường châu Á, châu Phi rồi tới châu Mỹ.",
+      "answers": []
+    },
+    {
+      "para": "Đoạn 5",
+      "idea": "Thời cận đại, người châu Âu giữ vai trò trung tâm: máy in châu Âu cho ra hàng nghìn cuốn du ký phục vụ công chúng đọc có \"khẩu vị không biết chán\" về thế giới rộng lớn, nhiều đến mức phải có các bộ tuyển tập.",
+      "answers": [
+        { "q": 39, "ans": "A", "quote": "European printing presses churned out thousands of travel accounts that described foreign lands and peoples for a reading public with an apparently insatiable appetite for news about the larger world", "how": "\"a large number of travel books were published to ___\" ↔ \"for a reading public with an apparently insatiable appetite\" → A \"meet the public’s interest\". D (\"record the larger world\") nghe hợp lý nhưng cụm \"for a reading public\" mới chỉ rõ mục đích xuất bản; B và C không được nêu là mục đích của việc in sách." }
+      ],
+      "note": "Xương sống câu chứa Q39: \"European printing presses churned out thousands of travel accounts\" + mệnh đề quan hệ \"that described foreign lands and peoples\" (nội dung) + cụm chỉ mục đích \"for a reading public with an insatiable appetite\" (độc giả). Đáp án nằm ở cụm cuối, không phải mệnh đề quan hệ."
+    },
+    {
+      "para": "Đoạn 6",
+      "idea": "Thế kỷ 19: người châu Âu vào sâu nội địa châu Phi, châu Mỹ; quan chức thuộc địa viết nhiều về xã hội thuộc địa; đến giữa thế kỷ, chiều ngược lại xuất hiện – người châu Á sang Âu Mỹ tìm nguyên tắc tổ chức xã hội (Fukuzawa Yukichi, Sun Yat-sen).",
+      "answers": [
+        { "q": 34, "ans": "colonies", "quote": "European colonial administrators devoted numerous writings to the societies of their colonial subjects, particularly in Asian and African colonies they established", "how": "Hàng Colonial administrators: \"information for the ___ they set up\" ↔ \"colonies they established\"; set up = established." },
+        { "q": 35, "ans": "organisation", "quote": "in hopes of discovering principles useful for the organisation of their own societies", "how": "Hàng Sun Yat-sen, Fukuzawa Yukichi: \"To study the ___ of their societies\" ↔ \"principles useful for the organisation of their own societies\"; chép đúng chính tả \"organisation\" như trong bài." }
+      ],
+      "note": "Hai hàng này dễ điền ngược nhau vì cùng một đoạn. Phân biệt bằng chiều đi: quan chức châu Âu viết về thuộc địa (Q34), còn người châu Á đi sang Âu Mỹ để học cách tổ chức (Q35)."
+    },
+    {
+      "para": "Đoạn 7",
+      "idea": "Thế kỷ 20, giao thông đại chúng rẻ và tin cậy làm bùng nổ cả số chuyến đi lẫn số sách du ký; nổi bật nhất là du lịch đại chúng của cư dân các xã hội giàu có, kéo theo một biến thể mới là guidebook.",
+      "answers": [
+        { "q": 36, "ans": "wealthy", "quote": "mass tourism, which emerged as a major form of consumption for individuals living in the world’s wealthy societies", "how": "Hàng cuối: \"People from ___ countries\" ↔ \"individuals living in the world’s wealthy societies\"; societies ở đây tương đương countries." },
+        { "q": 40, "ans": "D", "quote": "A peculiar variant of the travel account arose to meet the needs of these tourists: the guidebook", "how": "Cả bài đi theo dòng thời gian và cho thấy sách du ký thay đổi hình thức, mục đích qua từng thời kỳ, kết lại ở biến thể mới nhất là guidebook → D \"The development of travel books\". A quá hẹp (chỉ việc sản xuất); B chỉ được nhắc một lần ở đoạn 2 (\"prominent literary genre\"); C nghe hay nhưng bài kể quá trình phát triển chứ không đánh giá ý nghĩa lịch sử của sách." }
+      ],
+      "note": "Câu hỏi chủ đề (Q40) luôn chốt sau cùng, khi đã thấy bài đi từ Mesopotamia tới mass tourism – đó là dấu hiệu của \"development\" chứ không phải của một bài đánh giá."
+    }
+  ],
+  "tips": [
+    "Bảng Q29–36 xếp đúng theo trình tự thời gian của bài, nên nếu một ô không tìm thấy thì gần như chắc chắn bạn đã đọc lướt qua đoạn tương ứng; đừng nhảy cóc.",
+    "Bài phân biệt rất rõ hai động cơ: thương mại (merchants, trade, profit) và tâm linh (pilgrims, hajj, spiritual enlightenment). Nhiều câu hỏi (Q32, Q38) chỉ khác nhau ở chỗ này.",
+    "Với MCQ, hãy tìm đúng cụm chỉ mục đích (to..., for..., in hopes of..., desiring...) thay vì chọn phương án chứa nhiều từ giống bài nhất – Q37 và Q39 đều là bẫy kiểu đó."
+  ]
+}
